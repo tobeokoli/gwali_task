@@ -1,0 +1,235 @@
+EEE 211: ELECTRICAL ENGINEERING I                                                     3 credit units
+
+SI System of Units
+
+Electrostatic and Electromagnetic Fields: Electric Field Intensity, Potential and Potential Difference. Magnetic Field Intensity, Flux and Flux Density, Magnetic Circuits, Inductors.
+
+Direct Current  (DC) Circuit Analysis: Kirchoff’s Law, Mesh and nodal equations, Superposition Theorem, Thevenin’s Theorem, Norton’s Theorem, Maximum Power Transfer. Transients: Resistive-inductive (RL) and Resistive-Capacitive (RC) Circuits. Alternating Current (AC) Circuit Analysis: Alternating Current, voltage, frequency, phase angle, maximum, rms. and average values of waveforms. Inductive and capacitive reactance; power in AC circuits; Use of complex algebra in the solution of AC circuits; Resonance. Transformers. AC and DC Machines: Principles of operation; Circuit models for transformers and machines. Three phase AC system: Three phase balance system; Delta/star connections; line and phase voltages and currents. Measurement: Electric current, voltage, frequency and power measurements; measurement of resistance, capacitance and inductance. Bipolar and Field Effect Transistors-biasing, dc characteristics diode characteristics and diode rectifiers (Single phase and Three phase); Zener diodes and its regulating characteristics.
+
+ 
+
+EEE 251: BASIC ELECTRICAL ENGINEERING LABORATORY –           1 credit unit
+
+Resistance measurement, condition for maximum power transfer, Inductance and capacitance measurement, verification of network theorems, Alternating Current (AC) series circuits, Measurement of power and power factor, excitation of Direct Current (DC) generator, load characteristics of a shunt DC motor, load characteristics of separately excited DC motor, Open and short circuit test for a transformer, static characteristics of junction diode and transistor; Half and full wave rectification; determination of copper temperature co-efficient by Wheatstone Bridge, Measurement of voltage, current and power in three phase star/delta connections, simple domestic installation practices.
+
+EEE 313:  CIRCUIT THEORY I               –                                                          3 credit units
+
+Network Theorems and Network Topology: Networks Theorems, Telegen’s Theorem, The Duality Principles; Network Topology; General steady state and transient network solutions. Network Transformations; state space formulation of networks. Magnetically coupled networks. Resonance in networks. Time domain analysis of network: Application of integro-differential equations to network; Initial and final conditions. Forced responses and natural behaviour. Step and Impulse responses.
+
+EEE 314: CIRCUIT THEORY I                –                                                          3 credit units
+
+Frequency domain analysis of networks:, Network functions; poles and zeroes; frequency response curve; Bode plots and Nyquist plots. Signal classification: Fourier series and periodic signals; Fourier integral and non-periodic signals; Application of Fourier series in network analysis. Network Synthesis: Introduction to passive network synthesis. Computer aided analysis of linear and non-linear circuits.
+
+ 
+
+EEE 322: APPLIED ELECTRONIC SYSTEMS                        –                                  2 credit units
+
+Amplification: Circuit Elements used in amplification, Classification of amplifiers, representation of an amplifier circuit as a voltage, current, resistance and transconductance amplifier. Biasing and stabilization of Bipolar Junction Transistor (BJT) and Field Effect Transistor (FET) circuits. Small-signal representation of active devices. Small-signal analysis of single and multi-stage amplifiers at midband. Low frequency and high frequency response of single and multi-stage amplifiers. Bode plots and frequency response of amplifiers. Analysis of broadband and narrowband amplifiers and other communication circuits. Feedback on gain, input and output impedances. Analysis of feedback amplifiers. Stability and compensation techniques.
+
+ 
+
+EEE 332: ELECTRIC POWER SYSTEMS PRINCIPLES       –                       3 credit units
+
+Introduction: Power systems and sources of Electric energy, structure and Electric power system. The three phase system: balanced and unbalanced systems. Load characteristics of a transmission lines. Transmission and distribution of Electric Energy, Current and voltage relations in a transmission line. Regulation and loses. Construction of overhead lines and underground cables, power system equipment, standard and safety.
+
+EEE 351: ELECTRICAL MACHINES LABORATORY          –                     1 credit unit
+
+Transformers: Short circuits and open circuits test, experimental determination of circuit parameters, efficiency and regulation measurements from load test, measurement and observation of harmonics in three phase connections. DC Machines: Measurement of circuit parameter and performance characteristics of dc motors and generators (separately excited, shunt, series, compound). Induction Machines: Open circuit and short circuit tests, load tests, circuit parameter and efficiency measurements.  Synchronous Machines: Open circuit performance measurements, short circuit tests, load and synchronization tests. Observations and measurements of hysteresis loops. Simple motor drive tests with solid-state converters.
+
+ 
+
+EEE 352: ELECTRIC POWER SYSTEMS LABORATORY   –                       1 credit unit
+
+Measurements on differently connected three phase circuits. Verification of methods of measurement of three-phase power. Synchronization of generators to busbar voltages. Voltage and current measurements, three phase transmission line models. Power factor improvement tests. Over-current relay tests on simulated faults.
+
+ 
+
+EEE 354: MEASUREMENT AND PHYSICAL ELECTRONICS LABORATORY – 1 Unit
+
+Testing of indicating instruments; DC and AC Measurements; Resistance with Bridges; Transducer Testing and output measurements: Capacitive and inductive transducers in frequency modulated (FM) systems, piezoelectric, photoelectric, thermocouples, cathode ray oscilloscopes: study of features and operation, triggering, storage, measurement of voltage, current and phase difference; signal generators: study of features and output waveforms, measurement of output signal harmonic contents frequency discrimination; Digital multimeters: features and operation details, measurement of voltage, current and resistance.
+
+ 
+
+EEE 356: ELECTRICAL DRIVES LABORATORY     –                                   1 credit unit
+
+Excitation of DC Generator, Load characteristics of a shunt DC motor, load characteristics of a separately excited DC motor, Open and short circuit test for a transformer, Synchronisation of synchronous machines to an existing busbar.
+
+ 
+
+EEE 361: ELECTRICAL MACHINES I                          –                                  3 credit units
+
+Magnetic circuits. Electromechanical energy conversion principles. The universal electric machine. DC machines: classifications, principles of operation, operating characteristics, ratings, efficiency and applications. Transformers: theory, equivalent circuit and efficiency, open-circuit test and short-circuit test. Three-phase induction motor: theory and operation, equivalent circuits, phasor diagram and operating characteristics. Elementary theory and operation of synchronous machines
+
+EEE 362: ELECTRICAL MACHINES II                                    –                                  2 credit units
+
+Generalised electrical machines. DC machine transients. Parallel operation of Transformers. Modeling of Single phase induction motors. Three-phase phase induction motors, parallel operation and circle diagram of three-phase induction motors. Derivation of equivalent circuit of three-phase synchronous machines, round rotor and salient pole synchronous machines, parallel operation and operating charts of synchronous machines
+
+EEE 371: MEASUREMENT AND INSTRUMENTATION      –                       3 credit units
+
+Measurements in general, errors, methods, SI units system, R-L-C-E standards, indicating meters in general, static and dynamic properties, calibration problems. Moving coil meters- A, V, ohm, Galvanometer -special types, universal meter, ratiometer. Moving iron meters, -A, V; Electrodynameters; -A, V, W, Cos fi meter. Integrating meters, instrument for higher frequencies. Electrostatic and thermal meters, calibration problems: Measurement of R, L, C using indicating meters, Instrument transformers, DC potentiometers. AC Bridges, Magnetic quantities measurement, C.R.O as a measuring instrument, Electronic voltmeters, Digital measuring equipment in general, digital voltmeters and counters. Non-electrical measurements in general. Active transducers: – thermoelectric, photoelectric, electromagnetic, piezoelectric. Passive transducers: – inductance, capacitance, resistance, thermoelectric, strain gauge, magneto elastic, hallotrons apparatus working on amplitude modulation, sensors and apparatus for vibration and acceleration measurement. Recorders and various systems of recording. Dynamic properties of measuring transducers-errors transfer function, correction techniques. Transistorized measuring transducers-errors transfer function, correction techniques. Transistorized measuring transducers, sensitivity and stability problems of electronic measuring transducers. Measurement of displacement, velocity, acceleration, force, pressure, temperature, torque, revolving speed. Function generators, wave analysers; Analog (A) and digital (D) data acquisition systems: tape recorders, D/A and A/D conversions, sample and hold circuits.
+
+EEE 381: ELECTROMAGNETIC FIELDS AND WAVES I               –           2 credit units
+
+Basic Vector Analysis: Gradient, Divergence, Curl. Stokes Theorem, Gauss Theorem, Ampere Circuital Law. Faraday’s Law. Electrostatic Fields due to distribution of charge, magnetic fields in and around current carrying conductors. Time varying magnetic and electric fields. Conduction and displacement currents.
+
+EEE 382: ELECTROMAGNETIC FIELDS AND WAVES II              –           2 credit units
+
+Review of Time Varying Fields. Maxwell’s equations (In rectangular co-ordinates, integral form and differential form). Derivation of Maxwell’s equations. Wave equation and its solutions. Plane Waves in Vacuo, lossy dielectric and conducting media. Pointing theorem, power and energy. Boundary conditions. Reflection and Transmission of plane waves. Standing Waves.
+
+EEE 421: POWER SEMICONDUCTOR DEVICES AND CIRCUITS I         – 2 credit units
+
+Power semiconductor devices; static and dynamic characteristics of power diodes; thyristors, triacs, and transistors, current and voltage ratings; parallel series operation; manufactures data. Modulation Techniques. Triggering circuits for semiconductor devices. Protection of semi-conductor devices. Power semiconductor circuits (analysis, design): Classification of conversion and inversion circuits.
+
+ 
+
+ 
+
+ 
+
+EEE 441: COMMUNICATION PRINCIPLES                –                                   3 credit units
+
+Analysis and Synthesis of Waveforms: Fourier series and transform analysis, filtering. Amplitude modulation (AM); double sideband, single sideband and vestigial sideband modulation schemes; simple modulator, power and bandwidth performance. Angle modulation: frequency modulation. Phase modulation, bandwidth requirements, clippers and limiters. Amplitude modulation signal reception: discrimination, frequency tracking loop, phased lock loop and noise performance. Commercial radio systems. Transmission Media: Attenuation in open space, air cable and fibre channels; construction of cables and fibres, sampling theorem, pulse amplitude modulation, pulse width modulation, multiplexing, quantisation systems and pulse code modulation, delta modulation, causes and correction of errors in Pulse code modulation (PCM) and Differential Modulation (DM), ideal and matched filters, frequency acquisition, phase referencing and timing. Line codes, block encoding and Shanon’s theorem. Antenna principles. Communication systems and devices: microphones, loudspeakers, broadcasting, the radio, the television, satellite communication
+
+ 
+
+EEE 451: COMMUNICATION AND FIELDS LAB                  –                      1 credit unit
+
+Experiments on modulation techniques (AM, FM, PCM) and experiments on waveguides, transmission lines, aerials (Rhombic and Yagi), modern antenna systems, satellite television broadcasting.
+
+EEE 453: CONTROL AND LOGIC SYSTEMS LABORATORY       –           2 credit units
+
+Time and frequency domain measurements of control system response; gain, lag and lead compensation of a closed loop servo system; closed loop control of a non-linear control system, verification of describing function principle, observation of phase trajectories; performance measurement of proportional and proportional plus integral speed controlled dc motor; performance verification of analogue, hybrid and digital control of servo motor position. Implementation of Logic circuits, Triggering circuits for power semiconductor devices; Development of brad boards; Programmed switching of devices.
+
+EEE 461: ELECTRICAL MACHINES III                       –                                  2 credit units
+
+Transformers: Core types and shapes, winding, cooling; in rush currents; harmonics in three phase transformers; parallel operation; autotransformers, instrument transformer, satiable reactors. DC machines: review of excitation methods and performance characteristics; armature reaction, interlopes, compensating windings; rating and efficiency; universal motor, permanent magnet motor. Induction motor: Three phase induction motor winding, rotor types, circle diagram, ratings, control methods; single phase induction motors -types and methods of starting, performance review and applications; synchros, linear induction motors. Synchronous Machines: Types -salient and cylindrical; circle diagrams and V-curves; synchronous generator on infinite busbar; parallel operation.
+
+ 
+
+EEE 471: DIGITAL SIGNAL PROCESSING                 –                                  2 credit units
+
+Discrete time signals and linear systems. The Z-transform. The discrete Fourier transform. The fast Fourier transform. Infinite impulse response filters. Finite impulse response filters. Finite word length effects in digital filters. Multirate signal processing. Statistical digital signal processing. Applications of digital signal processing. Digital signal processors.
+
+ 
+
+EEE 473: CONTROL LOGIC CIRCUIT DESIGN        –                                  3 credit units
+
+Review of digital IC logic families: HTL; CMOS; TTL; Combinational logic design: tabular minimisation. Sequential logic: state method for implementation. Operational amplifiers, timers, multipliers, phase locked loops, A/D and D/A converters and their control applications. Control system components: thyristors, synchros, relays, potentiometers as error detectors, transducers, control valves, hydraulic pumps. Logic circuit design for selected problems.
+
+EEE 475: CONTROL SYSTEMS ENGINEERING I     –                                   3 credit units
+
+Basic concept and examples of control systems; block diagram and signal flow graph representations, transfer functions calculations, mason’s rule; concepts of stability; system classification and error constants; Time response analysis; frequency response analysis; Bode analysis.
+
+ 
+
+EEE 492: SEMINARS AND INDUSTRIAL VISITS      –                                   3 credit units
+
+Each student will be required to present a seminar on an approved topic in Electrical Engineering. Industrial visits to firms, industries, electric power stations and other relevant organizations will be organized for the students. The experiences and knowledge acquired during industrial visits to supplement research knowledge a chosen seminar topic will be assessed in a project report, which must be presented and defended by the student.
+
+ 
+
+EEE 494: MINI PROJECT                                                             –                                   3 credit units
+
+Each student will be required to present a mini project on an approved topic in Electrical Engineering which should be submitted at the end of the semester.
+
+ 
+
+EEE 521: POWER SEMICONDUCTOR DEVICES AND CIRCUITS II       –    3 credit units
+
+Ac to dc conversion- uncontrolled and controlled three phase rectification; dc-to-dc conversion – one quadrant, two quadrant and four quadrant dc choppers; dc to ac conversion – voltage-fed and current-fed single phase and three phase inverters; ac to ac conversions-line-commutated ac controllers, line commutated frequency changers or cycloconverters, force commutated ac controllers and frequency changers.
+
+ 
+
+EEE 531: ELECTRIC POWER SYSTEM ANALYSIS, PLANNING AND PROTECTION
+
+3 credit units
+
+Modelling of power systems Components. Load flow studies. Fault studies. Power system stability, load growth and forecasting, Introduction to power systems planning and operation using mathematical programming techniques. Protection: requirement, current and voltage level protection, time grading, principles of simple differential protection schemes.
+
+ 
+
+EE 533: SWITCHGEAR AND HIGH VOLTAGE ENGINEERING   –           2 credit units
+
+Generation and measurement of high voltage and current. Corona, corona losses, e-m noise, Dielectric strength: breakdown mechanism in solids, liquids and gases. Lightning phenomena: surge in transmission lines due to lightning and switching and their analysis. Protection of lines and apparatus against surges. Elements of high power circuits interruption circuit and physical phenomena, circuit breakers, types and problems. Impulse testing and safety practices. Insulation Co-ordination. Electric cables and condensers.
+
+EEE 541: POWER SYSTEMS COMMUNICATION AND CONTROL          2 credit units
+
+Review of transmission line theory. Review of communication theory. High frequency communications on power lines. Carrier systems and power line carrier applications. Multiplexing, telemetering. Signal processing and data transmission. Control of power generation. Voltage and VAR control, AVR and regulating transformers.
+
+EEE 561: ELECTRICAL MACHINE DESIGN                          –                       2 credit units
+
+Electric Machine Construction Materials: Cables magnetic cores, insulating materials and their specifications. Cooling: Heating and Temperature rise data/curves and Ventilation/Cooling curves. Winding arrangements, flux flow and distribution in the cores for different windings. Flux wave approximations and calculation. Basic principles of electric machine design using machine output and dimensions. Design of inductors, transformers, dc machines, induction motors, synchronous machines: determination of machine core shapes and dimensions, winding cable current rating, insulation and cooling specifications for given machine output rating. Computer Aided Design of Electrical Machines.
+
+EEE 581: ELECTROMAGNETIC FIELDS AND WAVES III            –                       2 credit units
+
+Plane Waves in Transverse Electromagnetic (TEM) transmission lines. Coaxial lines, strip lines. Equivalent circuit for a TEM transmission line, characteristic impedance, propagation constant. Fundamentals of Wave Guides Antennae.
+
+EEE 573: COMPUTER SOFTWARE AND APPLICATIONS                         –          2 credit units
+
+Review of Matrix Operations and Numerical Iteration Procedures. Solution of Integrodifferential equations using programming softwares. Mathematical Modelling of Electrical Systems and Devices for Computational Purposes. Dynamic and Transient Simulation of Physical Systems. Analysis of Electrical Devices and Systems by Finite Element and related Softwares. Computer aided Design of Electrical Devices and Systems. Inferential Statistics and Statistical Analysis of Data using Computer Softwares and Other Tools. Proficiency in Softwares like MATLAB®, ANSYS®, SIMPLORER®, EXCEL® and SPSS® and their toolboxes.
+
+EEE 535: POWER SYSTEM DISTRIBUTION                                      –           2 credit units
+
+Distribution System Planning and Automation. Load characteristics. Applications of Distribution Transformers. Design of Subtransmission Lines and Distribution Substations. Design Considerations of Primary and Secondary Systems. Voltage Drop and Power Loss Calculations. Power factor capacitors and applications. Protection: Fault current calculations; types, characteristics and rating of fuses, circuit breakers and lighting arrestes; co-ordinated protection design.
+
+EEE 537: POWER SYSTEMS OPTIMISATION                                                – 2 credit units
+
+Introduction to the formulation of optimization problems: Problem variables, problem constraint, the objective function. Calculus based techniques: Unconstrained Minimisation: Powell’s method of conjugate directions, Gradient methods, second order methods. Constrained Minimisation Problems: Indirect methods by unconstrained minimization, penalty function approach. Direct methods for constrained optimization; Lagrange multipliers, Kuhn Tucker conditions; methods of feasible directions. Linear (LP) and Non-linear programming. Application of LP to power systems problems economic dispatch, automatic load shedding generation expansion studies. Non-Calculus Based Methods: Guided random search techniques: Evolutionary algorithms, simulated annealing, genetic algorithms;
+
+EEE 571: COMPUTER ORGANISATION                                  –                       2 credit units
+
+Number Systems and Codes: Decimal, Binary, Octal, Hexadecimal, signed numbers arithmetic, the ASCII code. Types and Nature of computer logic components: gates/buffers, flip-flops, counters, registers, timers/clocks, latches, decoders, encoders, arithmetic logic unit. Major paths of computer: processor, memory, I/O devices. Buses; an example microcomputer instruction formats, Addressing modes, Instruction Types, Flow of Control. Microprogramming. Inter-facing: I/O chips, address decoding. Assembly Language: Format, Assembly process, macros, linking and loading; multilevel machines.
+
+ 
+
+EEE 512: RENEWABLE AND NEW ENERGY SYSTEMS                –          3 credit units.
+
+Solar radiation and its measurement: solar constant, solar radiation at the Earth’s surface, radiation geometry and measurements data, radiation on tilted surfaces and estimation of average solar radiation. Physical principles of the conversion of solar radiation into heat, flat-plate collectors. Energy balance equation and collector efficiency. Thermal analysis of flat plate collectors and useful heat gained. Solar energy storage and applications.
+
+Basic principles of wind energy conversion: power in the wind, forces on the blades, wind energy selection sites, basic components of wind energy conversion system, classifications. Types of wind machines – horizontal and vertical axis machines. Analysis of aerodynamic forces acting on the blade. Wind energy generator and load control. Applications of wind energy.
+
+Biomass energy conversion technologies: wet and dry processes, classification of biogas plants and applications
+
+ 
+
+EEE 522: APPLICATION OF SEMICONDUCTOR DEVICES IN POWER SYSTEMS
+
+2 credit units
+
+Distributed Generation Technologies and its Interface to Utility Systems; Power Quality. FACTS Controllers, Shunt-connected Controllers, Series-connected Controllers, Combined Shunt & Series-Connected Controllers. Static VAR Compensators (SVC) and STATCOM, Unified Power Flow Controllers (UPFC), Unified Power Quality Conditioners (UPQC).
+
+ 
+
+EEE 532: ELECTRIC SERVICES DESIGN, RELIABILITY AND MAINTENABILITY
+
+3 credit units
+
+Basic Electrical Installations-Distribution system. Regulations-LEE, NEC, Nigerian standards. Cables-types, ratings. Wiring system, protection of low voltage installation. Earthing. Auxiliary electrical systems-Fire alarm, telephone, elevator circuits. Proposals, contract document preparation. Design of electrical installation -domestic, industrial, commercial, air-conditioning. Testing and certification. Illumination. Introduction to Reliability, maintainability. Elementary reliability theory and its application to power systems and electronic components. Designing for higher reliability.
+
+ 
+
+EEE 572: CONTROL SYSTEMS ENGINEERING II               –                       3 credit units
+
+Nichol’s charts, Nyquist Stability Analysis; Root Locus Stability Analysis; System Compensation; Introduction to non-linear system. State space representation of Linear systems, solution of state equations; state variable feedback, observability and controllability; state space Trajectories, Linearization; Properties and Synthesis of Multivariable control systems; Introduction to digital control.
+
+ 
+
+EEE 592: PROJECT                                                                        –                       4 credit units
+
+The aim of the final year project is to enable a student carry out an in-depth investigation on a suitable topic in Electrical Engineering. The execution of a project usually involves the student in some or all of the following activities: Library research, design, construction, testing, practical investigation, computer programming. The student presents a mini-thesis and undergoes an oral examination.
+
+ 
+
+EEE 562: ELECTRIC MOTOR DRIVES                                    –                                  2 credit units
+
+DC Motor Control: Basic equations for armature voltage and field flux control of motor speed; Forward and reverse running regenerative braking conditions; solid state dc motor control using controlled rectifiers and dc to dc choppers; open loop and closed loop analysis of controlled separately excited dc motor. Three-phase Induction Motor Control: Basic speed/torque control principles by pole changing, frequency and stator voltage variation; solid state induction motor open loop drives using inverters, ac controllers, slip energy recovery schemes; closed loop control schemes by constant air gap flux control and slip frequency control; D-Q axis analysis of controlled induction motor. Three phase synchronous motor control: Basic equations of armature voltage, frequency and rotor angle control of motor speed/torque. Inverter-fed synchronous motor drive configurations; dynamic analysis of controlled 3-phase synchronous motors.
+
+ 
+
+EEE 574: DIGITAL/DISCRETE CONTROL SYSTEMS         –                       2 credit units
+
+Digital Signal Conversion and Processing; Z-transform; the state variable technique; stability of digital control systems; time domain analysis, frequency domain analysis; controllability and observability; Digital controllers, the maximum principle; the digital observer; microprocessor control.
+
+EEE 576: INTRODUCTION TO OPTIMAL CONTROL          –                       2 credit units
+
+Definition of the optimal control problem: static versus dynamic optimal control. Formulation of optimal control problems; performance indices, necessary condition for optimum control of continuous systems, principles of optimality, calculus of variation, Hamilton Jacobi Theory, Pontryagin’s maximum principle and dynamic programming. Time Optimal Control Problems; optimal control of linear plants: the optimal regulator, problems with bounded state variables and bounded controls, singular control problems.

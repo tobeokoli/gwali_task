@@ -1,0 +1,504 @@
+BSc Computer Science
+
+First Year: 1st Semester
+
+Grouping	Course No/Level	Course Subject	 	
+Units	
+a)   General Studies	GSP 101
+GSP 111
+
+Use of English I
+Use of Library
+
+2
+2
+
+ 
+b)   Core/Compulsory
+       Courses
+
+COS 101	Introduction to Computer Science	2	 
+c)   Required Ancillary
+       Courses
+
+MTH 111
+MTH 121
+
+PHY 115
+
+PHY 191
+
+Elementary Mathematics
+Elementary Mathematics II
+
+General Physics for Physical Sciences I
+
+Practical Physics
+
+3
+3
+
+2
+
+ 
+
+ 
+d)   Elective/Optional
+       Courses
+
+BIO 151
+CHM 101
+
+Engr. 101
+
+STA 111
+
+STA 131
+
+General Biology I
+Basic Principles of Chemistry I
+
+Introduction to Engineering I
+
+Probability I
+
+Inference
+
+3
+2
+
+2
+
+2
+
+2
+
+ 
+Total Required	 	 	16/17	 
+First Year: 2nd Semester
+
+Grouping	Course No/Level	Course Subject	 	
+Units	
+a)   General Studies	GSP 102	Use of English II	2	 
+b)   Core/Compulsory
+       Courses
+
+COS 102
+COS 104
+
+Introduction to Computer System
+Computing Practice
+
+2
+2
+
+ 
+c)   Required Ancillary
+       Courses
+
+MTH 122
+PHY 116
+
+PHY 118
+
+Elementary Mathematics III
+General Physics for Physical Sciences II
+
+General Physics for Physical Sciences III
+
+3
+2
+
+2
+
+ 
+d)   Elective/Optional
+       Courses
+
+BIO 152
+CHM 111
+
+Engr. 102
+
+MTH 132
+
+STA 112
+
+STA 132
+
+STA 172
+
+General Biology II
+Basic Principles of Chemistry II
+
+Applied Mechanics
+
+Elementary Mathematics IV
+
+Probability II
+
+Inference II
+
+Laboratory for Inference I
+
+3
+2
+
+3
+
+3
+
+2
+
+2
+
+2
+
+ 
+Total Required	 	 	16/17	 
+Second Year: 1st Semester
+
+Grouping	Course No/Level	Course Subject	 	
+Units	
+a)   General Studies	GSP 201
+GSP 207
+
+Basic Concepts & Theory of Peace
+Humanities I
+
+2
+2
+
+ 
+b)   Core/Compulsory	COS 201
+COS 251
+
+Computer Programming I
+Machine and Assembly Language
+
+2
+2
+
+ 
+c)   Required Ancillary
+       Courses
+
+MTH 215
+STA 205
+
+Linear Algebra I
+Statistics for Physical Sciences & Engr. I
+
+2
+2
+
+ 
+d)   Elective/Optional
+       Courses
+
+EE 211
+MTH 211
+
+MTH 221
+
+Basic Electrical Engineering
+Set Logic And Algebra
+
+Real Analysis I
+
+3
+3
+
+3
+
+ 
+Total Required	 	 	17/18	 
+Second Year: 2nd Semester
+
+Grouping	Course No/Level	Course Subject	 	
+Units	
+a)   General Studies	GSP 208
+GSP 202
+
+Humanities II
+Issues in Peace & Conflict Resolution studies
+
+2
+2
+
+ 
+b)   Core/Compulsory
+       Courses
+
+COS 202
+COS 222
+
+Computer Programming II
+File Processing
+
+2
+2
+
+ 
+d)   Elective/Optional
+       Courses
+
+MTH 216
+MTH 222
+
+MTH 242
+
+STA 206
+
+Linear Algebra II
+Elementary Differential Equation I
+
+Mathematical Methods I
+
+Statistics for Physical Sciences & Engr.
+
+2
+3
+
+3
+
+2
+
+ 
+Total Required	 	 	16/18	 
+Third Year: 1st Semester
+
+Grouping	Course No/Level	Course Subject	 	
+Units	
+b) Core/Compulsory
+     Courses
+
+COS 301
+COS 303
+
+COS 311
+
+COS 331
+
+COS 333
+
+COS 341
+
+Introduction to Digital Design
+Introduction to Micro Computer Systems
+
+Numerical Methods I
+
+Compiler Construction
+
+Operating Systems I
+
+Computer Architecture
+
+2
+2
+
+2
+
+2
+
+2
+
+2
+
+d) Elective/Optional
+     Courses
+
+MTH 341
+OR
+
+COS 313
+
+COS 315
+
+COS 321
+
+COS 335
+
+ECE 311
+
+ECE 321
+
+Discrete Mathematics I
+ 
+
+Switching Algebra & Discrete Structures
+
+Operation Research I
+
+Data Base Design & Management I
+
+Systems Analysis & Design
+
+Circuit Theory I
+
+Physical Electronics
+
+2
+ 
+
+2
+
+2
+
+2
+
+2
+
+2
+
+3
+
+ 
+Total Required	 	 	16/17	 
+Third Year: 2nd Semester
+
+Grouping	Course No/Level	Course Subject	 	
+Units	
+b) Core/Compulsory
+     Courses
+
+COS 352
+COS 372
+
+COS 374
+
+Data Structures
+Laboratory for Digital Design
+
+Student Industrial Work Experience
+
+2
+ 
+
+ 
+d) Elective/Optional
+     Courses
+
+COS 314
+OR
+
+MTH 342
+
+COS 316
+
+COS 322
+
+COS 334
+
+COS 342
+
+ECE 312
+
+ECE 332
+
+Switching Algebra and Discrete Struct. II
+ 
+
+Discrete Mathematics II
+
+Automata Theory & Formal Languages
+
+Data Base Design & Management II
+
+Operating System II
+
+Computer Architecture II
+
+Circuit Theory II
+
+Applied Electronics
+
+2
+ 
+
+2
+
+2
+
+2
+
+2
+
+2
+
+3
+
+2
+
+ 
+Total Required	 	 	16/17	 
+ 
+
+Fourth Year: 1st Semester
+
+Grouping	Course No/Level	Course Subject	 	
+Units	
+b) Core/Compulsory
+     Courses
+
+ 
+
+COS 451
+COS 461
+
+COS 471
+
+Algorithms
+Organisation of Programming Languages
+
+Project
+
+2
+2
+
+–
+
+ 
+d) Elective/Optional
+     Courses
+
+COS 415
+COS 411
+
+COS 413
+
+COS 431
+
+COS 453
+
+COS 455
+
+COS 457
+
+Systems Modelling & Simulation
+Numerical Methods
+
+Queing Theory
+
+Software Engineering & Management
+
+Computer Process Control
+
+Data Communication & Networks I
+
+Computer Graphics
+
+2
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+

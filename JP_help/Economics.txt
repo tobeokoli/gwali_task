@@ -1,0 +1,283 @@
+COURSE DESCRIPTION
+
+ECO 101: Principles of Economics I                                   2 Units
+
+The nature and significance of economics; The methodology of economics; Economic tools of analyses; Theories of demand and supply; Elasticity analysis; Dynamic theory of price: Predictions of price theory, Production theory: Output, cost, law of diminishing returns; Market structure: Perfect competition, monopoly, oligopoly etc; Elementary theory of utility; Distribution theory; Demand for and pricing of productive factors; Interest rate and profit.
+
+ECO 102: Principles of Economics II                                  2 Units
+
+Elementary principles of microeconomics and macroeconomics; National income estimation; The circular flow of income: Injections, withdrawals and the multiplier; Income determination: consumption, saving and investment functions; Nature and history of money; The banking system and the supply of money; Money supply and price level; International trade: Exchange rate and comparative advantage; Foreign trade and domestic economy; Economic growth; Elementary notion of economic planning; Introduction to Marxist economic theory.
+
+ECO 121: Introduction to Accounting                                       2 Units
+
+The nature, scope and purpose of accounting; Evolution of accounting divisions; The users of financial statements and their information requirements; Roles and types of accountants; Accounting Theory: terminologies, concepts, assumptions, and conventions; Theory and mechanics of double-entry book-keeping: books of original entry, cash book and petty cash books, the ledger classifications; Trial Balance and correction of errors; Suspense Account; Accounting for depreciation and non-current assets; Basic financial statements; Preparation of final accounts of business concerns without adjustments: statement of financial position, statement of Comprehensive Income, sources and application of funds statements; The valuation of assets and measurement of business income; The interpretation of accounts; Significant accounting/financial ratios; Computer Accounting Applications and Software Packages.
+
+ECO 122: Introduction to Business Management                         2 Units
+
+Concepts of Business, organization and management: Definitional problems, Evolution of management theory, relevance of management theories to business organization, non business organization and the household; Management functions; Business environment: types and roles of each to the success of business organization; Corporate responsibility of business organization to the environment; Business financing: different types of business financing, advantages and disadvantages of different types of business financing; Why some businesses fail and others succeed; Quantitative aids to management.
+
+ECO 124: Introduction to Business Finance                             2 Units
+
+Introduction: meaning, basic concept and objectives of business finance; Role of financial markets and opportunity cost of capital; Valuation: fixed income securities, common stock; Financial Management of firms: basic theory and practice, investment decision making; Financial statements and financial analysis; Time value of money; Capital budgeting and risk-return tradeoff: measuring risks; Portfolio theory: managing risk, the capital asset pricing model; the cost of capital, capital structure, and the role of financial markets.
+
+ECO 131: Introduction to Economic Statistics I                          2 Units
+
+Meaning and scope of statistics; Statistical methods and their purposes; Data: primary data, secondary data, data frequency, rounding of data; Population and sample [including inductive and descriptive statistics]; Variables: discrete and continuous; Functions; Rectangular coordinates; Graphs, Frequency distributions [including arrays, frequency distributions, class intervals and limits, class size, width, general rules for forming frequency distributions, histograms and frequency polygons, relative frequency distributions, cumulative frequency distributions, ogives, frequency curves]; Measures of central tendency [including unweighted and weighted arithmetic mean and their properties, arithmetic mean for grouped data, median and mode, and the empirical relations between the three; Geometric mean, harmonic mean, and the relationship between them, the root mean square, quartiles, inter-quartiles, deciles, percentiles etc]; Measures of dispersion: the range, variation, mean deviation, semi-inter-quartile range, the variance, Shephard’s correction for variance, standard deviation, properties of standard deviation, Empirical relation between measures of dispersion; Relative dispersion, Coefficient of variation, standard variables and standard scores; Population moments, Skewness and kurtosis [ungrouped and grouped data]; Index numbers.
+
+ECO 132: Introduction to Economic Statistics II          2 Units
+
+Elementary sampling theory [including random samples and random numbers, sampling with and without replacement, sampling distributions, distribution of means and distribution of proportions, central limit theorem; Distribution of differences and sums, standard errors]; Statistical estimation theory [including parameters, unbiased estimates, point and interval estimates, confidence intervals]; Statistical decision theory [including statistical test of hypotheses, Type I and Type II errors, test involving normal distribution, p-values, test for sample differences]; Small Sampling theory and statistical inference [including student’s t distribution, Chi-square distribution, F-distribution, confidence intervals for standard errors, degrees of freedom].
+
+ECO 201: Microeconomic Theory 1                                           2 Units
+
+Introduction to microeconomics; Problem of scarce resources; Allocation of resources in product and factor markets with applications to Nigeria and other economies; Supply and demand theory; Cobweb theory; Theory of consumer behavior: utility, preferences, indifference curves, budget constraints; Substitution and Income effects of price change in consumers’ demand; equilibrium concept; Possibility of disequilibrium; Partial equilibrium analyses; General equilibrium analyses; Introduction to economic dynamics.
+
+ECO 202: Microeconomic Theory II                                   2 Units
+
+Production theory; Cost theory and cost curves; Pricing of production factors; Pricing and output decisions under perfect competition, monopoly, oligopoly, monopolistic competition, duopoly, duopsony, monopsony; General equilibrium of exchange; Theory of comparative costs.
+
+ECO 203: Macroeconomic Theory I                                      2 Units
+
+Introduction to macroeconomics; Goals of macroeconomic analysis; National Income Accounting; Alternative approaches to GNP estimation; GNP and related macroeconomic aggregates; Conceptual problems of estimation and use of national accounts; Introduction to a simple macro-model of a market economy.
+
+ECO 204: Macroeconomic Theory II                                       2 Units
+
+Building the core macroeconomic model: the commodity market, the money market, the labour market; the classical, Keynesian and monetarist systems; Economic stabilization: monetary and fiscal policies, price control and inflation.
+
+ECO 221: Monetary Economics and Finance                            2 Units
+
+Money: definition, functions and characteristics; Evolution of money; Barter system; Classification of money and near money; Monetary Theories: the quantity theory of money – Fisher cash transaction approach, the Cambridge cash balance approach, the portfolio balance approach, Friedman’s restatement of the quantity theory of money; The liquidity theory of money; The Supply of Money; Sources of business finance; Risks in businesses; Commercial banking: principles, functions, organization and structure; Microfinance institutions: principles and functions; Branch banking; Group banking etc; Central banking; Payment Systems.
+
+ECO 223: Intermediate Business Accounting                                   2 Units
+
+Trial balance and adjustments; Preparation of financial statements of business concerns; Adjusting and closing the accounts; Accounting for and controlling cash; Bank reconciliation; Inventories and cost of goods sold: specific invoice prices, average cost, first-in first-out, last-in first-out; Budgets and budgeting; Nature of funds; Sources and application of funds statements; Cash flow distinguished from funds flow; Generally accepted accounting principles: history, structure and functions of the financial reporting council; Introduction to International Financial Reporting Standards (IFRS); Computer accounting applications and software packages.
+
+ECO 231: Intermediate Economic Statistics I                                   2 Units
+
+Probability theory and probability distributions [including discrete and continuous probability distributions]; Probability sampling from tables of random numbers; Probability tree;  Applications of probability theory to economics; Basic probability theorems; Types and distributions of random variables: Discrete and continuous random variables; Exponential density and gamma density; Bernouli, Binomial, Poisson, Geometric, Hyper-geometric, Normal distributions; Generation of statistical events from set-theory; Combinatorial Analysis;  Expectations and moments of random variables.
+
+ECO 232: Intermediate Economic Statistics II                                 2 Units
+
+Basic sampling and surveys; Types of simple random sampling; Expectation and variance of sample mean; Estimation of population variance; Normal approximation to sampling distribution; Stratified random sampling; Correlation theory [including linear correlation, measures of correlation, derivation of least squares lines, standard errors of estimates, explained and unexplained variations, correlation coefficients, correlation of time series etc]; Analysis of variance- total variation, variation within and between treatments, F-test, One-, Two- ways classifications]; Non-parametric tests – Mann-Whitney U tests; Sampling and sampling distributions; Estimation theory; Hypothesis testing; Regression analysis: Simple and Multiple; Statistical tests of significance; Multiple Analysis of Variance
+
+ECO 233: Intermediate Mathematics for Economists I                      2 Units
+
+Linear Algebra: detailed treatment of vectors and matrices, Rank of a matrix, Trace, Eigen values and Eigenvectors; Linear Programming; Input-output analysis; Game theory (introduction); Differential and integral calculus; Comparative statics analysis; First-order differential equations; First-order difference equations; Applications of first-order differential and difference equations to economics (consumer behaviour, demand and supply analysis).
+
+ECO 234: Intermediate Mathematics for Economists II                    2 Units
+
+Linear Algebra: Jacobian and Hessian matrices; Quadratic forms and applications to optimization in economics (cost minimization, profit maximization, utility maximization, comparative statics, etc.); Boundary solutions: Kuhn-Tucker conditions and applications to consumer and producer theory; Second-order differential equations; Second-order difference equations; Methods of solution and their stability properties
+
+ECO 236: Computing Applications for Economists                             2 Units
+
+Relevance of ICT in Economics; Understanding EXCEL: data generating process; Manipulating EXCEL Worksheet Data; Data Transformation using EXCEL; Creating Graphs using EXCEL; Simple and Multiple Regression analysis using EXCEL; Practical modeling of economic relationships using some of these econometric softwares: PC-GIVE, MICROFIT, E-VIEWS, STATA, MATLAB, OX-METRICS, RATS, GAUSS PROGRAM etc; Understanding SPSS: data input, data editor, data manipulation, data transformation, statistical/econometric analysis, output management; Understanding power point: creating a presentation, power-point views, adding pictures and tables, Slide types and layouts; Transition and animation effects; Running a slide show; Mini-proposal presentation on any economic issue using PPT slides.
+
+ECO 262: Urban and Regional Economics                                          2 Units
+
+Introduction to urban and regional economics and consumption within an urban locality; Nature and extent of spatial variation in welfare at the national and regional scales; Models/theories of spatial variation in development; Factors that affect the growth or decline of cities and regions; Regional and urban problems in Nigeria and other selected countries e.g. industrial and residential location decisions; Urban rents/wage determination; Urban housing and transportation problems and policies; Urban and regional factor markets; the rationale and instruments of regional policies the gains, problems and prospects of adopting a single currency within regions; Government policies on economic/social relations in cities; Efforts toward reducing regional disparities in economic opportunities and welfare.
+
+ECO 264: Introduction to Environmental Economics               2 Units
+
+Introduction: emergence of environmental economics; Issues in the economic approach to environmental problems; Drivers of environmental impact; Poverty and inequality; Limits to growth; Concepts of sustainability; Environmental pollution; Pollution control.
+
+ECO 266: Introduction to Health Economics                                 2 Units
+
+Introduction to health economics; Demand for health and healthcare; Production and supply of healthcare; Introduction to the market for healthcare; Market failure and the role of the government in health and healthcare; Introduction to and the organization of the Nigerian health sector: primary, secondary and tertiary; Introduction to the economics of health insurance: National Health Insurance Scheme.
+
+ECO 271: Theories of Human Resources                                              2 Units
+
+Concepts of human resources and human capital; Origin of the concept of human capital; Importance of human capital in economic development; Strategies for the development of human capital, education, health and skills training; Human capital theories: screening/filter theory, dualistic theory etc; Problems of manpower development in developing countries; Manpower availability and utilization: the situation in developing countries; Theory of incentive and its impact on career choice.
+
+ECO 273: Labour Economics                                                                  2 Units
+
+Significance of labour in economics; Labour force: definition, determinants of size, composition and occupational distribution; Labour market: formal and informal sectors; features of the Nigerian labour market; Demand for labour and supply of labour in competitive markets; Labour market equilibrium; Economics of wage determination; Long-run supply of labour; Human capital theory and the New Home Economics.
+
+ECO 281: History and Structure of the Nigerian Economy I                 2 Units
+
+An overview of the Nigerian economy: pre-colonial period, colonial period, post-independence period with special regard to development of economic and social organization; The Nigerian economic system: natural and human resources endowments; An overview of monetary and development institutions in Nigeria; The sectors of the Nigerian economy: their relative sizes, importance and contributions to Nigerian economic development; Sectoral interdependence in the Nigerian economy.
+
+ECO 282: History and Structure of the Nigerian Economy II              2 Units
+
+Nigeria’s economic growth and development: growth of income, employment, wages and prices; National Income and expenditure; Money and monetary institutions; Monetary and fiscal policies; Public development institutions and the quest for economic development and social change; Agricultural and industrial production; Trade and transportation; A study of some key industries eg. oil, iron and steel, automobile and construction.
+
+ECO 301: Intermediate Microeconomic Theory I                                      2 Units
+
+Advanced and mathematical treatment of the theory of consumer behaviour: Revealed preference theory, calculation of income and substitution effects, calculation of compensating and equivalent variations; Linear programming in utility maximization; Advanced price and output determination under perfect competition, monopoly, oligopoly etc; Exchange theory: offer curves and contract curves; Introduction to capital theory; Types of production functions.
+
+ECO 302: Intermediate Microeconomic Theory II                                         2 Units
+
+Utility maximisation under uncertainty: attitudes to risk, coefficient of absolute risk aversion, certainty equivalence, fair insurance; Intertemporal utility maximization; Market failures: asymmetric information (principal-agent problem, adverse selection problem, the lemon market problem); Externalities: externalities and Pareto inefficiency, internalizing externalities.
+
+ECO 303: Intermediate Macroeconomic Theory 1                                     2 Units
+
+Concept of National Income; Classical, Keynesian and Monetarist systems compared; Theories of consumption and investment; Income determination; Equilibrium in commodity market; Equilibrium in money market; Equilibrium in labour and output markets.
+
+ECO 304: Intermediate Macroeconomic Theory I1                           2 Units
+
+Aggregate demand and aggregate Supply and economy-wide equilibrium; Simultaneous equilibrium in commodity and money markets; the IS-LM analytical apparatus in the discussion of relative effectiveness of monetary and fiscal policies; Unemployment, inflation and government policies; International income transmission; Theories of economic growth.
+
+ECO 311:   History of Economic Thought   I                                    2 Units
+
+A broad survey of the main schools of economic thought from the Orients to the scholastics; the mercantilist doctrine and the bullionists; Physiocracy and the development of macroeconomics; The development of quantity theory of money; Smithian political economy; Classicism: J. Ricardo, R. Malthus, J. S. Mill and J. B. Say; The German historical school; Theory of distribution; The development of socialist and marxian economic thoughts.
+
+ECO 312: The History of Economic Thought II                                  2 Units
+
+The rise of the marginal school: Gossen and Stanley Jevons; The marginalist revolution: the Austrian School and J.B. Clark; The place of Marshall, Pigou, Keynes and the attack of Say’s Law of the market; the interpretation of money; Gabraith and Samuelson in the history of economic thought.
+
+ECO 322: Management Accounting                                       2 Units
+
+Nature and scope of managerial accounting; Management’s use of accounting data; Inventory control; Capital budgeting; Elements of cost accounting: materials, labour and overhead cost accounting and control; Cost analysis and costing methods; Cost control distinguished from cost reduction; Standard costs and variance analysis; Break-even analysis; Budgeting and budgetary control; Accounting for non-current assets and depreciation; Funds and cash flow statements for management planning and control; The application of quantitative methods to managerial accounting; Overview of current trends in managerial accounting such as computer-aided manufacturing, computer-aided design, advanced manufacturing technology, total quality management, and total quality control.
+
+ECO 324: Financial Markets and Institutions                                2 Units
+
+The structure of a financial system; Definition of financial institution; Financial Markets: functions and structure; Debt and equity markets; Primary and secondary markets; Exchange and over the counter markets; Money and capital markets with emphasis on Nigerian economy; Depository Institutions: deposit money banks, savings banks, mortgage institutions, Asset Management Corporation of Nigeria; Insurance market: structure, products, growth and recent developments; Nigerian Agricultural Insurance Company Ltd, Nigerian Social Insurance Trust Fund; Development Banks: Bank of Industry, Bank of Agriculture, Federal Mortgage Bank of Nigeria, Urban Development Bank, Nigerian Export and Import Bank (NEXIM); Financial Regulation: Securities and Exchange Commission, Nigeria Stock Exchange, Central Bank of Nigeria etc; Merchant Banking.
+
+ECO 325: Public Sector Economics I                                                   2 Units
+
+Nature and structure of public sector; Public sector in Nigeria; Public Goods and their economic analysis; Free rider problem; Externalities; Concept of market failure, Role of Government; Governments and Insurance; Government failure; Collective action choice; Prisoners’ dilemma; Revenue and expenditure: meaning and theoretical relationship; Budget deficit and its financing; Public sector versus private sector; Theories of public expenditure growth; Public expenditure in Nigeria: nature, trend and pattern.
+
+ECO 326: Public Sector Economics II                                                  2 Units
+
+Government budgeting: the budget cycle, functions and development of modern budgeting; Control of government expenditure; The role of ministries, departments and agencies (MDAs), treasury, the legislature and general public; Government budget constraint; Bureaucrats and efficiency; Fiscal policy: meaning, stance, objectives, targets, instruments, incentives and outcomes; Fiscal policy and economic growth relationship.
+
+ECO 328:     Applied Monetary Economics                                 2 Units
+
+An overview of monetary economics; Commercial banking: functions, credit creation, balance sheet structure; Financial intermediaries: types, financial claims, financial intermediation; Benefit of financial intermediation; Introduction to bank management: liability management, capital adequacy; Risks of financial intermediation: interest rate risk, market risk, credit risk, off-balance sheet risk, foreign exchange risk, sovereign or country risk, technology or operational risk, liquidity risk and insolvency risk; CBN: evolution, functions, government as a financial intermediary; Financial crisis: causes and solutions; Introduction to bank management: liability management, capital adequacy.
+
+ECO 331:     Introduction to Econometrics I                                    2 Units
+
+Nature and scope of econometrics; Stages in econometrics research; Revision of correlation analysis; Ordinary least squares: basic assumptions of classical linear regression models; Simple regression analysis; Multiple regression analysis; Statistical tests of significance of least squares estimates; Causality analysis in economics; Compulsory econometrics practical.
+
+ECO 332:   Introduction to Econometrics II                                              2 Units
+
+Treatment of major econometric problems with special emphasis on causes, consequences, detection and correction (autocorrelation, heteroscedasticity and multicollinearity); Identification problem; Dummy variable regression models; Distributed lag models; Simultaneous equations models; Some estimation techniques for simultaneous equations models (indirect least squares, two-stage least squares, three-stage least squares); Introduction to qualitative response regression models (linear probability model, logit model, tobit model, probit model).
+
+ECO 333: Operations Research                                                       2 Units
+
+Introduction to operations research; solving operations research models; Phases of an operations research model; Linear pogramming models: graphical and algebraic; Classical optimization problems: constrained and unconstrained Problems; Simplex method; Revised simplex method; Duality and post optimal Analysis; Primal-Dual relationships; Queuing systems; Sensitivity analysis; Transportation models: Assignment model (algorithms and iterations) and trans-shipment model (algorithms and iterations); Network models: Shortest route problem, CPM and PERT; Game theory and decision analysis; Markov chains.
+
+ECO 334: Mathematical Economics                                                    2 Units
+
+Applications of optimization techniques to the analysis of monopoly behaviour: multi-plant and multi-product monopoly problem; Game theory and applications to analysis of oligopoly models; Simultaneous differential and difference equations: phase diagrams, convergence and divergence; Introduction to calculus of variation and optimal control theory.
+
+ECO 341:       International Economics I                                             2 Units
+
+Theories of international trade: comparative advantage and factor proportions theories; alternative theories; static and dynamic gains from trade; Empirical testing and policy implications of trade theories; Trade protection: free trade and restricted trade; Tariffs and domestic protection; Theories of economic integration; International and regional trade organizations.
+
+ECO 342:     International Economics II                                              2 Units
+
+Balance of payments: adjustment mechanisms, Foreign exchange market and balance of payment policies; Fixed and flexible exchange rates; Exchange control and convertibility; International liquidity and the international monetary system; Foreign-aid capital flows; The gap hypothesis; Alternative trade strategies for development; International organizations and aid to developing countries; International monetary reforms, Non-imperialism and the role of multinational corporations; Use of international economics in explaining contemporary international relations and diplomacy.
+
+ECO 351: Demography and Population Economics                             2 Units
+
+Introduction to the concepts of population and demography; Methods and theories of demography; Introduction to population studies focusing on understanding the causes, mechanisms and consequences of variety of demographic phenomena; The sources and nature of population data; Population data: methods used to collect them and their applications; Errors in demographic data; Population composition: age, sex and economic structure; The ‘laws’ of population change; Factors that shape the age of structure of a population; Age structure analysis; Fertility: meaning, measures, trend, family planning, assumptions and limitations of different models of fertility change; The fertility transition; Coale’s preconditions of fertility; Mortality and population health; Measures of mortality, trend and determinants; The life table; migration and population distribution: internal and international migration, population and resources.
+
+ECO 361:   Development Economics I                                             2 Units
+
+Nature and origin of development of economics; Development problems; the new economic views of development, Growth versus development, Multi-disciplinary view of development and development economics, Three core values of development, Characteristics of less developed countries, Distinction between development and underdevelopment; The nature of development gaps between poor and rich nations; Growth versus equity debate; Some growth strategies – balanced growth strategy versus unbalanced growth strategy; Term paper.
+
+ECO 362: Development Economics II                                                 2 Units
+
+Long-term structural changes associated with development; Growth and structural change: theories and implications; One-sector models: the Harrod – Domar model; Two-sector models: Lewis dual-sector model, Comparison with Fei-Ranis, Todaro’s model of rural-urban migration; Competing theories of economic development; Issues in development; The informal sector: meaning, origins and dynamics; Structural transformation; Economic and non-economic factors in development experience; The Millennium Development Goals; Good governance and transparency and their impacts on development; Financing gap and international assistance. Term paper.
+
+ECO 363: Political Economy                                                          2 Units
+
+Basic distinguishing feature of bourgeois method of analysis and of dialectical method; Historical materialism; Classification of social systems; Theory of social classes; Marxist theory of capital accumulation; Surplus value; Stages of capitalist development; Emergence and advancement of capitalist development; Emergence and advancement of capitalism; Metropolitan and satellite economic relations; The struggle against colonialism and neocolonialism; Stages of socialist development; Emergence and advancement of socialism; Theories of human freedom in society: egalitarianism, neo-liberalism, liberalism etc.
+
+ECO 391: Research Methods in Economics I                             2 Units
+
+The concept of research: types of research, choice of research topic, format for presentation of research report in economics (designing the content of a research report, e.g. structure of preliminary pages, sections in various chapters , referencing formats, appendices etc); Skills in presenting research report; Detailed treatment of the methods and problems of collecting relevant research data (primary and secondary data) in Nigeria; Detailed treatment and comparison of different methods of economic analysis (percentages, variance, standard deviation, correlation, regression etc); Basic issues in the methodology debate; Seminars will be held on various research topics; Field work and presentation of research findings.
+
+ECO 392: Research Methods in Economics II                             2 Units
+
+Models: meaning, types, specifications and application in economics; Basic elements of economic model building; Factors affecting choice of models; Regression analysis; Causality analysis; VAR Model; SURE model; Non-linear models; Non-time series models etc; The use of different econometric/statistical softwares in estimating models (PC-Give, SPSS, E-VIEWS, STATA etc); Multivariate analysis: principal components and discriminant analyses; Pre- estimation diagnostic tests (Unit root and Co-integration); Post-estimation diagnostic tests (multicollinearity, heteroskadasticity, mis-specification test, normality test and autocorrelation etc); Sensitivity and stability tests; Survey data analysis: survey design/questionnaire design (validity and reliability); Population and sample, Sampling methods; Sampling weights; Seminar paper.
+
+ECO 401: Advanced Microeconomic Theory and Policy I            2 Units
+
+Fundamental quantitative relationships and proofs of basic concepts; Theory of games and applications to oligopoly models; Production theory and market structures: monopoly, monopsony, duopoly, oligopoly, bilateral monopoly etc.
+
+ECO 402: Advanced Microeconomic Theory and Policy II             2 Units
+
+General equilibrium and disequilibrium: exchange economy; first and second fundamental theorems of welfare economics; Dynamic equilibrium analysis; General equilibrium with consumption and production; Derivation of the economy’s production possibility frontier; First and second fundamental theorems under production and consumption; Economic efficiency: efficiency and equity; Externalities; Social and private costs; Pareto optimum; Social welfare functions; Policy applications of microeconomic theories.
+
+ECO 403: Advanced Macroeconomic Theory and Policy I             2 Units              
+
+Income determination from simple closed economy to a four-sector economy; Detailed theories of consumption and investment functions; The classical and Keynesian theories of employment and output; Capital theory; Theory of inflation; Business cycle Models and forecasting; Real business cycle models; The linking of these issues to leading problems in public policy.
+
+ECO 404: Advanced Macroeconomic Theory and Policy II             2 Units
+
+The rationale for the existence of the public sector; Formulation of national policy; Planning: principles, objectives, instruments and implementation; Balance of payments equilibrium and disequilibrium; Balance of payments adjustment mechanism: devaluation; Contemporary issues in public policy in Nigeria.
+
+ECO 421: Advanced Public Sector Economics                              2 Units
+
+Elements of fiscal policy: taxation, expenditure, debt management and monetary control; Fiscal and monetary policy mix and the Effects of budget deficit; Fiscal theory of the price level; Taxation: theory and types of taxation, tax incidence; Welfare costs of taxation; Negative income tax; The Nigerian tax system: personal income tax, import duties, excise duties, sales taxes; Partial equilibrium analysis of taxation; General equilibrium analysis of taxation; Public debt: sources, trend, growth, structure and debt sustainability; Fiscal Federalism.
+
+ 
+
+ECO 423: Public Policy                                                                 2 Units
+
+The meaning and nature of public policy; The process and scope of public policy analysis; Concepts of social welfare; Public policy and the public interest; Theories and their applications to public policy; Techniques of public policy analysis: efficiency criteria for evaluating public policy options; Cost-utility technique; Measurement of costs and benefits; Social impact and environmental impact analysis etc; Modeling and evaluating public policy options: social welfare function; Pareto optimality; Welfare optimizing and satisficing models etc; Environment and limitations of public policy in the Nigerian economy; Formulation of national economic policy: planning, principles and analyses.
+
+ECO 428:     Advanced Monetary Economics                                2 Units
+
+Demand for Money Theories: Quantity theory, Keynesian liquidity theory, Friedman’s modern quantity theory; Determinants of money supply; Theory of inflation; Monetary policy and transmission mechanism; Theory of interest rate determination; Financial structure and transaction costs: asymmetric information, adverse selection, moral hazards, and lemon market problems; Banking industry and competition; General principles of bank management: liquidity management, liability management, asset management, capital adequacy; Money and international economy: foreign exchange market; International financial system: Bretton Woods system; Different exchange rate regimes; Role and operations with reference to LDCs.
+
+ECO 431:       Applied Statistics and Econometrics I         2 Units
+
+Applied topics in statistical estimation: regression analysis; Errors in variables; Dummies; Lags and Distributed lag models; Model specification and diagnostic testing [including model selection criteria, consequences of model specification errors, errors in measurement, incorrect specification of stochastic error term, model selection criteria]; Treatment of outliers and leveraged observations; Recursive least squares; Time series econometrics [including stochastic processes, random walk models, difference and trend stationary processes, integrated processes, test for stationarity and cointegration]; Simultaneous equation models; The problem of identification; Methods of estimation of simultaneous models: Indirect least squares, Instrumental variables, 2-stage least squares; Tests for simultaneity; Granger causality test.
+
+ECO 432: Applied Statistics and Econometrics II                           2 Units
+
+Matrix treatment of multiple regression; Non-linear regression models; Estimation of linear and non-linear regression models; Approaches to estimating non-linear regression models; Introduction to qualitative response models (including logit, probit, and Tobit models, ordinal logit and multinomial logit]; Modeling count data; Duration models; Panel data analysis.
+
+ECO 433:   Advanced Mathematical Economics                       2 Units
+
+Advanced treatment of differentiation and integration (with applications to economics); Difference and differential equations; Advanced treatment of matrices; Advanced treatment of input-output analysis; General equilibrium analysis; Advanced treatment of mathematical programming models (goal and dynamic programming) with relevant applications in Economics; Optimal control theory and its applications in economics; Queuing theory and its applications in economics; Game theory and its applications in economics.
+
+ECO 451: Energy Economics                                                       2 Units
+
+Nature and scope of energy economics: political economy of petroleum with special emphasis on Nigeria; Analysis of petroleum industry: upstream and downstream sectors; Theoretical issues in the economics of energy demand and supply; Economics of energy subsidy; Impact of energy sector on agricultural sector in Nigeria; OPEC and its relevance in energy market; Contribution of energy sector to the Nigerian economy; Energy and the environment.
+
+ECO 452: Economics of Production                                        2 Units
+
+Introduction to production economics; Production and the economy; Production methods; Production facilities and economics of plant maintenance; Materials inputs; Plant location and feasibility; Organizational structure and human factors; Production planning and control (including use of GANTT charts, logical framework and CPM etc); Types and calculation of costs, budgets (types, preparation and evaluation of budgets); Job design, evaluation, merit rating, and compensation; Production investment economics (including viability analysis using undiscounted and discounted measures of project worth); Product development.
+
+ECO 453: Advanced Demography and Population Economics   2 Units
+
+Vital rates and ratios; Techniques of population projection: interpolation and graduation in demographic analysis, population change and economic growth; Demographic transition during the process of development; Income; Mortality; Fertility choices and human capital accumulation nexus; Demography of labour force; Analysis of labour force participation; Unemployment, Economic dependency; Occupational segregation (by age, gender etc), Labour market transitions.
+
+ECO 461: Advanced Development Economics                               2 Units
+
+Development as a generalized process of capital accumulation; Optimum accumulation and absorptive capacity; Sources of capital formation and savings policy; Growth, welfare improvements and the role of the state; Good governance and social protection; Industrialization; Agricultural development and unemployment; Growth, poverty reduction and inequality nexus: theory and empirics; Policy options for achieving growth and poverty reduction; Term paper.
+
+ECO 462: Economics of Planning                                                     2 Units
+
+Economic planning: meaning, concept and rationale; Planning in different economic systems; Requirements for effective economic planning; Planning techniques; the planning cycle. Planning and policy development; Types of planning and planning durations; Manpower planning; Planning models: aggregate growth models, input-output model and project appraisal; national accounts and its application to planning; Overview of Nigeria’s development planning experience; Term paper.
+
+ECO 463: Comparative Economic Systems                                 2 Units
+
+Economic Systems: concept, types and goals; Importance and problems of comparative economic system studies, Critical characteristics for classifying and differentiating various economic systems; Communalism, Slavery, Feudalism, Laissez-faire economies and capitalism and their variants; The theory and development of centrally directed economy and communisms; The concept of a mixed economy; Transition economies and convergence hypothesis; Case studies of capitalist, socialist, communist and mixed economic nations.
+
+ECO 464: Health Economics and Health Policy                              2 Units
+
+Further treatment of healthcare demand and supply/production; Efficiency in healthcare provision; Market failure in health care provision; Healthcare financing and universal coverage (including analysis of equity in health care financing, financing and benefit incidence analysis, etc.); Economic effects of health care expenditures in developing countries and coping mechanisms; Health systems; Social determinants of health; Costing in economic evaluation; Measuring effectiveness; Outcome measurement; Cost effectiveness/utility analysis; Role of economic evaluation in health care; Term paper.
+
+ECO 466: Climate and Environmental Economics                           2 Units
+
+The Economics of climate change: indicators of climate change and impact of climate change on agriculture, aquatic life, deforestation, tourism, flooding, water availability, carbon cycling and greenhouse effect, environment and health; Concepts of Value: the assets of nature, economic concept of value, classifications of values; Valuing environmental goods: cost-benefit analysis (CBA), contingent valuation method (CVM), hedonic pricing (HP) method and travel cost method (TCM); Applications of the techniques to environmental damage and benefits such as economic valuation, total economic value (calculations); Pollution abatement in developing countries; The concept of sustainable development (SD); Global Summits on SD; Indicators of sustainable development; Divergent views on sustainable development; The role of public-private partnerships in ensuring best practices; The relationship between SD indicators and MDGs beyond 2015; Concept of intergenerational equity; Intergenerational compensation; Sustainable development and environmental capital.
+
+ECO 471: Industrial Relations and Personnel Management         2 Units
+
+The concept of industrial relations; Theories of industrial relations; Trade unions: government and structure; Central labour organization and international affiliations; The ILO, Union solidarity and check-off systems; Collective bargaining, industrial conflict and dispute settlement with case studies; Dispute settlements through mediation, arbitration and joint consultation; The state and industrial relations; Comparative industrial relations; Personnel management: recruitment, selection, employee maintenance, training and career development, safety, health, employee services, compensation administration, performance appraisal; Industrial Relations in Nigeria.
+
+ECO 475:       Project Appraisal I                                                       2 Units
+
+The project concept; the project cycle; Data requirements and sources; The feasibility dimension; Identification and analysis of project costs and benefit (cash flows); Comparison of costs and benefits: static and dynamic approaches; The problems of valuation, discount rates and uncertainty; Economic and financial perspectives in project appraisal; Evaluation and review techniques; Case studies.
+
+ECO 476:     Project Appraisal II                                                      2 Units
+
+The project and overall view of economic development programming; Identification and selection of projects; Project analysis: technical analysis, economic analysis, financial analysis, institutional analysis, social benefit-cost analysis, valuation and shadow prices; Cost-effectiveness analysis; Impact analysis; Reporting; Monitoring and ex-post evaluation; Case studies.
+
+ECO 478: Project Report                                                     6 Units
+
+Under the supervision of an academic staff, a student is expected to present a project/research report on any economic issue. The student is expected to display a firm grasp of economic theory being investigated with good mastery of research methodology and econometrics.

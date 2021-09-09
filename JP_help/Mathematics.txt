@@ -1,0 +1,134 @@
+First Year	Mathematics
+First Semester			
+Major Courses			
+MTH	111	Elementary Mathematics I	3
+MTH	121	Elementary Mathematics II	3
+Required Ancillary Course			
+STA	205	Statistics for Physical Sciences	2
+COS	101	Introduction to Computer Science	2
+General Study Courses			
+GSP	101	Communication in English I	2
+GSP	111	The Use of Library and Study Skills	2
+Elective Courses			
+Any 4-5 unit from the following:			4/5
+PHY	125	Fundamentals of Physics I	3
+PHY	193	Practical Physics II	2
+CHM	101	Basic Principles of Chemistry I	2
+CHM	171	Basic Practical Chemistry	2
+STA	111	Probability I	2
+STA	131	Inference I	2
+BIO	151	General Biology I	3
+18/19
+Second Semester			
+Major Courses			
+MTH	122	Elementary Mathematics III	3
+MTH	132	Elementary Mechanics I	3
+Required Ancillary Courses			
+STA	206	Statistics for Physical Sciences	2
+General Study Courses			
+GSP	102	Communication in English II	2
+Elective Courses			
+Any 4-5 units from the following:			6/7
+PHY	136	Fundamental of Physics	3
+PHY	156	Fundamental of Physics III	2
+CHM	112	Basic Principle of Physical Chemistry	2
+CHM	122	Basic Principle of Organic Chemistry	2
+GLG	142	Earth History	3
+STA	112	Probability II	2
+STA	132	Inference II	2
+STA	134	Laboratory for Inference I	2
+16/17
+Second Year	Mathematics	
+First Semester			
+Major Courses			
+MTH	211	Set, Logic and Algebra	3
+MTH	215	Linear Algebra I	2
+MTH	221	Real Analysis I	3
+MTH	231	Elementary Mechanics II	2
+Required Ancillary Courses			
+STA	211	Probability III	2
+COS	201	Computer Programming I	2
+General Study Courses			
+GSP	201	Basic Concepts &Theory of Peace	2
+GSP	207	Logic, Philosophy and Human Existence	2
+Second Semester			
+Major Courses			
+MTH	218	Three- Dimensional Analytic Geometry	2
+MTH	216	Linear Algebra II	2
+MTH	222	Elementary Differential Equations I	3
+MTH	224	Introduction to Numerical Analysis	3
+MTH	242	Mathematical Methods I	3
+MTH	242	Mathematical Methods I	3
+STA	212	Probability IV	2
+General Study Courses			
+GSP	202	Issues in Peace and Conflict Resolution	2
+GSP	208	Nigerian People and Culture	2
+Third Year	Mathematics	
+First Semester			
+Major Courses			
+MTH	311	Abstract Algebra I	3
+MTH	321	Metric Space Topology	3
+MTH	327	Elementary Differential Equation II	3
+MTH	323	Complex Analysis I	3
+MTH	331	Introduction to Mathematical Modelling	3
+Elective Courses			
+Any 2-3 units from the following			2/3
+*MTH	313	Geometry I	2
+MTH	329	Calculus in RN	3
+MTH	337	Optimization Theory I	2
+MTH	339	Analytic Dynamics	2
+MTH	335	Introduction to Operation Research	3
+**MTH	341	Discrete Mathematics I	2
+STA	311	Probability V	2
+STA	321	Distribution Theory	2
+STA	331	Statistical Inference IV	2
+COS	333	Systems Analysis and Design	2
+17/18
+*To be taken with MTH 314			
+**To be taken with MTH 342			
+SECOd Semester			
+Major Courses			
+MTH	312	Abstract Algebra II	3
+MTH	324	Vector and Tensor Analysis	3
+MTH	328	Complex Analysis II	3
+MTH	326	Real Analysis II	3
+Elective Courses			
+Any 4-5 units from the following			   4/5
+MTH	314	Geometry II	2
+MTH	316	Differential Geometry	3
+MTH	338	Optimization Theory II	2
+MTH	336	Dynamics of Rigid Body	3
+MTH	338	Special Theory of Relativity	4
+MTH	342	Discrete Mathematics II	2
+MTH	344	Numerical Analysis I	3
+STA	312	Probability VI	2
+STA	332	Inference VI	2
+COS	332	Operating System II	2
+16/17
+Fourth Year	Mathematics
+First Semester			
+Major Courses			
+MTH	421	Ordinary Differential Equation	3
+MTH	429	Functional Analysis	3
+MTH	425	Lebesgue Measure and Integration	3
+Elective Courses			
+Any 6-7 units from the following			6/7
+MTH	427	Field Theory in Mathematical Physics	3
+MTH	439	Analytic Dynamics II	3
+MTH	437	System Theory	4
+MTH	443	Numerical Analysis II	3
+MTH	441	Mathematical Methods II	3
+15/16
+Second Semester			
+Major Courses			
+MTH	428	Partial Differential Equations	3
+MTH	424	General Topology	3
+MTH	452	Project	4
+Elective Courses			
+Any 6-7 units from the Following:			6/7
+MTH	412	Abstract III	3
+MTH	432	General Theory of Relativity	4
+MTH	438	Electromagnetism	3
+MTH	436	Fluid Dynamics	3
+MTH	434	Elasticity	3
+MTH	444	Numerical Analysis III	3

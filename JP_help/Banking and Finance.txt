@@ -1,0 +1,67 @@
+BAF 101	Introduction to Finance	3
+MAN 101	Elements of Business Economics	2
+COS 101	Introduction to Computer	3
+PHIL 101 Introduction to Logic and Philosophy	2
+ACC 101	Elements of Accounting 1	2
+MAN 103	Business Mathematics 1	2
+GSP 101	Use of English 1	2
+GSP 105	Natural Science 1	2
+PSY 101	Introduction to Psychology 1	2
+SOC 101	Introduction to Sociology 1	2
+FRE 101	Elementary French 1	2
+MAN 102	Elements of Business Economics 11	2
+MAN 104	Business Mathematics 11	2
+MAN 106	Introduction to Business	3
+ACC 102	Elements of Accounting 11	2
+BAF 108	Computer Applications in Banking	2
+GSP 102	Use of English 11	2
+GSP 106	Natural Science 11	2
+PHIL 102 History and Philosophy of Science	3
+PSY 102	Introduction to Psychology 11	2
+SOC 102	Introduction to Sociology 11	2
+FRE 102	Elementary French 11	2
+BAF 201	Mathematics of Finance	2
+ACC 201	Introduction to Financial Accounting 1	2
+ACC 211	Introduction to Cost and Management Accounting	3
+MKT 201	Elements of Marketing	3
+MAN 201	Elements of Management	2
+MAN 231	Business Statistics 1	2
+MAN 241	Micro Economic Theory	3
+GSP 201	Social Sciences 1	2
+GSP 207	Humanities 1	 2
+BAF 212	 Elements of Banking	3
+BAF 222	 Principles of Insurance	2
+MAN 232	Business Statistics 11	2
+MAN 242	Macro Economic Theory	2
+ACC 202	Introduction to Financial Accounting 11	3
+MKT 222	Business Communication	2
+COS 304	Computer Applications	3
+GSP 202	Social Sciences 11	2
+GSP 208	Humanities 11	2
+BAF 311	Monetary Theory & Policy	3
+BAF 313	Banking Laws & Regulations	3
+BAF 315	Comparative Banking	3
+BAF 331	Financial Management 1	3
+BAF 383	Public Finance and Taxation 1	2
+ACC 311	Cost Accounting 1	2
+MAN 333	Quantitative Methods for Business	2
+CED 383	Introduction to Entrepreneurial Development	2
+BAF 318	Banking Methods and Processes 1	2
+BAF 332	Financial Management 11 (Advanced)	3
+BAF 342	Financial Systems (Institutions)	2
+BAF 372	Research Methods	3
+BAF 384	Public Finance and Taxation 11	2
+LAW 212	Basic Business Law	3
+ACC 312	Cost Accounting 11	2
+CED 342	Business Development & Management	2
+MAN 352	Government and Business	2
+BAF 413	Law, Ethics and Corporate Governance	3
+BAF 415	Banking Methods and Processes 11	3
+BAF 451	Capital Markets and Portfolio Theory	3
+BAF 461	International Finance	3
+BAF 417	Financial Services Marketing	3
+MAN 406	Business Policy	3
+BAF 412	Bank Lending and Credit Administration	3
+BAF 434	Project Evaluation	3
+BAF 472	Investment Banking	3
+MAN 432	Analysis for Business Decisions	 3

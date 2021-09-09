@@ -1,0 +1,120 @@
+
+COURSE N0      	TITLE	UNITS
+PHE 110	Philosophical and Historical Foundations of Physical Education	2
+PHE 111	Basic Skills of Swimming & Water Safety	2
+PHE 112	Activity science and Physical Fitness	1
+PHE 119	Skills & Techniques of Track Athletics	2
+PHE 114	Introduction to special Physical Education	1
+ED 102	History of Education	2
+ED101	Introduction to Education	3
+BIO 151	General Biology I	3
+GS 101	Use of English I	2
+19
+SECOND SEMESTER
+
+COURSE NO
+
+TITLE
+
+UNIT
+
+PHE 115	Weight training and Tennis Skills and Techniques	2
+PHE 116	Gymnastic I	1
+PHE 117	Skills & Techniques of Hockey & Soccer	2
+PHE 114	Community Health	2
+PHE 118	Movement education and Creative Dance	1
+PHE 113	Fundamental Skills of Basketball and Volleyball	2
+BIO 152	General Biology II	3
+BIO 153	General Biology III (Practicals)	2
+GS 102	Use of English II	2
+ 	17
+SECOND YEAR
+
+FIRST SEMESTER
+
+COURSE NO	TITLE	UNIT
+PHE 210	Development of skills of Handball and Cricket	2
+PHE 211	Human Anatomy and Physical of Physical Activities	2
+PHE 212	Skills & Techniques of Hockey & Soccer	2
+PHE 213	Skills & techs. Of Field Athletics	2
+PHE 214	Curriculum Planning in Phys. Education	2
+PHE 218	Methods & Resources for Teaching of Physical Education In Schools	2
+PHE 221	Principles of Recreation & Outdoor pursuits	1
+ED 211	Education Psychology   I	2
+CS 101	Introduction to Computer Science	2
+GS 103	Social Science   I	2
+22
+SECOND SEMESTER
+
+COURSE NO	   TITLE	UNIT
+PHE 215	Skills and Techniques of Badminton; Tennis and Table	3
+PHE 216	Tennis	2
+PHE 217	Gymnastic II  	2
+PHE 219	Principles of Coaching & Officiating	1
+HED 232	School Health Education	2
+ED 321	Curriculum Implementation and Instruction	3
+GS 104	Social Science II	2
+15
+THIRD YEAR
+
+FIRST SEMESTER
+
+COURSE NO	TITLE	UNIT
+PHE 310	Organization and Administration of Physical Education	2
+PHE 312	Practical Coaching & Officiating I	2
+PHE 311	Research methods in Physical Education	2
+PHE 314	Organization of intramural sports & Recreation	2
+PHE 313	Principles of Conditioning through Physical Activities	1
+HED 343	Drug, Alcohol and Tobacco Education	2
+ZOO 310	Basic Physiology	4
+GS 105	Natural Science   I      	2
+ED 224	Education Technology	2
+19
+SECOND SEMESTER
+
+COURSE NO	TITLE	UNIT
+PHE 316	Psychology of Coaching	2
+PHE 317	Scientific and Psychological Basis of Coaching	2
+PHE 318	Sociological Foundations of Physical Education	2
+PHE 325	Administration of Community Recreation	2
+PHE 346	First Aid and Safety Education	2
+ED 325	Teaching Practice I	2
+ED 311	Educational Psychology II	2
+CS 304	Computer Application                       	2
+GS 106	Natural Science   II	2
+19
+ 
+
+FOURTH YEAR
+
+FIRST SEMESTER
+
+COURSE NO
+
+TITLE
+
+UNIT
+
+PHE 410	Prevention and Care of sports Injuries	2
+PHE 412	Practical Coaching and Officiating in sports II	2
+PHE 413	Measurement and Evaluation in Physical Education	2
+PHE 415	Kinesiology	2
+HED 441	Vital Statistics & Data Processing in H. E	2
+PHE 451	Seminar in Physical Education	1
+ED   425	Teaching Practice II	3
+ED 411	Education Psychology III	2
+16
+SECOND SEMESTER
+
+ 
+
+COURSE NO	TITLE	UNIT
+PHE 411	Physical Education for the Atypical	2
+PHE 416	Supervision in Physical Education & Recreation	2
+PHE 417	Advanced Skills of Soccer and Tennis	2
+PHE 418	Planning and Administration of Competitive sports	2
+PHE 419	Issues and Problems in Physical Education	2
+PHE 421	Planning and Maintenance of Recreational Resources	2
+PHE 452	Project	4
+ 	 	16
+ 

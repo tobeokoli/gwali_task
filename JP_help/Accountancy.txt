@@ -1,0 +1,29 @@
+ACC101   Elements of Accounting I    2 Units
+ACC102   Elements of Accounting II    2 Units
+ACC201   Introductions to Financial Accounting    2 Units
+ACC 202 Introduction to Financial Accounting II    
+ACC 211 Introduction to Cost and Management Accounting
+ACC 301 Financial Accounting I    
+ACC 302 Financial Accounting II    
+ACC 311 Cost Accounting I    
+ACC 312 Cost Accounting II    
+ACC 331 Taxation I
+ACC 351 Fundamental of Government  Accounting Systems    
+ACC 361 Quantitative Techniques in Accounting I     
+ACC 362 Quantitative Techniques in Accounting II    
+ACC 372 Research Methods    
+ACC 401 Advanced Financial Accounting (V)
+ACC 402 (Advanced) Financial Accounting VI     
+ACC 403 International accounting    
+ACC 411 Management Accounting I
+ACC 412 Management   Accounting II     
+ACC 421 Auditing Investigation I    
+ACC 422 Auditing and Investigation II    
+ACC 432 Taxation II    
+ACC 442 Management Information System (MIS)    
+ACC 451 PUBLIC SECTOR ACCOUNTING
+ACC 490 Project    
+BAF 331 Financial Management I    
+BAF 332 Advanced Financial Management II    
+
+
