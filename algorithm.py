@@ -20,3 +20,4 @@ for course in list_of_courses:
 
 print(final_result)
 print(json.dumps(final_result, indent = 4))
+

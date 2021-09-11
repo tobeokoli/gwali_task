@@ -1,24 +1,15 @@
-OURSE CODE	COURSE TITLE	UNITS	DATE & TIME	VENUE	Lecturers
-LIS 102	History of Libraries	2	Mon  9-11am	CCL	Dr. F. C. Ekere / Dr. B.U. Ugwuowo & Rev. Fr. B.O. Agu
-LIS 104	Intro. To Library Res. & Services	3	Tue/Thurs  9-11am	CCL	Dr. V. N. Nwachukwu & Dr. B.U. Ugwuowo
-LIS 212	Organization of Knowledge I	3	Mon/Fri  9-11am	Deptal Lib	Dr. A. J. C. Mole / Mr. Izuchukwu
-LIS 232	Introduction to Bibliography	2	Tues/Thurs  8-10am	CCL	Dr. F. C. Ekere / Dr. B.U. Ugwuowo
-LIS 252	Computers and Data Processing	2	Tues 11am-12pm	Comp. Lab	Prof. C. Ezeani / Mr. I. G. Ihedioha/ Mrs. I. E. Obim, Rev.Fr. B.O. Agu
-LIS 222	Oral traditions & Cultural Heritage	2	Fri. 11-12pm	CCL	Prof. N. Achebe / Dr. B.U. Ugwuowo / Mrs. Y. Fagbemi/
-LIS 234	Information Users	2	Mon 12-2pm	Deptal Lib	Prof. N.E. Achebe, Mr. A.C. Izuchukwu & Rev. Fr. B.O. Agu
-LIS 242	Lib. Work with Children & Youth	2	Fri. 9-11am	Deptal Lib	Dr. M. N. Ngwuchukwu/Mrs. G. U. Onyebuchi
-LIS 402	Contemp. Tech. in Libraries	2	Mon  11-1pm	CCL	Prof. C. Omekwu /Dr. V. N. Nwachukwu / Mrs. I.E. Obim
-LIS 412	Indexing and Abstracting	2	Wed. 3-5pm	CCL	Dr. V.N. Nwachukwu, Mr. A. Izuchukwu & Mrs. V.Y. Fagbemi
-Electives					
-LIS 404	Publishing & Book Production	2	Tues   9-11am	CCL	Dr. F. C. Ekere / Mr. A. Izuchukwu
-LIS 414	Preservation & Conservation of Lib. Materials	2	Sat. 10-12pm	Deptal Lib	Dr. F. C. Ekere / Dr. B.U. Ugwuowo/Mrs. V.Y. Fagbemi
-LIS 422	Government & Serials Publications	2	Thurs  9-10am	Deptal Lib	Dr. A. J.C. Mole/Rev. Fr. B.O. Agu / Mrs. V. Fagbemi
-LIS 424	Children’s Literature	2	Wed. 11am-1pm	CCL	Dr. M. N. Ngwuchukwu/Mrs. G. U. Onyebuchi
-LIS 444	Inter Library cooperation & Information networks	2	Tues 3-5pm	CCL	Prof. C.O. Omekwu/Rev. Fr. B.O. Agu/Mrs. V.Y. Fagbemi
-LIS 448	Library Marketing & Public Relations	2	Mon  3-5pm	CCL	Prof. N.E. Achebe /Dr. V. N. Nwachukwu/Mrs. G.U. Onyebuchi
-
-Connect With Us
-Facebook-square
- Twitter
- Instagram
- Youtub
+LIS 102	History of Libraries	2
+LIS 104	Intro. To Library Res. & Services	3
+LIS 212	Organization of Knowledge I	3
+LIS 232	Introduction to Bibliography	2
+LIS 252	Computers and Data Processing	2
+LIS 234	Information Users	2
+LIS 242	Lib. Work with Children & Youth	2
+LIS 402	Contemp. Tech. in Libraries	2
+LIS 412	Indexing and Abstracting	2
+LIS 404	Publishing & Book Production	2
+LIS 414	Preservation & Conservation of Lib. Materials	2
+LIS 422	Government & Serials Publications	2
+LIS 424	Childrens Literature	2
+LIS 444	Inter Library cooperation & Information networks	2
+LIS 448	Library Marketing & Public Relations	2

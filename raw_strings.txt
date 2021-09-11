@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 FAA           101            Basic Drawing I                                   3
 
 FAA           103            Two Dimensional Design I                 3
@@ -571,3 +572,89 @@ FAA                 231      Introduction to Painting                           
 FAA                 241      Sculpture Processes: Modelling & Casting I               2
 
 FAA                 281      Historical Survey of Western & Oriental Art I        2
+=======
+ENGR.    101	Introduction to Engineering	2
+MTH    111	Elementary Mathematics I	3
+MTH    121	Elementary Mathematics II	3
+CHM    101	Basic Principles of Chemistry I	2
+CHM    171	Basic Practical of Chemistry	2
+PHY    107	Fundamentals of Physics I	3
+PHY    192	Practical Physics II	2
+GSP    101	Study Skills & Basic Research Methods	2
+GSP    111	Use of Library & Study Skills	2
+ENGR    102	Applied Mechanics	3
+MTH    122	Elementary Mathematics III	3
+CHM    112	Basic Principles of Chemistry II	2
+
+CHM    122	Basic Principles of Chemistry III	2
+PHY    116	General Physics for Physical Science II	2
+PHY    124	Fundamentals of Physics III	3
+GSP    102	Basic Grammar & Varieties of Writing	2
+CVE    211	Strength of Materials I	2
+CVE    212	Strength of Materials Laboratory I	1
+
+ENGR    201	Material Science	2
+
+ENGR    202	Material Science Laboratory	1
+ME    211	Engineering Drawing	2
+ME    261	Thermodynamics and Heat Engines	2
+EE    211	Basic Electrical Engineering	3
+MTH    207	Advanced Mathematics VII	2
+GSP    201	Basic Concepts and Theories of Peace and Conflicts	2
+GSP    207/101	Logic, Philosophy & Human Existence 2
+CVE    221	Fluid Mechanics I	2
+CVE    222	Fluid Mechanics Laboratory	1
+ME    212	Workshop Technology	2
+ECE    271	Engineering Computer Programming	3
+ECE    281	Engineering Computer Programming 3
+EE    251	Basic Electrical Engineering Lab 3
+MTH    206	Advanced Mathematics VI	2
+MTH    208	Advanced Mathematics VIII	2
+GSP    202	Issues in Peace & Conflict Resolution Studies	2
+GSP    208/102	Nigerian Peoples & Cultures/Basic 2	
+CVE    311	Strength of Materials II	3
+CVE    321	Fluid Mechanics II	2
+CVE    322	Water Resources and Environmental Engineering Laboratory	1
+CVE    331	Civil Engineering Materials	3
+CVE    351	Engineering Survey I	3
+CVE     332	Materials Testing	2
+CVE    341	Engineering Geology	2
+CED     341	Introduction to Entrepreneurship	2
+STA    205	Statistics for Physical Sciences and Engineering	2
+CVE    312	Theory of Structures I	3
+CVE    313	Strength of Materials Laboratory I	2
+CVE    323	Hydrology	2
+CVE    352	Engineering Surveys Practice I	2
+CVE    335	Civil Engineering Drawing	2
+CVE    342	Soil Mechanics	3
+ENGR    301	Engineering Analysis	4
+CED    342	Business Development & Management	2
+ENG    401	Computational Methods	3
+CVE    411	Theory of Structures II	2
+CVE    412	Reinforced Concrete Design	2
+CVE     413	Steel and Timber Design	3
+CVE     414	Structural Design Studio I	1
+CVE     442	Soil Mechanics Laboratory	1
+CVE     451	Engineering Surveys II	3
+CVE     452	Transportation Engineering I	3
+CVE     421	Hydraulics	2
+CVE     431	Civil Engineering Practice I	3
+CVE     441	Foundation Engineering I	2
+CVE     453	Engineering Surveys Practice II	1
+ENG     402	SIWES	10
+CVE     511	Structural Analysis I	4
+CVE     512	Structural Design	4
+CVE     513	Structural Design Studio	1
+CVE     521	Water Resources and Environmental Engineering I	4
+CVE     541	Foundation Engineering II	4
+CVE     542	Foundation Design Studio	1
+CVE     531	Civil Engineering Practice II	4
+CVE     551	Transportation Engineering II	4
+CVE     561	Project	6
+CVE     514	Structural Analysis II	4
+CVE     522	Water Resources and Environmental Engineering II	4
+CVE     532	Properties and Behaviour of Concrete	4
+CVE     543	Geotechnical Engineering	4
+CVE     553	Transportation Engineering III	4
+CVE     533	Building Engineering	4
+>>>>>>> origin/master
