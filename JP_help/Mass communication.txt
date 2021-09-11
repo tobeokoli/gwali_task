@@ -1,60 +1,30 @@
-FIRST YEAR
-
-FIRST SEMESTER
-
-Course Code	Course title	Units
- 	Major Courses	 
 MAC 101	Introduction to Mass Communication	4
 MAC 103	History of the Nigerian Mass Media	2
 MAC 111	Elements of Journalistic Style	2
-General Studies Courses
-
 GSP 101	Communication in English I	2
 GSP 111	The Use of Library & Study Skills	2
 GSP 207	Logic Philosophy & Human Existence	2
-Required Ancillary Courses
-
 PHI  101	Introduction to Philosophy I	2
 POL 114	Nigerian Legal System I	2
-Electives: Choose one of the following courses:
-
 ELS  104	Introduction to Nigerian Literature I	2
 ELS  141	Introduction to Fiction	3
 FRE  101	Elementary French I	2
 HIS  103	Major World Civilizations	3
 HIS  111	Nigeria from 1500 to 1800	2
-HIS  121	History of Africa from 1500 – 1800 A.D.	3
-Total	 	20/21
-SECOND SEMESTER
-
-Course Code	Course Title	Units
- 	Major Courses	 
+HIS  121	History of Africa from 1500 ï¿½ 1800 A.D.	3
 MAC 102	African Communication Systems	4
 MAC 112	Writing for the Mass Media	2
 MAC 132	Typesetting	2
-General Studies Courses
-
 GSP 102	Communication in English II	2
 GSP 208	Nigerian Peoples & Culture	                        
-Ancillary Courses
-
 PHI  102	Introduction to Philosophy II	2
 POL 115	Nigerian Legal System II	2
-Electives: Choose one of the following courses:
-
 ELS  105	Introduction to Nigerian Literature II	2
 ELS  121	Basic English Grammar and Composition	3
 FRE  102	Elementary French II	2
 HIS   122	History of West Africa from 1500 A.D. to the Present	2
 HIS   131	Europe to the Age of Revolutions	2
 THA 132	Basic Communication Theory	3
-Total	 	18/19
-SECOND YEAR
-
-FIRST SEMESTER
-
-Course Code	Course Title	Units
- 	Major Courses	 
 MAC 201	Theories of Mass Communication	2
 MAC 203	Reporting	2
 MAC 205	Graphics of Mass Communication	2
@@ -62,49 +32,27 @@ MAC 211	Critical and Review Writing	2
 MAC 221	Announcing and Performance	2
 MAC 241	Principles of Public Relations	2
 MAC 261	Introduction to Film	2
-General Studies Courses       
-
 GSP 105	Natural Science I	2
 GSP 201	Peace and Conflict Resolution I	2
-Required Ancillary Course
-
 COS 101	Introduction to Computer Science	2
-Electives: Choose one of the following courses:
-
 MAC 243	Marketing Foundations for Advertising and Public Relations	2
 POL  101	Introduction to Political Science I	2
 POL  211	Nigerian Politics and Government I	2
 SOC 101	Introduction to Sociology I	2
-Total	 	22
-SECOND SEMESTER
-
-Course Code	Course Title	Units
- 	Major Courses	 
 MAC 202	Media and Society	2
 MAC 204	Information and Communication Technologies	2
 MAC 212	News Writing	3
 MAC 222	Principles of Broadcasting	2
 MAC 242	Principles of Advertising	2
 MAC 252	Media Attachment	2
-General Studies Courses
-
 GSP 106	Natural Science II	2
 GSP 202	Peace and Conflict Resolution II	2
-Electives: Choose two of the following courses:
-
 MAC 244	Fundamentals of Media Relations	2
 POL  102	Introduction to Political Science II	2
 POL  212	Nigerian Politics and Government II	2
 PSY  103	Determinants of Behaviour	2
 SOC 102	Introduction to Sociology II	2
 SOC 251	Social Changes and Social Problems	3
-Total	 	21/22
-THIRD YEAR
-
-FIRST SEMESTER
-
-Course Code	Course Title	Units
- 	Major Courses	 
 MAC 301	Development Journalism	2
 MAC 311	Feature and Interpretative Writing	3
 MAC 313	Magazine Article Writing	3
@@ -112,20 +60,11 @@ MAC 321	Radio/TV Programme Writing and Production	2
 MAC 331	News Editing	2
 MAC 333	Fundamentals of Book Publishing	2
 MAC 361	Photojournalism	2
-Required Ancillary Course
-
 CED 341	Introduction to Entrepreneurship	2
-Electives: Choose two of the following courses:
-
 MAC 323	Public Affairs Broadcasting	2
 MAC 341	Financial Relations	2
 MAC 343	Advertising Creative Strategies and Tactics	2
 MAC 345	Consumer Affairs	2
-Total	 	22
-SECOND SEMESTER
-
-Course Code	Course Title	Units
- 	Major Courses	 
 MAC 302	Specialised Reporting	2
 MAC 312	Editorial Writing	2
 MAC 322	Broadcast Programming	2
@@ -134,21 +73,10 @@ MAC 334	Magazine Production	2
 MAC 352	Media Attachment	2
 MAC 382	Introduction to Mass Communication Research	2
 MAC 384	Advertising and Public Relations Research	2
-Required Ancillary Courses
-
 COS  304	Computer Applications	3
 CED  342	Business Development and Management	2
-Electives: Choose one of the following courses:
-
 MAC 314	Broadcast Commentary and Critical Writing	2
 MAC 342	Community Relations	2
-Total	 	23
-FOURTH YEAR
-
-FIRST SEMESTER
-
-Course Code	Course Title	Units
- 	Major Courses	 
 MAC 401	Mass Communication Law and Ethics	2
 MAC 403	International Communication	2
 MAC 421	Advanced Radio/TV Production	2
@@ -156,25 +84,16 @@ MAC 431	Advanced Newspaper Production	2
 MAC 433	Advanced Magazine Production	2
 MAC 435	Print Seminar	2
 MAC 441	Advanced Public Relations	2
-Electives: Choose two of the following courses:
-
 MAC 423	Station Management and Operations	2
 MAC 425	International Broadcasting	2
 MAC 443	International Public Relations	2
 MAC 445	Organisation and Management of Advertising and Public Relations Agencies	2
-Total	 	18
-SECOND SEMESTER
-
-Course Code	Course Title	Units
- 	Major Courses	 
 MAC 402	Media Management	2
 MAC 422	Broadcast Seminar	2
 MAC 442	Advanced Advertising	2
 MAC 462	Documentary Film Production	2
 MAC 490	Project	6
-Electives: Choose two of the following courses:  
-
-  MAC 412	Film Criticism	2
+MAC 412	Film Criticism	2
 MAC 424	Educational Broadcasting	2
 MAC 444	Special Topics in Advertising & Public Relations	2
-MAC 446	Multinational Advertising
+MAC 446	Multinational Advertising 2

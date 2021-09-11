@@ -1,4 +1,3 @@
-ajor Courses                                                                                                        Units
 
 HIS 101                        Introduction to History                                                             2
 
@@ -10,29 +9,17 @@ HIS 121                        Africa, 1500 to 1800                             
 
 HIS 131                        Europe to the French Revolution                                             3
 
-Required Ancillary Courses
 
 ARCHY 101      Fundamentals of Archaeology                                                           2
 
-General Studies Courses
 
 GSP 101           The Use of English I                                                                             2
 
 GSP 103           Social Science I                                                                                     2
 
-Electives
-
-Chooses one elective from the courses below.  
-
-POL SC 101      Introduction to Political Science I                                                        2
+POLSC 101      Introduction to Political Science I                                                        2
 
 M C 101            Introduction to Mass Communication I                                                2
-
-                         Total                                                                                                        21
-
-Second Semester
-
-Major Courses                                                                                                             Units
 
 HIS 102                        Introduction to Economic History                                                  2
 
@@ -48,27 +35,15 @@ HIS 132            Europe from the French Revolution to the Second World War    
 
 HIS 144                        Blacks in Diaspora                                                                           2
 
-General Studies Courses
 
 GSP 102           The Use of English II                                                                                   2
 
 GSP 104           Social Science II                                                                                           2
 
-Electives
 
-Choose one elective from the courses below:
 
-POL SC 102                                                                                                                           2
+MC 102            Introduction to Mass Communication II                                                     2
 
-M C 102            Introduction to Mass Communication II                                                     2
-
-                         Total                                                                                                             21
-
-SECOND YEAR
-
-First Semester
-
-Major courses                                                                                                                 Units
 
 HIS 213            Diplomatic History of Nigeria since 1960                                                    2
 
@@ -82,9 +57,6 @@ HIS 223            Europe from the Second World War to the Present              
 
 HIS 251            South East Asia since the 19th Century                                                         2
 
-Required Ancillary Courses
-
-Choose one of foreign language below:
 
 FRE 101           Elementary French I                                                                                      2
 
@@ -92,25 +64,15 @@ GER 101           Elementary German I                                           
 
 RUS 101           Elementary Russian I                                                                                   2
 
-General Courses
 
 GSP 105           Natural Science I                                                                                          2
 
 GSP 201           Peace and Conflict Resolution Studies I                                                      2
 
-Electives
-
-Choose one elective course below:
-
 HIS 205            Comparative World Revolutions since 1900                                                2
 
-POL SC 231      Principles of Public Administration                                                             2
+POLSC 231      Principles of Public Administration                                                             2
 
-                          Total                                                                                                            18
-
-Second Semester
-
-Major Courses                                                                                                                   Units
 
 HIS 206            Political Thought                                                                                              3
 
@@ -124,37 +86,20 @@ HIS 242            Latin American since the 15ht Century                        
 
 HIS 244            U. S. A., 1607 to 1865                                                                                       3
 
-Required Ancillary Courses
-
-Choose one foreign language from below:
-
 FRE 102           Elementary French II                                                                                         2
 
 GER 102           Elementary German II                                                                                       2
 
 RUS 102           Elementary Russian II                                                                                        2
 
-General Studies Courses
 
 GSP 106           Natural Science II                                                                                               2
 
 GSP 202           Peace and Conflict Resolution Studies II                                                           2
 
-Electives
+POLSC 241    Fundamental of Political Economy                                                                   3
 
-Choose one elective from below:
-
-POL. SC. 241    Fundamental of Political Economy                                                                   3
-
-POL. SC. 251    Political Ideas                                                                                                    2
-
-                          Total                                                                                                             22/23   
-
-THIRD YEAR
-
-First Semester
-
-Major Courses                                                                                                                         Units
+POLSC 251    Political Ideas                                                                                                    2
 
 HIS 301  Comparative Industrial Growth in the USA, Russia, Japan, China and Britain               3
 
@@ -166,10 +111,6 @@ HIS 343            U. S. A. since 1865                                          
 
 HIS 361            Historiography                                                                                                        3
 
-Required Ancillary Courses
-
-Choose one Foreign Language from below:
-
 FRE 201           Intermediate French 1                                                                                              2
 
 GER 201           Intermediate German 1                                                                                            2
@@ -180,12 +121,6 @@ CS 101               Introduction to Computer Science                           
 
 CEDR 341        Entrepreneurial Development and Research                                                           2
 
-                         Total                                                                                                                        21
-
-Second Semester
-
-Major Courses                                                                                                                            Units
-
 HIS 302            Issues in International Relations I                                                                          2
 
 HIS 322            Problems and Prospects of Regional Economic Development in Africa              3
@@ -193,10 +128,6 @@ HIS 322            Problems and Prospects of Regional Economic Development in Af
 HIS 332            Russia since 1917                                                                                                   3
 
 HIS 352            Japan from Tokugawa to the Meiji Restoration                                                      3
-
-Required Ancillary Courses
-
-Choose one foreign language below:
 
 FRE 202           Intermediate French II                                                                                             2
 
@@ -208,23 +139,11 @@ CS 304              Computer in Sectoral Application                            
 
 CEDR 342        Entrepreneurial Development and Research                                                           2
 
-Choose on elective from below:
-
 POL. SC. 321    Theories of International Relations                                                                        3
 
 POL. SC. 322    Politics of International Economic Relations                                                         3
 
-                          Total                                                                                                                       21
-
-FOURTH YEAR
-
-First Semester
-
-Major Courses                                                                                                                              Units
-
-HIS 401            Development of Parliamentary/Presidential
-
-Systems (Britain, France, India and USA)                                                                                           3
+HIS 401            Development of Parliamentary/Presidential Systems (Britain, France, India and USA)                                                                                           3
 
 HIS 403            History of Science and Technology                                                                            3
 
@@ -234,13 +153,7 @@ HIS 413            Economic History of Nigeria since 1800                       
 
 HIS 415            Igbo land to the Present                                                                                               3
 
-HIS 451            Contemporary Middle East                                                                                          2
-
-                         Total                                                                                                                           15
-
-Second Semester
-
-Major Courses                                                                                    
+HIS 451            Contemporary Middle East                                                                                          2                                                            
 
 HIS 402            Issues in International Relations II                                                                               2
 
@@ -248,9 +161,7 @@ HIS 404            Philosophy of History                                        
 
 HIS 406            Conflict, War and Peace since 1900                                                                             2
 
-HIS 408            International/Continental Organizations (Commonwealth,
-
-OAU/AU. Arab League, ASEAN, EU, OAS,)                                                                                      3
+HIS 408            International/Continental Organizations (Commonwealth, OAU/AU. Arab League, ASEAN, EU, OAS,)                                                                                      3
 
 HIS 422             Africa since 1800                                                                                                        3
 

@@ -8,6 +8,8 @@ for line in lines:
     course = line.split()
     list_of_courses.append(course)
 for course in list_of_courses:
+    if not course:
+        continue
     course.pop()
     dept_prefix = course[0]
     course_number = course[1]
@@ -17,3 +19,4 @@ for course in list_of_courses:
 
 print(final_result)
 print(json.dumps(final_result, indent = 4))
+

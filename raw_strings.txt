@@ -10,13 +10,16 @@ GSP    111	Use of Library & Study Skills	2
 ENGR    102	Applied Mechanics	3
 MTH    122	Elementary Mathematics III	3
 CHM    112	Basic Principles of Chemistry II	2
+
 CHM    122	Basic Principles of Chemistry III	2
 PHY    116	General Physics for Physical Science II	2
 PHY    124	Fundamentals of Physics III	3
 GSP    102	Basic Grammar & Varieties of Writing	2
 CVE    211	Strength of Materials I	2
 CVE    212	Strength of Materials Laboratory I	1
+
 ENGR    201	Material Science	2
+
 ENGR    202	Material Science Laboratory	1
 ME    211	Engineering Drawing	2
 ME    261	Thermodynamics and Heat Engines	2

@@ -1,150 +1,67 @@
 MAN 101	Elements of Business Economics I	2
 MAN 103	Business Mathematics I	3
-Required Ancillary Courses
 COS 101	Introduction to Computer Science	3
 FRE 101	Elementary French I	2
 ACC 101	Elements of Accounting I	3
 BAF 101	Introduction to Finance	2
-General Studies
 GSP 101	The Use of English I	2
 GSP 105	Natural Science I	2
-Electives (Choose a maximum of 2 Units from Under Listed Courses)
 PSY 101	Introduction to Psychology I	2
 SOC 101	Introduction to Sociology I	2
-21
  
 
-FIRST YEAR                                                          
-
-SECOND SEMESTER
-
-Major Courses
-
-COURSE CODE	             COURSE  TITLE	UNITS
 MAN 102	Elements of Business Economics II	2
 MAN 104	Business Mathematics II	3
 MAN 106	Introduction to Business	2
-Required Ancillary Courses
 FRE 102	Elementary French II	2
 ACC 102	Elements of Accounting II	3
-General Studies
 GSP 102	The Use of English II	2
 GSP 106	Natural Science II	2
-Electives (Choose a maximum of 2 units from Under Listed Courses)
 PSY 102	Introduction to Psychology II	2
 SOC 102	Introduction to Sociology II	2
-Total		18
- 
-
-SECOND YEAR
-
-FIRST SEMESTER
-
- Major Courses
-
-COURSE CODE	             COURSE  TITLE	UNITS
 MAN 201	Elements of Management	2
 MAN 231	Business Statistics I	2
 MAN 241	Business Microeconomic Theory	2
-Required Ancillary Courses
 ACC 201	Introduction to Financial Accounting I	3
 MKT 201	Elements of Marketing	3
 ACC 211	Introduction to Cost and Management Accounting	3
-General Studies
-GSP201	Social Science I	2
+GSP 201	Social Science I	2
 GSP 207	Humanities	2
-Total	19
- 
-
-SECOND YEAR                                                     
-
-SECOND SEMESTER
-
-Major Courses
-
-COURSE CODE	             COURSE  TITLE	UNITS
 MAN 222	Production Management	2
 MAN 232	Business Statistics II	2
 MAN 242	Business Macroeconomic Theory	2
 MAN 244	Labour Economics	2
-Required Ancillary Courses
 ACC 202	Introduction to Financial Accounting	3
 COS 304	Computer Applications	3
-General Studies
 GSP 202	Social Science II	2
 GSP 208	Humanities	2
-Total	18
- 
-
-THIRD YEAR
-
-FIRST SEMESTER
-
-Major Courses
-
-COURSE CODE	             COURSE  TITLE	UNITS
 MAN 311	   Human Resource Management	2
 MAN 331	  Quantitative Methods for Business	2
 MAN 361	 Principles of Small Business Management	2
 MAN 371	Management Theory	2
-Required Ancillary Courses
 LAW 211	Basic Business Law	3
 ACC 311	Cost Accounting I	2
 BAF 311	Monetary Theory and Practice	3
 BAF 331	Financial Management I	2
 MKT 351	Consumer Behaviour Analysis	3
-Total	21
- 
-
-THIRD YEAR                                                         
-
-SECOND SEMESTER
-
-Major Courses
-
-COURSE CODE	             COURSE  TITLE	UNITS
 MAN 312	Organisational Behaviour	2
 MAN 352	Government and business	2
 MAN 354	International Business Management	3
 MAN 372	Business Ethics and Social Responsibilities	2
 MAN 382	Research Methodology	3
-Required Ancillary Courses
 ACC 312	Cost Accounting II	2
 BAF 332	Financial Management II	2
-Total	16
- 
-
-FOURTH YEAR
-
-FIRST SEMESTER
-
-Major Courses
-
-COURSE CODE	             COURSE  TITLE	UNITS
 MAN 411	Industrial Relations	2
 MAN 461	Business Policy	 3
 MAN 463	Entrepreneurial Development	2
 MAN 471	Comparative Management	2
 MAN 473	Advanced Management Theory	
-Required Ancillary Courses
 MKT 401	Marketing Management	 3
 ACC 411	Management Accounting I	2
 BAF 451	Capital Market and Portfolio Theory	3
-Total	19
- 
-
-FOURTH YEAR                                                     
-
-SECOND SEMESTER
-
-Major Courses
-
-COURSE CODE	             COURSE  TITLE	UNITS
 MAN 412	Comparative Industrial Relations	2
 MAN 432	Analysis for Business Decisions	3
 MAN462	Business Policy II	3
 MAN 472	Corporate Planning and Strategic Management	3
 MAN 492	Project	6
-Required Ancillary Courses
 ACC 412	Management Accounting II	2
-Total	19
