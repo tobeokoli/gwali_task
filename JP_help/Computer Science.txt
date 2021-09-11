@@ -1,504 +1,76 @@
-BSc Computer Science
-
-First Year: 1st Semester
-
-Grouping	Course No/Level	Course Subject	 	
-Units	
-a)   General Studies	GSP 101
-GSP 111
-
-Use of English I
-Use of Library
-
-2
-2
-
- 
-b)   Core/Compulsory
-       Courses
-
-COS 101	Introduction to Computer Science	2	 
-c)   Required Ancillary
-       Courses
-
-MTH 111
-MTH 121
-
-PHY 115
-
-PHY 191
-
-Elementary Mathematics
-Elementary Mathematics II
-
-General Physics for Physical Sciences I
-
-Practical Physics
-
-3
-3
-
-2
-
- 
-
- 
-d)   Elective/Optional
-       Courses
-
-BIO 151
-CHM 101
-
-Engr. 101
-
-STA 111
-
-STA 131
-
-General Biology I
-Basic Principles of Chemistry I
-
-Introduction to Engineering I
-
-Probability I
-
-Inference
-
-3
-2
-
-2
-
-2
-
-2
-
- 
-Total Required	 	 	16/17	 
-First Year: 2nd Semester
-
-Grouping	Course No/Level	Course Subject	 	
-Units	
-a)   General Studies	GSP 102	Use of English II	2	 
-b)   Core/Compulsory
-       Courses
-
-COS 102
-COS 104
-
-Introduction to Computer System
-Computing Practice
-
-2
-2
-
- 
-c)   Required Ancillary
-       Courses
-
-MTH 122
-PHY 116
-
-PHY 118
-
-Elementary Mathematics III
-General Physics for Physical Sciences II
-
-General Physics for Physical Sciences III
-
-3
-2
-
-2
-
- 
-d)   Elective/Optional
-       Courses
-
-BIO 152
-CHM 111
-
-Engr. 102
-
-MTH 132
-
-STA 112
-
-STA 132
-
-STA 172
-
-General Biology II
-Basic Principles of Chemistry II
-
-Applied Mechanics
-
-Elementary Mathematics IV
-
-Probability II
-
-Inference II
-
-Laboratory for Inference I
-
-3
-2
-
-3
-
-3
-
-2
-
-2
-
-2
-
- 
-Total Required	 	 	16/17	 
-Second Year: 1st Semester
-
-Grouping	Course No/Level	Course Subject	 	
-Units	
-a)   General Studies	GSP 201
-GSP 207
-
-Basic Concepts & Theory of Peace
-Humanities I
-
-2
-2
-
- 
-b)   Core/Compulsory	COS 201
-COS 251
-
-Computer Programming I
-Machine and Assembly Language
-
-2
-2
-
- 
-c)   Required Ancillary
-       Courses
-
-MTH 215
-STA 205
-
-Linear Algebra I
-Statistics for Physical Sciences & Engr. I
-
-2
-2
-
- 
-d)   Elective/Optional
-       Courses
-
-EE 211
-MTH 211
-
-MTH 221
-
-Basic Electrical Engineering
-Set Logic And Algebra
-
-Real Analysis I
-
-3
-3
-
-3
-
- 
-Total Required	 	 	17/18	 
-Second Year: 2nd Semester
-
-Grouping	Course No/Level	Course Subject	 	
-Units	
-a)   General Studies	GSP 208
-GSP 202
-
-Humanities II
-Issues in Peace & Conflict Resolution studies
-
-2
-2
-
- 
-b)   Core/Compulsory
-       Courses
-
-COS 202
-COS 222
-
-Computer Programming II
-File Processing
-
-2
-2
-
- 
-d)   Elective/Optional
-       Courses
-
-MTH 216
-MTH 222
-
-MTH 242
-
-STA 206
-
-Linear Algebra II
-Elementary Differential Equation I
-
-Mathematical Methods I
-
-Statistics for Physical Sciences & Engr.
-
-2
-3
-
-3
-
-2
-
- 
-Total Required	 	 	16/18	 
-Third Year: 1st Semester
-
-Grouping	Course No/Level	Course Subject	 	
-Units	
-b) Core/Compulsory
-     Courses
-
-COS 301
-COS 303
-
-COS 311
-
-COS 331
-
-COS 333
-
-COS 341
-
-Introduction to Digital Design
-Introduction to Micro Computer Systems
-
-Numerical Methods I
-
-Compiler Construction
-
-Operating Systems I
-
-Computer Architecture
-
-2
-2
-
-2
-
-2
-
-2
-
-2
-
-d) Elective/Optional
-     Courses
-
-MTH 341
-OR
-
-COS 313
-
-COS 315
-
-COS 321
-
-COS 335
-
-ECE 311
-
-ECE 321
-
-Discrete Mathematics I
- 
-
-Switching Algebra & Discrete Structures
-
-Operation Research I
-
-Data Base Design & Management I
-
-Systems Analysis & Design
-
-Circuit Theory I
-
-Physical Electronics
-
-2
- 
-
-2
-
-2
-
-2
-
-2
-
-2
-
-3
-
- 
-Total Required	 	 	16/17	 
-Third Year: 2nd Semester
-
-Grouping	Course No/Level	Course Subject	 	
-Units	
-b) Core/Compulsory
-     Courses
-
-COS 352
-COS 372
-
-COS 374
-
-Data Structures
-Laboratory for Digital Design
-
-Student Industrial Work Experience
-
-2
- 
-
- 
-d) Elective/Optional
-     Courses
-
-COS 314
-OR
-
-MTH 342
-
-COS 316
-
-COS 322
-
-COS 334
-
-COS 342
-
-ECE 312
-
-ECE 332
-
-Switching Algebra and Discrete Struct. II
- 
-
-Discrete Mathematics II
-
-Automata Theory & Formal Languages
-
-Data Base Design & Management II
-
-Operating System II
-
-Computer Architecture II
-
-Circuit Theory II
-
-Applied Electronics
-
-2
- 
-
-2
-
-2
-
-2
-
-2
-
-2
-
-3
-
-2
-
- 
-Total Required	 	 	16/17	 
- 
-
-Fourth Year: 1st Semester
-
-Grouping	Course No/Level	Course Subject	 	
-Units	
-b) Core/Compulsory
-     Courses
-
- 
-
-COS 451
-COS 461
-
-COS 471
-
-Algorithms
-Organisation of Programming Languages
-
-Project
-
-2
-2
-
-–
-
- 
-d) Elective/Optional
-     Courses
-
-COS 415
-COS 411
-
-COS 413
-
-COS 431
-
-COS 453
-
-COS 455
-
-COS 457
-
-Systems Modelling & Simulation
-Numerical Methods
-
-Queing Theory
-
-Software Engineering & Management
-
-Computer Process Control
-
-Data Communication & Networks I
-
-Computer Graphics
-
-2
-2
-
-2
-
-2
-
-2
-
-2
-
-2
-
+GSP 111 Use of Library 2
+GSP 101 Use of English I 2
+COS 101 Introduction to Computer Science	2	 
+MTH 111 Elementary Mathematics     2
+MTH 121 Elementary Mathematics II  2
+PHY 115 General Physics for Physical Sciences I 2
+PHY 191 Practical Physics 2
+BIO 151 General Biology I 2
+CHM 101 Basic Principles of Chemistry I 2
+Engr. 101 Introduction to Engineering I 2
+STA 111 Probability I 2
+STA 131 Inference 2
+GSP 102 Use of English II	2	 
+COS 102 Introduction to Computer System 2
+COS 104 Computing Practice 2
+MTH 122 Elementary Mathematics III 2
+PHY 116 General Physics for Physical Sciences II 2
+PHY 118 General Physics for Physical Sciences II 2
+BIO 152 General Biology II 2
+CHM 111 Basic Principles of Chemistry II 2
+Engr. 102 Applied Mechanics 2
+MTH 132 Elementary Mathematics IV 2
+STA 112 Probability II 2
+STA 132 Inference II 2
+STA 172 Laboratory for Inference I 2 	
+GSP 201 Basic Concepts & Theory of Peace 2
+GSP 207 Humanities I 2
+COS 201 Computer Programming I 2
+COS 251 Machine and Assembly Language 2
+MTH 215 Linear Algebra I 2
+STA 205 Statistics for Physical Sciences & Engr. I 2
+EE 211 Basic Electrical Engineering 2
+MTH 211 Set Logic And Algebra 2
+MTH 221 Real Analysis I 2
+GSP 208 Humanities II 2
+GSP 202 Issues in Peace & Conflict Resolution studies 2
+COS 202 Computer Programming II 2
+COS 222 File Processing 2
+MTH 216 Linear Algebra II 2
+MTH 222 Elementary Differential Equation I 2
+MTH 242 Mathematical Methods I 2
+STA 206 Statistics for Physical Sciences & Engr. 2
+COS 301 Introduction to Digital Design 2
+COS 303 Introduction to Micro Computer Systems 2
+COS 311 Numerical Methods I 2
+COS 331 Compiler Construction 2
+COS 333 Operating Systems I 2
+COS 341 Computer Architecture 2
+MTH 341 Discrete Mathematics I 2
+COS 313 Switching Algebra & Discrete Structures 2
+COS 315 Operation Research I 2
+COS 321 Data Base Design & Management I 2
+COS 335 Systems Analysis & Design 2
+ECE 311 Circuit Theory I 2
+ECE 321 Physical Electronics 3
+COS 352 Data Structures 2
+COS 372 Laboratory for Digital Design 2
+COS 374 Student Industrial Work Experience 2
+COS 314 Switching Algebra and Discrete Struct. II 2
+MTH 342 Discrete Mathematics II 2 
+COS 316 Automata Theory & Formal Languages 2 
+COS 322 Data Base Design & Management II 2
+COS 334 Operating System II 2
+COS 342 Computer Architecture II 2
+ECE 312 Circuit Theory II 2 
+ECE 332 Applied Electronics 2
+COS 451 Algorithms 2
+COS 461 Organisation of Programming Languages 2
+COS 471 Project 2
+COS 415 Systems Modelling & Simulation 2
+COS 411 Numerical Methods 2 
+COS 413 Queing Theory 2
+COS 431 Software Engineering & Management 2
+COS 453 Computer Process Control 2
+COS 455 Data Communication & Networks I 2 
+COS 457 Computer Graphics 2
