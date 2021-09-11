@@ -1,32 +1,16 @@
-	Units	 
-GS 105                           Natural Science I	2	 
- 	 	 
-Required Ancillary Courses	 	 
+GS 105                           Natural Science I	2	 	 	 
 HED 232                        School Health	2	 
 CED 341                        Introduction to Entrepreneurship	2	 
- 	17	 
-2ND SEMESTER	 	 
-zMajor Courses	 	 
-Course code                  Title	Units	 
 ED 315                           Psychological Testing & Counseling	2	 
 ED 316                           Organization & Administration of Guidance	2	 
 ED 317                           Practicum in G & C I	2	 
 ED 318                           Behaviour Modification II	2	 
 ED 321                           Curriculum Implementation and Instruction	3	 
 ED 323                           Pre-school Education	2	 
-ED 326                           Language Education	2	 
- 	 	 
-Required Ancillary Courses	 	 
-Course code                  Title	Units	 
+ED 326                           Language Education	2	  	 	 
 COS 304                        Computer Application	2	 
-CED 342                        Business Development & Management	2	 
- 	 	 
-General Studies Courses	 	 
-Course code                  Title	Units	 
+CED 342                        Business Development & Management	2	  	 	 
 GSP 106                         Natural Science II	2	 
- 	22	 
-3RD YEAR 1ST SEMESTER	 	 
-Course code                  Title	Units	 
 ED 327                           Assessment & Programming for Special Children	2	 
 ED 411                           Organization & Administration of Guidance Ser	2	 
 ED 415                           Counseling Techniques	2	 
@@ -34,25 +18,14 @@ ED 416                           Ethical and Professional Resp. in Counseling	2
 ED 417                           Practicum in G & C II	3	 
 ED 431                           Educational Admin & Planning	2	 
 ED 204                           Environmental Education	2	 
- 	15	 
-2ND SEMESTER	 	 
-Course code                  Title	Units	 
 ED 412                           Abnormal Psychology & Education	4	 
 ED 427                           Counseling Special Edu. Pupils	2	 
 ED 429                           Vocational Edu. & Rehabilitation of Special Children	2	 
 ED 442                           Measurement & Evaluation	3	 
 ED 451                           Project	4	 
 ED 433                           Classroom Organization & Management	2	 
- 	 	 
-Required Ancillary Courses	 	 
-Course code                  Title	Units	 
 ED 322                           School Librarianship	2	 
-ED 426                           Adult Education & Community Development	2	 
-21	 
- 	 
-4 YEARS STANDARD DEGREE PROGRAMME GUIDANCE AND COUNSELING/ SOCIAL STUDIES	 
-FIRST YEAR 1ST SEMESTER	 	 
-Course code                  Title	Units	 
+ED 426                           Adult Education & Community Development	2	  	 
 COS 101                        Introduction to Computer Science	2	 
 ED 101                           Introduction to Education	2	 
 ED 102                           History of Education	2	 
@@ -62,23 +35,15 @@ ED 221                           Curriculum Theory and Development	3
 GSP 101                         Communication in English I	2	 
 GSP 111                         The Use of Library and Study Skills	2	 
 SS 100                            Elements of Social Studies	3	 
-                                       Total Units	20	 
- 	 	 
-2ND SEMESTER	 	 
-Course Code                 Title	Units	 
 ED 201                           Philosophy of Education	2	 
 ED 214                           Sensitivity training	2	 
 ED 216                           Counseling Theories	2	 
 ED 217                           Group Procedure in Guidance and Counseling	2	 
 GSP 102                         Use of English	2	 
-SS 101                            Structured Characteristics of Man’s Place	2	 
+SS 101                            Structured Characteristics of Manï¿½s Place	2	 
 SS 102                            Introduction to Nigeria Social Life & Culture	2	 
 SS 112                            Community Life & Development	2	 
 ED 205                           Sociology of Education	2	 
-                                       Total Units	20	 
- 	 	 
-2ND YEAR COURSES 1ST SEMESTER	 	 
-Course code                  Title	Units	 
 ED 215                           Vocational Development & Adjustment	2	 
 ED 218                           Behaviour Modification	2	 
 GSP 105                         Natural Science I	2	 
@@ -86,9 +51,6 @@ GSP 201                         Basic Concept and Theory of Peace	2
 SS 201                            Study of Matter and Space	3	 
 SS 202                            Social Interaction in Nigeria	3	 
 SS 203                            Social Studies Education and Nation Building	3	 
-                                       Total Units	15	 
-2ND SEMESTER	 	 
-Course code                  Title	Units	 
 ED 222                           Special Methods	3	 
 ED 317                           Practicum in G & C I	2	 
 ED 321                           Curriculum Implementation and Instruction I	3	 
@@ -96,26 +58,15 @@ GSP 106                         Natural Science II	2
 GSP 202                         Issues in Peace & Conflict Resolution Studies	2	 
 SS 204                            Nigeria Socio-Political Institutions	3	 
 SS 205                            Economic Structure of Nigeria	3	 
-GEOG                            Introduction to Natural Hazards	3	 
+GEOG  .                        Introduction to Natural Hazards	3	 
 ED 311                           Educational Psychology II	2	 
-                                       Total Units	23	 
- 	 	 
- 	 	 
-3RD YEAR 1ST SEMESTER	 	 
-Course code                  Title	Units	 
 CED 341                        Introduction to Entrepreneurship	2	 
 ED 312                           Personality Development	2	 
 ED 313                           Adolescent and Education	2	 
 ED 341                           Research Method, Statistics & Computer Usage	3	 
 ED 325                           Teaching Practice I	3	 
-SS 305                            Finance & Financial Institutions in Nigeria
-SS 306                            Nigeria Cultural Patterns & Historical Origin
-
-3
-2	 
-                                       Total Units	18	 
- 	 	 
-3RD YEAR 2ND SEMESTER	 	 
+SS 305                            Finance & Financial Institutions in Nigeria 2
+SS 306                            Nigeria Cultural Patterns & Historical Origin 2	 	 
 ED 219                           Educational & Occupational Information	2	 
 ED 224                           Educational Technology	2	 
 SS 301                            Study of Events in Space	3	 
@@ -124,10 +75,6 @@ CED 342                        Business Development & Management	2
 ED 315                           Psychological Testing & Counseling	2	 
 ED 316                           Organization & Administration of Guidance	2	 
 ED 318                           Behaviour Modification II	2	 
-                                       Total Units	21	 
- 	 	 
-FOURTH YEAR COURSES (FINAL YEAR) 1ST SEMESTER	 	 
-Course code                  Title	Units	 
 ED 425                           Teaching Practice II	3	 
 ED 411                           Organization & Administration of Guidance Ser	2	 
 ED 204                           Environmental Education	2	 
@@ -136,23 +83,13 @@ ED 416                           Ethical and Professional Resp. in Counseling	2
 ED 417                           Practicum in G & C II	3	 
 HED 232                        School Health	2	 
 SS 401                            Study of Ideas in Space	3	 
-SS 403                            Social Studies Education, Problems & Prospect	 	 
-                                       Of Nation Building	3	 
-                                       Total Units	22	 
- 	 	 
-2ND SEMESTER	 	 
-Course code                  Title	Units	 
+SS 403                            Social Studies Education, Problems & Prospect	Of Nation Building	3	  	 	 
 ED 441                           Measurement & Evaluation	2	 
 ED 433                           Classroom Organization & Management	2	 
 SS 411                            Contemporary World Issues	3	 
 SS 421                            Africa and Developing Nations	3	 
-ED 427                           Counseling Special Edu. Pupil’s Family	2	 
-ED 451                           Project	4	 
-                                       Total Units	16	 
- 	 	 
-GUIDANCE AND COUNSELING/HISTORY	 	 
-1ST YEAR AST SEMESTER	 	 
-Course Code                 Title	Units	 
+ED 427                           Counseling Special Edu. Pupilï¿½s Family	2	 
+ED 451                           Project	4	  	 	 
 COS 101                        Introduction to Computer Science	2	 
 ED 101                           Introduction to Education	2	 
 ED 102                           History of Education	2	 
@@ -162,12 +99,7 @@ ED 221                           Curriculum Theory and Development	3
 GSP 101                         Communication in English I	2	 
 GSP 111                         The Use of Library and Study Skills	2	 
 HIS 101                         introduction to History	2	 
-HIS 111                         Nigeria up to 1900	3	 
-                                       Total Units	22	 
- 	 	 
- 	 	 
-1ST YEAR 2ND SEMESTER	 	 
-Course Code                 Title	Units	 
+HIS 111                         Nigeria up to 1900	3	  	 	 
 ED 201                           Philosophy of Education	2	 
 ED 214                           Sensitivity training	2	 
 ED 216                           Counseling Theories	2	 
@@ -177,10 +109,6 @@ ED 205                           Sociology of Education	2
 HIS 102                         Introduction to Economic History	2	 
 HIS 132                         Europe from French Revolution to 2nd World War	2	 
 ARCHY 106                  Introduction to Museum	3	 
-                                       Total Units	19	 
- 	 	 
-2ND YEAR COURSES 1ST SEMESTER	 	 
-Course code                  Title	Units	 
 ED 215                           Vocational Development & Adjustment	2	 
 ED 218                           Behaviour Modification	2	 
 GSP 105                         Natural Science I	2	 
@@ -188,9 +116,6 @@ GSP 201                         Basic Concept and Theory of Peace	2
 HIS 213                         Diplomatic History of Nigeria Since 1961	2	 
 HIS 221                         Southern Africa since 1400	2	 
 HIS 223                         East and Central Africa since 1000	2	 
-                                       Total Units	14	 
-2ND SEMESTER	 	 
-Course code                  Title	Units	 
 ED 222                           Special Methods	3	 
 ED 317                           Practicum in G & C I	2	 
 ED 321                           Curriculum Implementation and Instruction I	3	 
@@ -199,34 +124,22 @@ GSP 202                         Issues in Peace & Conflict Resolution Studies	2
 HIS 206                         Political Thought	3	 
 HIS 222                         African & European Imperialism in the 19th & Century	2	 
 HIS 224                         Economy History	2	 
-ED 311                           Educational Psychology II	2	 
-                                       Total Units	22	 
- 	 	 
-3RD YEAR 1ST SEMESTER	 	 
-Course code                  Title	Units	 
+ED 311                           Educational Psychology II	2	  	 	 
 CED 341                        Introduction to Entrepreneurship	2	 
 ED 312                           Personality Development	2	 
 ED 313                           Adolescent and Education	2	 
 ED 341                           Research Method, Statistics & Computer Usage	3	 
 ED 325                           Teaching Practice I	3	 
-HIS 311                         Nigeria from 1900 – 1960	3	 
+HIS 311                         Nigeria from 1900 ï¿½ 1960	3	 
 HIS 321                         Africa and Wider World in the 20th Century	2	 
-                                       Total Units	17	 
- 	 	 
-3RD YEAR 2ND SEMESTER	 	 
 ED 219                           Educational & Occupational Information	2	 
 ED 224                           Educational Technology	2	 
 HIS 332                         Russia since 1917 till Date	3	 
-HIS 322                         Problems & Projects of Regional Economic Dev. In	 	 
-                                       Africa	3	 
+HIS 322                         Problems & Projects of Regional Economic Dev. In Africa	3	 
 CED 342                        Business Development & Management	2	 
 ED 315                           Psychological Testing & Counseling	2	 
 ED 316                           Organization & Administration of Guidance	2	 
-ED 318                           Behaviour Modification II	2	 
-                                       Total Units	21	 
- 	 	 
-FOURTH YEAR COURSES (FINAL YEAR) 1ST SEMESTER	 	 
-Course code                  Title	Units	 
+ED 318                           Behaviour Modification II	2	  	 	 
 ED 425                           Teaching Practice II	3	 
 ED 411                           Organization & Administration of Guidance Ser	2	 
 ED 204                           Environmental Education	2	 
@@ -235,17 +148,12 @@ ED 416                           Ethical and Professional Resp. in Counseling	2
 ED 417                           Practicum in G & C II	3	 
 HED 232                        School Health	2	 
 HIS 403                         Study of Ideas in Space	3	 
-HIS 413                         Social Studies Education, Problems & Prospects	 	 
-                                       Of Nation Building	3	 
-HIS 415                         Igbo Land to the Present	3	 
-                                       Total Units	24	 
- 	 	 
-2ND SEMESTER	 	 
-Course code                  Title	Units	 
+HIS 413                         Social Studies Education, Problems & Prospects Of Nation Building	3	 	 	 
+HIS 415                         Igbo Land to the Present	3	  	 	 
 ED 441                           Measurement & Evaluation	2	 
 ED 433                           Classroom Organization & Management	2	 
-ED 427                           Counseling Special Edu. Pupil’s Family	2	 
+ED 427                           Counseling Special Edu. Pupilï¿½s Family	2	 
 ED 451                           Project	4	 
 HIS 422                         Africa since 1800	3	 
 HIS 402                         Issues in International Relations II	2	 
-HIS 408                         International Continental Organization (Common	 
+HIS 408                         International Continental Organization (Common)	 

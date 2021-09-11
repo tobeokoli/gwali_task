@@ -1,84 +1,70 @@
-Undergraduate First Semester Course Allocation (all options) 2018/2019 Session
-
-S/No.	Course code	Course title	Unit	Staff
-1	ECE 311	Circuit Theory I	3	Ezeja, Ugwu, Amoke
-2	ECE 321	Physical Electronics	3	Nnolim, Ezukwoke, Ogbuanya
-3	ECE 331	Electromagnetic Field and Waves	2	Oyeka, Ogbuka, Nwawelu
-4	ECE 371	System Programming	2	Ezika, Olisa, Udechukwu
-5	ECE 361	Measurement and Instrumentation	3	Anoliefo, Animalu, Nwobi
-6	ECE 421	Applied Electronics II	2	Iloanusi, Ezukwoke, Udechukwu
-7	ECE 441	Communication Principles	3	Ani, Ezeja, Ekengwu
-8	ECE 443	Data Communication and Networking	2	Oyeka, Nwawelu, Amazue
-9	ECE 451	Control Theory	3	Udeze, Ozue, Amoke
-10	ECE 471	Digital Electronics	2	Chijindu, Ozue, Amoke
-11	ECE 473	Digital Logic Theory	3	David, Madukwe, Ogbuanya
-12	ECE 511	Digital Systems Design	3	Nnolim, Anoliefo, Olisa,
-13	ECE 521	Industrial Electronic Design	2	Eneh, Anoliefo, Animalu
-14	ECE 541	Communication Systems	3	Ani, Asiegbu, Ekengwu
-15	ECE 551	Control Engineering	3	Udeze, Eneh, Ndefo
-16	ECE 571	Microprocessor Systems	3	David, Ezika, Madukwe
-17	ECE 573	Software Engineering	2	Oparaku, David, Chijindu
-18	ENG 101	Introduction to Engineering	2	Ezukwoke
-Undergraduate Second Semester Course Allocation (all options) 2018/2019 Session
-
-S/No.	Course code	Course title	Unit	Staff
-1	ECE 272	Engineering Computer Programming	3	Ezeja, Olisa, Ogbuka, Nwobi
-2	ECE 312	Circuit Theory II	3	Ezeja, Anioke, Asiegbu
-3	ECE 322	Physical Electronics II	3	Ezika, Ogbuanya, Amazue
-4	ECE 332	Electromagnetic Fields and Waves	3	Ahaneku, Asiegbu, Ogbuka
-5	ECE 482	Seminars	2	Iloanusi, Nnolim
-6	ECE 494	Technical Writing	3	Chijindu, Madukwe
-7	ECE 512	System Engineering	2	Udeze, Eneh, Ezukwoke
-8	ECE 524	Solid State Electronics	3	Oparaku, Anoliefo
-9	ECE 526*	Optoelectronics	3	Nnolim, Animalu, Ndefo
-10	ECE 544*	Process Control	3	Udeze, Ozue, Ndefo
-11	ECE 546*	Communication Networks	3	Ani, Udechukwu,Amoke
-12	ECE 542	Telecommunication Engineering	2	Ahaneku, Oyeka, Ekengwu
-13	ECE 572*	Computer Systems Design	3	Nnolim, Ugwu
-14	ECE 574	Digital Signal Processing	2	Iloanusi, Nnolim, Amazue
-15	ECE 576*	Microprocessor Systems Design	3	David, Madukwe
-16	ECE 578*	Artificial Intelligence and Robotics	3	Chijindu, Anoliefo
-17	ECE 540*	Introduction to Radar and Navigation System	3	Ahaneku, Nwawelu
-18	ECE 592	Project	4	All staff
-* are undergraduate Elective courses
-
-Postgraduate First Semester Course Allocation (all options) 2018/2019 Session
-
-S/No.	Course code	Course title	Unit	Staff
-1	ECE 600	Dissertation	3	All Staff
-2	ECE 601	Seminars	3	All Staff
-3	PGC 601	Research Methodology and ICT Engineering	3	Oparaku/Ani
-4	ECE 610	Communication Theory	3	Ani/Anioke
-5	ECE 611	Communication Network & Protocols	3	Ahaneku/Oyeka
-6	ECE 613	Network Traffic Control	3	Ani/Anioke
-7	ECE 615	Mobile Communication	3	Ahaneku/Ezeja
-8	ECE 620	Digital Systems Design	3	David/Nnolim
-9	ECE 621	Computer System Architecture I	3	Chijindu/Ezika
-10	ECE 623	Computer System Architecture II	3	Chijindu/Anoliefo
-11	ECE 625	Digital Integrated Electronics	3	Nnolim/Ezika
-12	ECE 633	Linear System	3	Eneh
-13	ECE 631	Optimal Control	3	Eneh
-14	ECE 635	System Modeling and Simulation	3	Udeze
-15	ECE 700	Thesis	6	All Staff
-16	ECE 701	Seminars I	3	All Staff
-17	PGC 701	Synopsis and Research Grant Writing	3	Ani
-18	ECE 710	Network Management and Reliability	3	Ani
-19	ECE 713	Advanced Security Engineering	3	Oparaku/Udeze
-Postgraduate Second Semester Course Allocation (all options) 2018/2019 Session
-
-S/No.	Course code	Course title	Unit	Staff
-1	ECE 600	Dissertation	3	All Staff
-2	ECE 612	Communication Modeling and Simulation	3	Ani/Ezeja
-3	ECE 614	Microwave & Satellite Communication	3	Ahaneku/Oyeka
-4	ECE 622	Software Engineering Development	3	David/Nnolim
-5	ECE 624	Software Engineering & Project Management	3	Chijindu/Ezika
-6	ECE 626	Digital Signal Processing	3	Iloanusi/Nnolim
-7	ECE 628	Biometrics and Image Processing	3	Iloanusi/Ezika
-8	ECE 630	Stochastic Control	3	Eneh
-9	ECE 636	Control Strategies	3	Udeze
-10	ECE 638	System Control	3	Udeze
-11	ECE 700	Thesis	6	All Staff
-12	ECE 702	Seminars II	3	All Staff
-13	ECE 712	Modeling and Simulation Practice	3	Ani
-14	ECE 714	Long Distance Networks	3	Ahaneku
-15	ECE 716	Advanced Signal Processing	3	Iloanusi/Nnolim
+ECE 311	Circuit Theory I	3	
+ECE 321	Physical Electronics	3
+ECE 331	Electromagnetic Field and Waves	2	
+ECE 371	System Programming	2	
+ECE 361	Measurement and Instrumentation	3	
+ECE 421	Applied Electronics II	2	
+ECE 441	Communication Principles	3	
+ECE 443	Data Communication and Networking	2	
+ECE 451	Control Theory	3
+ECE 471	Digital Electronics	2
+ECE 473	Digital Logic Theory	3	
+ECE 511	Digital Systems Design	3
+ECE 521	Industrial Electronic Design	2
+ECE 541	Communication Systems	3
+ECE 551	Control Engineering	3
+ECE 571	Microprocessor Systems	3
+ECE 573	Software Engineering	2	
+ENG 101	Introduction to Engineering	2
+ECE 272	Engineering Computer Programming	3
+ECE 312	Circuit Theory II	3
+ECE 322	Physical Electronics II	3
+ECE 332	Electromagnetic Fields and Waves	3
+ECE 482	Seminars	2
+ECE 494	Technical Writing	3	
+ECE 512	System Engineering	2
+ECE 524	Solid State Electronics	3
+ECE 526	Optoelectronics	3
+ECE 544	Process Control	3
+ECE 546	Communication Networks	3
+ECE 542	Telecommunication Engineering	2
+ECE 572 Computer Systems Design	3
+ECE 574	Digital Signal Processing	2
+ECE 576 	Microprocessor Systems Design	3
+ECE 578	Artificial Intelligence and Robotics	3
+ECE 540	Introduction to Radar and Navigation System	3
+ECE 592	Project	4
+ECE 600	Dissertation	3
+ECE 601	Seminars	3
+PGC 601	Research Methodology and ICT Engineering	3
+ECE 610	Communication Theory	3
+ECE 611	Communication Network & Protocols	3
+ECE 613	Network Traffic Control	3
+ECE 615	Mobile Communication	3	
+ECE 620	Digital Systems Design	3
+ECE 621	Computer System Architecture I	3
+ECE 623	Computer System Architecture II	3
+ECE 625	Digital Integrated Electronics	3
+ECE 633	Linear System	3	
+ECE 631	Optimal Control	3
+ECE 635	System Modeling and Simulation	3
+ECE 700	Thesis	6	
+ECE 701	Seminars I	3
+PGC 701	Synopsis and Research Grant Writing	3
+ECE 710	Network Management and Reliability	3	
+ECE 713	Advanced Security Engineering	3
+ECE 600	Dissertation	3
+ECE 612	Communication Modeling and Simulation	3
+ECE 614	Microwave & Satellite Communication	3	Ahaneku/Oyeka
+ECE 622	Software Engineering Development	3	David/Nnolim
+ECE 624	Software Engineering & Project Management	3	Chijindu/Ezika
+ECE 626	Digital Signal Processing	3	Iloanusi/Nnolim
+ECE 628	Biometrics and Image Processing	3	Iloanusi/Ezika
+ECE 630	Stochastic Control	3	Eneh
+ECE 636	Control Strategies	3	Udeze
+ECE 638	System Control	3	Udeze
+ECE 700	Thesis	6	All Staff
+ECE 702	Seminars II	3	All Staff
+ECE 712	Modeling and Simulation Practice	3	Ani
+ECE 714	Long Distance Networks	3	Ahaneku
+ECE 716	Advanced Signal Processing	3	Iloanusi/Nnolim

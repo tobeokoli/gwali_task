@@ -1,11 +1,12 @@
 import json
 final_result = []
 list_of_courses = []
-with open('agric extension.txt') as f:
+with open('raw_strings.txt') as f:
     lines = f.readlines()
 for line in lines:
     course = line.split()
     list_of_courses.append(course)
+print(course)
 for course in list_of_courses:
     course.pop()
     dept_prefix = course[0]
