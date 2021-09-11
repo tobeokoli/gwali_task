@@ -1,10 +1,7 @@
-
-Grouping	Course No/Level	Course/Subject
-General Studies Courses	GSP 101GSP 201
+GSP 101
 GSP 105
-
 GSP 106
-
+GSP 201
 GSP 202
 
 The Use of English IThe Social Sciences
@@ -13,15 +10,8 @@ Natural Sciences I
 Natural Sciences II
 
 Issues in Peace and Conflict Resolution Studies
-
-(b)Core/Compulsory
-Courses (i) Ed.
-
-Courses
-
- 
-
-ED 102ED 211
+ED 102 History of Education Educational Psychology I
+ED 211
 ED 201
 
 ED 205
@@ -50,7 +40,7 @@ ED 441
 
 ED 451
 
-History of EducationEducational Psychology I
+
 Philosophy of Education
 
 Sociology of Education
@@ -227,7 +217,7 @@ Local Resources in Craft Production
 
 Fundamentals of Playwriting
 
-Children’s Theatre Education
+Childrenï¿½s Theatre Education
 
 Figure Drawing
 
@@ -275,7 +265,7 @@ Theories of Language Teaching
 
 Nigerian Museums
 
-Teaching Children’s Literature
+Teaching Childrenï¿½s Literature
 
 Project
 
