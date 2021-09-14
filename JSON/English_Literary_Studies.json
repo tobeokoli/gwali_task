@@ -1,0 +1,277 @@
+[
+  {
+    "department_prefix": "ELS",
+    "course_number": "101",
+    "course_title": "BASIC LITERARY CONCEPTS"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "102",
+    "course_title": "INTRODUCTION TO NIGERIAN LITERATURE"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "103",
+    "course_title": "INTRODUCTION TO AFRICAN LITERATURE"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "121",
+    "course_title": "BASIC GRAMMAR AND COMPOSITION"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "123",
+    "course_title": "INTRODUCTION TO PHONETICS"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "131",
+    "course_title": "INTRODUCTION TO ORAL LITERATURE"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "140",
+    "course_title": "INTRODUCTION TO DRAMA"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "150",
+    "course_title": "INTRODUCTION TO POETRY"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "160",
+    "course_title": "INTRODUCTION TO FICTION"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "211",
+    "course_title": "AMERICAN LITERATURE: THE BEGINNINGS TO THE ROMANTIC MOVEMENT"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "212",
+    "course_title": "AMERICAN LITERATURE: THE MODERN PERIOD"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "213",
+    "course_title": "ENGLISH LITERATURE: THE RENAISSANCE PERIOD"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "214",
+    "course_title": "ENGLISH LITERATURE: NEO-CLASSICAL PERIOD"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "221",
+    "course_title": "SPOKEN ENGLISH/LAB WORK"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "222",
+    "course_title": "INTERMEDIATE ENGLISH GRAMMAR AND COMPOSITION"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "232",
+    "course_title": "AFRICAN ORAL POETRY"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "240",
+    "course_title": "COMEDY: MOLIERE TO SOYINKA"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "310",
+    "course_title": "CONTEMPORARY AFRICAN AUTHORS"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "311",
+    "course_title": "ENGLISH LITERATURE: ROMANTIC MOVEMENT"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "312",
+    "course_title": "ENGLISH LITERATURE: VICTORIAN PERIOD"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "313",
+    "course_title": "GREEK & ROMAN LITERATURES"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "314",
+    "course_title": "ENGLISH LITERATURE: MODERN PERIOD"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "316",
+    "course_title": "OLD AND MIDDLE ENGLISH LITERATURE"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "321",
+    "course_title": "ADVANCED PROSE COMPOSITION"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "322",
+    "course_title": "HISTORY OF ENGLISH"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "324",
+    "course_title": "PHONOLOGY"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "325",
+    "course_title": "SEMANTICS"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "331",
+    "course_title": "AFRICAN TRADITIONAL VERBAL GENRES"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "332",
+    "course_title": "THE CRITICISM OF ORAL LITERATURE"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "333",
+    "course_title": "AFRICAN ORAL NARRATIVES"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "340",
+    "course_title": "AFRICAN DRAMA"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "351",
+    "course_title": "AFRICAN POETRY"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "361",
+    "course_title": "AFRICAN FICTION"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "370",
+    "course_title": "HISTORY OF CRITICISM"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "371",
+    "course_title": "THEORY AND PRACTICE OF NARRATIVE"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "381",
+    "course_title": "RESEARCH METHODS"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "416",
+    "course_title": "CONTEMPORARY AFRICAN AUTHORS"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "418",
+    "course_title": "CARIBBEAN LITERATURE"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "411",
+    "course_title": "AFRICAN-AMERICAN LITERATURE"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "413",
+    "course_title": "EUROPEAN CONTINENTAL LITERATURE"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "415",
+    "course_title": "WORLD BLACK LITERATURE"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "421",
+    "course_title": "MORPHOLOGY AND SYNTAX"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "422",
+    "course_title": "PROBLEMS OF ENGLISH IN WEST AFRICA"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "423",
+    "course_title": "COMPARATIVE GRAMMAR"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "425",
+    "course_title": "STYLISTICS"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "431",
+    "course_title": "ORAL LITERATURE & MODERN LITERATURE IN AFRICA"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "440",
+    "course_title": "SHAKESPEARE"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "442",
+    "course_title": "STUDIES IN DRAMA"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "444",
+    "course_title": "EUROPEAN DRAMA SINCE IBSEN"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "452",
+    "course_title": "STUDIES IN POETRY"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "461",
+    "course_title": "STUDIES IN FICTION"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "471",
+    "course_title": "MODERN LITERARY THEORY"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "473",
+    "course_title": "MODERN DISCOURSE ANALYSIS"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "480",
+    "course_title": "LITERARY REVIEW WRITING"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "490",
+    "course_title": "PROJECT"
+  }
+]

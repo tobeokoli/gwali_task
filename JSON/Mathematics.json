@@ -1,0 +1,442 @@
+[
+  {
+    "department_prefix": "MTH",
+    "course_number": "111",
+    "course_title": "ELEMENTARY MATHEMATICS I"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "121",
+    "course_title": "ELEMENTARY MATHEMATICS II"
+  },
+  {
+    "department_prefix": "STA",
+    "course_number": "205",
+    "course_title": "STATISTICS FOR PHYSICAL SCIENCES"
+  },
+  {
+    "department_prefix": "COS",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "101",
+    "course_title": "COMMUNICATION IN ENGLISH I"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "111",
+    "course_title": "THE USE OF LIBRARY AND STUDY SKILLS"
+  },
+  {
+    "department_prefix": "PHY",
+    "course_number": "125",
+    "course_title": "FUNDAMENTALS OF PHYSICS I"
+  },
+  {
+    "department_prefix": "PHY",
+    "course_number": "193",
+    "course_title": "PRACTICAL PHYSICS II"
+  },
+  {
+    "department_prefix": "CHM",
+    "course_number": "101",
+    "course_title": "BASIC PRINCIPLES OF CHEMISTRY I"
+  },
+  {
+    "department_prefix": "CHM",
+    "course_number": "171",
+    "course_title": "BASIC PRACTICAL CHEMISTRY"
+  },
+  {
+    "department_prefix": "STA",
+    "course_number": "111",
+    "course_title": "PROBABILITY I"
+  },
+  {
+    "department_prefix": "STA",
+    "course_number": "131",
+    "course_title": "INFERENCE I"
+  },
+  {
+    "department_prefix": "BIO",
+    "course_number": "151",
+    "course_title": "GENERAL BIOLOGY I"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "122",
+    "course_title": "ELEMENTARY MATHEMATICS III"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "132",
+    "course_title": "ELEMENTARY MECHANICS I"
+  },
+  {
+    "department_prefix": "STA",
+    "course_number": "206",
+    "course_title": "STATISTICS FOR PHYSICAL SCIENCES"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "102",
+    "course_title": "COMMUNICATION IN ENGLISH II"
+  },
+  {
+    "department_prefix": "PHY",
+    "course_number": "136",
+    "course_title": "FUNDAMENTAL OF PHYSICS"
+  },
+  {
+    "department_prefix": "PHY",
+    "course_number": "156",
+    "course_title": "FUNDAMENTAL OF PHYSICS III"
+  },
+  {
+    "department_prefix": "CHM",
+    "course_number": "112",
+    "course_title": "BASIC PRINCIPLE OF PHYSICAL CHEMISTRY"
+  },
+  {
+    "department_prefix": "CHM",
+    "course_number": "122",
+    "course_title": "BASIC PRINCIPLE OF ORGANIC CHEMISTRY"
+  },
+  {
+    "department_prefix": "GLG",
+    "course_number": "142",
+    "course_title": "EARTH HISTORY"
+  },
+  {
+    "department_prefix": "STA",
+    "course_number": "112",
+    "course_title": "PROBABILITY II"
+  },
+  {
+    "department_prefix": "STA",
+    "course_number": "132",
+    "course_title": "INFERENCE II"
+  },
+  {
+    "department_prefix": "STA",
+    "course_number": "134",
+    "course_title": "LABORATORY FOR INFERENCE I"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "211",
+    "course_title": "SET, LOGIC AND ALGEBRA"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "215",
+    "course_title": "LINEAR ALGEBRA I"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "221",
+    "course_title": "REAL ANALYSIS I"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "231",
+    "course_title": "ELEMENTARY MECHANICS II"
+  },
+  {
+    "department_prefix": "STA",
+    "course_number": "211",
+    "course_title": "PROBABILITY III"
+  },
+  {
+    "department_prefix": "COS",
+    "course_number": "201",
+    "course_title": "COMPUTER PROGRAMMING I"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "201",
+    "course_title": "BASIC CONCEPTS &THEORY OF PEACE"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "207",
+    "course_title": "LOGIC, PHILOSOPHY AND HUMAN EXISTENCE"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "218",
+    "course_title": "THREE- DIMENSIONAL ANALYTIC GEOMETRY"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "216",
+    "course_title": "LINEAR ALGEBRA II"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "222",
+    "course_title": "ELEMENTARY DIFFERENTIAL EQUATIONS I"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "224",
+    "course_title": "INTRODUCTION TO NUMERICAL ANALYSIS"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "242",
+    "course_title": "MATHEMATICAL METHODS I"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "242",
+    "course_title": "MATHEMATICAL METHODS I"
+  },
+  {
+    "department_prefix": "STA",
+    "course_number": "212",
+    "course_title": "PROBABILITY IV"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "202",
+    "course_title": "ISSUES IN PEACE AND CONFLICT RESOLUTION"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "208",
+    "course_title": "NIGERIAN PEOPLE AND CULTURE"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "311",
+    "course_title": "ABSTRACT ALGEBRA I"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "321",
+    "course_title": "METRIC SPACE TOPOLOGY"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "327",
+    "course_title": "ELEMENTARY DIFFERENTIAL EQUATION II"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "323",
+    "course_title": "COMPLEX ANALYSIS I"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "331",
+    "course_title": "INTRODUCTION TO MATHEMATICAL MODELLING"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "313",
+    "course_title": "GEOMETRY I"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "329",
+    "course_title": "CALCULUS IN RN"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "337",
+    "course_title": "OPTIMIZATION THEORY I"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "339",
+    "course_title": "ANALYTIC DYNAMICS"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "335",
+    "course_title": "INTRODUCTION TO OPERATION RESEARCH"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "341",
+    "course_title": "DISCRETE MATHEMATICS I"
+  },
+  {
+    "department_prefix": "STA",
+    "course_number": "311",
+    "course_title": "PROBABILITY V"
+  },
+  {
+    "department_prefix": "STA",
+    "course_number": "321",
+    "course_title": "DISTRIBUTION THEORY"
+  },
+  {
+    "department_prefix": "STA",
+    "course_number": "331",
+    "course_title": "STATISTICAL INFERENCE IV"
+  },
+  {
+    "department_prefix": "COS",
+    "course_number": "333",
+    "course_title": "SYSTEMS ANALYSIS AND DESIGN"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "312",
+    "course_title": "ABSTRACT ALGEBRA II"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "324",
+    "course_title": "VECTOR AND TENSOR ANALYSIS"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "328",
+    "course_title": "COMPLEX ANALYSIS II"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "326",
+    "course_title": "REAL ANALYSIS II"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "314",
+    "course_title": "GEOMETRY II"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "316",
+    "course_title": "DIFFERENTIAL GEOMETRY"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "338",
+    "course_title": "OPTIMIZATION THEORY II"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "336",
+    "course_title": "DYNAMICS OF RIGID BODY"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "338",
+    "course_title": "SPECIAL THEORY OF RELATIVITY"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "342",
+    "course_title": "DISCRETE MATHEMATICS II"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "344",
+    "course_title": "NUMERICAL ANALYSIS I"
+  },
+  {
+    "department_prefix": "STA",
+    "course_number": "312",
+    "course_title": "PROBABILITY VI"
+  },
+  {
+    "department_prefix": "STA",
+    "course_number": "332",
+    "course_title": "INFERENCE VI"
+  },
+  {
+    "department_prefix": "COS",
+    "course_number": "332",
+    "course_title": "OPERATING SYSTEM II"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "421",
+    "course_title": "ORDINARY DIFFERENTIAL EQUATION"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "429",
+    "course_title": "FUNCTIONAL ANALYSIS"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "425",
+    "course_title": "LEBESGUE MEASURE AND INTEGRATION"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "427",
+    "course_title": "FIELD THEORY IN MATHEMATICAL PHYSICS"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "439",
+    "course_title": "ANALYTIC DYNAMICS II"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "437",
+    "course_title": "SYSTEM THEORY"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "443",
+    "course_title": "NUMERICAL ANALYSIS II"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "441",
+    "course_title": "MATHEMATICAL METHODS II"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "428",
+    "course_title": "PARTIAL DIFFERENTIAL EQUATIONS"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "424",
+    "course_title": "GENERAL TOPOLOGY"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "452",
+    "course_title": "PROJECT"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "412",
+    "course_title": "ABSTRACT III"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "432",
+    "course_title": "GENERAL THEORY OF RELATIVITY"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "438",
+    "course_title": "ELECTROMAGNETISM"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "436",
+    "course_title": "FLUID DYNAMICS"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "434",
+    "course_title": "ELASTICITY"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "444",
+    "course_title": "NUMERICAL ANALYSIS III"
+  }
+]

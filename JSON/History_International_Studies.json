@@ -1,0 +1,397 @@
+[
+  {
+    "department_prefix": "HIS",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO HISTORY"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "103",
+    "course_title": "INTRODUCTION TO INTERNATIONAL STUDIES"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "111",
+    "course_title": "NIGERIA UP TO 1900"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "121",
+    "course_title": "AFRICA, 1500 TO 1800"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "131",
+    "course_title": "EUROPE TO THE FRENCH REVOLUTION"
+  },
+  {
+    "department_prefix": "ARCHY",
+    "course_number": "101",
+    "course_title": "FUNDAMENTALS OF ARCHAEOLOGY"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "101",
+    "course_title": "THE USE OF ENGLISH I"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "103",
+    "course_title": "SOCIAL SCIENCE I"
+  },
+  {
+    "department_prefix": "POLSC",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO POLITICAL SCIENCE I"
+  },
+  {
+    "department_prefix": "M",
+    "course_number": "C",
+    "course_title": "101 INTRODUCTION TO MASS COMMUNICATION I"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "102",
+    "course_title": "INTRODUCTION TO ECONOMIC HISTORY"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "104",
+    "course_title": "EVOLUTION OF INTERNATIONAL SYSTEM SINCE 1915"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "122",
+    "course_title": "HISTORY OF WEST AFRICA SINCE 1500"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "124",
+    "course_title": "RELIGION IN WEST AFRICA"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "126",
+    "course_title": "NORTH AFRICA FROM EARLIEST TIMES TO THE ARAB CONQUEST"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "132",
+    "course_title": "EUROPE FROM THE FRENCH REVOLUTION TO THE SECOND WORLD WAR"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "144",
+    "course_title": "BLACKS IN DIASPORA"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "102",
+    "course_title": "THE USE OF ENGLISH II"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "104",
+    "course_title": "SOCIAL SCIENCE II"
+  },
+  {
+    "department_prefix": "MC",
+    "course_number": "102",
+    "course_title": "INTRODUCTION TO MASS COMMUNICATION II"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "213",
+    "course_title": "DIPLOMATIC HISTORY OF NIGERIA SINCE 1960"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "221",
+    "course_title": "SOUTHERN AFRICA SINCE 1400"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "223",
+    "course_title": "EAST AND CENTRAL AFRICA SINCE 1000AD"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "231",
+    "course_title": "RUSSIA, 1800 TO 1917"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "223",
+    "course_title": "EUROPE FROM THE SECOND WORLD WAR TO THE PRESENT"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "251",
+    "course_title": "SOUTH EAST ASIA SINCE THE 19TH CENTURY"
+  },
+  {
+    "department_prefix": "FRE",
+    "course_number": "101",
+    "course_title": "ELEMENTARY FRENCH I"
+  },
+  {
+    "department_prefix": "GER",
+    "course_number": "101",
+    "course_title": "ELEMENTARY GERMAN I"
+  },
+  {
+    "department_prefix": "RUS",
+    "course_number": "101",
+    "course_title": "ELEMENTARY RUSSIAN I"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "105",
+    "course_title": "NATURAL SCIENCE I"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "201",
+    "course_title": "PEACE AND CONFLICT RESOLUTION STUDIES I"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "205",
+    "course_title": "COMPARATIVE WORLD REVOLUTIONS SINCE 1900"
+  },
+  {
+    "department_prefix": "POLSC",
+    "course_number": "231",
+    "course_title": "PRINCIPLES OF PUBLIC ADMINISTRATION"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "206",
+    "course_title": "POLITICAL THOUGHT"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "222",
+    "course_title": "AFRICA AND EUROPEAN IMPERIALISM IN THE 19TH AND 29TH CENTURIES"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "224",
+    "course_title": "ECONOMIC HISTORY OF WEST AFRICA TO THE 20TH CENTURY"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "226",
+    "course_title": "AFRICAN WOMEN IN HISTORY"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "242",
+    "course_title": "LATIN AMERICAN SINCE THE 15HT CENTURY"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "244",
+    "course_title": "U. S. A., 1607 TO 1865"
+  },
+  {
+    "department_prefix": "FRE",
+    "course_number": "102",
+    "course_title": "ELEMENTARY FRENCH II"
+  },
+  {
+    "department_prefix": "GER",
+    "course_number": "102",
+    "course_title": "ELEMENTARY GERMAN II"
+  },
+  {
+    "department_prefix": "RUS",
+    "course_number": "102",
+    "course_title": "ELEMENTARY RUSSIAN II"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "106",
+    "course_title": "NATURAL SCIENCE II"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "202",
+    "course_title": "PEACE AND CONFLICT RESOLUTION STUDIES II"
+  },
+  {
+    "department_prefix": "POLSC",
+    "course_number": "241",
+    "course_title": "FUNDAMENTAL OF POLITICAL ECONOMY"
+  },
+  {
+    "department_prefix": "POLSC",
+    "course_number": "251",
+    "course_title": "POLITICAL IDEAS"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "301",
+    "course_title": "COMPARATIVE INDUSTRIAL GROWTH IN THE USA, RUSSIA, JAPAN, CHINA AND BRITAIN"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "311",
+    "course_title": "NIGERIA, 1900 TO 1960"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "321",
+    "course_title": "AFRICA AND THE WIDER WORLD IN THE 20TH CENTURY"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "343",
+    "course_title": "U. S. A. SINCE 1865"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "361",
+    "course_title": "HISTORIOGRAPHY"
+  },
+  {
+    "department_prefix": "FRE",
+    "course_number": "201",
+    "course_title": "INTERMEDIATE FRENCH 1"
+  },
+  {
+    "department_prefix": "GER",
+    "course_number": "201",
+    "course_title": "INTERMEDIATE GERMAN 1"
+  },
+  {
+    "department_prefix": "RUS",
+    "course_number": "201",
+    "course_title": "INTERMEDIATE RUSSIAN 1"
+  },
+  {
+    "department_prefix": "CS",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+  },
+  {
+    "department_prefix": "CEDR",
+    "course_number": "341",
+    "course_title": "ENTREPRENEURIAL DEVELOPMENT AND RESEARCH"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "302",
+    "course_title": "ISSUES IN INTERNATIONAL RELATIONS I"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "322",
+    "course_title": "PROBLEMS AND PROSPECTS OF REGIONAL ECONOMIC DEVELOPMENT IN AFRICA"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "332",
+    "course_title": "RUSSIA SINCE 1917"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "352",
+    "course_title": "JAPAN FROM TOKUGAWA TO THE MEIJI RESTORATION"
+  },
+  {
+    "department_prefix": "FRE",
+    "course_number": "202",
+    "course_title": "INTERMEDIATE FRENCH II"
+  },
+  {
+    "department_prefix": "GER",
+    "course_number": "202",
+    "course_title": "INTERMEDIATE GERMAN II"
+  },
+  {
+    "department_prefix": "RUS",
+    "course_number": "202",
+    "course_title": "INTERMEDIATE RUSSIAN II"
+  },
+  {
+    "department_prefix": "CS",
+    "course_number": "304",
+    "course_title": "COMPUTER IN SECTORAL APPLICATION"
+  },
+  {
+    "department_prefix": "CEDR",
+    "course_number": "342",
+    "course_title": "ENTREPRENEURIAL DEVELOPMENT AND RESEARCH"
+  },
+  {
+    "department_prefix": "POL.",
+    "course_number": "SC.",
+    "course_title": "321 THEORIES OF INTERNATIONAL RELATIONS"
+  },
+  {
+    "department_prefix": "POL.",
+    "course_number": "SC.",
+    "course_title": "322 POLITICS OF INTERNATIONAL ECONOMIC RELATIONS"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "401",
+    "course_title": "DEVELOPMENT OF PARLIAMENTARY/PRESIDENTIAL SYSTEMS (BRITAIN, FRANCE, INDIA AND USA)"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "403",
+    "course_title": "HISTORY OF SCIENCE AND TECHNOLOGY"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "411",
+    "course_title": "NIGERIA SINCE 1960"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "413",
+    "course_title": "ECONOMIC HISTORY OF NIGERIA SINCE 1800"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "415",
+    "course_title": "IGBO LAND TO THE PRESENT"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "451",
+    "course_title": "CONTEMPORARY MIDDLE EAST"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "402",
+    "course_title": "ISSUES IN INTERNATIONAL RELATIONS II"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "404",
+    "course_title": "PHILOSOPHY OF HISTORY"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "406",
+    "course_title": "CONFLICT, WAR AND PEACE SINCE 1900"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "408",
+    "course_title": "INTERNATIONAL/CONTINENTAL ORGANIZATIONS (COMMONWEALTH, OAU/AU. ARAB LEAGUE, ASEAN, EU, OAS,)"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "422",
+    "course_title": "AFRICA SINCE 1800"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "462",
+    "course_title": "PROJECT"
+  }
+]

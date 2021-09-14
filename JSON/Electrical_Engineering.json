@@ -1,0 +1,217 @@
+[
+  {
+    "department_prefix": "EEE",
+    "course_number": "211",
+    "course_title": "ELECTRICAL ENGINEERING I"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "251",
+    "course_title": "BASIC ELECTRICAL ENGINEERING LABORATORY"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "313",
+    "course_title": "CIRCUIT THEORY I"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "314",
+    "course_title": "CIRCUIT THEORY I"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "322",
+    "course_title": "APPLIED ELECTRONIC SYSTEMS"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "332",
+    "course_title": "ELECTRIC POWER SYSTEMS PRINCIPLES"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "351",
+    "course_title": "ELECTRICAL MACHINES LABORATORY"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "352",
+    "course_title": "ELECTRIC POWER SYSTEMS LABORATORY"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "354",
+    "course_title": "MEASUREMENT AND PHYSICAL ELECTRONICS LABORATORY"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "356",
+    "course_title": "ELECTRICAL DRIVES LABORATORY"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "361",
+    "course_title": "ELECTRICAL MACHINES I"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "362",
+    "course_title": "ELECTRICAL MACHINES II"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "371",
+    "course_title": "MEASUREMENT AND INSTRUMENTATION"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "381",
+    "course_title": "ELECTROMAGNETIC FIELDS AND WAVES I"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "382",
+    "course_title": "ELECTROMAGNETIC FIELDS AND WAVES II"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "421",
+    "course_title": "POWER SEMICONDUCTOR DEVICES AND CIRCUITS I"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "441",
+    "course_title": "COMMUNICATION PRINCIPLES"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "451",
+    "course_title": "COMMUNICATION AND FIELDS LAB"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "453",
+    "course_title": "CONTROL AND LOGIC SYSTEMS LABORATORY"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "461",
+    "course_title": "ELECTRICAL MACHINES III"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "471",
+    "course_title": "DIGITAL SIGNAL PROCESSING"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "473",
+    "course_title": "CONTROL LOGIC CIRCUIT DESIGN"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "475",
+    "course_title": "CONTROL SYSTEMS ENGINEERING I"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "492",
+    "course_title": "SEMINARS AND INDUSTRIAL VISITS"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "494",
+    "course_title": "MINI PROJECT"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "521",
+    "course_title": "POWER SEMICONDUCTOR DEVICES AND CIRCUITS II"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "531",
+    "course_title": "ELECTRIC POWER SYSTEM ANALYSIS, PLANNING AND PROTECTION"
+  },
+  {
+    "department_prefix": "EE",
+    "course_number": "533",
+    "course_title": "SWITCHGEAR AND HIGH VOLTAGE ENGINEERING"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "541",
+    "course_title": "POWER SYSTEMS COMMUNICATION AND CONTROL"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "561",
+    "course_title": "ELECTRICAL MACHINE DESIGN"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "581",
+    "course_title": "ELECTROMAGNETIC FIELDS AND WAVES III"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "573",
+    "course_title": "COMPUTER SOFTWARE AND APPLICATIONS"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "535",
+    "course_title": "POWER SYSTEM DISTRIBUTION"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "537",
+    "course_title": "POWER SYSTEMS OPTIMISATION"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "571",
+    "course_title": "COMPUTER ORGANISATION"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "512",
+    "course_title": "RENEWABLE AND NEW ENERGY SYSTEMS"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "522",
+    "course_title": "APPLICATION OF SEMICONDUCTOR DEVICES IN POWER SYSTEMS"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "532",
+    "course_title": "ELECTRIC SERVICES DESIGN, RELIABILITY AND MAINTENABILITY"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "572",
+    "course_title": "CONTROL SYSTEMS ENGINEERING II"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "592",
+    "course_title": "PROJECT"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "562",
+    "course_title": "ELECTRIC MOTOR DRIVES"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "574",
+    "course_title": "DIGITAL/DISCRETE CONTROL SYSTEMS"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "576",
+    "course_title": "INTRODUCTION TO OPTIMAL CONTROL"
+  }
+]

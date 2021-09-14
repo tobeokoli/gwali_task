@@ -8,7 +8,6 @@ ADE 161	Introduction to Labour and Cooperative Education	2
 EDU 102	History of Education	2
 GSP 101	Use of English	2
 GSP 105	Natural Sciences I	2
-GSP 111
 ADE 122	Introduction to Community Development	2
 ADE 132	History of Adult Education in Industrialized Countries	2
 ADE 142	Special Methods of Teaching Adults	2
@@ -70,7 +69,6 @@ ADE 426	Disaster Management in Community	2
 ADE 428	Pre-Retirement Education	2
 ADE 472	Case Studies in Adult Education	2
 ADE 490	Project	4
-EDU 442
 
 
 

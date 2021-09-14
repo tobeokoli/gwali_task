@@ -1,0 +1,357 @@
+[
+  {
+    "department_prefix": "ADE",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO ADULT AND NON-FORMAL EDUCATION"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "111",
+    "course_title": "ADULT LEARNING AND GROUP BEHAVIOUR"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "121",
+    "course_title": "ADULT EDUCATION AND COMMUNITY DEVELOPMENT"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "131",
+    "course_title": "STRUCTURES IN ADULT EDUCATION"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "141",
+    "course_title": "HISTORICAL BACKGROUND OF ADULT LITERACY EDUCATION"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "151",
+    "course_title": "INTRODUCTION TO DISTANCE EDUCATION"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "161",
+    "course_title": "INTRODUCTION TO LABOUR AND COOPERATIVE EDUCATION"
+  },
+  {
+    "department_prefix": "EDU",
+    "course_number": "102",
+    "course_title": "HISTORY OF EDUCATION"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "101",
+    "course_title": "USE OF ENGLISH"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "105",
+    "course_title": "NATURAL SCIENCES I"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "122",
+    "course_title": "INTRODUCTION TO COMMUNITY DEVELOPMENT"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "132",
+    "course_title": "HISTORY OF ADULT EDUCATION IN INDUSTRIALIZED COUNTRIES"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "142",
+    "course_title": "SPECIAL METHODS OF TEACHING ADULTS"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "152",
+    "course_title": "FOUNDATIONS OF INSTRUCTIONAL DESIGN"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "162",
+    "course_title": "ADULT EDUCATION AND LABOUR DEV. IN NIGERIA"
+  },
+  {
+    "department_prefix": "EDU",
+    "course_number": "205",
+    "course_title": "SOCIOLOGY OF EDUCATION"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "102",
+    "course_title": "USE OF ENGLISH II"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "106",
+    "course_title": "NATURAL SCIENCES II"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "201",
+    "course_title": "PHILOSOPHY OF ADULT EDUCATION"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "221",
+    "course_title": "SOCIO-CULTURAL ASPECTS OF COMMUNITY DEV."
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "231",
+    "course_title": "POLICY AND DESIGN IN ADULT EDUCATION"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "241",
+    "course_title": "INDIGENOUS COMMUNICATION STRATEGIES IN ADULT EDU."
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "251",
+    "course_title": "FOUNDATIONS OF EXTENSION EDUCATION"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "261",
+    "course_title": "COOPERATIVE EDU. AND ADULTS EXPERIENTIAL LEARNING"
+  },
+  {
+    "department_prefix": "COS",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+  },
+  {
+    "department_prefix": "EDU",
+    "course_number": "211",
+    "course_title": "EDUCATIONAL PSYCHOLOGY I"
+  },
+  {
+    "department_prefix": "EDU",
+    "course_number": "221",
+    "course_title": "CURRICULUM DEVELOPMENT: THEORY AND PLANNING"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "201",
+    "course_title": "PEACE AND CONFLICT RESOLUTION I"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "207",
+    "course_title": "HUMANITIES I"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "206",
+    "course_title": "PRACTICUM IN ADULT EDUCATION"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "222",
+    "course_title": "PRIMARY HEALTH CARE & NON-FORMAL EDUCATION"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "232",
+    "course_title": "POLITICS IN THE ADMINISTRATION OF ADULT EDUCATION"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "242",
+    "course_title": "DEVELOPMENT OF LEARNING MATERIALS"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "252",
+    "course_title": "INTRODUCTION TO OPEN LEARNING AND LIFELONG EDUCATION"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "262",
+    "course_title": "CAREER MOTIVATION & ACHIEVEMENTS IN A GLOBALIZED WORLD"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "272",
+    "course_title": "DATA PROCESSING IN ADULT EDUCATION"
+  },
+  {
+    "department_prefix": "EDU",
+    "course_number": "224",
+    "course_title": "EDUCATIONAL TECHNOLOGY"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "202",
+    "course_title": "PEACE AND CONFLICT RESOLUTION II"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "208",
+    "course_title": "HUMANITIES II"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "313",
+    "course_title": "LEARNING TEACHING AND COMMUNICATION"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "321",
+    "course_title": "COMMUNITY DEVELOPMENT: THEORY AND PRACTICE I"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "323",
+    "course_title": "SITUATION ANALYSIS AND INTERACTION IN ADULT EDU."
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "325",
+    "course_title": "COMMUNITY EDUCATION"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "327",
+    "course_title": "ECONOMICS OF ADULT EDU., COMMUNITY DEV. & S.W"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "331",
+    "course_title": "FINANCING ADULT EDUCATION"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "371",
+    "course_title": "RESEARCH AND EVALUATION IN ADULT EDUCATION"
+  },
+  {
+    "department_prefix": "EDU",
+    "course_number": "321",
+    "course_title": "CURRICULUM DEVELOPMENT AND INSTRUCTION"
+  },
+  {
+    "department_prefix": "EDU",
+    "course_number": "311",
+    "course_title": "EDUCATIONAL PSYCHOLOGY I"
+  },
+  {
+    "department_prefix": "CED",
+    "course_number": "301",
+    "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "320",
+    "course_title": "ADULT EDUCATION AND SOCIETY I"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "322",
+    "course_title": "APPROACHES TO RURAL DEVELOPMENT"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "324",
+    "course_title": "COMMUNICATION AND MEDIA TECHNIQUES IN COM. DEV."
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "326",
+    "course_title": "AGENCIES AND INSTITUTIONS FOR COMMUNITY DEV."
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "328",
+    "course_title": "FIELD TRIPS IN COMMUNITY DEVELOPMENT"
+  },
+  {
+    "department_prefix": "COS",
+    "course_number": "304",
+    "course_title": "COMPUTER APPLICATIONS"
+  },
+  {
+    "department_prefix": "CED",
+    "course_number": "342",
+    "course_title": "BUSINESS DEVELOPMENT & MANAGEMENT"
+  },
+  {
+    "department_prefix": "EDU",
+    "course_number": "306",
+    "course_title": "TEACHING PRACTICE I"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "411",
+    "course_title": "MOTIVATION IN ADULT EDUCATION"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "421",
+    "course_title": "COMMUNITY DEVELOPMENT: THEORY & PRACTICE II"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "423",
+    "course_title": "RURAL SOCIOLOGY"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "425",
+    "course_title": "ISSUES IN ENVIRONMENTAL ADULT EDUCATION"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "427",
+    "course_title": "POPULATION TRENDS AND POLICIES"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "435",
+    "course_title": "ADULT EDUCATION AND INTERNATIONAL SCENE"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "481",
+    "course_title": "SEMINAR"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "420",
+    "course_title": "ADULT EDUCATION AND SOCIETY II"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "422",
+    "course_title": "RURAL DEVELOPMENT PROGRAMMING"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "424",
+    "course_title": "RURAL EDUCATION AND NATIONAL DEVELOPMENT"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "426",
+    "course_title": "DISASTER MANAGEMENT IN COMMUNITY"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "428",
+    "course_title": "PRE-RETIREMENT EDUCATION"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "472",
+    "course_title": "CASE STUDIES IN ADULT EDUCATION"
+  },
+  {
+    "department_prefix": "ADE",
+    "course_number": "490",
+    "course_title": "PROJECT"
+  }
+]

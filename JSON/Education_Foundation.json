@@ -1,0 +1,797 @@
+[
+  {
+    "department_prefix": "GS",
+    "course_number": "105",
+    "course_title": "NATURAL SCIENCE I"
+  },
+  {
+    "department_prefix": "HED",
+    "course_number": "232",
+    "course_title": "SCHOOL HEALTH"
+  },
+  {
+    "department_prefix": "CED",
+    "course_number": "341",
+    "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "315",
+    "course_title": "PSYCHOLOGICAL TESTING & COUNSELING"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "316",
+    "course_title": "ORGANIZATION & ADMINISTRATION OF GUIDANCE"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "317",
+    "course_title": "PRACTICUM IN G & C I"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "318",
+    "course_title": "BEHAVIOUR MODIFICATION II"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "321",
+    "course_title": "CURRICULUM IMPLEMENTATION AND INSTRUCTION"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "323",
+    "course_title": "PRE-SCHOOL EDUCATION"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "326",
+    "course_title": "LANGUAGE EDUCATION"
+  },
+  {
+    "department_prefix": "COS",
+    "course_number": "304",
+    "course_title": "COMPUTER APPLICATION"
+  },
+  {
+    "department_prefix": "CED",
+    "course_number": "342",
+    "course_title": "BUSINESS DEVELOPMENT & MANAGEMENT"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "106",
+    "course_title": "NATURAL SCIENCE II"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "327",
+    "course_title": "ASSESSMENT & PROGRAMMING FOR SPECIAL CHILDREN"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "411",
+    "course_title": "ORGANIZATION & ADMINISTRATION OF GUIDANCE SER"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "415",
+    "course_title": "COUNSELING TECHNIQUES"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "416",
+    "course_title": "ETHICAL AND PROFESSIONAL RESP. IN COUNSELING"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "417",
+    "course_title": "PRACTICUM IN G & C II"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "431",
+    "course_title": "EDUCATIONAL ADMIN & PLANNING"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "204",
+    "course_title": "ENVIRONMENTAL EDUCATION"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "412",
+    "course_title": "ABNORMAL PSYCHOLOGY & EDUCATION"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "427",
+    "course_title": "COUNSELING SPECIAL EDU. PUPILS"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "429",
+    "course_title": "VOCATIONAL EDU. & REHABILITATION OF SPECIAL CHILDREN"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "442",
+    "course_title": "MEASUREMENT & EVALUATION"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "451",
+    "course_title": "PROJECT"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "433",
+    "course_title": "CLASSROOM ORGANIZATION & MANAGEMENT"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "322",
+    "course_title": "SCHOOL LIBRARIANSHIP"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "426",
+    "course_title": "ADULT EDUCATION & COMMUNITY DEVELOPMENT"
+  },
+  {
+    "department_prefix": "COS",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO EDUCATION"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "102",
+    "course_title": "HISTORY OF EDUCATION"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "211",
+    "course_title": "EDUCATIONAL PSYCHOLOGY I"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "213",
+    "course_title": "PRINCIPLES OF GUIDANCE AND COUNSELING"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "221",
+    "course_title": "CURRICULUM THEORY AND DEVELOPMENT"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "101",
+    "course_title": "COMMUNICATION IN ENGLISH I"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "111",
+    "course_title": "THE USE OF LIBRARY AND STUDY SKILLS"
+  },
+  {
+    "department_prefix": "SS",
+    "course_number": "100",
+    "course_title": "ELEMENTS OF SOCIAL STUDIES"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "201",
+    "course_title": "PHILOSOPHY OF EDUCATION"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "214",
+    "course_title": "SENSITIVITY TRAINING"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "216",
+    "course_title": "COUNSELING THEORIES"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "217",
+    "course_title": "GROUP PROCEDURE IN GUIDANCE AND COUNSELING"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "102",
+    "course_title": "USE OF ENGLISH"
+  },
+  {
+    "department_prefix": "SS",
+    "course_number": "101",
+    "course_title": "STRUCTURED CHARACTERISTICS OF MAN\u00cf\u00bf\u00bdS PLACE"
+  },
+  {
+    "department_prefix": "SS",
+    "course_number": "102",
+    "course_title": "INTRODUCTION TO NIGERIA SOCIAL LIFE & CULTURE"
+  },
+  {
+    "department_prefix": "SS",
+    "course_number": "112",
+    "course_title": "COMMUNITY LIFE & DEVELOPMENT"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "205",
+    "course_title": "SOCIOLOGY OF EDUCATION"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "215",
+    "course_title": "VOCATIONAL DEVELOPMENT & ADJUSTMENT"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "218",
+    "course_title": "BEHAVIOUR MODIFICATION"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "105",
+    "course_title": "NATURAL SCIENCE I"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "201",
+    "course_title": "BASIC CONCEPT AND THEORY OF PEACE"
+  },
+  {
+    "department_prefix": "SS",
+    "course_number": "201",
+    "course_title": "STUDY OF MATTER AND SPACE"
+  },
+  {
+    "department_prefix": "SS",
+    "course_number": "202",
+    "course_title": "SOCIAL INTERACTION IN NIGERIA"
+  },
+  {
+    "department_prefix": "SS",
+    "course_number": "203",
+    "course_title": "SOCIAL STUDIES EDUCATION AND NATION BUILDING"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "222",
+    "course_title": "SPECIAL METHODS"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "317",
+    "course_title": "PRACTICUM IN G & C I"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "321",
+    "course_title": "CURRICULUM IMPLEMENTATION AND INSTRUCTION I"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "106",
+    "course_title": "NATURAL SCIENCE II"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "202",
+    "course_title": "ISSUES IN PEACE & CONFLICT RESOLUTION STUDIES"
+  },
+  {
+    "department_prefix": "SS",
+    "course_number": "204",
+    "course_title": "NIGERIA SOCIO-POLITICAL INSTITUTIONS"
+  },
+  {
+    "department_prefix": "SS",
+    "course_number": "205",
+    "course_title": "ECONOMIC STRUCTURE OF NIGERIA"
+  },
+  {
+    "department_prefix": "GEOG",
+    "course_number": ".",
+    "course_title": "INTRODUCTION TO NATURAL HAZARDS"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "311",
+    "course_title": "EDUCATIONAL PSYCHOLOGY II"
+  },
+  {
+    "department_prefix": "CED",
+    "course_number": "341",
+    "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "312",
+    "course_title": "PERSONALITY DEVELOPMENT"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "313",
+    "course_title": "ADOLESCENT AND EDUCATION"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "341",
+    "course_title": "RESEARCH METHOD, STATISTICS & COMPUTER USAGE"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "325",
+    "course_title": "TEACHING PRACTICE I"
+  },
+  {
+    "department_prefix": "SS",
+    "course_number": "305",
+    "course_title": "FINANCE & FINANCIAL INSTITUTIONS IN NIGERIA"
+  },
+  {
+    "department_prefix": "SS",
+    "course_number": "306",
+    "course_title": "NIGERIA CULTURAL PATTERNS & HISTORICAL ORIGIN"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "219",
+    "course_title": "EDUCATIONAL & OCCUPATIONAL INFORMATION"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "224",
+    "course_title": "EDUCATIONAL TECHNOLOGY"
+  },
+  {
+    "department_prefix": "SS",
+    "course_number": "301",
+    "course_title": "STUDY OF EVENTS IN SPACE"
+  },
+  {
+    "department_prefix": "SS",
+    "course_number": "303",
+    "course_title": "SOCIAL STUDIES EDU. & THEORIES OF NATION BUILDING"
+  },
+  {
+    "department_prefix": "CED",
+    "course_number": "342",
+    "course_title": "BUSINESS DEVELOPMENT & MANAGEMENT"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "315",
+    "course_title": "PSYCHOLOGICAL TESTING & COUNSELING"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "316",
+    "course_title": "ORGANIZATION & ADMINISTRATION OF GUIDANCE"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "318",
+    "course_title": "BEHAVIOUR MODIFICATION II"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "425",
+    "course_title": "TEACHING PRACTICE II"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "411",
+    "course_title": "ORGANIZATION & ADMINISTRATION OF GUIDANCE SER"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "204",
+    "course_title": "ENVIRONMENTAL EDUCATION"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "415",
+    "course_title": "COUNSELING TECHNIQUES"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "416",
+    "course_title": "ETHICAL AND PROFESSIONAL RESP. IN COUNSELING"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "417",
+    "course_title": "PRACTICUM IN G & C II"
+  },
+  {
+    "department_prefix": "HED",
+    "course_number": "232",
+    "course_title": "SCHOOL HEALTH"
+  },
+  {
+    "department_prefix": "SS",
+    "course_number": "401",
+    "course_title": "STUDY OF IDEAS IN SPACE"
+  },
+  {
+    "department_prefix": "SS",
+    "course_number": "403",
+    "course_title": "SOCIAL STUDIES EDUCATION, PROBLEMS & PROSPECT OF NATION BUILDING"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "441",
+    "course_title": "MEASUREMENT & EVALUATION"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "433",
+    "course_title": "CLASSROOM ORGANIZATION & MANAGEMENT"
+  },
+  {
+    "department_prefix": "SS",
+    "course_number": "411",
+    "course_title": "CONTEMPORARY WORLD ISSUES"
+  },
+  {
+    "department_prefix": "SS",
+    "course_number": "421",
+    "course_title": "AFRICA AND DEVELOPING NATIONS"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "427",
+    "course_title": "COUNSELING SPECIAL EDU. PUPIL\u00cf\u00bf\u00bdS FAMILY"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "451",
+    "course_title": "PROJECT"
+  },
+  {
+    "department_prefix": "COS",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO EDUCATION"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "102",
+    "course_title": "HISTORY OF EDUCATION"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "211",
+    "course_title": "EDUCATIONAL PSYCHOLOGY I"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "213",
+    "course_title": "PRINCIPLES OF GUIDANCE AND COUNSELING"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "221",
+    "course_title": "CURRICULUM THEORY AND DEVELOPMENT"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "101",
+    "course_title": "COMMUNICATION IN ENGLISH I"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "111",
+    "course_title": "THE USE OF LIBRARY AND STUDY SKILLS"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO HISTORY"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "111",
+    "course_title": "NIGERIA UP TO 1900"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "201",
+    "course_title": "PHILOSOPHY OF EDUCATION"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "214",
+    "course_title": "SENSITIVITY TRAINING"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "216",
+    "course_title": "COUNSELING THEORIES"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "217",
+    "course_title": "GROUP PROCEDURE IN GUIDANCE AND COUNSELING"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "102",
+    "course_title": "USE OF ENGLISH"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "205",
+    "course_title": "SOCIOLOGY OF EDUCATION"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "102",
+    "course_title": "INTRODUCTION TO ECONOMIC HISTORY"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "132",
+    "course_title": "EUROPE FROM FRENCH REVOLUTION TO 2ND WORLD WAR"
+  },
+  {
+    "department_prefix": "ARCHY",
+    "course_number": "106",
+    "course_title": "INTRODUCTION TO MUSEUM"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "215",
+    "course_title": "VOCATIONAL DEVELOPMENT & ADJUSTMENT"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "218",
+    "course_title": "BEHAVIOUR MODIFICATION"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "105",
+    "course_title": "NATURAL SCIENCE I"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "201",
+    "course_title": "BASIC CONCEPT AND THEORY OF PEACE"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "213",
+    "course_title": "DIPLOMATIC HISTORY OF NIGERIA SINCE 1961"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "221",
+    "course_title": "SOUTHERN AFRICA SINCE 1400"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "223",
+    "course_title": "EAST AND CENTRAL AFRICA SINCE 1000"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "222",
+    "course_title": "SPECIAL METHODS"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "317",
+    "course_title": "PRACTICUM IN G & C I"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "321",
+    "course_title": "CURRICULUM IMPLEMENTATION AND INSTRUCTION I"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "106",
+    "course_title": "NATURAL SCIENCE II"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "202",
+    "course_title": "ISSUES IN PEACE & CONFLICT RESOLUTION STUDIES"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "206",
+    "course_title": "POLITICAL THOUGHT"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "222",
+    "course_title": "AFRICAN & EUROPEAN IMPERIALISM IN THE 19TH & CENTURY"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "224",
+    "course_title": "ECONOMY HISTORY"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "311",
+    "course_title": "EDUCATIONAL PSYCHOLOGY II"
+  },
+  {
+    "department_prefix": "CED",
+    "course_number": "341",
+    "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "312",
+    "course_title": "PERSONALITY DEVELOPMENT"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "313",
+    "course_title": "ADOLESCENT AND EDUCATION"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "341",
+    "course_title": "RESEARCH METHOD, STATISTICS & COMPUTER USAGE"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "325",
+    "course_title": "TEACHING PRACTICE I"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "311",
+    "course_title": "NIGERIA FROM 1900 \u00cf\u00bf\u00bd 1960"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "321",
+    "course_title": "AFRICA AND WIDER WORLD IN THE 20TH CENTURY"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "219",
+    "course_title": "EDUCATIONAL & OCCUPATIONAL INFORMATION"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "224",
+    "course_title": "EDUCATIONAL TECHNOLOGY"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "332",
+    "course_title": "RUSSIA SINCE 1917 TILL DATE"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "322",
+    "course_title": "PROBLEMS & PROJECTS OF REGIONAL ECONOMIC DEV. IN AFRICA"
+  },
+  {
+    "department_prefix": "CED",
+    "course_number": "342",
+    "course_title": "BUSINESS DEVELOPMENT & MANAGEMENT"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "315",
+    "course_title": "PSYCHOLOGICAL TESTING & COUNSELING"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "316",
+    "course_title": "ORGANIZATION & ADMINISTRATION OF GUIDANCE"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "318",
+    "course_title": "BEHAVIOUR MODIFICATION II"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "425",
+    "course_title": "TEACHING PRACTICE II"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "411",
+    "course_title": "ORGANIZATION & ADMINISTRATION OF GUIDANCE SER"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "204",
+    "course_title": "ENVIRONMENTAL EDUCATION"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "415",
+    "course_title": "COUNSELING TECHNIQUES"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "416",
+    "course_title": "ETHICAL AND PROFESSIONAL RESP. IN COUNSELING"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "417",
+    "course_title": "PRACTICUM IN G & C II"
+  },
+  {
+    "department_prefix": "HED",
+    "course_number": "232",
+    "course_title": "SCHOOL HEALTH"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "403",
+    "course_title": "STUDY OF IDEAS IN SPACE"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "413",
+    "course_title": "SOCIAL STUDIES EDUCATION, PROBLEMS & PROSPECTS OF NATION BUILDING"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "415",
+    "course_title": "IGBO LAND TO THE PRESENT"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "441",
+    "course_title": "MEASUREMENT & EVALUATION"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "433",
+    "course_title": "CLASSROOM ORGANIZATION & MANAGEMENT"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "427",
+    "course_title": "COUNSELING SPECIAL EDU. PUPIL\u00cf\u00bf\u00bdS FAMILY"
+  },
+  {
+    "department_prefix": "ED",
+    "course_number": "451",
+    "course_title": "PROJECT"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "422",
+    "course_title": "AFRICA SINCE 1800"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "402",
+    "course_title": "ISSUES IN INTERNATIONAL RELATIONS II"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "408",
+    "course_title": "INTERNATIONAL CONTINENTAL ORGANIZATION"
+  }
+]

@@ -1,376 +1,342 @@
-FAA                 392      Project I                                                                      4
-
-FAA                 394      SIWES                                                                         15
-FAA           301            Draughtsmanship I                                                      2
-
-FAA           303            Research Techniques in Fine/Applied Arts               2
-
-FAA           321            Printmaking  I                                                              2
-
-FAA           323            Creative Photography                                                 3
-
-FAA           325            Computer Graphics    I                                               3
-
-FAA           327            Visual Communication Design and Multimedia Visual Production                                                3
-
-FAA           329            Visual Communication Design Theory I                    2
-
-FAA           385            African Art I                                                                2
-
-FAA         392              Project I                                                                      4
-
-FAA         394              SIWES                                                                         15
-
-FAA                 301                  Draughtsmanship I                                          2
-
-FAA                 303                  Research Techniques in Fine/Applied Arts   2
-
-FAA                 353                  History of Costumes I                                    2
-
-FAA                 361                  Textile Design II                                             3
-
-FAA                 363                  Computer Aided Design I                              3
-
-FAA                 365                  Textile Theory I                                             2
-
-FAA                 367                  Woven Structures and Fibres 1                      3
-
-FAA                 385                  African Art I                                                    2
-
-19
-
-FAA                 392                  Project I                                                          4
-
-FAA                 394                  SIWES                                                             15
-
-FAA                 301                  Draughtsmanship I                                                      2
-
-FAA                 303                  Research Techniques in Fine/Applied Arts              2
-
-FAA                 351                  Clothing Construction I                                              3
-
-FAA                 353                  History of Costumes I                                                2
-
-FAA                 355                  Fashion  Design  Illustration I                                     2
-
-FAA                 361                  Textile Design II                                                         3
-
-FAA                 363                  Computer Aided Design I                                          3
-
-FAA                 365                  Textile Theory I                                                         2
-
-FAA                 385                  African Art I                                                                2
-FAA             392                      Project I                                                                      4
-
-FAA             394                      SIWES                                                                         15
-FAA            301           Draughtsmanship I                                                                  2
-
-FAA            303           Research Techniques in Fine/Applied Arts                           2
-
-FAA            370           Ceramics Theory I                                                                  2
-
-FAA            371           Ceramic Throwing I                                                  3
-
-FAA            373           Special Ceramics                                                                     2
-
-FAA            375           Exploration of Ceramic Ideas, Forms and Materials              2
-
-FAA            377           Ceramic  Modelling    I                                                           3
-
-FAA            379           Industrial Ceramic Design  I                                                   3
-
-FAA            385           African Art I                                                                            2
-
-FAA                 392      Project I                                                                                  4
-
-FAA                 394      SIWES                                                                                    15
-FAA                 301      Draughtsmanship                                                                    2
-
-FAA                 303      Research Techniques in Fine and Applied Arts                     2
-
-FAA                 381      Historical Survey of Western and Oriental Art III                 3
-
-FAA                 383      Aspects of Western Art                                                         3
-
-FAA                 385      African Art I                                                                            2
-
-FAA                 387      Pre-Columbian and Oceanic Art and Culture                        3
-
-FAA                 389      Study of indigenous African Art and Architecture forms and materials                                           3
-FAA           392            Project I                                                                                  4
-FAA           394            SIWES                                                                                     15
-
-FAA           401            Advanced Drawing I                                                   2
-
-FAA           431            Advanced Oil Painting                                                3
-
-FAA           433            Portrait Painting                                                          2
-
-FAA           435            Advanced Landscape Painting                                     3
-
-FAA           437            Abstract and Conceptual Painting                              3
-
-FAA           439            Advanced Water Colour Painting                              3
-
-FAA           480            Fine Art Criticism I                                                     2
-
-FAA           487            African Art II                                                               2
-
-20
-
-
-FAA           402            Advanced Drawing II                                                  2
-
-FAA           404            Professional Practices in Fine and Applied Arts        2
-
-FAA           430            Advanced  Painting & Colour Language                    2
-
-FAA           432            Advanced Life Painting                                               2
-
-FAA           434            Human Image and Metaphor                                      2
-
-FAA           436            Mixed Media Painting                                                2
-
-FAA           438            Painting Theory II                                                       2
-
-FAA           485            Modern African Art                                                    2
-
-FAA           484            African Architecture                                                   2
-
-FAA           492            Project II                                                                     4
-FAA           401            Advanced Drawing I                                                   2
-
-FAA           441            Sculpture Processes:  Modelling & Casting III            3
-
-FAA           443            Sculpture Process: Carving II                                      3
-
-FAA           445            Sculpture Theory II                                                     2
-
-FAA           447            Special Sculpture Project                                            3
-
-FAA           449            Space Organisation                                                     3
-
-FAA           480            Fine Art Criticism I                                                     2
-
-FAA           487            African Art II                                                               2
-FAA         402              Advanced Drawing II                                                 2
-
-FAA         404              Professional Practices in Fine and Applied Arts        2
-
-FAA         442              Sculpture: Mixed media                                              3
-
-FAA         444              Advanced Exploration of African Sculpture Ideas,
-FAA         446              Living Sculpture                                                          2
-
-FAA         485              Modern African Art I                                      2
-
-FAA         484              African Architecture                                                   2
-
-FAA         492              Project II                                                                     4
-
-FAA           401            Advanced Drawing I                                                   2
-
-FAA           421            Printmaking II                                                              3
-
-FAA           423            Typographic Design                                                    3
-
-FAA           425            Computer Graphics II                                                 3
-
-FAA           427            Visual Communication Design III                               3
-
-FAA           429            Visual Communication Design Theory II                   2
-
-FAA           480            Fine Art Criticism I                                                     2
-
-FAA           487            African Art II                                                               2
-
-FAA           402            Advanced Drawing I   I                                               2
-
-FAA           404            Professional Practices in Fine and Applied Arts        2
-
-FAA           422            Illustration, Editorial and Advertising Design            3
-
-FAA           424            Product Design I                                                         3
-
-FAA           426            Colour and Design                                                     2
-
-FAA           484            African Architecture                                                   2
-
-FAA           485            Modern African Art                                                    2
-
-FAA           492            Project II                                                                     4
-FAA         401              Advanced Drawing     I                                               2
-
-FAA         421              Print making  II                                                            3
-
-FAA         459              History of Costumes II                                               2
-
-FAA         461              Textile Design III                                                        3
-
-FAA         463              Woven Structures and Fibres II                                  3
-
-FAA         465              Textile Design theory II                                             2
-
-FAA         467              Computer Aided Design II                                         2
-
-FAA        480               Fine Art Criticism I                                                     2
-
-FAA         487              African Art II                                                               2
-FAA          402             Advanced Drawing     II                                                   2
-
-FAA          404             Professional Practices in Fine and Applied Arts             2
-
-FAA          462             Advanced Exploration of African Textile Ideas, Forms and Materials                                              3
-
-FAA         464              Woven Structures and Fibres III                                     3
-
-FAA         484              African Architecture                                                        2
-
-FAA         485              Modern African Art                                                         2
-
-FAA         492              Project II                                                                          4
-
-FAA           401            Advanced Drawing II                                                      2
-
-FAA           451            Clothing Construction II                                                 2
-
-FAA           457            Pattern Drafting and Studio Practice I                            3
-
-FAA           455            Fashion Design  Illustration II                             3
-
-FAA           459            History of Costumes II                                                   2
-
-FAA           465            Textile Theory II                                                            2
-
-FAA           467            Computer Aided Design II                                             3
-
-FAA           480            Fine Art Criticism I                                                         2
-
-FAA           487            African Art II                                                                   2
-FAA           402            Advanced Drawing II                                                     2
-
-FAA           404            Professional Practices in Fine and Applied Arts           2
-
-FAA           458            Pattern Drafting and Studio Practice II                          3
-
-FAA           454            Advanced Exploration of African Fashion
-FAA           484            African Architecture                                                      2
-
-FAA           485            Modern African Art                                                       2
-
-FAA           492            Project II                                                                        4                                                                                                                                                         18
-FAA           401            Advanced Drawing I                                                   2
-
-FAA           470            Ceramics Theory II                                                     2
-
-FAA           471            Ceramic Throwing  II                                                 3
-
-FAA           473            Kiln Design and Firing                                                            3
-
-FAA           477            Ceramic Modelling  II                                                 3
-
-FAA           479            Industrial Ceramic Design II                                       3
-
-FAA           480            Fine Art Criticism I                                                     2
-
-FAA           487            African II                                                                     2
-FAA           402            Advanced Drawing II                                                  2
-
-FAA           404            Professional Practices in Fine/Applied Arts               2
-
-FAA           472            Architectural Ceramics                                              2
-
-FAA           474            Mixed Media Ceramics                                               2
-
-FAA           475            Advanced Exploration of African Ceramic Ideas,
-FAA           484            African Architecture                                                   2
-
-FAA           485            Modern African Art                                                    2
-
-FAA           492            Project II                                                                     4
-FAA           401            Advanced Drawing I                                                   2
-
-FAA           411            Advanced Studies in Art Education                            3
-
-FAA           413            Teaching Practice in Art II                                          2
-
-FAA           415            Special Readings in Indigenous Art
-
-FAA           480            Fine Art Criticism I                                                     2
-
-FAA           487            African Art II                                                               2
-
-FAA           431            Advanced Oil Painting                                                            3
-
-FAA           439            Advanced Water Colour Paintings                            3
-
-FAA           441            Sculpture Processes: Modelling & Casting III                         3
-
-FAA           443            Sculpture  Processes: Carving II                                 3
-
-FAA           421            Print  Making II                                                            3
-
-FAA           427            Visual Communication Design III                               3          6
-
-FAA           461            Textile Design III                                                        3
-
-FAA           463            Woven Structures and Fibres                                     3
-
-FAA           471            Ceramic Throwing II                                                  3
-
-FAA           479            Industrial Ceramic Design II                                       3
-
-FAA           457            Pattern Drafting & Studio Practice I                           3
-
-FAA           451            Clothing Construction II                                             3
-FAA           402            Advanced Drawing II                                                             2
-
-FAA           412            Curriculum and Instruction for Art Education                       3
-
-FAA           484            African Architecture                                                               2
-
-FAA           485            Modern African Art                                                               2
-
-FAA           492            Project II                                                                                4
-EDU          211            Educational Psychology I                                                       2
-
-EDU          224            Educational Technology                                                        2
-
- 
-
-EDU          316            Organisation and Administration of                   2
-
-
-EDU          431            Educational Administration                                        2
-FAA           401            Advanced Drawing I                                                   2
-
-FAA           481            Special Readings in Art History I                                3
-
-FAA           480            Fine Art Criticism I                                                     2
-
-FAA           484            Advanced Field Exploration of African Art and
-FAA           487            Africa Art II                                                                 2
-
-FAA           488            Modern Western Art                                                 3
-
-FAA           489            Problems in African Art History                                3
-FAA           402            Advanced Drawing II                                                 2
-
-FAA           404            Professional Practices in Fine and Applied Arts        2
-
-FAA           483            Fine Art Criticism II                                                    2
-
-FAA           482            Special Readings in Art History II                                3
-
-FAA           484            African Architecture                                                   2
-
-FAA           485            Modern African Art                                                    2
-
-FAA           492            Project II                                                                     4
-FAA                 201      Still life Drawing                                                         2
-
-FAA                 231      Introduction to Painting                                              2
-
-FAA                 241      Sculpture Processes: Modelling & Casting I               2
-
-FAA                 281      Historical Survey of Western & Oriental Art I        2
+[
+    {
+        "department_prefix": "ARC",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO ARCHITECTURE 1"
+    },
+    {
+        "department_prefix": "MAT",
+        "course_number": "111",
+        "course_title": "ELEMENTARY MATHEMATICS 1"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "104",
+        "course_title": "GENERAL PHYSICS FOR PHYSICAL SCIENCE"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "191",
+        "course_title": "PRACTICAL PHYSICS"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "111",
+        "course_title": "USE OF LIBRARY AND STUDY SKILLS"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "102",
+        "course_title": "INTRODUCTION TO ARCHITECTURE II"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "104",
+        "course_title": "INTRODUCTION TO APPLIES ARTS"
+    },
+    {
+        "department_prefix": "URP",
+        "course_number": "111",
+        "course_title": "NATURE OF ENVIRONMENTAL SCIENCE"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "105",
+        "course_title": "GENERAL PHYSICS FOR PHYSICAL SCIENCES II"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "106",
+        "course_title": "GENERAL PHYSICS FOR PHYSICAL SCIENCES III"
+    },
+    {
+        "department_prefix": "MAT",
+        "course_number": "112",
+        "course_title": "ELEMENTARY MATHEMATICS II"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "111",
+        "course_title": "USE OF LIBRARY AND STUDY SKILLS"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "211",
+        "course_title": "HISTORY OF ARCHITECTURE I"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "221",
+        "course_title": "DESCRIPTIVE GEOMETRY I"
+    },
+    {
+        "department_prefix": "SVY",
+        "course_number": "201",
+        "course_title": "BASIC LAND SURVEYING I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "BASIC CONCEPTS AND THEORY OF PEACE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "HUMANITIES I"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "233",
+        "course_title": "INTRODUCTION TO ARCHITECTURAL DESIGN"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "212",
+        "course_title": "HISTORY OF ARCHITECTURE II"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "222",
+        "course_title": "DESCRIPTIVE GEOMETRY II"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "232",
+        "course_title": "ARCHITECTURAL DESIGN II"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "262",
+        "course_title": "BUILDING COMPONENTS & METHODS II"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "264",
+        "course_title": "ARCHITECTURAL STRUCTURES II"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "272",
+        "course_title": "COMPUTER APPLICATIONS IN ARCHITECTURE III"
+    },
+    {
+        "department_prefix": "SVY",
+        "course_number": "202",
+        "course_title": "BASIC LAND SURVEYING II"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "104",
+        "course_title": "SOCIAL SCIENCE II"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "ISSUES IN PEACE AND CONFLICT RESOLUTION STUDIES"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "HUMANITIES II"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "244",
+        "course_title": "ENVIRONMENTAL PLANNING"
+    },
+    {
+        "department_prefix": "URP",
+        "course_number": "221",
+        "course_title": "HOUSING PROCESS I (SOCIOLOGY OF HOUSING)"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "202",
+        "course_title": "INTRODUCTION TO MEASUREMENTS & DESCRIPTIONS"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "311",
+        "course_title": "HISTORY OF ARCHITECTURE III"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "321",
+        "course_title": "ARCHITECTURAL PRESENTATION TECHNIQUES"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "331",
+        "course_title": "ARCHITECTURAL DESIGN III"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "341",
+        "course_title": "BUILDING SERVICES I"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "361",
+        "course_title": "BUILDING COMPONENTS & METHODS III"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "363",
+        "course_title": "ARCHITECTURAL STRUCTURES III"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "365",
+        "course_title": "WORKING DRAWINGS / DETAILING"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "371",
+        "course_title": "COMPUTER APPLICATIONS IN ARCHITECTURE IV"
+    },
+    {
+        "department_prefix": "URP",
+        "course_number": "311",
+        "course_title": "RURAL DEVELOPMENT PLANNING"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "341",
+        "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+    },
+    {
+        "department_prefix": "PSY",
+        "course_number": "331",
+        "course_title": "SENSORY PROCESSES"
+    },
+    {
+        "department_prefix": "ESM",
+        "course_number": "342",
+        "course_title": "ECONOMICS OF PLANNED DEVELOPMENT I"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "382",
+        "course_title": "SIWES PROGRAMME"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "413",
+        "course_title": "PROBLEM ANALYSIS IN ARCHITECTURE"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "411",
+        "course_title": "BUILDING QUANTITIES & COSTING"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "431",
+        "course_title": "ARCHITECTURAL DESIGN IV"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "441",
+        "course_title": "BUILDING CLIMATOLOGY"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "443",
+        "course_title": "BUILDING SERVICES II"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "451",
+        "course_title": "HUMAN SETTLEMENTS & ARCHITECTURE"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "461",
+        "course_title": "BUILDING COMPONENTS & METHODS IV"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "463",
+        "course_title": "ARCHITECTURAL STRUCTURES IV"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "471",
+        "course_title": "COMPUTER APPLICATIONS IN ARCHITECTURE V"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "433",
+        "course_title": "INTERIOR DESIGN AND DECORATION"
+    },
+    {
+        "department_prefix": "LAW",
+        "course_number": "243",
+        "course_title": "PRINCIPLES OF LAW OF CONTRACT & TORT I"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "414",
+        "course_title": "HISTORY OF TRADITIONAL ARCHITECTURE IN NIGERIA"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "412",
+        "course_title": "BUILDING ECONOMICS"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "416",
+        "course_title": "PUBLIC & INSTITUTIONAL BUILDINGS"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "432",
+        "course_title": "ARCHITECTURAL DESIGN V"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "434",
+        "course_title": "LANDSCAPE ARCHITECTURE"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "442",
+        "course_title": "ACOUSTICS AND NOISE CONTROL"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "462",
+        "course_title": "BUILDING COMPONENTS & METHODS V"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "464",
+        "course_title": "ARCHITECTURAL STRUCTURES V"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "342",
+        "course_title": "BUSINESS DEVELOPMENT AND MANAGEMENT"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "444",
+        "course_title": "NATURAL & ARTIFICIAL LIGHTING"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "446",
+        "course_title": "POLLUTION CONTROL FOR ARCHITECTS"
+    },
+    {
+        "department_prefix": "CE",
+        "course_number": "422",
+        "course_title": "PUBLIC HEALTH ENGINEERING"
+    }
+]

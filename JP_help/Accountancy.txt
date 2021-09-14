@@ -1,6 +1,6 @@
-ACC101   Elements of Accounting I    2Units
-ACC102   Elements of Accounting II    2Units
-ACC201   Introductions to Financial Accounting    2Units
+ACC 101   Elements of Accounting I    2Units
+ACC 102   Elements of Accounting II    2Units
+ACC 201   Introductions to Financial Accounting    2Units
 ACC 202 Introduction to Financial Accounting II    2
 ACC 211 Introduction to Cost and Management Accounting 2
 ACC 301 Financial Accounting I    2
