@@ -1,0 +1,342 @@
+[
+    {
+        "department_prefix": "ARC",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO ARCHITECTURE 1"
+    },
+    {
+        "department_prefix": "MAT",
+        "course_number": "111",
+        "course_title": "ELEMENTARY MATHEMATICS 1"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "104",
+        "course_title": "GENERAL PHYSICS FOR PHYSICAL SCIENCE"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "191",
+        "course_title": "PRACTICAL PHYSICS"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "111",
+        "course_title": "USE OF LIBRARY AND STUDY SKILLS"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "102",
+        "course_title": "INTRODUCTION TO ARCHITECTURE II"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "104",
+        "course_title": "INTRODUCTION TO APPLIES ARTS"
+    },
+    {
+        "department_prefix": "URP",
+        "course_number": "111",
+        "course_title": "NATURE OF ENVIRONMENTAL SCIENCE"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "105",
+        "course_title": "GENERAL PHYSICS FOR PHYSICAL SCIENCES II"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "106",
+        "course_title": "GENERAL PHYSICS FOR PHYSICAL SCIENCES III"
+    },
+    {
+        "department_prefix": "MAT",
+        "course_number": "112",
+        "course_title": "ELEMENTARY MATHEMATICS II"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "111",
+        "course_title": "USE OF LIBRARY AND STUDY SKILLS"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "211",
+        "course_title": "HISTORY OF ARCHITECTURE I"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "221",
+        "course_title": "DESCRIPTIVE GEOMETRY I"
+    },
+    {
+        "department_prefix": "SVY",
+        "course_number": "201",
+        "course_title": "BASIC LAND SURVEYING I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "BASIC CONCEPTS AND THEORY OF PEACE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "HUMANITIES I"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "233",
+        "course_title": "INTRODUCTION TO ARCHITECTURAL DESIGN"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "212",
+        "course_title": "HISTORY OF ARCHITECTURE II"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "222",
+        "course_title": "DESCRIPTIVE GEOMETRY II"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "232",
+        "course_title": "ARCHITECTURAL DESIGN II"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "262",
+        "course_title": "BUILDING COMPONENTS & METHODS II"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "264",
+        "course_title": "ARCHITECTURAL STRUCTURES II"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "272",
+        "course_title": "COMPUTER APPLICATIONS IN ARCHITECTURE III"
+    },
+    {
+        "department_prefix": "SVY",
+        "course_number": "202",
+        "course_title": "BASIC LAND SURVEYING II"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "104",
+        "course_title": "SOCIAL SCIENCE II"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "ISSUES IN PEACE AND CONFLICT RESOLUTION STUDIES"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "HUMANITIES II"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "244",
+        "course_title": "ENVIRONMENTAL PLANNING"
+    },
+    {
+        "department_prefix": "URP",
+        "course_number": "221",
+        "course_title": "HOUSING PROCESS I (SOCIOLOGY OF HOUSING)"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "202",
+        "course_title": "INTRODUCTION TO MEASUREMENTS & DESCRIPTIONS"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "311",
+        "course_title": "HISTORY OF ARCHITECTURE III"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "321",
+        "course_title": "ARCHITECTURAL PRESENTATION TECHNIQUES"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "331",
+        "course_title": "ARCHITECTURAL DESIGN III"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "341",
+        "course_title": "BUILDING SERVICES I"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "361",
+        "course_title": "BUILDING COMPONENTS & METHODS III"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "363",
+        "course_title": "ARCHITECTURAL STRUCTURES III"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "365",
+        "course_title": "WORKING DRAWINGS / DETAILING"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "371",
+        "course_title": "COMPUTER APPLICATIONS IN ARCHITECTURE IV"
+    },
+    {
+        "department_prefix": "URP",
+        "course_number": "311",
+        "course_title": "RURAL DEVELOPMENT PLANNING"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "341",
+        "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+    },
+    {
+        "department_prefix": "PSY",
+        "course_number": "331",
+        "course_title": "SENSORY PROCESSES"
+    },
+    {
+        "department_prefix": "ESM",
+        "course_number": "342",
+        "course_title": "ECONOMICS OF PLANNED DEVELOPMENT I"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "382",
+        "course_title": "SIWES PROGRAMME"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "413",
+        "course_title": "PROBLEM ANALYSIS IN ARCHITECTURE"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "411",
+        "course_title": "BUILDING QUANTITIES & COSTING"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "431",
+        "course_title": "ARCHITECTURAL DESIGN IV"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "441",
+        "course_title": "BUILDING CLIMATOLOGY"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "443",
+        "course_title": "BUILDING SERVICES II"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "451",
+        "course_title": "HUMAN SETTLEMENTS & ARCHITECTURE"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "461",
+        "course_title": "BUILDING COMPONENTS & METHODS IV"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "463",
+        "course_title": "ARCHITECTURAL STRUCTURES IV"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "471",
+        "course_title": "COMPUTER APPLICATIONS IN ARCHITECTURE V"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "433",
+        "course_title": "INTERIOR DESIGN AND DECORATION"
+    },
+    {
+        "department_prefix": "LAW",
+        "course_number": "243",
+        "course_title": "PRINCIPLES OF LAW OF CONTRACT & TORT I"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "414",
+        "course_title": "HISTORY OF TRADITIONAL ARCHITECTURE IN NIGERIA"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "412",
+        "course_title": "BUILDING ECONOMICS"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "416",
+        "course_title": "PUBLIC & INSTITUTIONAL BUILDINGS"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "432",
+        "course_title": "ARCHITECTURAL DESIGN V"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "434",
+        "course_title": "LANDSCAPE ARCHITECTURE"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "442",
+        "course_title": "ACOUSTICS AND NOISE CONTROL"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "462",
+        "course_title": "BUILDING COMPONENTS & METHODS V"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "464",
+        "course_title": "ARCHITECTURAL STRUCTURES V"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "342",
+        "course_title": "BUSINESS DEVELOPMENT AND MANAGEMENT"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "444",
+        "course_title": "NATURAL & ARTIFICIAL LIGHTING"
+    },
+    {
+        "department_prefix": "ARC",
+        "course_number": "446",
+        "course_title": "POLLUTION CONTROL FOR ARCHITECTS"
+    },
+    {
+        "department_prefix": "CE",
+        "course_number": "422",
+        "course_title": "PUBLIC HEALTH ENGINEERING"
+    }
+]

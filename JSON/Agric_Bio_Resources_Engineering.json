@@ -1,0 +1,577 @@
+[
+  {
+    "department_prefix": "ENGR",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO ENGINEERING"
+  },
+  {
+    "department_prefix": "ENGR",
+    "course_number": "102",
+    "course_title": "APPLIED MECHANICS"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "201",
+    "course_title": "INTRODUCTION TO AGRICULTURAL AND BIORESOURCES ENGINEERING"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "252",
+    "course_title": "COMPUTER APPLICATION TO ENGINEERING"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "254",
+    "course_title": "THE INTERNET AND INFORMATION TECHNOLOGY"
+  },
+  {
+    "department_prefix": "ENGR",
+    "course_number": "201",
+    "course_title": "MATERIALS SCIENCE"
+  },
+  {
+    "department_prefix": "ENGR",
+    "course_number": "202",
+    "course_title": "MATERIALS SCIENCE LABORATORY"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "301",
+    "course_title": "INTRODUCTION TO TECHNICAL WRITING AND PRESENTATION"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "302",
+    "course_title": "BASIC AGRICULTURAL AND BIORESOURCES ENGINEERING"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "304",
+    "course_title": "INTRODUCTION TO FARM MACHINERY"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "312",
+    "course_title": "MECHANICS OF SOIL -MACHINE INTERACTION"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "314",
+    "course_title": "ENGINEERING DRAWING AND DESIGN"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "321",
+    "course_title": "APPLIED HYDRAULICS IN ABE"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "322",
+    "course_title": "WATER QUALITY, EPIDEMIOLOGY AND ENVIRONMENTAL CHEMISTRY"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "323",
+    "course_title": "APPLIED SOIL MECHANICS IN ABE"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "324",
+    "course_title": "CLIMATOLOGY AND METEOROLOGY IN AGRIC. AND BIORESOURCES ENGINEERING"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "326",
+    "course_title": "ENVIRONMENTAL HYDROLOGY"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "331",
+    "course_title": "ENGINEERING PROPERTIES OF BIOMATERIALS"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "341",
+    "course_title": "STRUCTURES AND THEIR ENVIRONMENT"
+  },
+  {
+    "department_prefix": "ENGR",
+    "course_number": "301",
+    "course_title": "ENGINEERING ANALYSIS"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "411",
+    "course_title": "AGRIC. AND BIORES.ENGINEERING FIELD OPERATIONS"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "412",
+    "course_title": "AGRICULTURAL ENGINEERING PRACTICALS"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "413",
+    "course_title": "LAND CLEARING AND DEVELOPMENT"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "415",
+    "course_title": "AGRICULTURAL AND BIORESOURCES POWER AND MACHINERY"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "421",
+    "course_title": "HYDRAULIC STRUCTURES"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "423",
+    "course_title": "PRINCIPLES OF IRRIGATION AND DRAINAGE ENGINEERING"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "441",
+    "course_title": "ENVIRONMENTAL IMPACT ASSESSMENT IN AGRICULTURAL & BIORESOURCES ENGINEERING"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "451",
+    "course_title": "DECISION SUPPORT AND DATA ACQUISITION SYSTEMS"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "462",
+    "course_title": "SPECIAL PROBLEMS IN AGRICULTURAL AND BIORESOURCES ENGINEERING"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "464",
+    "course_title": "SEMINAR"
+  },
+  {
+    "department_prefix": "ENGR",
+    "course_number": "401",
+    "course_title": "COMPUTATIONAL METHODS"
+  },
+  {
+    "department_prefix": "ENGR",
+    "course_number": "402",
+    "course_title": "SIWES"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "511",
+    "course_title": "AGRICULTURAL AND BIORESOURCES MECHANIZATION"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "512",
+    "course_title": "PRINCIPLES OF AGRO-INDUSTRIAL MANAGEMENT"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "513",
+    "course_title": "POWER SOURCES FOR AGRICULTURE AND FORESTRY"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "514",
+    "course_title": "AGRICULTURAL & BIORESOURCES POWER AND MACHINERY SYSTEMS MANAGEMENT"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "515",
+    "course_title": "AGRICULTURAL AND FOREST MACHINERY"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "516",
+    "course_title": "DESIGN OF AGRICULTURAL AND FOREST MACHINERY"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "517",
+    "course_title": "FOREST ENGINEERING I"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "519",
+    "course_title": "SAFETY, ERGONOMICS & HEALTH ISSUES IN AGRICULTURAL AND BIORESOURCES ENGINEERING"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "521",
+    "course_title": "SOIL AND WATER CONSERVATION"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "522",
+    "course_title": "DESIGN OF SOIL AND WATER CONSERVATION STRUCTURES"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "523",
+    "course_title": "DESIGN OF IRRIGATION SYSTEMS"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "524",
+    "course_title": "RURAL WATER SUPPLY AND SANITATION"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "525",
+    "course_title": "DESIGN OF DRAINAGE SYSTEMS"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "526",
+    "course_title": "AQUACULTURAL ENGINEERING II"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "527",
+    "course_title": "AQUACULTURAL ENGINEERING I"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "528",
+    "course_title": "WATERSHED MANAGEMENT"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "531",
+    "course_title": "PROCESSING OF AGRICULTURAL AND BIORESOURCES PRODUCTS"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "532",
+    "course_title": "BIOMATERIALS HANDLING AND TRANSPORTATION EQUIPMENT"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "533",
+    "course_title": "STORAGE OF AGRICULTURAL AND BIORESOURCES PRODUCTS"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "534",
+    "course_title": "BIOMASS ENGINEERING"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "535",
+    "course_title": "SOLAR ENERGY APPLICATION IN BIOPROCESS ENGINEERING"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "536",
+    "course_title": "PACKAGING AND CONTAINERIZATION ENGINEERING"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "537",
+    "course_title": "FOOD ENGINEERING"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "539",
+    "course_title": "ELECTRIFICATION AND ALTERNATIVE ENERGY SOURCES"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "543",
+    "course_title": "APPLIED BIOTECHNOLOGY AND WASTE MANAGEMENT"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "551",
+    "course_title": "PRECISION AGRICULTURE AND INFORMATION TECHNOLOGY"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "572",
+    "course_title": "FINAL \u00cf\u00bf\u00bd YEAR PROJECT"
+  },
+  {
+    "department_prefix": "CE",
+    "course_number": "211",
+    "course_title": "STRENGTH OF MATERIALS I"
+  },
+  {
+    "department_prefix": "CE",
+    "course_number": "212",
+    "course_title": "STRENGTH OF MATERIALS LABORATORY I"
+  },
+  {
+    "department_prefix": "CE",
+    "course_number": "221",
+    "course_title": "FLUID MECHANICS I"
+  },
+  {
+    "department_prefix": "CE",
+    "course_number": "222",
+    "course_title": "FLUID MECHANICS LABORATORY II"
+  },
+  {
+    "department_prefix": "EE",
+    "course_number": "251",
+    "course_title": "BASIC ELECTRICAL ENGINEERING LABORATORY PRACTICE 1"
+  },
+  {
+    "department_prefix": "ECE",
+    "course_number": "271",
+    "course_title": "ENGINEERING COMPUTER PROGRAMMING"
+  },
+  {
+    "department_prefix": "ECE",
+    "course_number": "281",
+    "course_title": "ENGINEERING COMPUTER PROGRAMMING LABORATORY"
+  },
+  {
+    "department_prefix": "ME",
+    "course_number": "211",
+    "course_title": "ENGINEERING DRAWING I"
+  },
+  {
+    "department_prefix": "ME",
+    "course_number": "212",
+    "course_title": "WORKSHOP TECHNOLOGY I"
+  },
+  {
+    "department_prefix": "ME",
+    "course_number": "261",
+    "course_title": "THERMODYNAMICS & HEAT ENGINES"
+  },
+  {
+    "department_prefix": "CE",
+    "course_number": "321",
+    "course_title": "FLUID MECHANICS I"
+  },
+  {
+    "department_prefix": "CE",
+    "course_number": "341",
+    "course_title": "ENGINEERING GEOLOGY"
+  },
+  {
+    "department_prefix": "CE",
+    "course_number": "351",
+    "course_title": "ENGINEERING SURVEYS I"
+  },
+  {
+    "department_prefix": "ME",
+    "course_number": "341",
+    "course_title": "MECHANICS OF MACHINES"
+  },
+  {
+    "department_prefix": "ANSC",
+    "course_number": "274",
+    "course_title": "PRINCIPLES OF ANIMAL PRODUCTION"
+  },
+  {
+    "department_prefix": "AGEC",
+    "course_number": "301",
+    "course_title": "BASIC FARM MANAGEMENT AND PRODUCTION ECONOMICS"
+  },
+  {
+    "department_prefix": "CSC",
+    "course_number": "332",
+    "course_title": "INTRODUCTION TO CROP SCIENCE"
+  },
+  {
+    "department_prefix": "SSC",
+    "course_number": "211",
+    "course_title": "INTRODUCTION TO SOIL SCIENCE"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "601",
+    "course_title": "AGRICULTURAL ENGINEERING SEMINAR"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "602",
+    "course_title": "SPECIAL PROBLEMS IN AGRICULTURAL ENGINEERING"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "603",
+    "course_title": "AGRICULTURAL MECHANIZATION STRATEGIES AND SYSTEMS"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "604",
+    "course_title": "METROLOGY IN ENGINEERING PROPERTIES OF BIO-MATERIALS"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "605",
+    "course_title": "APPLICATION OF FINITE ELEMENTS METHODS IN AGRICULTURAL ENGINEERING"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "606",
+    "course_title": "APPLIED EXPERT SYSTEMS"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "611",
+    "course_title": "TRACTORS AND OTHER FARM POWER SYSTEMS"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "612",
+    "course_title": "SOIL TILLAGE MECHANICS AND MACHINERY"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "613",
+    "course_title": "PLANTING AND FERTILIZER APPLICATION MACHINERY"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "614",
+    "course_title": "CROP PROTECTION MACHINERY"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "615",
+    "course_title": "HARVESTING MACHINERY"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "616",
+    "course_title": "LAND CLEARING AND EARTH-MOVING EQUIPMENT"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "621",
+    "course_title": "IRRIGATION SYSTEMS DEVELOPMENT AND EVALUATION"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "622",
+    "course_title": "AGRICULTURAL LAUD DRAINAGE ENGINEERING"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "623",
+    "course_title": "SEDIMENT TRANSPORT HYDRAULIC AND EARTHEN CHANNEL DESIGN"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "624",
+    "course_title": "GROUND WATER HYDROLOGY AND DEVELOPMENT"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "625",
+    "course_title": "APPLIED HYDROLOGY"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "626",
+    "course_title": "IRRIGATION WATER QUALITY AND MANAGEMENT"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "627",
+    "course_title": "WATER RESOURCES DEVELOPMENT FOR AGRICULTURAL PURPOSES"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "628",
+    "course_title": "SOIL EROSION PREDICTION AND CONTROL TECHNOLOGY"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "631",
+    "course_title": "AGRICULTURAL PROCESSING UNIT OPERATIONS"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "632",
+    "course_title": "CROP DRYING SYSTEMS"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "633",
+    "course_title": "INDUSTRIAL FOOD PROCESSING AND STORAGE"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "634",
+    "course_title": "AGRICULTURAL MATERIALS HANDLING SYSTEMS"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "635",
+    "course_title": "ANALYSIS AND SELECTION OF CLEANING AND SORTING EQUIPMENT"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "636",
+    "course_title": "THEORY AND TECHNIQUES OF FARM PRODUCTS STORAGE"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "637",
+    "course_title": "DESIGN OF STORAGE STRUCTURES"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "641",
+    "course_title": "FARM ESTATE PLANNING AND DESIGN"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "642",
+    "course_title": "ENVIRONMENTAL CONTROL IN FARM, BUILDINGS AND STRUCTURES"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "643",
+    "course_title": "STRUCTURAL ANALYSIS AND DESIGN OF FARM BUILDINGS"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "644",
+    "course_title": "SOLAR ENERGY UTILIZATION IN AGRICULTURE"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "645",
+    "course_title": "AGRICULTURAL WASTE TREATMENT AND SYSTEM DESIGNS"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "646",
+    "course_title": "AGRICULTURAL WASTE UTILIZATION"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "690",
+    "course_title": "PROJECT REPORT"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "701",
+    "course_title": "AGRICULTURAL ENGINEERING SEMINAR"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "702",
+    "course_title": "SPECIAL PROBLEMS IN AGRICULTURAL ENGINEERING"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "703",
+    "course_title": "INSTRUMENTATION AND MEASUREMENT IN AGRIC. ENGINEERING RESEARCH"
+  },
+  {
+    "department_prefix": "ABE",
+    "course_number": "790",
+    "course_title": "THESIS (PH.D.)"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "department_prefix": "OOO",
+    "course_number": "000",
+    "course_title": "BASIC ANATOMY FOR PHARMACY STUDENTS"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "282",
+    "course_title": "NEUROANATOMY FOR PHARMACY STUDENTS"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "284",
+    "course_title": "PRACTICAL GROSS ANATOMY FOR PHARMACY STUDENTS"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "283",
+    "course_title": "HISTOLOGY FOR PHARMACY STUDENTS (1"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "362",
+    "course_title": "HEALTH PSYCHOLOGY AND BEHAVIORAL PHARMACY"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "461",
+    "course_title": "PHARMACY ADMINISTRATION- ECONOMICS"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "462",
+    "course_title": "COMMUNICATION SKILLS FOR PHARMACY STUDENTS"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "481",
+    "course_title": "INTRODUCTION TO CLINICAL PHARMACY"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "483",
+    "course_title": "ESSENTIALS OF NUTRITION"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "485",
+    "course_title": "PATHOPHYSIOLOGY I"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "486",
+    "course_title": "PATHOPHYSIOLOGY II"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "561",
+    "course_title": "PHARMACY ADMINISTRATION MANAGEMENT"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "562",
+    "course_title": "INTRODUCTION TO PHARMACOECONOMICS"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "563",
+    "course_title": "BIOSTATISTICS"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "564",
+    "course_title": "PHARMACEUTICAL CARE"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "581",
+    "course_title": "CLINICAL PHARMACOKINETICS"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "582",
+    "course_title": "CLINICAL PHARMACY CLERKSHIP I"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "583",
+    "course_title": "PHARMACOTHERAPEUTICS I"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "585",
+    "course_title": "PHARMACOTHERAPEUTICS II"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "651",
+    "course_title": "DRUG EVALUATION AND ETHNOPHARMACOLOGY"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "662",
+    "course_title": "DRUG INFORMATION SERVICES"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "664",
+    "course_title": "PUBLIC HEALTH PHARMACY AND PHARMACOEPIDEMIOLOGY"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "681",
+    "course_title": "CLINICAL PHARMACY CLERKSHIP II"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "682",
+    "course_title": "CLINICAL PHARMACY CLERKSHIP III"
+  },
+  {
+    "department_prefix": "CPM",
+    "course_number": "682",
+    "course_title": "PHARMACOTHERAPEUTICS III"
+  }
+]

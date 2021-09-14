@@ -1,0 +1,327 @@
+[
+  {
+    "department_prefix": "MAN",
+    "course_number": "101",
+    "course_title": "ELEMENTS OF BUSINESS ECONOMICS I"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "103",
+    "course_title": "BUSINESS MATHEMATICS I"
+  },
+  {
+    "department_prefix": "COS",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+  },
+  {
+    "department_prefix": "FRE",
+    "course_number": "101",
+    "course_title": "ELEMENTARY FRENCH I"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "101",
+    "course_title": "ELEMENTS OF ACCOUNTING I"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO FINANCE"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "101",
+    "course_title": "THE USE OF ENGLISH I"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "105",
+    "course_title": "NATURAL SCIENCE I"
+  },
+  {
+    "department_prefix": "PSY",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO PSYCHOLOGY I"
+  },
+  {
+    "department_prefix": "SOC",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO SOCIOLOGY I"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "102",
+    "course_title": "ELEMENTS OF BUSINESS ECONOMICS II"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "104",
+    "course_title": "BUSINESS MATHEMATICS II"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "106",
+    "course_title": "INTRODUCTION TO BUSINESS"
+  },
+  {
+    "department_prefix": "FRE",
+    "course_number": "102",
+    "course_title": "ELEMENTARY FRENCH II"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "102",
+    "course_title": "ELEMENTS OF ACCOUNTING II"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "102",
+    "course_title": "THE USE OF ENGLISH II"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "106",
+    "course_title": "NATURAL SCIENCE II"
+  },
+  {
+    "department_prefix": "PSY",
+    "course_number": "102",
+    "course_title": "INTRODUCTION TO PSYCHOLOGY II"
+  },
+  {
+    "department_prefix": "SOC",
+    "course_number": "102",
+    "course_title": "INTRODUCTION TO SOCIOLOGY II"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "201",
+    "course_title": "ELEMENTS OF MANAGEMENT"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "231",
+    "course_title": "BUSINESS STATISTICS I"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "241",
+    "course_title": "BUSINESS MICROECONOMIC THEORY"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "201",
+    "course_title": "INTRODUCTION TO FINANCIAL ACCOUNTING I"
+  },
+  {
+    "department_prefix": "MKT",
+    "course_number": "201",
+    "course_title": "ELEMENTS OF MARKETING"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "211",
+    "course_title": "INTRODUCTION TO COST AND MANAGEMENT ACCOUNTING"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "201",
+    "course_title": "SOCIAL SCIENCE I"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "207",
+    "course_title": "HUMANITIES"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "222",
+    "course_title": "PRODUCTION MANAGEMENT"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "232",
+    "course_title": "BUSINESS STATISTICS II"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "242",
+    "course_title": "BUSINESS MACROECONOMIC THEORY"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "244",
+    "course_title": "LABOUR ECONOMICS"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "202",
+    "course_title": "INTRODUCTION TO FINANCIAL ACCOUNTING"
+  },
+  {
+    "department_prefix": "COS",
+    "course_number": "304",
+    "course_title": "COMPUTER APPLICATIONS"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "202",
+    "course_title": "SOCIAL SCIENCE II"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "208",
+    "course_title": "HUMANITIES"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "311",
+    "course_title": "HUMAN RESOURCE MANAGEMENT"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "331",
+    "course_title": "QUANTITATIVE METHODS FOR BUSINESS"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "361",
+    "course_title": "PRINCIPLES OF SMALL BUSINESS MANAGEMENT"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "371",
+    "course_title": "MANAGEMENT THEORY"
+  },
+  {
+    "department_prefix": "LAW",
+    "course_number": "211",
+    "course_title": "BASIC BUSINESS LAW"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "311",
+    "course_title": "COST ACCOUNTING I"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "311",
+    "course_title": "MONETARY THEORY AND PRACTICE"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "331",
+    "course_title": "FINANCIAL MANAGEMENT I"
+  },
+  {
+    "department_prefix": "MKT",
+    "course_number": "351",
+    "course_title": "CONSUMER BEHAVIOUR ANALYSIS"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "312",
+    "course_title": "ORGANISATIONAL BEHAVIOUR"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "352",
+    "course_title": "GOVERNMENT AND BUSINESS"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "354",
+    "course_title": "INTERNATIONAL BUSINESS MANAGEMENT"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "372",
+    "course_title": "BUSINESS ETHICS AND SOCIAL RESPONSIBILITIES"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "382",
+    "course_title": "RESEARCH METHODOLOGY"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "312",
+    "course_title": "COST ACCOUNTING II"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "332",
+    "course_title": "FINANCIAL MANAGEMENT II"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "411",
+    "course_title": "INDUSTRIAL RELATIONS"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "461",
+    "course_title": "BUSINESS POLICY"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "463",
+    "course_title": "ENTREPRENEURIAL DEVELOPMENT"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "471",
+    "course_title": "COMPARATIVE MANAGEMENT"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "473",
+    "course_title": "ADVANCED MANAGEMENT"
+  },
+  {
+    "department_prefix": "MKT",
+    "course_number": "401",
+    "course_title": "MARKETING MANAGEMENT"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "411",
+    "course_title": "MANAGEMENT ACCOUNTING I"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "451",
+    "course_title": "CAPITAL MARKET AND PORTFOLIO THEORY"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "412",
+    "course_title": "COMPARATIVE INDUSTRIAL RELATIONS"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "432",
+    "course_title": "ANALYSIS FOR BUSINESS DECISIONS"
+  },
+  {
+    "department_prefix": "MAN462",
+    "course_number": "Business",
+    "course_title": "POLICY II"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "472",
+    "course_title": "CORPORATE PLANNING AND STRATEGIC MANAGEMENT"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "492",
+    "course_title": "PROJECT"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "412",
+    "course_title": "MANAGEMENT ACCOUNTING II"
+  }
+]

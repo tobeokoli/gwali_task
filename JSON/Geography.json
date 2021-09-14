@@ -1,0 +1,527 @@
+[
+  {
+    "department_prefix": "GEO",
+    "course_number": "101",
+    "course_title": "BASIC ELEMENTS OF LANDFORMS AND THE HYDROSPHERE"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "103",
+    "course_title": "FUNDAMENTALS OF HUMAN GEOGRAPHY I"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "121",
+    "course_title": "BASIC STATISTICAL METHODS FOR GEOGRAPHERS I"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "131",
+    "course_title": "GEOGRAPHY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "161",
+    "course_title": "INTRODUCTION TO ENVIRONMENTAL SCIENCE"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "105",
+    "course_title": "NATURAL SCIENCE I"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "111",
+    "course_title": "THE USE OF LIBRARY"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "101",
+    "course_title": "PRINCIPLES OF ECONOMICS I"
+  },
+  {
+    "department_prefix": "PSY",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO PSYCHOLOGY I"
+  },
+  {
+    "department_prefix": "SOC",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO SOCIOLOGY I"
+  },
+  {
+    "department_prefix": "PSC",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO POLITICAL SCIENCES I"
+  },
+  {
+    "department_prefix": "ANT",
+    "course_number": "102",
+    "course_title": "INTRODUCTION TO ANTHROPOLOGY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "102",
+    "course_title": "BASIC ELEMENTS OF THE ATMOSPHERE AND BIOSPHERE"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "104",
+    "course_title": "FUNDAMENTALS OF HUMAN GEOGRAPHY II"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "122",
+    "course_title": "BASIC STATISTICAL METHODS FOR GEOGRAPHERS II"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "132",
+    "course_title": "ELEMENTARY SURVEYING"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "184",
+    "course_title": "LOCAL FIELD STUDIES"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "162",
+    "course_title": "BASICS OF ENVIRONMENTAL CHANGE"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "102",
+    "course_title": "THE USE OF ENGLISH II"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "106",
+    "course_title": "NATURAL SCIENCE II"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "102",
+    "course_title": "PRINCIPLES OF ECONOMICS II"
+  },
+  {
+    "department_prefix": "SOC",
+    "course_number": "102",
+    "course_title": "INTRODUCTION TO SOCIOLOGY II"
+  },
+  {
+    "department_prefix": "PSC",
+    "course_number": "102",
+    "course_title": "INTRODUCTION TO POLITICAL SCIENCE II"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "201",
+    "course_title": "CONTEMPORARY PHILOSOPHY AND METHODOLOGY OF GEOGRAPHY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "211",
+    "course_title": "DEVELOPMENT AND STRUCTURAL BASIS OF GEOMORPHOLOGY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "213",
+    "course_title": "THE PHYSICAL BASIS OF CLIMATE"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "215",
+    "course_title": "INTRODUCTION TO BIOGEOGRAPHY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "231",
+    "course_title": "INTRODUCTION TO CARTOGRAPHY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "271",
+    "course_title": "SPATIAL PATTERNS OF LAND USE"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "201",
+    "course_title": "INTRODUCTION TO PEACE AND CONFLICT RESOLUTION"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "207",
+    "course_title": "HUMANITIES I"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "201",
+    "course_title": "MICRO ECONOMIC THEORY I"
+  },
+  {
+    "department_prefix": "ANT",
+    "course_number": "303",
+    "course_title": "NIGERIAN PEOPLE AND CULTURES"
+  },
+  {
+    "department_prefix": "GLG",
+    "course_number": "103",
+    "course_title": "BASIC AND APPLIED GEOLOGY FOR ENVIRONMENTAL AND PHYSICAL SCIENCES"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "111",
+    "course_title": "ELEMENTARY MATHEMATICS I"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "202",
+    "course_title": "CONTEMPORARY PHILOSOPHY AND METHODOLOGY OF GEOG II"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "212",
+    "course_title": "GEOMORPHOLOGICAL PROCESSES AND FORMS"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "214",
+    "course_title": "CLIMATIC SYSTEMS AND REGIONAL CLIMATES"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "216",
+    "course_title": "PRINCIPLES OF BIOGEOGRAPHY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "222",
+    "course_title": "STATISTICAL INFERENCE FROM GEOGRAPHIC DATA"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "234",
+    "course_title": "INTRODUCTION TO GEOGRAPHIC INFORMATION SYSTEMS"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "242",
+    "course_title": "INTRODUCTION TO POPULATION GEOGRAPHY"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "208",
+    "course_title": "HUMANITIES II"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "202",
+    "course_title": "PEACE AND CONFLICT RESOLUTION"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "203",
+    "course_title": "MICRO ECONOMIC THEORY I"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "204",
+    "course_title": "MICRO ECONOMIC THEORY II"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "113",
+    "course_title": "ELEMENTARY MATHEMATICS I"
+  },
+  {
+    "department_prefix": "GLG",
+    "course_number": "141",
+    "course_title": "EARTH HISTORY"
+  },
+  {
+    "department_prefix": "PSY",
+    "course_number": "242",
+    "course_title": "PSYCHOLOGY OF ETHNICITY AND ETHNIC GROUPS"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "202",
+    "course_title": "MICRO ECONOMIC THEORY II"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "321",
+    "course_title": "MULTIVARIATE STATISTICAL ANALYSIS IN GEOGRAPHY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "333",
+    "course_title": "APPLICATION OF GEOGRAPHIC INFORMATION SYSTEMS"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "331",
+    "course_title": "THEMATIC CARTOGRAPHY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "341",
+    "course_title": "PRINCIPLES AND METHODS OF POPULATION GEOGRAPHY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "343",
+    "course_title": "SETTLEMENT GEOGRAPHY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "351",
+    "course_title": "ECONOMIC GEOGRAPHY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "373",
+    "course_title": "GEOGRAPHICAL REGIONS OF AFRICA"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "311",
+    "course_title": "PRINCIPLES OF HYDROLOGY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "313",
+    "course_title": "RUNOFF PROCESSES IN DRAINAGE BASIN"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "335",
+    "course_title": "ENVIRONMENTAL REMOTE SENSING"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "337",
+    "course_title": "AERIAL PHOTO INTERPRETATION"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "353",
+    "course_title": "LAND RESOURCE EVALUATION"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "363",
+    "course_title": "SOIL CONSERVATION AND PROTECTION"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "309",
+    "course_title": "RESEARCH DESIGN AND METHODOLOGY IN GEOGRAPHY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "384",
+    "course_title": "GEOGRAPHY FIELD COURSE I"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "386",
+    "course_title": "GEOGRAPHY FIELD COURSE II"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "388",
+    "course_title": "STUDENTS INDUSTRIAL WORK EXPERIENCES (SIWES)"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "431",
+    "course_title": "ADVANCED CARTOGRAPHIC METHODS I"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "461",
+    "course_title": "ENVIRONMENTAL PROTECTION AND MANAGEMENT"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "453",
+    "course_title": "THE DEVELOPING WORLD"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "471",
+    "course_title": "GEOGRAPHICAL REGIONS OF NIGERIA"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "477",
+    "course_title": "GEOGRAPHY IN REGIONAL PLANNING"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "479",
+    "course_title": "SPATIAL ANALYSIS AND MODELING"
+  },
+  {
+    "department_prefix": "CED",
+    "course_number": "341",
+    "course_title": "INTRODUCTION TO ENTREPRENEURSHIP I"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "411",
+    "course_title": "GEOMORPHOLOGY OF THE TROPICS"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "413",
+    "course_title": "WEATHER AND CLIMATE IN THE TROPICS"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "415",
+    "course_title": "TROPICAL VEGETATION RESOURCE ANALYSIS"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "417",
+    "course_title": "URBAN HYDROLOGICAL PROBLEMS"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "465",
+    "course_title": "GEOGRAPHY OF WATER RESOURCES"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "441",
+    "course_title": "URBANIZATION AND DEVELOPMENT"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "443",
+    "course_title": "RURAL ENVIRONMENT, DEVELOPMENT AND SUSTAINABILITY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "447",
+    "course_title": "TECHNIQUES AND MODELS IN POPULATION GEOGRAPHY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "451",
+    "course_title": "DEVELOPMENT OF TRANSPORTATION SYSTEMS"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "457",
+    "course_title": "INDUSTRIAL LOCATION AND MODELS"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "455",
+    "course_title": "PRINCIPLES OF AGRICULTURAL GEOGRAPHY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "475",
+    "course_title": "PRINCIPLES OF POLITICAL GEOGRAPHY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "432",
+    "course_title": "ADVANCED CARTOGRAPHIC METHODS II"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "446",
+    "course_title": "THEORIES AND APPLICATIONS IN POPULATION GEOGRAPHY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "454",
+    "course_title": "THE DEVELOPED WORLD"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "472",
+    "course_title": "GEOGRAPHY OF NIGERIAN DEVELOPMENT"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "474",
+    "course_title": "THEORIES AND APPLICATIONS IN SPATIAL MANAGEMENT"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "492",
+    "course_title": "PROJECT"
+  },
+  {
+    "department_prefix": "CED",
+    "course_number": "342",
+    "course_title": "INTRODUCTION TO ENTREPRENEURSHIP II"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "412",
+    "course_title": "APPLIED GEOMORPHOLOGY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "414",
+    "course_title": "APPLIED CLIMATOLOGY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "416",
+    "course_title": "ECOSYSTEM MANAGEMENT"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "418",
+    "course_title": "HYDROLOGICAL MEASUREMENTS AND NETWORK DESIGN"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "466",
+    "course_title": "WATER RESOURCES DEVELOPMENT AND MANAGEMENT"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "442",
+    "course_title": "INTERNAL STRUCTURE OF THE CITY"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "444",
+    "course_title": "RURAL DEVELOPMENT PLANNING"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "448",
+    "course_title": "POPULATION AND RESOURCE DEVELOPMENT"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "452",
+    "course_title": "TRANSPORTATION DEVELOPMENT PROBLEMS AND PLANNING."
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "458",
+    "course_title": "INDUSTRIAL SYSTEMS AND DEVELOPMENT"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "456",
+    "course_title": "AGRICULTURAL RESOURCES OF THE HUMID TROPICS"
+  },
+  {
+    "department_prefix": "GEO",
+    "course_number": "476",
+    "course_title": "THE POLITICAL ORGANIZATION OF SPACE"
+  }
+]

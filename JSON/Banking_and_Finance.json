@@ -1,0 +1,337 @@
+[
+  {
+    "department_prefix": "BAF",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO FINANCE"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "101",
+    "course_title": "ELEMENTS OF BUSINESS ECONOMICS"
+  },
+  {
+    "department_prefix": "COS",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO COMPUTER"
+  },
+  {
+    "department_prefix": "PHIL",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO LOGIC AND PHILOSOPHY"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "101",
+    "course_title": "ELEMENTS OF ACCOUNTING 1"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "103",
+    "course_title": "BUSINESS MATHEMATICS 1"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "101",
+    "course_title": "USE OF ENGLISH 1"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "105",
+    "course_title": "NATURAL SCIENCE 1"
+  },
+  {
+    "department_prefix": "PSY",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO PSYCHOLOGY 1"
+  },
+  {
+    "department_prefix": "SOC",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO SOCIOLOGY 1"
+  },
+  {
+    "department_prefix": "FRE",
+    "course_number": "101",
+    "course_title": "ELEMENTARY FRENCH 1"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "102",
+    "course_title": "ELEMENTS OF BUSINESS ECONOMICS 11"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "104",
+    "course_title": "BUSINESS MATHEMATICS 11"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "106",
+    "course_title": "INTRODUCTION TO BUSINESS"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "102",
+    "course_title": "ELEMENTS OF ACCOUNTING 11"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "108",
+    "course_title": "COMPUTER APPLICATIONS IN BANKING"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "102",
+    "course_title": "USE OF ENGLISH 11"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "106",
+    "course_title": "NATURAL SCIENCE 11"
+  },
+  {
+    "department_prefix": "PHIL",
+    "course_number": "102",
+    "course_title": "HISTORY AND PHILOSOPHY OF SCIENCE"
+  },
+  {
+    "department_prefix": "PSY",
+    "course_number": "102",
+    "course_title": "INTRODUCTION TO PSYCHOLOGY 11"
+  },
+  {
+    "department_prefix": "SOC",
+    "course_number": "102",
+    "course_title": "INTRODUCTION TO SOCIOLOGY 11"
+  },
+  {
+    "department_prefix": "FRE",
+    "course_number": "102",
+    "course_title": "ELEMENTARY FRENCH 11"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "201",
+    "course_title": "MATHEMATICS OF FINANCE"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "201",
+    "course_title": "INTRODUCTION TO FINANCIAL ACCOUNTING 1"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "211",
+    "course_title": "INTRODUCTION TO COST AND MANAGEMENT ACCOUNTING"
+  },
+  {
+    "department_prefix": "MKT",
+    "course_number": "201",
+    "course_title": "ELEMENTS OF MARKETING"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "201",
+    "course_title": "ELEMENTS OF MANAGEMENT"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "231",
+    "course_title": "BUSINESS STATISTICS 1"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "241",
+    "course_title": "MICRO ECONOMIC THEORY"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "201",
+    "course_title": "SOCIAL SCIENCES 1"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "207",
+    "course_title": "HUMANITIES 1"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "212",
+    "course_title": "ELEMENTS OF BANKING"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "222",
+    "course_title": "PRINCIPLES OF INSURANCE"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "232",
+    "course_title": "BUSINESS STATISTICS 11"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "242",
+    "course_title": "MACRO ECONOMIC THEORY"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "202",
+    "course_title": "INTRODUCTION TO FINANCIAL ACCOUNTING 11"
+  },
+  {
+    "department_prefix": "MKT",
+    "course_number": "222",
+    "course_title": "BUSINESS COMMUNICATION"
+  },
+  {
+    "department_prefix": "COS",
+    "course_number": "304",
+    "course_title": "COMPUTER APPLICATIONS"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "202",
+    "course_title": "SOCIAL SCIENCES 11"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "208",
+    "course_title": "HUMANITIES 11"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "311",
+    "course_title": "MONETARY THEORY & POLICY"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "313",
+    "course_title": "BANKING LAWS & REGULATIONS"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "315",
+    "course_title": "COMPARATIVE BANKING"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "331",
+    "course_title": "FINANCIAL MANAGEMENT 1"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "383",
+    "course_title": "PUBLIC FINANCE AND TAXATION 1"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "311",
+    "course_title": "COST ACCOUNTING 1"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "333",
+    "course_title": "QUANTITATIVE METHODS FOR BUSINESS"
+  },
+  {
+    "department_prefix": "CED",
+    "course_number": "383",
+    "course_title": "INTRODUCTION TO ENTREPRENEURIAL DEVELOPMENT"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "318",
+    "course_title": "BANKING METHODS AND PROCESSES 1"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "332",
+    "course_title": "FINANCIAL MANAGEMENT 11 (ADVANCED)"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "342",
+    "course_title": "FINANCIAL SYSTEMS (INSTITUTIONS)"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "372",
+    "course_title": "RESEARCH METHODS"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "384",
+    "course_title": "PUBLIC FINANCE AND TAXATION 11"
+  },
+  {
+    "department_prefix": "LAW",
+    "course_number": "212",
+    "course_title": "BASIC BUSINESS LAW"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "312",
+    "course_title": "COST ACCOUNTING 11"
+  },
+  {
+    "department_prefix": "CED",
+    "course_number": "342",
+    "course_title": "BUSINESS DEVELOPMENT & MANAGEMENT"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "352",
+    "course_title": "GOVERNMENT AND BUSINESS"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "413",
+    "course_title": "LAW, ETHICS AND CORPORATE GOVERNANCE"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "415",
+    "course_title": "BANKING METHODS AND PROCESSES 11"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "451",
+    "course_title": "CAPITAL MARKETS AND PORTFOLIO THEORY"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "461",
+    "course_title": "INTERNATIONAL FINANCE"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "417",
+    "course_title": "FINANCIAL SERVICES MARKETING"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "406",
+    "course_title": "BUSINESS POLICY"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "412",
+    "course_title": "BANK LENDING AND CREDIT ADMINISTRATION"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "434",
+    "course_title": "PROJECT EVALUATION"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "472",
+    "course_title": "INVESTMENT BANKING"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "432",
+    "course_title": "ANALYSIS FOR BUSINESS DECISIONS"
+  }
+]

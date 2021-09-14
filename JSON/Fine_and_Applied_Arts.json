@@ -1,0 +1,1397 @@
+[
+  {
+    "department_prefix": "FAA",
+    "course_number": "101",
+    "course_title": "BASIC DRAWING I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "103",
+    "course_title": "TWO DIMENSIONAL DESIGN I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "105",
+    "course_title": "THREE DIMENSIONAL DESIGN I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "181",
+    "course_title": "ART APPRECIATION"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "183",
+    "course_title": "HISTORY OF NIGERIAN ART"
+  },
+  {
+    "department_prefix": "PHIL",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO PHILOSOPHY"
+  },
+  {
+    "department_prefix": "FRE",
+    "course_number": "101",
+    "course_title": "ELEMENTARY FRENCH I"
+  },
+  {
+    "department_prefix": "GER",
+    "course_number": "101",
+    "course_title": "ELEMENTARY GERMAN I 2"
+  },
+  {
+    "department_prefix": "RUS",
+    "course_number": "101",
+    "course_title": "ELEMENTARY RUSSIAN I"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "101",
+    "course_title": "THE USE OF ENGLISH I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "102",
+    "course_title": "BASIC DRAWING II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "104",
+    "course_title": "TWO DIMENSIONAL DESIGN II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "106",
+    "course_title": "THREE DIMENSIONAL DESIGN II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "122",
+    "course_title": "BASIC PHOTOGRAPHY"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "180",
+    "course_title": "ART AND SOCIETY"
+  },
+  {
+    "department_prefix": "THA",
+    "course_number": "102",
+    "course_title": "PRACTICAL PARTICIPATION ORIENTATION"
+  },
+  {
+    "department_prefix": "FRE",
+    "course_number": "102",
+    "course_title": "ELEMENTARY FRENCH II"
+  },
+  {
+    "department_prefix": "GER",
+    "course_number": "102",
+    "course_title": "ELEMENTARY GERMAN II 2"
+  },
+  {
+    "department_prefix": "RUS",
+    "course_number": "102",
+    "course_title": "ELEMENTARY RUSSIAN II"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "102",
+    "course_title": "THE USE OF ENGLISH II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "201",
+    "course_title": "STILL \u00c2\u20ac\u201c LIFE DRAWING"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "203",
+    "course_title": "ART AND ENVIRONMENT"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "231",
+    "course_title": "INTRODUCTION TO PAINTING"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "241",
+    "course_title": "SCULPTURE PROCESSES: MODELLING & CASTING I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "281",
+    "course_title": "HISTORICAL SURVEY OF WESTERN & ORIENTAL ART I"
+  },
+  {
+    "department_prefix": "COS",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+  },
+  {
+    "department_prefix": "CED",
+    "course_number": "341",
+    "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+  },
+  {
+    "department_prefix": "CHM",
+    "course_number": "101",
+    "course_title": "BASIC PRINCIPLES OF CHEMISTRY I"
+  },
+  {
+    "department_prefix": "ACH",
+    "course_number": "101",
+    "course_title": "FUNDAMENTALS OF ARCHAEOLOGY 3"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "141",
+    "course_title": "INTRODUCTION TO FICTION"
+  },
+  {
+    "department_prefix": "REL",
+    "course_number": "151",
+    "course_title": "INTRODUCTION TO AFRICAN TRADITIONAL RELIGION"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "105",
+    "course_title": "NATURAL SCIENCE I"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "201",
+    "course_title": "SOCIAL SCIENCE I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "202",
+    "course_title": "FIGURE DRAWING"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "212",
+    "course_title": "ORIENTATION TO ART EDUCATION"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "222",
+    "course_title": "VISUAL COMMUNICATION DESIGN I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "262",
+    "course_title": "TEXTILE DESIGN I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "272",
+    "course_title": "CERAMICS: THROWING & MODELLING"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "282",
+    "course_title": "HISTORICAL SURVEY OF WESTERN & ORIENTAL ART II"
+  },
+  {
+    "department_prefix": "COS",
+    "course_number": "304",
+    "course_title": "COMPUTER APPLICATION II"
+  },
+  {
+    "department_prefix": "CED",
+    "course_number": "342",
+    "course_title": "BUSINESS DEVELOPMENT AND MANAGEMENT"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "106",
+    "course_title": "NATURAL SCIENCE II"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "202",
+    "course_title": "SOCIAL SCIENCE II 2"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "301",
+    "course_title": "DRAUGHTSMANSHIP I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "311",
+    "course_title": "CURRICULUM AND METHODOLOGY IN ART EDUCATION"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "313",
+    "course_title": "TEACHING PRACTICE IN ART I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "315",
+    "course_title": "APPROACHES TO ART TEACHING"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "385",
+    "course_title": "AFRICAN ART I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "303",
+    "course_title": "RESEARCH TECHNIQUES IN FINE/APPLIED ARTS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "351",
+    "course_title": "CLOTHING CONSTRUCTION I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "355",
+    "course_title": "FASHION DESIGN AND ILLUSTRATION I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "361",
+    "course_title": "TEXTILE DESIGN II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "365",
+    "course_title": "TEXTILE THEORY I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "341",
+    "course_title": "SCULPTURE PROCESS: MODELLING AND CASTING II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "347",
+    "course_title": "UTILITY WOOD SCULPTURE"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "327",
+    "course_title": "VISUAL COMMUNICATION DESIGN AND MULTIMEDIA VISUAL PRODUCTION 3"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "321",
+    "course_title": "PRINTMAKING I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "331",
+    "course_title": "OIL/ WATER-BASED AND OTHER MEDIA EXPLORATION"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "333",
+    "course_title": "LANDSCAPE AND STILL LIFE PAINTING"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "371",
+    "course_title": "CERAMIC THROWING I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "370",
+    "course_title": "CERAMICS THEORY I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "392",
+    "course_title": "PROJECT I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "394",
+    "course_title": "SIWES"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "301",
+    "course_title": "DRAUGHTSMANSHIP I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "303",
+    "course_title": "RESEARCH TECHNIQUES IN FINE AND APPLIED ARTS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "305",
+    "course_title": "INTRODUCTION TO MURAL PAINTING"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "331",
+    "course_title": "OIL/WATER-BASED AND OTHER MEDIA EXPLORATION"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "333",
+    "course_title": "LANDSCAPE & STILL-LIFE PAINTING"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "335",
+    "course_title": "PAINTING THEORY I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "337",
+    "course_title": "LIFE PAINTING"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "339",
+    "course_title": "NARRATIVE PAINTING AND NIGERIAN"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "385",
+    "course_title": "AFRICAN ART I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "321",
+    "course_title": "PRINT MAKING I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "392",
+    "course_title": "PROJECT I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "394",
+    "course_title": "SIWES"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "301",
+    "course_title": "DRAUGHTSMANSHIP I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "303",
+    "course_title": "RESEARCH TECHNIQUES IN FINE/APPLIED ARTS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "341",
+    "course_title": "SCULPTURE PROCESSES: MODELLING AND CASTING II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "343",
+    "course_title": "SCULPTURE THEORY I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "345",
+    "course_title": "EXPLORATION OF AFRICAN SCULPTURE IDEAS, FORMS MATERIALS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "347",
+    "course_title": "UTILITY WOOD SCULPTURE"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "349",
+    "course_title": "OUTDOOR SCULPTURE PROJECT"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "385",
+    "course_title": "AFRICAN ART I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "392",
+    "course_title": "PROJECT I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "394",
+    "course_title": "SIWES"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "301",
+    "course_title": "DRAUGHTSMANSHIP I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "303",
+    "course_title": "RESEARCH TECHNIQUES IN FINE/APPLIED ARTS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "321",
+    "course_title": "PRINTMAKING I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "323",
+    "course_title": "CREATIVE PHOTOGRAPHY"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "325",
+    "course_title": "COMPUTER GRAPHICS I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "327",
+    "course_title": "VISUAL COMMUNICATION DESIGN"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "329",
+    "course_title": "VISUAL COMMUNICATION DESIGN THEORY I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "385",
+    "course_title": "AFRICAN ART I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "392",
+    "course_title": "PROJECT I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "394",
+    "course_title": "SIWES"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "301",
+    "course_title": "DRAUGHTSMANSHIP I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "303",
+    "course_title": "RESEARCH TECHNIQUES IN FINE/APPLIED ARTS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "353",
+    "course_title": "HISTORY OF COSTUMES I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "361",
+    "course_title": "TEXTILE DESIGN II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "363",
+    "course_title": "COMPUTER AIDED DESIGN I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "365",
+    "course_title": "TEXTILE THEORY I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "367",
+    "course_title": "WOVEN STRUCTURES AND FIBRES 1"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "385",
+    "course_title": "AFRICAN ART I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "392",
+    "course_title": "PROJECT I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "394",
+    "course_title": "SIWES"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "301",
+    "course_title": "DRAUGHTSMANSHIP I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "303",
+    "course_title": "RESEARCH TECHNIQUES IN FINE/APPLIED ARTS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "351",
+    "course_title": "CLOTHING CONSTRUCTION I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "353",
+    "course_title": "HISTORY OF COSTUMES I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "355",
+    "course_title": "FASHION DESIGN ILLUSTRATION I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "361",
+    "course_title": "TEXTILE DESIGN II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "363",
+    "course_title": "COMPUTER AIDED DESIGN I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "365",
+    "course_title": "TEXTILE THEORY I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "385",
+    "course_title": "AFRICAN ART I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "392",
+    "course_title": "PROJECT I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "394",
+    "course_title": "SIWES"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "301",
+    "course_title": "DRAUGHTSMANSHIP I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "303",
+    "course_title": "RESEARCH TECHNIQUES IN FINE/APPLIED ARTS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "370",
+    "course_title": "CERAMICS THEORY I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "371",
+    "course_title": "CERAMIC THROWING I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "373",
+    "course_title": "SPECIAL CERAMICS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "375",
+    "course_title": "EXPLORATION OF CERAMIC IDEAS, FORMS AND MATERIALS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "377",
+    "course_title": "CERAMIC MODELLING I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "379",
+    "course_title": "INDUSTRIAL CERAMIC DESIGN I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "385",
+    "course_title": "AFRICAN ART I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "392",
+    "course_title": "PROJECT I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "394",
+    "course_title": "SIWES"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "301",
+    "course_title": "DRAUGHTSMANSHIP"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "303",
+    "course_title": "RESEARCH TECHNIQUES IN FINE AND APPLIED ARTS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "381",
+    "course_title": "HISTORICAL SURVEY OF WESTERN AND ORIENTAL ART III"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "383",
+    "course_title": "ASPECTS OF WESTERN ART"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "385",
+    "course_title": "AFRICAN ART I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "387",
+    "course_title": "PRE-COLUMBIAN AND OCEANIC ART AND CULTURE"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "389",
+    "course_title": "STUDY OF INDIGENOUS AFRICAN ART"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "392",
+    "course_title": "PROJECT I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "394",
+    "course_title": "SIWES"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "401",
+    "course_title": "ADVANCED DRAWING I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "431",
+    "course_title": "ADVANCED OIL PAINTING"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "433",
+    "course_title": "PORTRAIT PAINTING"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "435",
+    "course_title": "ADVANCED LANDSCAPE PAINTING"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "437",
+    "course_title": "ABSTRACT AND CONCEPTUAL PAINTING"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "439",
+    "course_title": "ADVANCED WATER COLOUR PAINTING"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "480",
+    "course_title": "FINE ART CRITICISM I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "487",
+    "course_title": "AFRICAN ART II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "402",
+    "course_title": "ADVANCED DRAWING II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "404",
+    "course_title": "PROFESSIONAL PRACTICES IN FINE AND APPLIED ARTS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "430",
+    "course_title": "ADVANCED PAINTING & COLOUR LANGUAGE"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "432",
+    "course_title": "ADVANCED LIFE PAINTING"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "434",
+    "course_title": "HUMAN IMAGE AND METAPHOR"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "436",
+    "course_title": "MIXED MEDIA PAINTING"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "438",
+    "course_title": "PAINTING THEORY II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "485",
+    "course_title": "MODERN AFRICAN ART"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "484",
+    "course_title": "AFRICAN ARCHITECTURE"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "492",
+    "course_title": "PROJECT II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "401",
+    "course_title": "ADVANCED DRAWING I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "441",
+    "course_title": "SCULPTURE PROCESSES: MODELLING & CASTING III"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "443",
+    "course_title": "SCULPTURE PROCESS: CARVING II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "445",
+    "course_title": "SCULPTURE THEORY II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "447",
+    "course_title": "SPECIAL SCULPTURE PROJECT"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "449",
+    "course_title": "SPACE ORGANISATION"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "480",
+    "course_title": "FINE ART CRITICISM I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "487",
+    "course_title": "AFRICAN ART II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "402",
+    "course_title": "ADVANCED DRAWING II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "404",
+    "course_title": "PROFESSIONAL PRACTICES IN FINE AND APPLIED ARTS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "442",
+    "course_title": "SCULPTURE: MIXED MEDIA"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "444",
+    "course_title": "ADVANCED EXPLORATION OF AFRICAN SCULPTURE IDEAS, FORMS AND MATERIALS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "446",
+    "course_title": "LIVING SCULPTURE"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "485",
+    "course_title": "MODERN AFRICAN ART I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "484",
+    "course_title": "AFRICAN ARCHITECTURE"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "492",
+    "course_title": "PROJECT II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "401",
+    "course_title": "ADVANCED DRAWING I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "421",
+    "course_title": "PRINTMAKING II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "423",
+    "course_title": "TYPOGRAPHIC DESIGN"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "425",
+    "course_title": "COMPUTER GRAPHICS II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "427",
+    "course_title": "VISUAL COMMUNICATION DESIGN III"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "429",
+    "course_title": "VISUAL COMMUNICATION DESIGN THEORY II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "480",
+    "course_title": "FINE ART CRITICISM I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "487",
+    "course_title": "AFRICAN ART II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "402",
+    "course_title": "ADVANCED DRAWING I I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "404",
+    "course_title": "PROFESSIONAL PRACTICES IN FINE AND APPLIED ARTS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "422",
+    "course_title": "ILLUSTRATION, EDITORIAL AND ADVERTISING DESIGN"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "424",
+    "course_title": "PRODUCT DESIGN I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "426",
+    "course_title": "COLOUR AND DESIGN"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "484",
+    "course_title": "AFRICAN ARCHITECTURE"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "485",
+    "course_title": "MODERN AFRICAN ART"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "492",
+    "course_title": "PROJECT II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "401",
+    "course_title": "ADVANCED DRAWING I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "421",
+    "course_title": "PRINT MAKING II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "459",
+    "course_title": "HISTORY OF COSTUMES II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "461",
+    "course_title": "TEXTILE DESIGN III"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "463",
+    "course_title": "WOVEN STRUCTURES AND FIBRES II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "465",
+    "course_title": "TEXTILE DESIGN THEORY II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "467",
+    "course_title": "COMPUTER AIDED DESIGN II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "480",
+    "course_title": "FINE ART CRITICISM I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "487",
+    "course_title": "AFRICAN ART II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "402",
+    "course_title": "ADVANCED DRAWING II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "404",
+    "course_title": "PROFESSIONAL PRACTICES IN FINE AND APPLIED ARTS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "462",
+    "course_title": "ADVANCED EXPLORATION OF AFRICAN TEXTILE IDEAS, FORMS AND MATERIALS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "464",
+    "course_title": "WOVEN STRUCTURES AND FIBRES III"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "484",
+    "course_title": "AFRICAN ARCHITECTURE"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "485",
+    "course_title": "MODERN AFRICAN ART"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "492",
+    "course_title": "PROJECT II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "401",
+    "course_title": "ADVANCED DRAWING II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "451",
+    "course_title": "CLOTHING CONSTRUCTION II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "457",
+    "course_title": "PATTERN DRAFTING AND STUDIO PRACTICE I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "455",
+    "course_title": "FASHION DESIGN ILLUSTRATION II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "459",
+    "course_title": "HISTORY OF COSTUMES II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "465",
+    "course_title": "TEXTILE THEORY II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "467",
+    "course_title": "COMPUTER AIDED DESIGN II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "480",
+    "course_title": "FINE ART CRITICISM I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "487",
+    "course_title": "AFRICAN ART II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "402",
+    "course_title": "ADVANCED DRAWING II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "404",
+    "course_title": "PROFESSIONAL PRACTICES IN FINE AND APPLIED ARTS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "458",
+    "course_title": "PATTERN DRAFTSING AND STUDIO PRACTICE II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "454",
+    "course_title": "ADVANCED EXPLORATION OF AFRICAN FASHION DESIGN IDEAS, FORMS AND MATERIALS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "484",
+    "course_title": "AFRICAN ARCHITECTURE"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "485",
+    "course_title": "MODERN AFRICAN ART"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "492",
+    "course_title": "PROJECT II 4"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "401",
+    "course_title": "ADVANCED DRAWING I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "470",
+    "course_title": "CERAMICS THEORY II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "471",
+    "course_title": "CERAMIC THROWING II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "473",
+    "course_title": "KILN DESIGN AND FIRING"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "477",
+    "course_title": "CERAMIC MODELLING II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "479",
+    "course_title": "INDUSTRIAL CERAMIC DESIGN II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "480",
+    "course_title": "FINE ART CRITICISM I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "487",
+    "course_title": "AFRICAN II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "402",
+    "course_title": "ADVANCED DRAWING II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "404",
+    "course_title": "PROFESSIONAL PRACTICES IN FINE/APPLIED ARTS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "472",
+    "course_title": "ARCHITECTURAL CERAMICS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "474",
+    "course_title": "MIXED MEDIA CERAMICS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "475",
+    "course_title": "ADVANCED EXPLORATION OF AFRICAN CERAMIC IDEAS, FORMS AND MATERIALS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "484",
+    "course_title": "AFRICAN ARCHITECTURE"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "485",
+    "course_title": "MODERN AFRICAN ART"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "492",
+    "course_title": "PROJECT II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "401",
+    "course_title": "ADVANCED DRAWING I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "411",
+    "course_title": "ADVANCED STUDIES IN ART EDUCATION"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "413",
+    "course_title": "TEACHING PRACTICE IN ART II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "415",
+    "course_title": "SPECIAL READINGS IN INDIGENOUS ART FORMS AND MATERIALS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "480",
+    "course_title": "FINE ART CRITICISM I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "487",
+    "course_title": "AFRICAN ART II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "431",
+    "course_title": "ADVANCED OIL PAINTING"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "439",
+    "course_title": "ADVANCED WATER COLOUR PAINTINGS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "441",
+    "course_title": "SCULPTURE PROCESSES: MODELLING & CASTING III"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "443",
+    "course_title": "SCULPTURE PROCESSES: CARVING II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "421",
+    "course_title": "PRINT MAKING II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "427",
+    "course_title": "VISUAL COMMUNICATION DESIGN III 3"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "461",
+    "course_title": "TEXTILE DESIGN III"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "463",
+    "course_title": "WOVEN STRUCTURES AND FIBRES"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "471",
+    "course_title": "CERAMIC THROWING II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "479",
+    "course_title": "INDUSTRIAL CERAMIC DESIGN II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "457",
+    "course_title": "PATTERN DRAFTING & STUDIO PRACTICE I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "451",
+    "course_title": "CLOTHING CONSTRUCTION II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "402",
+    "course_title": "ADVANCED DRAWING II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "412",
+    "course_title": "CURRICULUM AND INSTRUCTION FOR ART EDUCATION"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "484",
+    "course_title": "AFRICAN ARCHITECTURE"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "485",
+    "course_title": "MODERN AFRICAN ART"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "492",
+    "course_title": "PROJECT II"
+  },
+  {
+    "department_prefix": "EDU",
+    "course_number": "211",
+    "course_title": "EDUCATIONAL PSYCHOLOGY I"
+  },
+  {
+    "department_prefix": "EDU",
+    "course_number": "224",
+    "course_title": "EDUCATIONAL TECHNOLOGY"
+  },
+  {
+    "department_prefix": "EDU",
+    "course_number": "316",
+    "course_title": "ORGANISATION AND ADMINISTRATION OF GUIDANCE SERVICE"
+  },
+  {
+    "department_prefix": "EDU",
+    "course_number": "431",
+    "course_title": "EDUCATIONAL ADMINISTRATION"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "401",
+    "course_title": "ADVANCED DRAWING I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "481",
+    "course_title": "SPECIAL READINGS IN ART HISTORY I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "480",
+    "course_title": "FINE ART CRITICISM I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "484",
+    "course_title": "ADVANCED FIELD EXPLORATION OF AFRICAN ART AND ARCHITECTURE FORMS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "487",
+    "course_title": "AFRICA ART II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "488",
+    "course_title": "MODERN WESTERN ART"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "489",
+    "course_title": "PROBLEMS IN AFRICAN ART HISTORY"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "402",
+    "course_title": "ADVANCED DRAWING II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "404",
+    "course_title": "PROFESSIONAL PRACTICES IN FINE AND APPLIED ARTS"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "483",
+    "course_title": "FINE ART CRITICISM II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "482",
+    "course_title": "SPECIAL READINGS IN ART HISTORY II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "484",
+    "course_title": "AFRICAN ARCHITECTURE"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "485",
+    "course_title": "MODERN AFRICAN ART"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "492",
+    "course_title": "PROJECT II"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "201",
+    "course_title": "STILL LIFE DRAWING"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "231",
+    "course_title": "INTRODUCTION TO PAINTING"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "241",
+    "course_title": "SCULPTURE PROCESSES: MODELLING & CASTING I"
+  },
+  {
+    "department_prefix": "FAA",
+    "course_number": "281",
+    "course_title": "HISTORICAL SURVEY OF WESTERN & ORIENTAL ART I"
+  }
+]
