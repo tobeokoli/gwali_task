@@ -12,7 +12,7 @@ ZEB 422	Animal Parasitology	2
 ZEB 432	Entomology II	2
 ZEB 442	Fisheries Biology II	2
 ZEB 452	Animal Ecology	2	
-ZEB 454	Animal Biodiversity Management and Prospecting	2	
+ZEB 454	Animal Biodiversity Management and Prospecting	2
 ZEB 462	Animal Molecular Biology and Bioinformatics	2
 ZEB 464	Advanced Animal Biotechnology II	2
 ZEB 468	Population Genetics	2	
@@ -31,7 +31,7 @@ GSP	101	Use of English	  2
 VTE	132	Basic Keyboarding II	2
 VTE	134	Shorthand II	2
 VTE	136	Elements of Business	3
-VTE	138	Principles of Bus. & Marketing Education	2
+VTE	138	Principles of Bus. & Marketing    Education	2
 ECO	102	Principles of Economics II	2
 ACC	102	Elements of Accounting II	3
 COS	102	Introduction to Computer Science II	2
@@ -526,7 +526,6 @@ CHEM	101	Basic Principles of Chemistry I	2
 CHEM	171	Basic Practical Chemistry	2
 BIO	151	General Biology I	3
 MTH	111	El ementary Mathematics I	3
-General Studies Courses
 GSP	101	Use of English I	2
 GSP	201	Social Sciences	2
 SSL	104	Introduction to Rural and Urban Land Management	2
@@ -627,13 +626,13 @@ Polsc 101  Introduction to Political Science  2
 Polsc 111 Introduction to African Politics	2	
 Ant 121 Language in Society and Culture 2
 Soc 102 Introduction to Sociology II 2
-SWK 102 Human Behaviour and Social Environment	
-GSP 102 Use of English II
+SWK 102 Human Behaviour and Social Environment 2	
+GSP 102 Use of English II 2
 GSP 106 Natural Sciences II	2	
 Psy 103	Determinants of Behaviour	2
-Ant 112 Economic Anthropology
-Econs 102 Principles of Economics Ii
-Geog 106  the Socio-Economic Activities of Man
+Ant 112 Economic Anthropology 2
+Econs 102 Principles of Economics Ii 2
+Geog 106  the Socio-Economic Activities of Man  2
 Phil 162  Introduction to Social and Political Philosophy	2	                                                                                                          Total	17
 Ant 201 History of Anthropological and Sociological Thought 2
 Soc 221 Criminology and Penology	 4
@@ -653,294 +652,139 @@ GSP 202	Issues in Peace and Conflict Resolution Studies	 2
 GSP 208	Humanities II	2
 Ant 214 Symbolic Anthropology 2
 Soc 236 Military Sociology 2
-Soc 234 Women in Society
-Phil 242 History of Philosophy
+Soc 234 Women in Society 2
+Phil 242 History of Philosophy 2
 
 Rel 351 African Traditional Religion II		
 Ant 303	Nigerian Peoples and Cultures	3
 Soc 301	Sociological Theory and Analysis	4
 Soc 322	Systems of Social Inequality	2
 Soc 351	Rural Sociology	2
- 
-Required Ancillary Courses	
 CED 341	Introduction to Entrepreneurship	 
-Electives (Students to choose four units from the courses listed below)	
 Ant 313	Anthropology of Peasant Societies	2
-Soc 304
-Soc 311
-Soc 323
-Soc 327
-Soc 334
-Soc 353
-MC 201
-Polsc 331	Major Themes in Marxist Sociology
-Sociology of Religion
-Juvenile Delinquency
-Sociology of Law
-Social Gerontology
-Sociology of Occupation and Professions
-Media and Society
-Personnel Management	2
-2
-2
-2
-2
-2
-2
-2
- 	Total Units	17
-Second Semester Third Year	 
-Major Courses	Title	Units
-Soc 328
-Soc 331	Political Sociology
-Methods of Social Research	2
-4
+Soc 304 Major Themes in Marxist Sociology 2
+Soc 311 Sociology of Religion 2
+Soc 323 Juvenile Delinquency  2
+Soc 327 Sociology of Law  2
+Soc 334 Social Gerontology  2
+Soc 353 Sociology of Occupation and Professions 2
+MC 201  Media and Society 2
+Polsc 331 Personnel Management	2  	
+Soc 328 Political Sociology 4
+Soc 331 Methods of Social Research	2	
 Ant 354	Contemporary African Social Thought	2
 Soc 355	Formal Organizations (Bureaucracy)	2
-Required Ancillary Courses	 
 COS 304	Computer in Sectorial Application	2
 Psy 242	Psychology of Ethnicity	2
 CED 342	Introduction to Entrepreneurship II	2
-Electives (Students to choose four units from the courses listed below)	2
-2
 Ant 321	African Religious Systems	2
 Ant 327	Traditional Legal Systems	2
 Soc 325	Sociology of Medicine	2
 Soc 352	Ecology and Society	2
-Polsc 342
- 	Politics of International Economic Relations	2
-2
-20
-	Total Units	
-Fourth Year	 	 
-First Semester	 	 
-Major Courses	Title	Units	 
-Ant 421
-Ant 423
-Soc 422
-Soc 432
-Soc 462	Race and Ethnic Relations
-Urban Sociology and Anthropology
-General Demography
-Industrial Sociology
-Research Tutorial	4
-4
-3
-3
-2
-Electives (Students to choose two units from the courses listed below)	 	 
-Ant 412
-Soc 431
-Soc 437
-Soc 453	Culture and Communication
-Child Development
-Models of Sociological Analysis
-Social Movement	2
-2
-2
-2	 
- 	Total Units	20	 
-Second Semester Fourth Year	 	 
-Major Courses	Title	Units	 
-Ant 411
-Soc 451
-Soc 471	Comparative African Social Institutions
-Sociology of Development
-Project	4
-4
-4	 
-Electives (Students to choose four units from the courses listed below)	 	 	 
-Soc 433
-Soc 434
-Soc 435	Personality and Motivation
-Applied Demography
-Sociology of Decolonization	2
-2
-2	 
-Total Units               16
-10.4.2. UNDERGRADUATE COURSE DESCRIPTION
-Soc. 101         Introduction to Sociology I                                                          (2 Units)
-The founding fathers of Sociology and their ideas of progress in society; sociology as a science, sociology and other social sciences; personality and the social system: culture, socialization, the effects of non-socialization; social control, power to constraint.
-Soc 102          Introduction to Sociology II                                                        (2 Units)
-Social institution (family, economy education, etc), in conflict and change in industrial and developing societies; social inequality, social problems and social change, methods and techniques of social investigation.
-Ant 102          Introduction to Anthropology                                                     (4 Units)
-The anthropological perspective; relationship with other disciplines; origins and evolution of man; dating methods; origins of agriculture and cities; language and culture; approaches to the study of culture; the concept of culture; socialization; social institutions; kinship; political. Religious and economic; uses of anthropology.
-Ant 121                      Language in Society and Culture                                    (2 Units)
-An examination of the social and cultural functions of language with particular reference to Nigeria and other West African societies; language and social development. Language problems of new states, language policy.
-Ant 201                      History of Sociological and Anthropological Thought   (4 Units)
-Contribution of early western thought to the development of modern sociology; pioneers of social anthropology in England; of cultural anthropology in America; of ethnography in France; points of convergence and divergence among these and their contributions to current trends.
-Soc 203                      Sociology of Knowledge, Science and Technology      (2 Units)
-Social determination of knowledge; examination of science and technology as social and cultural institutions. Similarities and differences between scientific modes of activities technology and development process. Knowledge systems which govern cumulative technology, science and technology and cultural convergence.
-Soc 211                      Sociology of the Family and Marriage                          (3 Units)
-The family as a universal human institution; varieties of the human family in time and space and at varying levels of technological development; industrialization, urbanization, education, religion, women in employment, marriage and family patterns; changing roles of the family in disorganization in different cultures; the future family.
-Ant 212                      African social Institutions                                                            (4 units)
-Ethnographic descriptions and analysis of African societies, peoples and cultures, both as scientific reporting and as a literary art form. A survey of African societies and cultures in contemporary setting. The cultural regions, social organizations, social institutions, polity and world views. Impact of change and modernization.
-Ant 214                      Symbolic Anthropology                                                    (2 Units)
-Key concepts of symbolic anthropology; intellectual roots of structural and functional approaches of Durkheim, Evans-Pritchard, Levi-Strauss, Leach and Douglas, the logic and rationale or mythical thought and ritual activities; oral traditions and other symbolic systems viewed as collective representation; their dialectical relationships as phenomenon of economic and political life; the relevance of symbolic anthropological orientation to African historiography.
-Soc 221                      Criminology and Penology                                               (3 Units)
-Study of crime as a social phenomenon; development of the various theories of crime causation; impact of social forces upon the creation of criminal law; social and cultural changes as factors in criminal behavior in Nigeria; visits to penal institutions.
-Soc 224                      Social Psychology                                                              (4 Units)
-Processes of socialization and internalization, conscience formation, values and attitudes, prejudice and discrimination; stereotypes; development and change of attitudes; social movements.
-Soc 235                      Sociology of Education                                                       (2 Units)
-Socialization in pre-industrial societies, mainly African; formal education in modern societies; in Western, Eastern and Third World countries; education in colonial and post-independence Africa (Nigeria); specific national educational policies and national development in Nigeria: Secondary, University, Adult and Technical education; man-power training and development; modern formal education and class dynamics in Nigeria.
- 
-Soc 231                      Elementary Social Statistics                                            (4 Units)
-The place of statistics in the study of society; types and measurements of variables; construction and use of statistical tables; proportions and percentages; measures of central tendency and dispersion; mode, median, mean, variance, standard deviation the normal cure and the standard score; sample and sampling techniques; elements of probability, statistical estimation; measures of association; inferential statistics; and analysis of variance.
-Soc 233                      Sociology of Mass Communication                                (2 Units)
-Issues of political economy in mass media systems; mass communication methods and techniques; books, newspapers, radio, television, as modern instruments for cultural domination; theory and practice of mass communications in Nigeria and parts of Africa with emphasis on the following: media systems as knowledge industry, free flow of information and cultural dependency.
-Soc 234                      Women in Society                                                              (2 Units)
-An introduction to women studies. A survey of traditional and contemporary male-female relations in selected societies; its impact on attitudes to and perception of women and of women’s conception of self factors which shape their attitudes. Public policy issues on women.
-Soc 236                      Military sociology                                                             (2 Units)
-An introductory study of the military as rulers as law makers and law appliers. The role of the military in national and international policies with special attention to theories of war and peace.   Civil military relations; the military and the political development of Africa. The non-military use of the military.
-Soc 251          Social Change and Social Problems                                           (3 Units)
-Institutional approach in the analysis of social change; causative factors in social change; the impact of social change on traditional institutions; social problems and social change.
-Soc 301          Anthropological and Sociological Theory and Analysis        (4 Units)
-Selected anthropological and sociological theories and concepts, their scope and limitations, selected social issues and policies basic or marginal to sociology; the role of ideas in social life; models of development and social inequality based on class exploitation, poverty, crime, violence and various forms of discriminations.
-Soc 304          Major Themes in Contemporary Marxist Sociology             (2 Units)
-Major developments in Marxist Sociology since World-War II; evaluation of new concepts; their relevance to theory and research in the African context.
-Soc 311          Sociology of Religion                                                                     (2 Units)
-Religion as a social institution; sociological approaches to the study of religious groupings and activities; relation of religion to Society.
-Ant 321          African Religious Systems                                                            (2 Units)
-Scope and context of study; theories and concepts of African beliefs and practices; religious foundations of African morality; African religious symbols, rituals and worship; case-studies of African religious institutions; similarities and contrast in selected case studies; African religious beliefs and practices in social change.
-Ant 313          Anthropology of Peasant Societies                                             (2 Units)
-Historical evolution of peasant societies; definition of ‘peasantry’; social institutions of peasant societies; their general character; modes of production, property relations and social formations; types of peasant societies; movements and social transformations in peasant societies.
-Soc 322          Systems of Social Inequality                                                        (2 Units)
-Theories and concepts of social inequality; their limitations; sources of social inequality; case-studies of feudal and clientele relations; analysis and comparison of historical situations of social inequality serf, slave, and outcast, continuity and change in cases discussed.
-Soc 323          Juvenile Delinquency                                                                     (2 units)
-Personal and social factors involved in juvenile delinquency; incidence of delinquency in urban and semi-urban communities; functions of disorganized areas in the development of delinquent behavior; organization of institutions for treating juvenile delinquents.
-Ant 323          Political Anthropology                                                                 (2 Units)
-Significant social conditions affecting government and politics in Africa; development of pressure groups in pre-colonial, colonial and post-colonial periods; role of ideas in changing traditional political behavior; colonialism; nationalism, imperialism, neo-colonialism, capitalism, and varieties of socialism, liberation movements; types, methods of organization and effects.
- 
-Ant 303          Nigerian Peoples and Cultures                                                   (3 Units)
-Survey of the peoples and cultures of Nigeria with special attention to their geographical distribution, linguistics classification, and traditional religious and world views, environment and society; habitat and economy, kinship, marriage and descent systems; polities; traditional and modern continuity, conflict and change in selected ethnographic areas.
-Soc 325          Sociology of Medicine                                                                    (2 Units)
-Modern medicine and the behavioural sciences, with special reference to the application of sociological theories and concepts to the study of disease, health, and healing in the context of traditional belief-systems; notions of traditional healing introduced as background to discuss modern medical practice; hospital institution and spiritual healing, doctor-patient relationships.
-Soc 327          Sociology of Law                                                                           (2 Units)
-A sociological treatment of the social origins and consequences of law and legal process. The traditional African legal culture and their contemporary relevance. The structure and functioning of legal sanctions. Law and society; law and the economy-law and culture process.
-Ant 328          Traditional Legal Systems                                                           (2 Units)
-Concepts and nature of ‘primitive’ law; scope and problems of definition; (law in operation) overlapping areas between law, religion and political control; flexibility of applied law, law and morality; case-studies; continuity and change in traditional law.
-Soc 328          Political Sociology                                                                         (2 Units)
-An examination of the social and cultural contexts of political activity and behavior. Political organizations, trade unions, elite groups; the development of movements for political change.
-Soc 331          Social Research Methods                                                             (4 Units)
-Scientific methods of analysis of social phenomena; steps in testing of sociological theory; defining problems of social research; formulating hypothesis; collecting , classifying and interpreting data application.
-Soc 351          Rural Sociology                                                                              (2 Units)
-Development and scope of rural sociology. The concept of rurality and rural peasantry. Characteristics of Nigerian rural communities, historical development, social organization and rural institutions. Demographic patterns and dynamics in Nigerian rural communities. Patterns and objectives of rural community development. Factors affecting rural social change in context of Nigeria national development. Case studies of rural community development in Nigeria and other countries.
-Soc 352          Ecology and Society                                                                       (2 Units)
-Ecological problems from sociological viewpoint; impact on ecology of such complex factors as population growth, distribution of resources within and between developed and developing nations; pace and direction of technological change; war, pollution, due to overproduction and resource depletion; uncontrolled galloping consumption; economic growth and social welfare linked to international capitalism; the politics and economics of environmental policies and international relations of future world society.
+Polsc 342  	Politics of International Economic Relations	2
+Ant 421 Race and Ethnic Relations 2
+Ant 423 Urban Sociology and Anthropology  2
+Soc 422 General Demography  2
+Soc 432 Industrial Sociology  2
+Soc 462 Research Tutorial	4	
+Ant 412 Culture and Communication 2
+Soc 431 Child Development 2
+Soc 437 Models of Sociological Analysis 2
+Soc 453 Social Movement	2	
+Ant 411 	Comparative African Social Institutions 4
+Soc 451 Sociology of Development  4
+Soc 471 Project	4
+Soc 433 Personality and Motivation 2
+Soc 434 Applied Demography 2
+Soc 435 Sociology of Decolonization	2	
+Soc. 101         Introduction to Sociology I                                                          (2Units)
+Soc 102          Introduction to Sociology II                                                        (2Units)
+Ant 102          Introduction to Anthropology                                                     (4Units)
+Ant 121                      Language in Society and Culture                                    (2Units)
+Ant 201                      History of Sociological and Anthropological Thought   (4Units)
+Soc 203                      Sociology of Knowledge, Science and Technology      (2Units)
+Soc 211                      Sociology of the Family and Marriage                          (3Units)
+Ant 212                      African social Institutions                                                            (4units)
+Ant 214                      Symbolic Anthropology                                                    (2Units)
+Soc 221                      Criminology and Penology                                               (3Units)
+Soc 224                      Social Psychology                                                              (4Units)
+Soc 235                      Sociology of Education                                                       (2Units) 
+Soc 231                      Elementary Social Statistics                                            (4Units)
+Soc 233                      Sociology of Mass Communication                                (2Units)
+Soc 234                      Women in Society                                                              (2Units)
+Soc 236                      Military sociology                                                             (2Units)
+Soc 251          Social Change and Social Problems                                           (3Units)
+Soc 301          Anthropological and Sociological Theory and Analysis        (4Units)
+Soc 304          Major Themes in Contemporary Marxist Sociology             (2Units)
+Soc 311          Sociology of Religion                                                                     (2Units)
+Ant 321          African Religious Systems                                                            (2Units)
+Ant 313          Anthropology of Peasant Societies                                             (2Units)
+Soc 322          Systems of Social Inequality                                                        (2Units)
+Soc 323          Juvenile Delinquency                                                                     (2units)
+Ant 323          Political Anthropology                                                                 (2Units) 
+Ant 303          Nigerian Peoples and Cultures                                                   (3Units)
+Soc 325          Sociology of Medicine                                                                    (2Units)
+Soc 327          Sociology of Law                                                                           (2Units)
+Ant 328          Traditional Legal Systems                                                           (2Units)
+Soc 328          Political Sociology                                                                         (2Units)
+Soc 331          Social Research Methods                                                             (4Units)
+Soc 351          Rural Sociology                                                                              (2Units)
+Soc 352          Ecology and Society                                                                       (2Units)
 Soc 353          Sociology of Occupation and Professions                                 ( 2Units)
-Theories of work and work organization, occupational classification in Nigeria; occupational distribution in Nigeria vis-à-vis other countries;; occupational roles; process of professionalization and its consequences; organization of professions and professional services in Nigeria.
-Soc 355          Formal Organizations                                                                   (2 Units)
-Structural properties of organizations and their consequence. Bureaucracies and complex formal organizations in various institutional settings and the relationship among organizations in the community. Major theoretical and methodological problems in studying complex organizations. Problems of formal organization in new states.
-Ant 354          Contemporary African Social Thought                                      (2 units)
-Analysis of social and political ideas of African thinkers in colonial and post-independence periods; ideologies for the social transformation of African societies; e.g. Zik’s liberal egalitarianism and other formulations of African thinkers; pan-Africanism, ethnic nationalism, Ujaama, humanism, consciencism, African emancipation, revolution, traditional conservatism, etc.
-Ant 411          Comparative African Social Institutions                                  (4 Units)
-Advanced study of sub-Saharan Africa as a major ethnological region; African origins of early man, Archaeological records; the cultural regions of Africa: Race and Racism, language and population migration in history; ethnological analysis of peoples and cultures of Africa.
-Ant 421          Race and Ethnic Relations                                                            (4 Units)
-Theories of race: their uses to sustain power in a given political system e.g. Nazism and anti-semitism in perpetuation of colonial domination, and economic exploitation, with African examples; the sources and growth of ethnic ideology in Africa; its uses in acquiring and sustaining political power in contemporary African societies.
-Soc 422          General Demography                                                                    (3 Units)
-The field of Demography in relation to other social science disciplines; the development of the science of population studies; sources of data and methods of demographic analysis; analysis of population size, composition and distribution; measurement of mortality, fertility, migration and population change; implications of population growth on employment, food, health, education etc.
-Ant 423          Urban Sociology and Anthropology                                           (4 Units)
-Urban sociology defined; urbanization and urbanism, phases of urbanization and related factors; linear theory of urbanization and critique; industrialization and urbanization; pre-industrial cities of Africa, social institutions of industrial societies; race, ethnicity and class in urban centres; rural migration theories, problems and trends in Euro-Asia and Africa; urban Nigeria, problems and prospects.
-Anth 412     Culture and Communication                                               (2 Units)
-Examination of the interrelationships between culture and communication is the primary aim of the course. It deals with: the definitions of culture; definitions of mass communication; examination of mass communication as an important factor in culture change; international (especially Western-style) media as a crucial tool in the spread of the cultures and values of the global North across Africa; contemplations of the ways African societies can deal with the acculturation largely pushed by the Western information imperialism.
-Soc 433          Personality and Motivation                                                         (2 Units)
-The concepts of personality and culture. The influence of culture on the formation and change of personality. Development of self concept nature of development, mechanisms of heredity and personality formation; the interaction of heredity and culture/environment on personality. Perspectives in personality. The concept of motivation. Theoretical perspective and motivation. Types of motivation. Interaction between personality and motivation.
-Soc 451          Sociology of Development                                                                           (4 Units)
-Historical foundations of sociology of development with special reference to the ideas of ‘progress’ and ‘human development’ in pre-Comtean social thought, and in the general formulations of the founding fathers, modern theories of development (a) the capitalist approach; (b) the socialist approach; and (c) the centre and center peripheral models of under-development; Nigerian national development plans; problems of rural development in Nigeria; issues of nation-building.
-Soc 453          Social Movements                                                                             (2 Units)
-Theoretical perspectives on the nature of collective action and on social movements in Africa; literature survey of ideologies and types of social movements; motivation and participation in social movements in Africa (and Nigeria); origin and organization of social movements, social movements in social change, secularization processes and the transformation of ‘traditional’ African societies.
-Soc. 461         Project Tutorial                                                                                   (2 Units)
-Project supervisors meet regularly with students to discuss basic issues, principles and methods of project writing.
-Soc. 471         Project Paper (Departmental Major Only)                                   (4 Units)
-A research project on an approved sociological topic based either on field work or on library research. It is a requirement for the award of a B.Sc. degree in Sociology & Anthropology.
- 
- 
-FOUR-YEAR STANDARD DEGREE PROGRAMME
-FIRST YEAR
-FIRST SEMESTER
-MAJOR COURSES
-COURSE CODE      COURSE TITLE                                                      UNIT
+Soc 355          Formal Organizations                                                                   (2Units)
+Ant 354          Contemporary African Social Thought                                      (2units)
+Ant 411          Comparative African Social Institutions                                  (4Units)
+Ant 421          Race and Ethnic Relations                                                            (4Units)
+Soc 422          General Demography                                                                    (3Units)
+Ant 423          Urban Sociology and Anthropology                                           (4Units)
+Anth 412     Culture and Communication                                               (2Units)
+Soc 433          Personality and Motivation                                                         (2Units)
+Soc 451          Sociology of Development                                                                           (4Units)
+Soc 453          Social Movements                                                                             (2Units)
+Soc. 461         Project Tutorial                                                                                   (2Units)
+Soc. 471         Project Paper (Departmental Major Only)                                   (4Units)
 SWK   101      Introduction to Social Work                                                   2
 SWK   111      Communication in Social Work                                              2
 SWK   121      Social deviance and systems organisation                             2
 SWK   141      Field Work Orientation                                                          2
-REQUIRED ANCILLARY COURSES
 ANTH 102      Introduction to Anthropology                                                            4
 SOC    101      Introduction to Sociology 1                                                   2
-GENERAL STUDIES COURSES
 GSP     101      The Use of English                                                                 2
 GSP     105      Natural Sciences 1                                                                  2
 GSP     111      Use of Library and Study Skills                                             2
-ELECTIVES (CHOOSE 2 UNITS)
 ECO                101      Principles of Economics                                              2
 PSC                 101      Introduction to Political Science                                2
 PSY                 101      Principles of Psychology                                             2
 RCS                101      Introduction to Religion                                             2
-__
-Total                           20
- 
-SECOND SEMESTER
-MAJOR COURSES
-COURSE CODE      COURSE TITLE                                                      UNIT
 SWK   102      Human Behaviour and the Social Environment                     3
 SWK   122      Philosophy and Ethics of Social Work                                   2
 SWK   142      Introduction to Field Work Practice                                       4
-ANCILLARY
 SOC    102      Introduction to Sociology 11                                                  2
-GENERAL STUDIES COURSES
 GSP     102      The Use of English 11                                                                        2
 GSP     106      Natural Science 11                                                                  2
-ELECTIVES (CHOOSE 4 UNITS)
 ECO    102      Principles of Economics 11                                                     2
 PSC     102      Introduction to Political Science                                            2
 PSY     104      Determinants of Behaviour                                                     2
 RCS    142      Religion and Human Values                                                   2
- 
-4
-__
-Total                             19
- 
- 
-FOUR-YEAR STANDARD DEGREE PROGRAMME
- 
-SECOND YEAR
-FIRST SEMESTER
-MAJOR COURSES
-COURSE CODE      COURSE TITLE                                                                  UNIT
 SWK   201      Social Work Theory                                                                            2
 SWK   203      Elements of scientific thought for social workers                              2
-SWK   245      Field Work Practice: Social Analysis
-In Case Work                                                                                      2
+SWK   245      Field Work Practice: Social Analysis In Case Work                                                                                      2
 SWK   251      Community Development                                                                  2
- 
-REQUIRED ANCILLARY
 COS    101      Introduction to Computer Science                                                     2
 FSS     201      Introduction to Statistical Methods for Social Science                      2
-GENERAL STUDIES COURSE
 GSP     201      The Social Sciences                                                                            2
 GSP     207      Logic, Philosophy & Human Existence                                              2
-ELECTIVES (CHOOSE 2 UNITS)
 SWK   231      Crime, Delinquency and the Quality of Life              2
 PSY     241      Social Psychology                                                       2
 SWK   243      Social Work Practice and Gender                               2
 PSY     251      Developmental Psychology                                        2
- 
- 
-2
-__
-Total                            18
-SECOND SEMESTER
-MAJOR COURSES
-COURSE CODE      COURSE TITLE                                                                  UNIT
 SWK   224      Functions of Social Work                                                                      2
 SWK   242      Social Work Intervention with Families                                             2
 SWK   244      Social Work in Rehabilitation                                                               2
-SWK   246      Field Work: Problem Solving and Evaluation
-in Case Work                                                                                             3
+SWK   246      Field Work: Problem Solving and Evaluation in Case Work                                                                                             3
 SWK   248      Social Work Communication Techniques                                          2
-REQUIRED ANCILLARY
-FSS     202      Introduction to Statistical Methods for
-Social Sciences 11                                                                                     2
+FSS     202      Introduction to Statistical Methods for Social Sciences II  
+                                                                                   2
 GENERAL STUDIES COURSES
 GSP     202      Issues in Peace and Conflict Studies                                                  2
 GSP     208      Nigerian, Peoples & Cultures                                                               2
