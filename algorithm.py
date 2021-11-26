@@ -3,7 +3,7 @@ import os
 
 final_result = []
 list_of_courses = []
-course_name = ''
+course_name = 'english'
 with open(f'{course_name}.txt') as f:
     lines = f.readlines()
 f.close()
@@ -24,5 +24,5 @@ file1 = open(f"{course_name}.json", "w+")
 file1.write(json.dumps(final_result, indent = 4))
 file1.close()
 
-print(final_result)
-print(json.dumps(final_result, indent = 4))
+# print(final_result)
+# print(json.dumps(final_result, indent = 4))

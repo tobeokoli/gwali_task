@@ -1,0 +1,469 @@
+ELS 101	Basic Literary Concepts		2
+ELS 103	Introduction to African Literature		
+ELS 121	Basic Grammar and Composition		3
+ELS 123	Introduction to Phonetics		2
+ELS 131	Introduction to Oral Literature		2
+LIN 141	Introduction to General Linguistics I		3
+GSP 101	The Use of English I		2
+GSP 201	Basic Concepts and Theories of Peace and Conflict Resolution		2
+FRE 101	Elementary French I	2	
+GER 101	Elementary German I	2	
+IGB 101	Elementary Igbo I	2	
+POR 111	Portuguese Grammar I	3	
+RUS 101	Elementary Russian I	2	
+SPA 111	Spanish Grammar I	3	
+SWA 111	Swahili Grammar I	3	2 or 3
+ELS 102	Introduction to Nigerian Literature		2
+ELS 140	Introduction to Drama		3
+ELS 150	Introduction to Poetry		3
+ELS 160	Introduction to Fiction		3
+LIN 140	Introduction to General Linguistics II		3
+GSP 102	The Use of English II		2
+GSP 202	Issues in Peace and Conflict Resolution		2
+FRE 102	Elementary French II	2	
+GER 102	Elementary German II	2	
+IGB 102	Elementary Igbo II	2	
+POR 112	Portuguese Grammar II	3	
+RUS 102	Elementary Russian II	2	
+SPA 112	Spanish Grammar II	3	
+SWA 112	Swahili Grammar II	3	2 or 3
+ELS 211	American Literature: The Beginnings to the Romantic Movement		2
+ELS 213	English Literature: The Renaissance Period		3
+ELS 221	Spoken English/Lab work		3
+COS 101	Introduction to Computer Science		2
+CED 341	Introduction to Entrepreneurship		2
+GSP 105	Natural Science		2
+FRE 201	Intermediate French I	2	
+GER 201	Intermediate German I	2	
+IGB 201	Intermediate Igbo I	2	
+POR 211	Portuguese Grammatical Structures I	3	
+RUS 201	Intermediate Russian I	2	
+SPA 211	Spanish Grammatical Structures I	3	
+SWA 211	Swahili Grammatical Structures I	3	2 or 3
+ELS 212	American Literature: The Modern Period		2
+ELS 214	English Literature: Neo-Classical Period		3
+ELS 222	Intermediate English Grammar and Composition		3
+ELS 240	Comedy: Moliere to Soyinka		2
+COS 304	Computer Applications		2
+CED 342	Business Development and Management		2
+GSP	106 Natural Science II		2
+FRE 202	Intermediate French II	2	
+GER 202	Intermediate German II	2	
+IGB 202	Intermediate Igbo II	2	
+POR 212	Portuguese Grammatical Structures II	3	
+RUS 202	Intermediate Russian II	2	
+SPA 212	Spanish Grammatical Structures II	3	
+SWA 212	Swahili Grammatical Structures II	3	2 or 3
+ELS 311	English Literature: Romantic Movement		3
+ELS 321	Advanced Prose Composition		3
+ELS 351	African Poetry		3
+ELS 361	African Fiction		3
+ELS 381	Research Methods		2
+ELS 325	Semantics	3	
+ELS 331	African Traditional Verbal Genres	3	3
+ELS 313	Greek & Roman Literatures	3	
+ELS 312	English Literature: Victorian Period		3
+ELS 314	English Literature: Modern Period		3
+ELS 340	African Drama		3
+ELS 370	History of Criticism		2
+ELS 322	History of English	3	
+ELS 324	Phonology	3	
+ELS 332	The Criticism of Oral Literature	3	
+ELS 334	Oral Narratives	3	
+ELS 316	Old and Middle English Literature	3	
+ELS 372	Theory and Practice of Narrative	3	6
+ELS 310	Contemporary African Authors	3	
+ELS 372	Theory and Practice of Narrative	3	
+ELS 411	African-American Literature		3
+ELS 413	European Continental Literature		3
+ELS 425	Stylistics		3
+ELS 461	Studies in Fiction		3
+ELS 421	Morphology and Syntax	3	
+ELS 423	Comparative Grammar	3	
+ELS 471	Modern Literary Theory	3	
+ELS 473	Modern Discourse Analysis	3	
+ELS 415	World Black Literature	3	
+ELS 471	Modern Literary Theory	3	6
+ELS 431	Oral Literature & Modern Literature in Africa	3	
+ELS 471	Modern Literary Theory	3	
+ELS 440	Shakespeare		3
+ELS 442	Studies in Drama		3
+ELS 452	Studies in Poetry		3
+ELS 490	Project		6
+ELS 418	Caribbean Literature	3	
+ELS 444	European Drama since Ibsen	3	3
+ELS 422	Problems of English in West Africa	3	
+ELS 480	Literary Review Writing	3	
+ELS 211	American Literature: The Beginnings to the Romantic Movement		2
+ELS 213	English Literature: The Renaissance Period	3
+ELS 221	Spoken English/Lab Work		3
+ELS 121	Basic Grammar and Composition		3
+COS 101	Introduction to Computer Science		2
+GSP 101	The Use of English I		2
+GSP 201	Basic Concepts and Theories of Peace and Conflict Resolution		2
+GSP 105	Natural Science I		2
+PHL 101	Introduction to Philosophy	2	
+MUS 141	African Music: Music & Society	2	
+ANT 111	Introduction to Anthropology	2	4
+ELS 212	American Literature: The Modern Period		2
+ELS 214	English Literature: Neo-Classical Period		3
+ELS 222	Intermediate English Grammar and Composition		3
+ELS 240	Comedy: Moliere to Soyinka		3
+GSP 102	The Use of English II		2
+GSP 202	Issues in Peace and Conflict Resolution		2
+GSP 106	Natural Science II		2
+ELS 311	English Literature: Romantic Movement		3
+ELS 321	Advanced Prose Composition		3
+ELS 351	African Poetry		3
+ELS 361	African Fiction		3
+CED 341	Introduction to Entrepreneurship		2
+ELS 325	Semantics		3
+ELS 313	Greek & Roman Literatures		3
+ELS 312	English Literature: Victorian Period		3
+ELS 314	English Literature: Modern Period		3
+ELS 340	African Drama		3
+ELS 370	History of Criticism		2
+CED 342	Business Development and Management		2
+COS 304	Computer Applications		2
+ELS 322	History of English	3	
+ELS 324	Phonology	3	
+ELS 332	The Criticism of Oral Literature	3	
+ELS 334	Oral Narratives	3	
+ELS 316	Old and Middle English Literature	3	
+ELS 372	Theory and Practice of Narrative	3	
+ELS 310	Contemporary African Authors	3	
+ELS 372	Theory and Practice of Narrative	3	6
+ELS 381	Research Methods		2+G228:G243
+ELS 411	African-American Literature		3
+ELS 413	European Continental Literature		3
+ELS 425	Stylistics		3
+ELS 461	Studies in Fiction		3
+ELS 421	Morphology and Syntax		3
+ELS 423	Comparative Grammar		3
+ELS 471	Modern Literary Theory	3	
+ELS 473	Modern Discourse Analysis	3	
+ELS 415	World Black Literature	3	
+ELS 471	Modern Literary Theory	3	
+ELS 434	Oral Literature & Modern Literature in Africa	3	
+ELS 471	Modern Literary Theory	3	6
+ELS 440	Shakespeare		3
+ELS 442	Studies in Drama		3
+ELS 452	Studies in Poetry		3
+ELS 490	Project		6
+ELS 418	Caribbean Literature	3	
+ELS 444	European Drama since Ibsen	3	3
+ELS 422	Problems of English in West Africa	3	
+ELS 480	Literary Review Writing	3	
+ELS 101	Basic Literary Concepts		2
+ELS 121	Basic Grammar and Composition		3
+ELS 123	Introduction to Phonetics		2
+FRE 111	French Grammar I		3
+FRE 121	Introduction to Composition in French I		2
+LIN 141	Introduction to General Linguistics I		2
+COS 101	Introduction to Computer Sciences		2
+GSP 101	The Use of English I		2
+GSP 201	Basic Concepts and Theories of Peace and Conflict Resolution		2
+ELS 102	Introduction to Nigerian Literature		2
+ELS 150	Introduction to Poetry		3
+ELS 160	Introduction to Fiction		3
+FRE 112	 French Grammar II		3
+FRE 122	Introduction to Composition in French II		2
+COS 304	Computer Applications		2
+LIN 140	Introduction to General Linguistics II		2
+GSP 102	The Use of English II		2
+GSP 202	Issues in Peace and Conflict Resolution		2
+ELS 211	American Literature: The beginnings to Romantic Movement		3
+ELS 213	English Literature: The Renaissance Period	3
+ELS 221	Spoken English/Lab Work		3
+FRE 211	French Grammatical Structures		3
+FRE 231	French Literature in Perspective I		3
+COS 101	Introduction to Computer Science		2
+CED 341	Introduction to Entrepreneurship		2
+GSP 105	Natural Sciences I		2
+ELS 212	American Literature the Modem Period		3
+ELS 214	English Literature Neo-Classical Period		3
+ELS 222	 Intermediate English/Grammar and Composition		3
+FRE 212	French Grammatical Structures		3
+FRE 234	French literatures in Perspective II		3
+GSP 106	Natural Sciences II		2
+COS 304	Computer Applications		2
+CED 342	Business Development and Management		2
+ELS 321	Advanced Prose Composition		3
+ELS 351	African Poetry		3
+ELS 361	African Fiction		3
+ELS 381	Research Methods		2
+FRE 311	Advanced studies in French Grammar I		3
+FRE 331	African literature in French		2
+FRE 333	Introduction to French Prose		2
+FRE 341 Introduction to Translation I 2		
+FRE 351	Culture and Civilization of France		2
+FRE 361	Advanced Studies in French Phonetics	2	
+FRE 363	Communicative Skills I	2	2
+ELS 312	English Literature: Victorian Period		3
+ELS 314	English Literature: Modern Period		3
+ELS 340	African Drama		3
+FRE 312	Advanced Studies in French Grammar II		3
+FRE 322	Essay Writing in French		2
+FRE 342	Introduction to Translation II		2
+FRE 334	French Literature of the 18th Century		2
+ELS 411	American & Afro-American Literature		2
+ELS 413	 European Continental Literature		3
+ELS 461	Studies in Fiction		3
+FRE 336	Literature and Philosophy		2
+FRE 421	Essay Writing in French		2
+FRE 437	Literary Criticism in French		2
+FRE 441	Advanced Translation I		2
+FRE 451	Francophone, Maghreb, Europe and America		2
+ELS 440	Shakespeare		3
+FRE 364	Communicative Skills II		2
+FRE 442	Advanced Translation II		2
+FRE 434	Contemporary French Literature		3
+FRE 452	Francophone Black Africa		2
+ELS 490	Project		6
+ELS 101	Basic Literary Concepts		2
+ELS 121	Basic Grammar and Composition		3
+ELS 123	Introduction to Phonetics		2
+GER 111	German Grammar I		3
+GER 121	Introduction to Composition in German I		2
+GER 161	Oral German I		3
+LIN 141	Introduction to General Linguistics I		2
+COS 101	Introduction to Computer Sciences		2
+GSP 101	The Use of English I		2
+ELS 102	Introduction to Nigerian Literature		2
+ELS 150	Introduction to Poetry		3
+ELS 160	Introduction to Fiction		3
+GER 112	German Grammar II		3
+GER 122	Introduction to Composition in German II	2
+GER 164	Oral German II		3
+LIN 140	Introduction to General Linguistics II		2
+GSP 102	The Use of English II		2
+GSP 202	Issues in Peace and Conflict Resolution		2
+ELS 213	English Literature: The Renaissance Period	3
+ELS 221	Spoken English/Lab Work		3
+GER 211	German Grammatical Structures I		3
+GER 221	Comprehension and Stylistics I		3
+GER 261	Oral Expression and Comprehension in German		3
+COS 101	Introduction to Computer Science		2
+CED 341	Introduction to Entrepreneurship		2
+GSP 105	Natural Sciences I		2
+ELS 214	English literature Neo-Classical Period		3
+ELS 222	Intermediate English Grammar and Composition		3
+ELS 240	Comedy: Moliere to Soyinka		2
+GER 212	German Grammatical Structures II		3
+GER 212	Comprehension and Stylistics II		3
+GER 252	Contemporary German Society		2
+GSP 106	Natural Sciences II		2
+COS 304	Computer Applications		2
+ELS 321	Advanced Prose Composition		3
+ELS 351	African Poetry		3
+ELS 361	African Fiction		3
+ELS 381	Research Methods		2
+GER 311	Advanced Studies in German Grammar I		3
+GER 341	Introduction to Translation I		2
+GER 351	Culture and Civilization of German Speaking Countries		3
+GSP 201	Basic Concepts and Theories of Peace and Conflict Resolution		2
+ELS 312	English Literature: Victorian Period		3
+ELS 314	English Literature: Modern Period		3
+ELS 340	African Drama		3
+GER 312	Advanced Studies in German Grammar II	3
+GER 322	Essay Writing in German		2
+GER 342	Introduction to Translation II		2
+CED 342	Business Development and Management		2
+ELS 411	American & Afro-American Literature		2
+ELS 413	European Continental Literature		3
+ELS 461	Studies in Fiction		3
+GER 411	Applied Linguistics I		2
+GER 421	Advanced Essay Writing in German		2
+GER 431	19th Century German Literature		2
+GER 433	German Literature on Africa		2
+GER 441	Advanced Translation I		2
+ELS 440	Shakespeare		3
+GER 412	Applied Linguistics II		2
+GER 434	Contemporary German Literature		3
+GER 442	Advanced Translation II		2
+GER 462	Advanced Oral German		2
+ELS 490	Project		6
+ELS 101	Basic Literary Concepts		2
+ELS 121	Basic Grammar and Composition		3
+ELS 123	Introduction to Phonetics		2
+HIS 101	Introduction to History		2
+HIS 103	Introduction to International Studies		2
+HIS 111	Nigeria up to 1900		3
+LIN 141	 Introduction to General Linguistics I		2
+COS 101	 Introduction to Computer Sciences		2
+GSP 101	The Use of English I		2
+ELS 102	 Introduction to Nigerian Literature		2
+ELS 150	Introduction to Poetry		3
+ELS 160	Introduction to Fiction		3
+HIS 102	Introduction to Economic History		2
+HIS 104	Evolution of International System since 1815		2
+HIS 122	History of West Africa Since 1500		2
+HIS 144	Blacks in Diaspora		2
+LIN 140	Introduction to General Linguistics II		2
+GSP 102	The Use of English II		2
+GSP 202	Issues in Peace and Conflict Resolution		2
+ELS 211	American Literature: The Beginnings to Romantic Movement		3
+ELS 213	English Literature: The Renaissance Period	3
+ELS 221	Spoken English/Lab Work		3
+HIS 213	Diplomatic History of Nigeria Since 1960		2
+HIS 221	Southern Africa since 1400		2
+HIS 223	East and Central Africa Since 1000 AD		2
+COS 101	Introduction to Computer Science		2
+CED 341	Introduction to Entrepreneurship		2
+GSP 105	Natural Sciences I		2
+ELS 212	American literature the modem period		3
+ELS 214	English literature Neo-Classical period		3
+ELS 222	Intermediate English Grammar and Composition		3
+HIS 222	Africa and European Imperialism in the 19th & 20th Centuries		2
+HIS 224	Economic History of West Africa to the 20th Century		2
+HIS 226	African Women in History		2
+GSP 106	Natural Sciences II		2
+COS 304	Computer Applications		2
+CED 342	Business Development and Management		2
+ELS 321	Advanced Prose Composition		3
+ELS 351	African Poetry		3
+ELS 361	African Fiction		3
+ELS 381	Research Methods		2
+HIS 301	Comparative Industrial Growths in the USA, Russia,Japan,  China and Britain		3
+HIS 311	Nigeria 1900 to 1960		3
+HIS 321	Africa and the Wider World in the 20th Century		2
+GSP 201	Basic Concepts and Theories of Peace and Conflict Resolution		3
+ELS 312	English Literature: Victorian Period		3
+ELS 314	English Literature: Modern Period		3
+ELS 340	African Drama		3
+ELS 370	History of Criticism		2
+HIS 302	Issues in International Relations I		2
+HIS 322	Problems and Prospects of Regional Economic Development in Africa		3
+HIS 332	Russia since 1917		3
+ELS 411	American & Afro-American Literature		2
+ELS 413	European Continental Literature		3
+ELS 461	Studies in Fiction		3
+HIS 401	Development of Parliamentary/ Presidential Systems (Britain, France, India, and USA)		3
+HIS 403	History of Science and Technology		3
+HIS 411	Nigeria since 1960		2
+HIS 415	Igboland to the Present		3
+ELS 440	Shakespeare		3
+HIS 402	Issues in International Relations II		2
+HIS 406	Conflict, War and Peace since 1900		2
+HIS 408	International/Continental Organizations		3
+HIS 422	Africa since 1800		3
+ELS 490	Project		6
+ELS 101	Basic Literary Concepts		2
+ELS 121	Basic Grammar and Composition		3
+ELS 123	Introduction to Phonetics		2
+TFS 101	Traditional African Festival Theatre		3
+TFS 103	Introduction to Drama and Theatre		3
+LIN 141	Introduction to General Linguistics I		2
+COS 101	 Introduction to Computer Sciences		2
+GSP 101	The Use of English I		2
+ELS 102	Introduction to Nigerian Literature		2
+ELS 150	Introduction to Poetry		3
+ELS 160	Introduction to Fiction		3
+TFS 102	Practical Participation Orientation		3
+TFS 132	Basic Acting Skills		3
+TFS 104	History of Drama and Theatre: Beginnings to Medieval Period		2
+LIN 140	Introduction to General Linguistics II		2
+GSP 102	The Use of English II		2
+GSP 202	Issues in Peace and Conflict Resolution		2
+ELS 211	American Literature: The Beginnings to Romantic Movement		3
+ELS 213	English Literature: The Renaissance Period		3
+ELS 221	Spoken English/Lab Work		3
+TFS 201	African Drama and Theatre: The Colonial Era	2
+TFS 231	Intermediate Acting		2
+TFS 233	Dance Drama		2
+COS 101	Introduction to Computer Science		2
+CED 341	Introduction to Entrepreneurship		2
+GSP 105	Natural Sciences I		2
+ELS 212	American Literature the Modem Period		3
+ELS 214	English Literature Neo-Classical Period		3
+ELS 222	Intermediate English/Grammar and Composition		3
+TFS 232	Basic Non Verbal Communication		2
+TFS 234	Basic Choreography and Kinaesthetics		2
+TFS 252	Fundamentals of Playwriting		2
+GSP 106	Natural Sciences II		2
+COS 304	Computer Applications		2
+CED 342	Business Development and Management		2
+ELS 321	Advanced Prose Composition		3
+ELS 351	African Poetry		3
+ELS 361	African Fiction		3
+ELS 381	Research Methods		2
+TFS 341	Introduction to Directing		3
+TFS 343	Theatre Administration		2
+TFS 371	Scripting for the Media Theatre		2
+GSP 201	Basic Concepts and Theories of Peace and Conflict Resolution		2
+ELS 312	English Literature: Victorian Period		3
+ELS 314	English Literature: Modern Period		3
+ELS 340	African Drama		3
+ELS 370	History of Criticism		2
+TFS 322	Advanced Scene Design		2
+TFS 330	Dance Theories and Practice		2
+TFS 332	Advanced Acting		2
+TFS 344	Stage Management		1
+ELS 411	American & Afro-American Literature		3
+ELS 413	European Continental Literature		3
+ELS 461	Studies in Fiction		3
+TFS 413	Theories of Dramatic Criticism		3
+TFS 451	Major Nigerian Playwrights		3
+TFS 455	Advanced Playwriting		3
+ELS 440	Shakespeare		3
+ELS 442	Studies in Drama		3
+TFS 404	Oriental Theatre Studies		2
+TFS 440	Advanced Play Production		4
+ELS 490	Project		6
+ELS 101 Basic Literary Concepts 2
+ELS 102 Introduction to Nigerian Literature 2
+ELS 103 Introduction to African Literature 2
+ELS 121 Basic Grammar and Composition 3
+ELS 123 Introduction to Phonetics 3
+ELS 131 Introduction to Oral Literature 2
+ELS 140 Introduction to Drama 3
+ELS 150 Introduction to Poetry 3
+ELS 160 Introduction to Fiction 3
+ELS 211 American Literature: The Beginnings to the Romantic Movement 2
+ELS 212 American Literature: The Modern Period 2
+ELS 213 English Literature: The Renaissance Period 3
+ELS 214 English Literature: Neo-Classical Period 3
+ELS 221 Spoken English/Lab Work 3
+ELS 222 Intermediate English Grammar and Composition 3
+ELS 232 African Oral Poetry 3
+ELS 240 Comedy: Moliere to Soyinka 3
+ELS 310 Contemporary African Authors 3
+ELS 311 English Literature: Romantic Movement 3
+ELS 312 English Literature: Victorian Period 3
+ELS 313 Greek & Roman Literatures 3
+ELS 314 English Literature: Modern Period 3
+ELS 316 Old and Middle English Literature 3
+ELS 321 Advanced Prose Composition 3
+ELS 322 History of English 3
+ELS 324 Phonology 3
+ELS 325 Semantics 3
+ELS 331 African Traditional Verbal Genres 3
+
+ELS 332 The Criticism of Oral Literature 3
+ELS 333 African Oral Narratives 3
+ELS 340 African Drama 3
+ELS 351 African Poetry 3
+ELS 361 African Fiction 3
+ELS 370 History of Criticism 2
+ELS 371 Theory and Practice of Narrative 3
+
+ELS 381 Research Methods 2
+ELS 416 Contemporary African Authors 3
+ELS 418 Caribbean Literature 3
+ELS 411 African-American Literature 3
+ELS 413 European Continental Literature 3
+ELS 415 World Black Literature 3
+ELS 421 Morphology and Syntax 3
+ELS 422 Problems of English in West Africa 3
+ELS 423 Comparative Grammar 3
+ELS 425 Stylistics 3
+ELS 431 Oral Literature & Modern Literature in Africa 3
+ELS 440 Shakespeare 3
+ELS 442 Studies in Drama 3
+ELS 444 European Drama since Ibsen 3
+ELS 452 Studies in Poetry 3
+ELS 461 Studies in Fiction 3
+ELS 471 Modern Literary Theory 3
+ELS 473 Modern Discourse Analysis 3
+ELS 480 Literary Review Writing 3
+ELS 490 Project 6
