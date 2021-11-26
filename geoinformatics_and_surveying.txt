@@ -1,0 +1,149 @@
+GSV 0611 Land Surveying Methods and Applications 2
+GSV 0613 Survey Laws and Regulations 2
+GSV 0621 Geometrical Geodesy 2
+GSV 0631 Aerial Photogrammetric Method 2
+GSV 0661 Adjustment Computations 2
+GSV 0677 GIS Design and Applications 2
+GSV 0623 Physical Geodesy 2
+GSV 0641 Method of Hydrographic Surveying 2
+GSV 0651 Elements of Cartography 2
+GSV 0675 Introduction to GIS 2
+GSV 0602 Computer Application in Geoinformatics & Surveying 2
+GSV 0614 Engineering Surveying 2
+GSV 0622 Space Geodesy 2
+GSV 0632 Theory and Application of Remote Sensing 2
+GSV 0690 Project 4
+GSV 0616 Mining Surveying 2
+GSV 0642 Marine Survey 2
+GSV 0672 Cadastral Land Information Management 2
+GSV 0676 Data Integration and Digital Mapping 2
+GSV 0651 Elements of Cartography 2
+GSV 0671 Spatial Statistics 2
+GSV 0673 Data Acquisition Systems 2
+GSV 0675 Introduction to GIS 2
+GSV 0603 Introduction to Environmental Management 2
+
+GSV 0611 Land Surveying Methods and Applications 2
+GSV 0631 Aerial Photogrammetric Method 2
+GSV 0679 Spatial Analysis 2
+GSV 0602 Computer Applications in Geoinformatics & Surveying 2
+GSV 0612 GNSS Surveying 2
+GSV 0632 Theory and Application of Remote Sensing 2
+GSV 0634 Digital Image Processing 2
+GSV 0672 Cadastral land Information System 2
+GSV 0674 Data Base Creation 2
+GSV 0690 Project 2
+GSV 0604 Introduction to Coastal Management 2
+GSV 0614 Engineering Surveying 2
+GSV 0616 Mining Surveying 2
+GSV 0678 GIS Design and Applications 2
+GSV 0511 Cadastral Surveying 2
+GSV 0513 Control Surveys 2
+GSV 0523 Map Projections 2
+GSV 0525 Geodetic Astronomy Theory and practices 2
+GSV 0533 Fundamentals of Remote Sensing 2
+GSV 0541 Fundamentals of Hydrographic Surveying 2
+GSV 0551 Fundamentals of Cartographic Techniques 2
+GSV 0561 Adjustment Computations I 2
+GSV 0502 Computer Applications in Geoinformatics and Surveying 2
+GSV 0512 Introduction to Engineering Surveying 2
+GSV 0514 Topographic Surveying 2
+GSV 0522 Potential Theory 2
+GSV 0532 Fundamentals of Photogrammetry 2
+GSV 0562 Applied Mathematical Methods in Surveying 2
+PGC 601 Research Methodology & Application of ICT in Research 3
+GSV 603 Advanced Practical Computations 2
+GSV 611 Advanced Land Surveying Methods & Applications 2
+GSV 607 Spatial Statistics 2
+GSV 621 Advanced Physical Geodesy 2
+GSV 623 Advanced Celestial Geodesy 2
+GSV 627 Optimisation and Design of Geodetic Networks 2
+GSV 631 Advanced Digital Photogrammetry 2
+GSV 633 Applied Remote Sensing 2
+GSV 641 Advanced Hydrographic Surveying 2
+GSV 651 Advanced Cartography 2
+GSV 671 Database Management Systems 2
+GSV 673 GIS Implementation, Strategy and Procedure 2
+GSV 675 3D GIS 2
+GSV 612 GNSS and Inertial Surveying 2
+GSV 662 Advanced Adjustment Computations 2
+GSV 680 Seminar I 2
+GSV 602 Advanced Mathematical Methods 2
+GSV 614 Deformation Analysis 2
+GSV 616 Advanced Engineering Surveying 2
+GSV 618 Advanced Mining Surveying 2
+GSV 622 Advanced Geometrical Geodesy 2
+GSV 628 Global Geodetic Observation System (GGOS) 2
+GSV 632 UAS Application and Data Processing 2
+GSV 634 Digital Image Processing 2
+GSV 642 Ocean Dynamics and Coastal Erosions 2
+GSV 652 Digital Cartography 2
+GSV 672 Web GIS 2
+GSV 674 Advanced Land Information Management 2
+GSV 676 Mobile GIS 2
+GSV 678 GIS Programming 2
+GSV 681 Seminar II 2
+GSV 691 Master’s Project Report I 4
+PGC 601 Research Methodology & Application of ICT in Research 3
+GSV 603 Advanced Practical Computations 2
+GSV 673 GIS Implementation, strategy and procedure 2
+GSV 675 3D GIS 2
+GSV 611 Advanced Land Surveying Methods & Applications 2
+GSV 621 Advanced Physical Geodesy 2
+GSV 623 Advanced Celestial Geodesy 2
+GSV 627 Optimisation and Design of Geodetic Networks 2
+GSV 631 Advanced Digital Photogrammetry 2
+GSV 641 Advanced Hydrographic Surveying 2
+GSV 651 Advanced Cartography 2
+GSV 661 Advanced Adjustment Computations 2
+GSV 671 Database Management Systems 2
+GSV 634 Digital Image Processing 2
+GSV 672 Web GIS 2
+GSV 674 Advanced Land Information Management 2
+GSV 678 GIS Programming 2
+GSV 692 Master’s Project Report II 8
+GSV 680 Seminar I 2
+GSV 602 Advanced Mathematical Methods 2
+GSV 612 GNSS and Inertial Surveying 2
+GSV 614 Deformation Analysis 2
+GSV 616 Advanced Engineering Surveying 2
+GSV 618 Advanced Mining Surveying 2
+GSV 622 Advanced Geometrical Geodesy 2
+GSV 628 Global Geodetic Observation System (GGOS) 2
+GSV 632 UAS Application and Data Processing 2
+GSV 642 Ocean Dynamics and Coastal Erosions 2
+GSV 652 Digital Cartography 2
+GSV 662 Advanced Adjustment Computation 2
+GSV 676 Mobile GIS 2
+GSV 607 Spatial Statistics 2
+GSV 633 Advanced Remote Sensing 2
+GSV 681 Seminar II 2
+GSV 691 Master’s Project Report I 4
+GSV 692 Master’s Project Report II 8
+PGC 701 Synopsis and Grant Writing 3
+GSV 721 Environmental Geodesy I 3
+GSV 723 Advanced Global Geodetic Observation System 3
+GSV 725 Advanced GNSS and Inertial Surveying 3
+GSV 727 Local Gravity Field Determination 3
+GSV 729 The Motion of the Earth 3
+GSV 731 Advanced Remote Sensing and Image Analysis 3
+GSV 741 Trends in Hydrographic Surveying
+GSV 751 Cartographic Mapping of the Physical Environment 3
+GSV 753 Typography and Lettering the Map
+GSV 771 Advanced Geographic Information System 3
+GSV 781 PhD Seminar I 3
+GSV 790 PhD Thesis I 4
+GSV 783 PhD Seminar II 3
+PGC 701 SYNOPSIS AND GRANT WRITING (3 units)
+GSV 722 Environmental Geodesy II 3
+GSV 724 Gravimetric Satellite Geodesy 3
+GSV 726 Modern Space Geodesy Techniques 3
+GSV 728 Advanced Optimization and design of Geodetic Network 3
+GSV 732 Digital Terrain Analysis 3
+GSV 734 Remote Sensing Applications in Environmental Resources Mapping and Modelling 3
+GSV 742 Ocean Dynamics and Sedimentation
+GSV 752 Advanced Thematic Mapping 3
+GSV 754 Atlas Cartography
+GSV 772 GIS Modelling and Analysis 3
+GSV 774 Advanced GIS Programming 3
+GSV 792 PhD Thesis II 8

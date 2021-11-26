@@ -1,0 +1,357 @@
+[
+    {
+        "department_prefix": "VTE",
+        "course_number": "101",
+        "course_title": "FOUNDATIONS OF VOCATIONAL & TECHNICAL EDUCATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "111",
+        "course_title": "INTRODUCTION TO HOME ECONOMICS EDUCATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "113",
+        "course_title": "APPLICATION OF BASIC SCIENCES IN HOME ECONOMICS AND HOSPITALITY MANAGEMENT EDUCATION."
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "115",
+        "course_title": "CREATIVITY AND LIFE SKILL EDUCATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "161",
+        "course_title": "INTRODUCTION OF HOSPITALITY MANAGEMENT AND SERVICES"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "163",
+        "course_title": "HOSPITALITY AND CATERING EQUIPMENT / TOOLS"
+    },
+    {
+        "department_prefix": "BIO",
+        "course_number": "151",
+        "course_title": "GENERAL BIOLOGY"
+    },
+    {
+        "department_prefix": "HND",
+        "course_number": "211",
+        "course_title": "HUMAN BIOCHEMISTRY FOR NUTRITION"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "101",
+        "course_title": "THE USE OF ENGLISH"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "111",
+        "course_title": "USE OF LIBRARY"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "112",
+        "course_title": "METHODOLOGY IN HOME ECONOMICS & HOSPITALITY MANAGEMENT EDUCATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "114",
+        "course_title": "ENTREPRENEURSHIP IN BREAD MAKING AND CONFECTIONERIES"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "132",
+        "course_title": "BASIC CLOTHING EDUCATION TECHNIQUES"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "142",
+        "course_title": "FUNDAMENTALS OF FOOD EDUCATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "152",
+        "course_title": "FAMILY LIVING AND POPULATION EDUCATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "162",
+        "course_title": "FOOD AND BEVERAGE SERVICE I"
+    },
+    {
+        "department_prefix": "BIO",
+        "course_number": "152",
+        "course_title": "GENERAL BIOLOGY II"
+    },
+    {
+        "department_prefix": "BIO",
+        "course_number": "154",
+        "course_title": "GENERAL BIOLOGY PRACTICAL"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "102",
+        "course_title": "THE USE OF ENGLISH II"
+    },
+    {
+        "department_prefix": "VTE",
+        "course_number": "201",
+        "course_title": "INDUSTRIAL WORK EXPERIENCE IN VOCATIONAL AND TECHNICAL EDUCATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "231",
+        "course_title": "CLOTHING PROCESS AND TECHNIQUES"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "241",
+        "course_title": "HOUSEHOLD EQUIPMENT"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "261",
+        "course_title": "FOOD AND BEVERAGE II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "131",
+        "course_title": "INFERENCE 1"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+    },
+    {
+        "department_prefix": "EDU211",
+        "course_number": "Education",
+        "course_title": "PSYCHOLOGY 1"
+    },
+    {
+        "department_prefix": "EDU",
+        "course_number": "221",
+        "course_title": "CURRICULUM THEORY AND PLANNING"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "THE SOCIAL SCIENCE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "HUMANITIES 1"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "212",
+        "course_title": "ENTREPRENEURSHIP IN RESTAURANT MANAGEMENT"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "232",
+        "course_title": "FOUNDATION OF COSMETOLOGY AND HAIR DRESSING"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "234",
+        "course_title": "TEXTILE SCIENCE EDUCATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "242",
+        "course_title": "MEAL MANAGEMENT AND SAFETY EDUCATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "244",
+        "course_title": "NUTRITION MANAGEMENT EDUCATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "262",
+        "course_title": "HOUSEKEEPING IN HOSPITALITY MANAGEMENT"
+    },
+    {
+        "department_prefix": "MAC",
+        "course_number": "242",
+        "course_title": "PRINCIPLES OF ADVERTISING"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "304",
+        "course_title": "COMPUTER APPLICATION"
+    },
+    {
+        "department_prefix": "TRM",
+        "course_number": "254",
+        "course_title": "TOURISM, HOSPITALITY AND EVENT MANAGEMENT FACILITIES"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "ISSUES IN PEACE AND CONFLICT RESOLUTION STUDIES"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "HUMANITIES II"
+    },
+    {
+        "department_prefix": "VTE",
+        "course_number": "301",
+        "course_title": "RESEARCH DESIGN IN VOCATIONAL AND TECHNICAL EDUCATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "311",
+        "course_title": "CONSUMER EDUCATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "331",
+        "course_title": "PATTERN DRAFTING AND ADAPTION TECHNIQUES"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "333",
+        "course_title": "FASHION ILLUSTRATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "335",
+        "course_title": "HOUSING DESIGN, INTERIOR DECORATION AND ALLIED CRAFT EDUCATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "353",
+        "course_title": "FAMILY RESOURCE MANAGEMENT EDUCATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "361",
+        "course_title": "LAUNDRY OPERATIONS IN HOSPITALITY MANAGEMENT"
+    },
+    {
+        "department_prefix": "HND",
+        "course_number": "311",
+        "course_title": "GENERAL AND APPLIED NUTRITION"
+    },
+    {
+        "department_prefix": "VTE",
+        "course_number": "302",
+        "course_title": "PRACTICAL TEACHING IN VOCATIONAL AND TECHNICAL EDUCATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "312",
+        "course_title": "ADULT EDUCATION IN HOME ECONOMICS"
+    },
+    {
+        "department_prefix": "VTE",
+        "course_number": "301",
+        "course_title": "STUDENTS INDUSTRIAL WORK EXPERIENCE"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "342",
+        "course_title": "FOOD PRESERVATION AND SAFETY TECHNIQUES EDUCATION"
+    },
+    {
+        "department_prefix": "VTE",
+        "course_number": "401",
+        "course_title": "VOCATIONAL GUIDANCE"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "411",
+        "course_title": "REPRODUCTIVE HEALTH EDUCATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "421",
+        "course_title": "CHILD DEVELOPMENT AND CARE"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "431",
+        "course_title": "FAMILY CLOTHING MANAGEMENT EDUCATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "433",
+        "course_title": "ENTREPRENEURSHIP IN GARMENT MAKING"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "451",
+        "course_title": "HOME ADMINISTRATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "441",
+        "course_title": "NUTRITION FOR THE LIFE CYCLE EDUCATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "461",
+        "course_title": "SAFETY AND SECURITY IN HOSPITALITY"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "341",
+        "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+    },
+    {
+        "department_prefix": "HND",
+        "course_number": "431",
+        "course_title": "RECIPE DEVELOPMENT AND TESTING"
+    },
+    {
+        "department_prefix": "VTE",
+        "course_number": "402",
+        "course_title": "ADMINISTRATION IN VOCATIONAL AND TECHNICAL EDUCATION"
+    },
+    {
+        "department_prefix": "VTE",
+        "course_number": "404",
+        "course_title": "EVALUATION IN VOCATIONAL AND TECHNICAL EDUCATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "412",
+        "course_title": "SEMINAR IN HOME ECONOMICS EDUCATION"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "422",
+        "course_title": "CHILD DEVELOPMENT PRACTICUM"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "432",
+        "course_title": "ADVANCED CLOTHING EDUCATION TECHNIQUES"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "448",
+        "course_title": "ENTREPRENEURSHIP EDU IN HOME ECONOMICS"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "452",
+        "course_title": "HOME ADMINISTRATION PRACTICUM"
+    },
+    {
+        "department_prefix": "HHE",
+        "course_number": "490",
+        "course_title": "PROJECT"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "342",
+        "course_title": "BUSINESS DEVELOPMENT AND MANAGEMENT"
+    }
+]

@@ -1,0 +1,368 @@
+SWK   101      Introduction to Social Work                                                   2
+
+SWK   111      Communication in Social Work                                              2
+
+SWK   121      Social deviance and systems organisation                             2
+
+SWK   141      Field Work Orientation                                                          2
+
+
+ANTH 102      Introduction to Anthropology                                                            4
+
+SOC    101      Introduction to Sociology 1                                                   2
+
+
+GSP     101      The Use of English                                                                 2
+
+GSP     105      Natural Sciences 1                                                                  2
+
+GSP     111      Use of Library and Study Skills                                             2
+
+
+ECO                101      Principles of Economics                                              2
+
+PSC                 101      Introduction to Political Science                                2
+
+PSY                 101      Principles of Psychology                                             2
+
+RCS                101      Introduction to Religion                                             2
+
+
+SWK   102      Human Behaviour and the Social Environment                     3
+
+SWK   122      Philosophy and Ethics of Social Work                                   2
+
+SWK   142      Introduction to Field Work Practice                                       4
+
+SOC    102      Introduction to Sociology 11                                                  2
+
+GSP     102      The Use of English 11                                                                        2
+
+GSP     106      Natural Science 11                                                                  2
+
+
+ECO    102      Principles of Economics 11                                                     2
+
+PSC     102      Introduction to Political Science                                            2
+
+PSY     104      Determinants of Behaviour                                                     2
+
+RCS    142      Religion and Human Values                                                   2
+
+ 
+
+
+SWK   201      Social Work Theory                                                                            2
+
+SWK   203      Elements of scientific thought for social workers                              2
+
+SWK   245      Field Work Practice: Social Analysis In Case Work                                                                                      2
+
+SWK   251      Community Development                                                                  2
+
+ 
+
+
+COS    101      Introduction to Computer Science                                                     2
+
+FSS     201      Introduction to Statistical Methods for Social Science                      2
+
+GSP     201      The Social Sciences                                                                            2
+
+GSP     207      Logic, Philosophy & Human Existence                                              2
+
+
+SWK   231      Crime, Delinquency and the Quality of Life              2
+
+PSY     241      Social Psychology                                                       2
+
+SWK   243      Social Work Practice and Gender                               2
+
+PSY     251      Developmental Psychology                                        2
+
+ 
+
+ 
+
+SWK   224      Functions of Social Work                                                                      2
+
+SWK   242      Social Work Intervention with Families                                             2
+
+SWK   244      Social Work in Rehabilitation                                                               2
+
+SWK   246      Field Work: Problem Solving and Evaluation in Case Work                                                                                             3
+
+SWK   248      Social Work Communication Techniques                                          2
+
+
+FSS     202      Introduction to Statistical Methods for Social Sciences 11                                                                                     2
+
+
+GSP     202      Issues in Peace and Conflict Studies                                                  2
+
+GSP     208      Nigerian, Peoples & Cultures                                                               2
+
+
+SWK   214      Death, Loss and Grief                                                                             2
+
+SWK   228      Social Work in Health Care Setting                                                    2                                                       
+SWK   240      Social Work with the Youth                                                                             2
+
+
+SWK   301      Orphans and Vulnerable Children Services                                       2
+
+SWK   303     Social Welfare Programme and Services                                           2
+
+SWK   331      Social Work Intervention                                                                    2
+
+SWK   335      Community Development Theory                                                      2
+
+SWK   345      Field Work Practice: Social Analysis In Group Work                                                                                      3
+
+SWK   353      Social Work and Mental Health                                                        2
+
+
+SOC    221      Criminology and Penology                                                                 3
+
+CED    341      Introduction to Entrepreneurship                                                    2
+
+SWK   305   Elements of Psychology in Social Work                                             2
+
+SWK   311      Social Policy and Planning                                                                 2
+
+SWK   313      Communities Mental Health Services                                             2
+
+SWK   327      Rural Social Work                                                                               2
+
+SWK   341       Social Work with Group                                                                  2
+
+PSY     352      Community Psychology                                                                  2
+
+SWK   320      Social Work and Social problems                                                       2
+
+SWK   322      Counselling and psychotherapy                                                          2
+
+SWK   328      Dynamics of Social Functioning                                                         2
+
+SWK   344      Community Education                                                                        2
+
+SWK   346      Field Work: Problem Solving and Evaluation In Group Work                                                                                      3
+
+SWK   362      Methods of Social Work Research                                                   3
+
+ 
+
+
+COS    314      Computer Application                                                                        3
+
+CED    342      Business Development & Management                                        2
+
+
+SWK   324      Care Management in Social Work                                                  2
+
+SWK   326      Spirituality and Social Work Practice                                            2
+
+SWK   330      Industrial Social Work                                                                      2
+
+SWK   340      School Social Work                                                                           2
+
+SWK   348      Social Work and the Elderly                                                            2
+
+SWK   352      Community Needs and Resource Assessment                                                                                                                  2
+
+SWK   421      International Social Work                                                                   3
+
+SWK   441      Methods of Social Work Practice                                                       3
+
+SWK   445      Field Work: Social Analysis in Community Organisation                                                                                        3
+
+SWK  451      Community Development Practice                                                     3
+
+SWK 491 Projects Tutorial                                                                                        2
+
+
+SWK   413      Social Work and the Law                                                       2
+
+SWK   423      Substance Abuse Prevention and Intervention                       2
+
+SWK   431      Ethno-cultural Relations and the Nigeria State                      2
+
+SWK   447      Social Work Practice with Children                                       2
+
+
+SWK   434      Social Work Legislation and Policy                                                    3
+
+SWK   442      Generalist Approach in Social Work                                                  2
+
+SWK   446      Field Work: Problem Solving and Evaluation in Community Organisation                                             3
+
+SWK   454      Clinical Social Work Practice, Psychopathology And Trauma                                                                                        3
+
+SWK   492      Project                                                                                                 6
+
+
+SWK   406      Models of Family Therapy                                                      2
+
+SWK   412      Gerontology and Getriatic Interventions in Social Work       2
+
+SWK   414      Organisational/Administrative Skills in Social Work             2
+
+SWK   444      Forensic Social Work                                                              2
+
+SWK   101      Introduction to Social Work                                                               2
+
+SWK   121      Social Deviance and System Organisation                                        2
+
+SWK   201      Social Work Theory                                                                            2
+
+SWK   203      Elements of Scientific Thought for Social Workers                           2
+
+
+COS    101      Introduction to Computer Science                                                     2
+
+FSS     201      Introduction to Statistical Methods for Social Sciences 1                                                                                 2
+
+GSP     101      The Use of English 1                                                                          2
+
+GSP     105      Natural Science 1                                                                                2
+
+GSP     201      Peace and Conflict Resolution                                                           2
+
+
+ECO    101      Introduction to Economics 1                                      2
+
+PSY     101      Principles of Psychology                                             2
+
+SOC    101      Introduction to Sociology 1                                        2
+
+PSC     101      Introduction to Political Science1                              2
+
+SWK   231      Crime, Delinquency and the Quality of Life              2
+
+REL    151      Introduction to African Traditional Religion             2
+
+
+SWK   102      Human Behaviour and the Social Environment                                 3
+
+SWK   122      Philosophy and Ethics of Social Work                                               2
+
+SWK   224      Functions of Social Work                                                                   2
+
+SWK   242      Social work Intervention with Families                                              2
+
+SWK   244      Social Work in Rehabilitation                                                             2
+
+FSS     202      Introduction to Statistical Methods for Social Services                    2
+
+GSP     102      The Use of English 11                                                                                    2
+
+GSP     106      Natural Science 11                                                                              2
+
+GSP     202      Peace and Conflict Resolution                                                           2
+
+
+ECO    102      Principles of Economics 11                                         2
+
+SOC    102      Introduction to Sociology 11                                      2
+
+PSY     104      Determinants of Behaviour                                         2
+
+REL    142      Religion and Human Values                                       2
+
+SWK   214      Death, Loss and Grief                                                            2
+
+PSY     252      Development Psychology                                           2
+
+SWK   301     Orphans and Vulnerable Children Services                                      2         
+
+SWK   303     Social Welfare Programme and Services                                           2
+
+SWK   331      Social Work Intervention                                                                    2
+
+SWK   335      Community Development Theory                                                      2
+
+SWK   345     Social Work Field Practice (Social Analysis in Group Work)         3
+
+SWK   353      Social Work and Mental Health                                                        2
+SOC    221      Criminology and Penology                                                                 3
+
+GSP     207      Humanities 1                                                                                       2
+
+
+SWK   311      Social Policy and Planning                                2
+
+SWK 313     Communities Mental Health Services                2                             
+
+SWK 327     Rural Social Work                                              2
+
+SWK   341     Social Work Practice with Group                     2
+
+PSY     352     Community Psychology                                     2
+
+SWK   320      Social Work and Social Problems                                                       2
+
+SWK   322      Counselling and psychotherapy                                                          2
+
+SWK   328      Dynamics of Social Functioning                                                         2
+
+SWK   344      Community Education                                                                        2
+
+SWK   346      Field Work: Problem Solving and Evaluation In Group Work                                                                                   3
+
+SWK   362      Methods of Social Work Research                                                     3
+
+
+COS    314      Computer Applications                                                                       3
+
+
+GSP     208      Humanities 11                                                                                     2
+
+SWK   326      Spirituality and social work practice                                       2
+
+SWK   330      Industrial Social Work                                                            2
+
+SWK   340      School Social Work                                                                2
+
+SWK   348      Social Work and the Elderly                                                   2
+
+SWK   352      Community Needs and Resource Assessment                       2
+
+ 
+SWK   421      International Social Work                                                                  3
+
+SWK   441      Methods of Social Work Practice                                                       3
+
+SWK   445      Field Work: Social Analysis in Community Organisation                  3
+
+SWK   451      Community Development Practice                                                     3
+
+SWK   491      Project Tutorials                                                                                  2
+
+ 
+
+SWK   413      Social Work and the Law                                                       2
+
+SWK   423      Substance Abuse, Prevention and Intervention                      2
+
+SWK   431      Ethno-Cultural Relations and the Nigeria State                     2
+
+SWK   447      Social Work Practice with Children                                       2
+
+SWK   434      Social Work Legislation and Policy                                                    3
+
+SWK   442      Generalist Approach in Social Work                                                  2
+
+SWK   446      Field Work: Problem Solving and Evaluation in Community Organisation                                                                    3
+
+SWK   454      Clinical Social Work Practice, Psychopathology and Trauma            3
+
+SWK   492      Project                                                                                                 6
+
+
+SWK   406      Models of Family Therapy                                                      2
+
+SWK   412      Gerontology and Geriatric Interventions in Social Work       2
+
+SWK   414      Organizational/Administrative Skills in Social Work             2
+
+SWK   444      Forensic Social Work                                                              2

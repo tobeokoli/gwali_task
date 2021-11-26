@@ -1,0 +1,124 @@
+
+EGR 101                Introduction to Engineering                        2
+MTH 111              Elementary Mathematics I                             3
+MTH 121               Elementary Mathematics III                         3
+CHM 101              Basic Principles of Chemistry I                    2
+CHM 171              Basic Practical Chemistry                               2
+PHY 107                Fundamentals of Physics I                            3
+PHY 192                Practical Physics                                                2
+GSP 101                The Use of English I                                         2
+GSP 111                Use of Library Studies                                    2
+ 
+
+ 
+
+EGR 102                Applied Mechanics                                          3
+
+MTH 112              Elementary Mathematics II                           3
+CHM 112              Basic Principles of Chemistry II                    2
+CHM 122              Basic Principles of Chemistry III                  2
+
+PHY 105                Gen. Physics for Physical Sciences II           2
+
+PHY 109                Fundamentals of Physics III                         3
+
+GSP 102                The Use of English II                                      2
+
+EGR 201	Materials Science I		2
+EGR 203	Materials Science Laboratory	1
+CVE 211	Strength of Materials		2
+CVE 213	Strength of Materials laboratory	1
+EEE 211	Basic Electrical Engineering	3
+MEC 211	Engineering Drawing I		2
+MEC 261	Engineering Thermodynamics I	2
+MTH 206	Advanced Mathematics VI	2
+GSP 201	Basic Concepts & Theories of Peace & Conflicts	2
+		
+GSP 207	Humanities I		2
+
+ECE 272	Engineering Computer Programming	3
+ECE 262	Engineering  Computer	Programming	1
+CVE 222	Fluid Mechanics I		2
+CVE 224	Fluid Mechanics Laboratory	1
+MEC 212	Workshop Technology I		2
+EEE 252	Basic Electrical	Engineering	1
+MTH 208	Advanced Mathematics VIII	2
+MTH 207	Advanced Mathematics VII	2
+GSP 202	Issues in Peace & Conflict Resolution	2
+GSP 208	Humanities II		2
+ECE 311	Circuit Theory I	3
+ECE 321	Physical Electronics	3
+ECE 331	Electromagnetic Fields & Waves I	2
+ECE 361	Measurements and Instrumentation	3
+ECE 363	Physical Electronics Laboratory	1
+ 
+
+ 
+
+EEE 351	Electrical Machines Laboratory	1
+EEE 361	Electrical Machines I	3
+STA 203	Statistics  For  Physical  Sciences  and Engineering 2
+ECE 371	System Programming	2
+CED 341	Introduction to Entrepreneurship	2
+ECE 312	Circuit Theory II	3
+ECE 322	Applied Electronics I	3
+ECE 332	Electromagnetic Fields & Waves II	3
+ECE 362	Applied Electronics Laboratory	1
+ECE 364	Measurements and Instrumentation Laboratory	1
+	
+EEE 332	Electrical Power Systems Principles	3
+EEE 352	Electrical Power Systems Laboratory	1
+EGR 302	Engineering Analysis	4
+CED 342	Entrepreneurship	2 
+
+
+ 
+
+ 
+
+ 
+ECE 421	Applied Electronics II			3
+ECE 441	Communication Principles			3
+ECE 451	Control Theory			3
+ECE 471	Digital Electronics			2
+ECE 473	Digital Logic Theory			3
+ECE 461	Communication & Fields Laboratory		1
+ECE 463	Control Laboratory			1
+ECE 465	Applied Electronics and Digital Logic Laboratory	1
+ECE 443	Data	Communication	&	Networking Fundamentals	2
+			
+EGR 401	Computational Methods			3
+ECE 482	Seminars			2
+ECE 494	Technical Writing			3
+EGR 402	Students  Industrial  Work  Experience  Scheme	10
+ECE 511	Digital Systems design	3
+ECE 521	Industrial Electronics Design	2
+ECE 541	Communication Systems	3
+ECE 551	Control Engineering	3
+ECE 571	Microprocessing Systems	3
+ECE 573	Software Engineering	2
+ECE 512	Reliability Engineering	2
+ECE 524	Solid State Electronics	3
+ECE 542	Telecommunication Engineering	2
+ECE 574	Digital Signal Processing	2
+ECE ***	Electives	6
+ECE 592	Project	4
+ 
+
+ 
+
+ECE 540	Introduction to Radar and Navigation Systems	3
+ECE 544	Microwave Communication System Design	3
+ECE 546	Communications Networks	3
+ECE 548	Television and Radio	3
+ECE 549	Electroacoustics	3
+ECE 552	Advance Control Engineering	3
+ECE 554	Process Control	3
+ECE 556	Linear Systems Theory	3
+ECE 572	Computer Systems Design	3
+ECE 576	Microprocessor System Design	3
+ECE 578	Artificial Intelligence And Robotics	3
+ECE 570	Database Management Systems	3
+ECE 526	Optical Engineering	3
+ECE 528	Medical Electronics	3
+ECE 562	Automation	3

@@ -1,0 +1,16 @@
+PVD 422	Oral Medicine and Therapeutics I	3
+PVD 424	Oral Diagnosis and Dental Radiology I	3
+PVD 521	Oral Medicine and Therapeutics II	2
+PVD 523	Oral Diagnosis and Dental Radiology II	1
+PVD 525	Periodontology I	2
+PVD 522	Oral Medicine and Therapeutics III	2
+PVD 524	Oral Diagnosis and Dental Radiology III	2
+PVD 526	Periodontology II	2
+PVD 528	Community and Preventive Dentistry I	2
+PVD 621	Oral Medicine and Therapeutics IV	2
+PVD 623	Periodontology III	2
+PVD 625	Community and Preventive Dentistry II	2
+PVD 627	Medical/Dental Ethics and Jurisprudence	1
+PVD 622	Oral Medicine and Therapeutics V	2
+PVD 628	Community and Preventive Dentistry III	2
+PVD 626	Research Project	2

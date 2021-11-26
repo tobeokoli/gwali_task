@@ -1,0 +1,157 @@
+
+GLT 201	Instrument Maintenance I	2
+BCH 201	General Biochemistry I	3
+MCB 201	General Microbiology I	3
+CHM 201	General Inorganic Chemistry	2
+CHM 211	General Physical Chemistry	2
+CHM 221	General Organic Chemistry I	2
+ 
+
+
+GSP 201	Basic Concepts and Theory of Peace	2
+GSP 207	Logic, Philosophy and Human Existence	2
+ 
+
+STA 203	Statistics for Biological Sciences I	2
+MTH 207	Advanced Mathematics VII	2
+ECO 101	Principles of Economics I	2
+GLT 202	Hazards and Safety in the Laboratory/Lab. Maintenance and Fittings	2
+BCH 202	General Biochemistry II	3
+SBC 204	Biological Laboratory Techniques I	2
+SBC 206	Genetics I	2
+CHM 232	Analytical Chemistry	2
+COS 102	Introduction to Computer Science	3
+ 
+
+GSP 202	Issues in Peace and Conflict Resolution	2
+GSP 208	Nigerian People and Culture	2
+ 	 	 
+MTH 242	Mathematical Methods	3
+STA 204	Statistics for Biological Sciences II	2
+ECO 102	Principles of Economics II	2
+ 
+
+
+
+
+GLT 201	Instrument Maintenance I	2
+CHM 201	General Inorganic Chemistry	2
+CHM 211	General Physical Chemistry	2
+CHM 221	General Organic Chemistry I	2
+SPE 261	Elementary Modern Physics	3
+PHY 291	Practical Physics IV	2
+ 
+
+GSP 201	Basic Concepts and Theory of Peace	2
+GSP 207	Logic, Philosophy and Human Existence	2
+MTH 207	Advanced Mathematics VII	2
+STA 203	Statistics for Physical Sciences I	2
+PHY 251	Electromagnetism	2
+GLT  202	Hazards and Safety in the Laboratory	2
+CHM 222	General Organic Chemistry II	2
+CHM 232	Analytical Chemistry	2
+CHM 252	Chemical Process Principles	2
+SPE 202	Basic Electrical Circuits	3
+SPE 210	Basic Electronics	3
+ 
+
+GSP 202	Issues in Peace and Conflict Resolution Studies	2
+GSP 208	Nigerian People and Culture	2
+ 
+
+ 
+
+ 
+
+MTH 242	Mathematical Methods I	3
+PHY 262	Introduction to Atomic and Nuclear Physics	3
+STA 206	Statistics for Physical Sciences II	2
+GLT 201	Instrument Maintenance I	2
+MCB 201	General Microbiology I	3
+BCH 201	General  Biochemistry I	3
+CHM 201	General Inorganic Chemistry	2
+CHM 211	General Physical Chemistry	2
+CHM 221	General Organic Chemistry	2
+STA 203	Statistics for Biological Sciences I	2
+ 
+
+GSP 201	Basic Concepts and Theory of Peace	2
+GSP 207	Logic, Philosophy and Human Existence	2
+GLT 202 Hazards and Safety in the Laboratory/Laboratory Maintenance and Fitting 2
+
+MCB 202	General Microbiology II	3
+SMB 204	Microbiological Techniques	3
+SMB 232	Medical Microbiology	3
+CHM 232	Analytical Chemistry	2
+STA 204	Statistics for Biological Science II	2
+ECO 102	Basic Principles of Economics II	2
+ 
+ 
+
+ 
+ 
+
+GSP 202	Issues in Peace and Conflict Resolution Studies	2
+GSP 208	Nigerian People and Culture	2
+GLT 201	General Laboratory Techniques I	3
+SPE 261	Elementary Modern Physics	3
+PHY 251	Electromagnetism	2
+PHY 211	Structure of Matter	3
+PHY 291	Practical Physics IV	2
+MTH 207	Advanced Mathematics VII	2
+ 
+
+
+GSP 201	Basic Concept and Theory of Peace	2
+GSP 207	Logic, Philosophy and Human Existence	2
+ 
+
+STA 203	Statistics for Physical Sciences and Engineering I	2
+COS 201	Computer Programming I	2
+ 
+
+ 
+
+GLT 202 Hazards and Safety in the Laboratory/Laboratory Maintenance and Fitting 2
+
+SPE 232	Electrical Circuits	3
+SPE 242	Waves and Optics	3
+SPE 250	Basic Electronics	3
+MTH 242	Mathematical Methods I	3
+MTH 222	Elementary Differential Equations	2
+ 
+
+GSP 202	Issues in Peace and Conflict Resolution	2
+GSP 208	Nigerian People and Culture	2
+ 
+
+STA 203	Statistics for Physical Sciences and Engineering II	2
+COS 202	Computer Programming II	2
+GLT 201	General Laboratory Techniques I	2
+SPP 251	Alimentary System	2
+SPP 253	Blood and Body fluids	2
+SPP 255	Cardiovascular System	2
+SPP 257	Renal System	2
+SPP 261	Introduction to Physiology	2
+SPP 263	Respiratory System	2
+CHM 221	General Organic Chemistry I	2
+GSP 201	Basic Concepts and Theory of Peace	2
+GSP 207	Logic, Philosophy and Human Existence	2
+ECO 201	Principles of Economics I	2
+SCH 201	Inorganic Chemistry I	2
+CHM 211	General Physical Chemistry	2
+GLT 202	Hazards andSafety in Laboratory/Laboratory Maintenance and Fitting	2
+CHM 222	General Organic Chemistry II	2
+SPP 252	Introductory Pharmacology	3
+SPP 254	Autonomic Nervous System	3
+SPP 256	Central Nervous System	3
+SPP 264	Practical Physiology
+ 
+
+GSP 202	Issues in Peace and Conflict Resolution Studies	2
+GSP 208	Nigerian People and Culture	2
+ 
+
+ECO 202	Principles of Economics II	2
+COS 102	Introduction to Computer Science	2
+CHM 232	Analytical Chemistry	2

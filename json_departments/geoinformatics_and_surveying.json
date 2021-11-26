@@ -1,0 +1,742 @@
+[
+    {
+        "department_prefix": "GSV",
+        "course_number": "0611",
+        "course_title": "LAND SURVEYING METHODS AND APPLICATIONS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0613",
+        "course_title": "SURVEY LAWS AND REGULATIONS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0621",
+        "course_title": "GEOMETRICAL GEODESY"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0631",
+        "course_title": "AERIAL PHOTOGRAMMETRIC METHOD"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0661",
+        "course_title": "ADJUSTMENT COMPUTATIONS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0677",
+        "course_title": "GIS DESIGN AND APPLICATIONS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0623",
+        "course_title": "PHYSICAL GEODESY"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0641",
+        "course_title": "METHOD OF HYDROGRAPHIC SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0651",
+        "course_title": "ELEMENTS OF CARTOGRAPHY"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0675",
+        "course_title": "INTRODUCTION TO GIS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0602",
+        "course_title": "COMPUTER APPLICATION IN GEOINFORMATICS & SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0614",
+        "course_title": "ENGINEERING SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0622",
+        "course_title": "SPACE GEODESY"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0632",
+        "course_title": "THEORY AND APPLICATION OF REMOTE SENSING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0690",
+        "course_title": "PROJECT"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0616",
+        "course_title": "MINING SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0642",
+        "course_title": "MARINE SURVEY"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0672",
+        "course_title": "CADASTRAL LAND INFORMATION MANAGEMENT"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0676",
+        "course_title": "DATA INTEGRATION AND DIGITAL MAPPING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0651",
+        "course_title": "ELEMENTS OF CARTOGRAPHY"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0671",
+        "course_title": "SPATIAL STATISTICS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0673",
+        "course_title": "DATA ACQUISITION SYSTEMS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0675",
+        "course_title": "INTRODUCTION TO GIS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0603",
+        "course_title": "INTRODUCTION TO ENVIRONMENTAL MANAGEMENT"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0611",
+        "course_title": "LAND SURVEYING METHODS AND APPLICATIONS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0631",
+        "course_title": "AERIAL PHOTOGRAMMETRIC METHOD"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0679",
+        "course_title": "SPATIAL ANALYSIS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0602",
+        "course_title": "COMPUTER APPLICATIONS IN GEOINFORMATICS & SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0612",
+        "course_title": "GNSS SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0632",
+        "course_title": "THEORY AND APPLICATION OF REMOTE SENSING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0634",
+        "course_title": "DIGITAL IMAGE PROCESSING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0672",
+        "course_title": "CADASTRAL LAND INFORMATION SYSTEM"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0674",
+        "course_title": "DATA BASE CREATION"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0690",
+        "course_title": "PROJECT"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0604",
+        "course_title": "INTRODUCTION TO COASTAL MANAGEMENT"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0614",
+        "course_title": "ENGINEERING SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0616",
+        "course_title": "MINING SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0678",
+        "course_title": "GIS DESIGN AND APPLICATIONS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0511",
+        "course_title": "CADASTRAL SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0513",
+        "course_title": "CONTROL SURVEYS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0523",
+        "course_title": "MAP PROJECTIONS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0525",
+        "course_title": "GEODETIC ASTRONOMY THEORY AND PRACTICES"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0533",
+        "course_title": "FUNDAMENTALS OF REMOTE SENSING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0541",
+        "course_title": "FUNDAMENTALS OF HYDROGRAPHIC SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0551",
+        "course_title": "FUNDAMENTALS OF CARTOGRAPHIC TECHNIQUES"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0561",
+        "course_title": "ADJUSTMENT COMPUTATIONS I"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0502",
+        "course_title": "COMPUTER APPLICATIONS IN GEOINFORMATICS AND SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0512",
+        "course_title": "INTRODUCTION TO ENGINEERING SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0514",
+        "course_title": "TOPOGRAPHIC SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0522",
+        "course_title": "POTENTIAL THEORY"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0532",
+        "course_title": "FUNDAMENTALS OF PHOTOGRAMMETRY"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "0562",
+        "course_title": "APPLIED MATHEMATICAL METHODS IN SURVEYING"
+    },
+    {
+        "department_prefix": "PGC",
+        "course_number": "601",
+        "course_title": "RESEARCH METHODOLOGY & APPLICATION OF ICT IN RESEARCH"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "603",
+        "course_title": "ADVANCED PRACTICAL COMPUTATIONS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "611",
+        "course_title": "ADVANCED LAND SURVEYING METHODS & APPLICATIONS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "607",
+        "course_title": "SPATIAL STATISTICS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "621",
+        "course_title": "ADVANCED PHYSICAL GEODESY"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "623",
+        "course_title": "ADVANCED CELESTIAL GEODESY"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "627",
+        "course_title": "OPTIMISATION AND DESIGN OF GEODETIC NETWORKS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "631",
+        "course_title": "ADVANCED DIGITAL PHOTOGRAMMETRY"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "633",
+        "course_title": "APPLIED REMOTE SENSING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "641",
+        "course_title": "ADVANCED HYDROGRAPHIC SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "651",
+        "course_title": "ADVANCED CARTOGRAPHY"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "671",
+        "course_title": "DATABASE MANAGEMENT SYSTEMS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "673",
+        "course_title": "GIS IMPLEMENTATION, STRATEGY AND PROCEDURE"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "675",
+        "course_title": "3D GIS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "612",
+        "course_title": "GNSS AND INERTIAL SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "662",
+        "course_title": "ADVANCED ADJUSTMENT COMPUTATIONS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "680",
+        "course_title": "SEMINAR I"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "602",
+        "course_title": "ADVANCED MATHEMATICAL METHODS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "614",
+        "course_title": "DEFORMATION ANALYSIS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "616",
+        "course_title": "ADVANCED ENGINEERING SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "618",
+        "course_title": "ADVANCED MINING SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "622",
+        "course_title": "ADVANCED GEOMETRICAL GEODESY"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "628",
+        "course_title": "GLOBAL GEODETIC OBSERVATION SYSTEM (GGOS)"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "632",
+        "course_title": "UAS APPLICATION AND DATA PROCESSING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "634",
+        "course_title": "DIGITAL IMAGE PROCESSING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "642",
+        "course_title": "OCEAN DYNAMICS AND COASTAL EROSIONS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "652",
+        "course_title": "DIGITAL CARTOGRAPHY"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "672",
+        "course_title": "WEB GIS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "674",
+        "course_title": "ADVANCED LAND INFORMATION MANAGEMENT"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "676",
+        "course_title": "MOBILE GIS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "678",
+        "course_title": "GIS PROGRAMMING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "681",
+        "course_title": "SEMINAR II"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "691",
+        "course_title": "MASTER\u00c2\u20ac\u2122S PROJECT REPORT I"
+    },
+    {
+        "department_prefix": "PGC",
+        "course_number": "601",
+        "course_title": "RESEARCH METHODOLOGY & APPLICATION OF ICT IN RESEARCH"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "603",
+        "course_title": "ADVANCED PRACTICAL COMPUTATIONS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "673",
+        "course_title": "GIS IMPLEMENTATION, STRATEGY AND PROCEDURE"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "675",
+        "course_title": "3D GIS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "611",
+        "course_title": "ADVANCED LAND SURVEYING METHODS & APPLICATIONS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "621",
+        "course_title": "ADVANCED PHYSICAL GEODESY"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "623",
+        "course_title": "ADVANCED CELESTIAL GEODESY"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "627",
+        "course_title": "OPTIMISATION AND DESIGN OF GEODETIC NETWORKS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "631",
+        "course_title": "ADVANCED DIGITAL PHOTOGRAMMETRY"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "641",
+        "course_title": "ADVANCED HYDROGRAPHIC SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "651",
+        "course_title": "ADVANCED CARTOGRAPHY"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "661",
+        "course_title": "ADVANCED ADJUSTMENT COMPUTATIONS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "671",
+        "course_title": "DATABASE MANAGEMENT SYSTEMS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "634",
+        "course_title": "DIGITAL IMAGE PROCESSING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "672",
+        "course_title": "WEB GIS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "674",
+        "course_title": "ADVANCED LAND INFORMATION MANAGEMENT"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "678",
+        "course_title": "GIS PROGRAMMING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "692",
+        "course_title": "MASTER\u00c2\u20ac\u2122S PROJECT REPORT II"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "680",
+        "course_title": "SEMINAR I"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "602",
+        "course_title": "ADVANCED MATHEMATICAL METHODS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "612",
+        "course_title": "GNSS AND INERTIAL SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "614",
+        "course_title": "DEFORMATION ANALYSIS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "616",
+        "course_title": "ADVANCED ENGINEERING SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "618",
+        "course_title": "ADVANCED MINING SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "622",
+        "course_title": "ADVANCED GEOMETRICAL GEODESY"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "628",
+        "course_title": "GLOBAL GEODETIC OBSERVATION SYSTEM (GGOS)"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "632",
+        "course_title": "UAS APPLICATION AND DATA PROCESSING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "642",
+        "course_title": "OCEAN DYNAMICS AND COASTAL EROSIONS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "652",
+        "course_title": "DIGITAL CARTOGRAPHY"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "662",
+        "course_title": "ADVANCED ADJUSTMENT COMPUTATION"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "676",
+        "course_title": "MOBILE GIS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "607",
+        "course_title": "SPATIAL STATISTICS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "633",
+        "course_title": "ADVANCED REMOTE SENSING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "681",
+        "course_title": "SEMINAR II"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "691",
+        "course_title": "MASTER\u00c2\u20ac\u2122S PROJECT REPORT I"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "692",
+        "course_title": "MASTER\u00c2\u20ac\u2122S PROJECT REPORT II"
+    },
+    {
+        "department_prefix": "PGC",
+        "course_number": "701",
+        "course_title": "SYNOPSIS AND GRANT WRITING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "721",
+        "course_title": "ENVIRONMENTAL GEODESY I"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "723",
+        "course_title": "ADVANCED GLOBAL GEODETIC OBSERVATION SYSTEM"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "725",
+        "course_title": "ADVANCED GNSS AND INERTIAL SURVEYING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "727",
+        "course_title": "LOCAL GRAVITY FIELD DETERMINATION"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "729",
+        "course_title": "THE MOTION OF THE EARTH"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "731",
+        "course_title": "ADVANCED REMOTE SENSING AND IMAGE ANALYSIS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "741",
+        "course_title": "TRENDS IN HYDROGRAPHIC"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "751",
+        "course_title": "CARTOGRAPHIC MAPPING OF THE PHYSICAL ENVIRONMENT"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "753",
+        "course_title": "TYPOGRAPHY AND LETTERING THE"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "771",
+        "course_title": "ADVANCED GEOGRAPHIC INFORMATION SYSTEM"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "781",
+        "course_title": "PHD SEMINAR I"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "790",
+        "course_title": "PHD THESIS I"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "783",
+        "course_title": "PHD SEMINAR II"
+    },
+    {
+        "department_prefix": "PGC",
+        "course_number": "701",
+        "course_title": "SYNOPSIS AND GRANT WRITING (3"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "722",
+        "course_title": "ENVIRONMENTAL GEODESY II"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "724",
+        "course_title": "GRAVIMETRIC SATELLITE GEODESY"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "726",
+        "course_title": "MODERN SPACE GEODESY TECHNIQUES"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "728",
+        "course_title": "ADVANCED OPTIMIZATION AND DESIGN OF GEODETIC NETWORK"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "732",
+        "course_title": "DIGITAL TERRAIN ANALYSIS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "734",
+        "course_title": "REMOTE SENSING APPLICATIONS IN ENVIRONMENTAL RESOURCES MAPPING AND MODELLING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "742",
+        "course_title": "OCEAN DYNAMICS AND"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "752",
+        "course_title": "ADVANCED THEMATIC MAPPING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "754",
+        "course_title": "ATLAS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "772",
+        "course_title": "GIS MODELLING AND ANALYSIS"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "774",
+        "course_title": "ADVANCED GIS PROGRAMMING"
+    },
+    {
+        "department_prefix": "GSV",
+        "course_number": "792",
+        "course_title": "PHD THESIS II"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "department_prefix": "PVD",
+        "course_number": "422",
+        "course_title": "ORAL MEDICINE AND THERAPEUTICS I"
+    },
+    {
+        "department_prefix": "PVD",
+        "course_number": "424",
+        "course_title": "ORAL DIAGNOSIS AND DENTAL RADIOLOGY I"
+    },
+    {
+        "department_prefix": "PVD",
+        "course_number": "521",
+        "course_title": "ORAL MEDICINE AND THERAPEUTICS II"
+    },
+    {
+        "department_prefix": "PVD",
+        "course_number": "523",
+        "course_title": "ORAL DIAGNOSIS AND DENTAL RADIOLOGY II"
+    },
+    {
+        "department_prefix": "PVD",
+        "course_number": "525",
+        "course_title": "PERIODONTOLOGY I"
+    },
+    {
+        "department_prefix": "PVD",
+        "course_number": "522",
+        "course_title": "ORAL MEDICINE AND THERAPEUTICS III"
+    },
+    {
+        "department_prefix": "PVD",
+        "course_number": "524",
+        "course_title": "ORAL DIAGNOSIS AND DENTAL RADIOLOGY III"
+    },
+    {
+        "department_prefix": "PVD",
+        "course_number": "526",
+        "course_title": "PERIODONTOLOGY II"
+    },
+    {
+        "department_prefix": "PVD",
+        "course_number": "528",
+        "course_title": "COMMUNITY AND PREVENTIVE DENTISTRY I"
+    },
+    {
+        "department_prefix": "PVD",
+        "course_number": "621",
+        "course_title": "ORAL MEDICINE AND THERAPEUTICS IV"
+    },
+    {
+        "department_prefix": "PVD",
+        "course_number": "623",
+        "course_title": "PERIODONTOLOGY III"
+    },
+    {
+        "department_prefix": "PVD",
+        "course_number": "625",
+        "course_title": "COMMUNITY AND PREVENTIVE DENTISTRY II"
+    },
+    {
+        "department_prefix": "PVD",
+        "course_number": "627",
+        "course_title": "MEDICAL/DENTAL ETHICS AND JURISPRUDENCE"
+    },
+    {
+        "department_prefix": "PVD",
+        "course_number": "622",
+        "course_title": "ORAL MEDICINE AND THERAPEUTICS V"
+    },
+    {
+        "department_prefix": "PVD",
+        "course_number": "628",
+        "course_title": "COMMUNITY AND PREVENTIVE DENTISTRY III"
+    },
+    {
+        "department_prefix": "PVD",
+        "course_number": "626",
+        "course_title": "RESEARCH PROJECT"
+    }
+]

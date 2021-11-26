@@ -1,0 +1,148 @@
+VTE 101                     Foundations of Voc and Tech. Education                              2
+
+CRE 121                     Information Management and Communication Technology  2
+
+CRE 123                     Computer Keyboarding                                                          2
+
+
+COS 101                     Introduction to Computer Science                                         2
+
+MTH 111                    Elementary Mathematics I                                                      3
+
+MTH 121                    Elementary Mathematics II                                                    3
+
+PHY 115                     General Physics for Physical Sciences I                                 2
+
+
+GSP 101                      The Use of English I                                                               2
+
+ 
+
+
+
+CRE     122                 Introduction to Operations Research                                      2
+
+CRE    124                  Word   Processing                                                                   2
+
+CRE    132                 Computer Hardware Maintenance                                          2
+
+CRE    152                  Foundations of  Robotics Education                                      2
+
+
+COS   102                   Introduction to Computer Systems                                         2                                                        
+MTH 112                    Elementary Mathematics III                                                   3
+
+PHY 116                     General Physics for Physical Sciences II                                2
+
+PHY 118                     General Physics for Physical Sciences III                              2
+
+ 
+
+GSP 102                      The Use of English II                                                             2
+
+
+VTE  201                    Industrial Work Experience in Voc & Tech Ed                      1
+
+VTE  203                    Curriculum Development in Voc & Tech Ed                         2
+
+CRE  251                    Robotics Programming I                                                         2
+
+
+EDU 211                     Educational Psychology I                                                       2
+
+MTH 215                    Linear Algebra I                                                                      2
+
+STAT 205                   Statistics for Physical Sciences and Engineering I                 2
+
+CED 341                     Introduction to Entrepreneurship                                           2
+
+COS 301                     Introduction to Digital Design                                               2
+
+
+GSP 201                      The Social Sciences                                                                 2
+
+GSP 207                      Humanities 1                                                                           2
+
+CRE  222                    Computer Programming, Application and Management in Schools I                                                                             2
+
+CRE  212                    Methodology in Computer Education                                                2
+
+CRE  252                    Robotics Programming II                                                       2
+
+
+MTH  216                   Linear Algebra II                                                                    2
+
+STAT 206                   Statistics for Physical Sciences and Engineering II                2
+
+CED 342                     Business Development and Management                               2
+
+COS 372                     Laboratory for Digital Design                                                            3
+
+
+GSP  202                     Issues in Peace and Conflict                                                   2
+
+GSP  208                     Humanities II                                                                          2
+
+
+VTE  301                    Research Design in Voc & Tech Education                           2
+
+CRE  321                    Computer Programming, Application and Management in Schools II                                                                           2
+
+CRE  323                    File Processing and Management                                           2
+
+CRE  325                    Database Management Studies I                                            2
+
+CRE  351                    Robotics Graphics                                                                   2
+
+CRE  353                    Virtual Robotics design and Application                               2
+
+CRE  327                    Data Reduction using SPSS                                                   2
+
+CRE  329                    Assembly Language Programming                                         2
+
+EDU 311                     Educational Psychology II                                                     2
+
+
+VTE 302         Practical Teaching in Voc & Tech Education                                     6
+
+CRE 310         Students Work Industrial Experience                                                 6
+
+CRE 322         Computer Operating Systems                                                             2
+
+CRE 332         Computer Systems Architecture I                                                      2
+
+VTE 401                     Vocational Guidance                                                              2
+
+CRE 481                     Seminar in Computer Education                                             2
+
+CRE 423                     Database Management Studies II                                           2
+
+CRE 431                     Computer System Architecture II                                          2
+
+CRE 441                     Computer Networking and Protocol                                      2
+
+CRE 451                     Design and Development of Educational Robots                  2
+
+
+COS 331                     Compiler Construction I                                                         2
+
+COS 451                     Algorithms                                                                              2
+
+COS 455                     Data Communication and Networking                                   2
+
+VTE 402                     Administration of Voc & Tech Education                             2
+
+VTE 404                     Evaluation in Voc & Tech Education                                     2
+
+CRE 422                     Spreadsheet Processing                                                           2
+
+CRE 424                     Computer Graphics                                                                 2
+
+CRE 490                     Project                                                                                     4
+
+
+COS 432                     Compiler Construction II                                                        2
+
+COS 454                     Artificial Intelligence                                                              2
+
+COS 456                     Data Communication and Networking II                               2

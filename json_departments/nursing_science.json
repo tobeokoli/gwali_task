@@ -1,0 +1,852 @@
+[
+    {
+        "department_prefix": "BIO",
+        "course_number": "101",
+        "course_title": "GENETICS FOR MEDICAL STUDENTS"
+    },
+    {
+        "department_prefix": "BIO",
+        "course_number": "151",
+        "course_title": "GENERAL BIOLOGY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "101",
+        "course_title": "BASIC PRINCIPLES OF CHEMISTRY 1"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "171",
+        "course_title": "BASIC PRACTICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "111",
+        "course_title": "GENERAL PHYSICS FOR LIFE SCIENCES"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "191",
+        "course_title": "PRACTICAL PHYSICS"
+    },
+    {
+        "department_prefix": "MAT",
+        "course_number": "111",
+        "course_title": "GENERAL MATHEMATICS"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "101",
+        "course_title": "THE USE OF ENGLISH /LIBRARY STUDY SKILLS"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "PEACE AND CONFLICT RESOLUTION 1"
+    },
+    {
+        "department_prefix": "BIO",
+        "course_number": "152",
+        "course_title": "GENERAL BIOLOGY II"
+    },
+    {
+        "department_prefix": "BIO",
+        "course_number": "154",
+        "course_title": "GENERAL BIOLOGY (PRACTICAL)"
+    },
+    {
+        "department_prefix": "ZOO",
+        "course_number": "122",
+        "course_title": "BASIC PARASITOLOGY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "112",
+        "course_title": "BASIC PRINCIPLES OF CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "122",
+        "course_title": "BASIC PRINCIPLES OF ORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "112",
+        "course_title": "GENERAL PHYSICS FOR LIFE SCIENCES II"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "114",
+        "course_title": "GENERAL PHYSICS FOR LIFE SCIENCES III"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "102",
+        "course_title": "THE USE OF ENGLISH II"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "PEACE AND CONFLICT RESOLUTION II"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "201",
+        "course_title": "FOUNDATIONS OF NURSING I"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "211",
+        "course_title": "PRINCIPLES OF PSYCHO-SOCIAL NURSING IN HEALTH RELATED PROFESSIONS (FOR OTHER DEPTS IN FHST)"
+    },
+    {
+        "department_prefix": "ANAT",
+        "course_number": "201",
+        "course_title": "GROSS HUMAN ANATOMY 1"
+    },
+    {
+        "department_prefix": "ANAT",
+        "course_number": "213",
+        "course_title": "GENERAL EMBRYOLOGY"
+    },
+    {
+        "department_prefix": "ANAT",
+        "course_number": "225",
+        "course_title": "GENERAL HISTOLOGY & CYTOLOGY"
+    },
+    {
+        "department_prefix": "BIC",
+        "course_number": "203",
+        "course_title": "INTRODUCTION TO HUMAN BIOCHEMISTRY"
+    },
+    {
+        "department_prefix": "PYS",
+        "course_number": "201",
+        "course_title": "HUMAN PHYSIOLOGY/BLOOD"
+    },
+    {
+        "department_prefix": "PYS",
+        "course_number": "203",
+        "course_title": "GASTROINTESTINAL TRACT (GIT) & RENAL"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "101",
+        "course_title": "THE USE OF ENGLISH /LIBRARY STUDY SKILLS"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "PEACE AND CONFLICT RESOLUTION 1 (FOR DE STDS)"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "HUMANITIES 1"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "111",
+        "course_title": "COMPUTER SCIENCES"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "202",
+        "course_title": "FOUNDATIONS OF NURSING II"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "204",
+        "course_title": "BASIC NUTRITION IN NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "212",
+        "course_title": "PSYCHOLOGY IN NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "262",
+        "course_title": "NURSING PRACTICUM/CLINICAL"
+    },
+    {
+        "department_prefix": "ANA",
+        "course_number": "202",
+        "course_title": "GROSS HUMAN ANATOMY II"
+    },
+    {
+        "department_prefix": "BIC",
+        "course_number": "202",
+        "course_title": "METABOLISM"
+    },
+    {
+        "department_prefix": "PYS",
+        "course_number": "204",
+        "course_title": "CARDIOVASCULAR & RESPIRATORY SYSTEM"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "102",
+        "course_title": "THE USE OF ENGLISH (FOR DIRECT ENTRY STDS ONLY)"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "PEACE AND CONFLICT RESOLUTION II (FOR DE STDS ONLY)"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "HUMANITIES II"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "311",
+        "course_title": "MEDICAL-SURGICAL NURSING 1"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "313",
+        "course_title": "PHARMACOLOGY FOR NURSES"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "321",
+        "course_title": "COMMUNITY HEALTH NURSING 1"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "341",
+        "course_title": "FAMILY HEALTH NURSING 1"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "351",
+        "course_title": "MENTAL HEALTH & PSYCHIATRIC NURSING"
+    },
+    {
+        "department_prefix": "ANAT",
+        "course_number": "301",
+        "course_title": "HEAD & NECK"
+    },
+    {
+        "department_prefix": "ANAT",
+        "course_number": "303",
+        "course_title": "NEURO-ANATOMY"
+    },
+    {
+        "department_prefix": "PYS",
+        "course_number": "301",
+        "course_title": "ENDOCRINOLOGY AND REPRODUCTION"
+    },
+    {
+        "department_prefix": "COM",
+        "course_number": "353",
+        "course_title": "SOCIOLOGY IN HEALTH PRACTICE"
+    },
+    {
+        "department_prefix": "LAW",
+        "course_number": "151",
+        "course_title": "MEDICAL JURISPRUDENCE I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "HUMANITIES 1 (DE STDS ONLY)"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "312",
+        "course_title": "MEDICAL-SURGICAL NURSING II"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "314",
+        "course_title": "NUTRITION IN ILLNESS/DISEASE"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "316",
+        "course_title": "PAEDIATRIC NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "322",
+        "course_title": "COMMUNITY HEALTH NURSING II"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "342",
+        "course_title": "REPRODUCTIVE HEALTH NURSING I"
+    },
+    {
+        "department_prefix": "MLS",
+        "course_number": "334",
+        "course_title": "INTRODUCTION TO MEDICAL MICROBIOLOGY"
+    },
+    {
+        "department_prefix": "COM",
+        "course_number": "351",
+        "course_title": "BIOSTATISTICS IN HEALTH TECHNOLOGY"
+    },
+    {
+        "department_prefix": "LAW",
+        "course_number": "152",
+        "course_title": "MEDICAL JURISPRUDENCE II"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "HUMANITIES II (DE STUDENTS ONLY)"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "461",
+        "course_title": "COMMUNITY HEALTH NURSING CLINICAL"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "463",
+        "course_title": "MEDICAL-SURGICAL NURSING CLINICAL"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "465",
+        "course_title": "MENTAL HEALTH & PSYCHIATRIC NURSING CLINICAL"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "467",
+        "course_title": "MATERNAL & CHILD HEALTH NURSING CLINICAL"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "341",
+        "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "412",
+        "course_title": "MEDICAL-SURGICAL NURSING III"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "422",
+        "course_title": "COMMUNITY HEALTH NURSING III"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "432",
+        "course_title": "INTRODUCTION TO NURSING EDUCATION"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "434",
+        "course_title": "PRINCIPLES OF MANAGEMENT & ADMINISTRATION IN NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "436",
+        "course_title": "PUBLIC RELATIONS IN NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "442",
+        "course_title": "REPRODUCTIVE HEALTH NURSING II"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "482",
+        "course_title": "RESEARCH METHODOLOGY"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "342",
+        "course_title": "BUSINESS DEVELOPMENT & MANAGEMENT"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "511",
+        "course_title": "MEDICAL-SURGICAL NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "521",
+        "course_title": "COMMUNITY HEALTH NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "523",
+        "course_title": "GERONTOLOGY/ GERIATRIC NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "533",
+        "course_title": "HEALTH ECONOMICS"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "535",
+        "course_title": "GUIDANCE & COUNSELING IN NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "541",
+        "course_title": "REPRODUCTIVE HEALTH NURSING III"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "571",
+        "course_title": "NURSING SEMINAR"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "562",
+        "course_title": "CLIENT TEACHING/COUNSELING PRACTICUM"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "564",
+        "course_title": "NURSING ADMINISTRATION & MANAGEMENT PRACTICUM"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "566",
+        "course_title": "REPRODUCTIVE HEALTH NURSING PRACTICUM"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "592",
+        "course_title": "PROJECT"
+    },
+    {
+        "department_prefix": "PGC",
+        "course_number": "601",
+        "course_title": "ICT AND RESEARCH METHODOLOGY"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "701",
+        "course_title": "LEGAL AND ETHICAL ASPECTS OF PROFESSIONAL DEVELOPMENT IN NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "725",
+        "course_title": "WELLNESS AND HEALTH PROMOTION"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "733",
+        "course_title": "HEALTH ECONOMICS"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "781",
+        "course_title": "ADVANCED STATISTICS IN HEALTH TECHNOLOGY"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "702",
+        "course_title": "ADVANCED CONCEPTS & THEORETICAL FOUNDATIONS OF NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "704",
+        "course_title": "NURSING INFORMATICS"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "732",
+        "course_title": "NURSING ENTREPRENEURSHIP"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "761",
+        "course_title": "PROFESSIONAL POSTING IN SPECIALTY AREAS"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "783",
+        "course_title": "NURSING SEMINAR"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "791",
+        "course_title": "DISSERTATION"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "711",
+        "course_title": "CONCEPTS AND PRINCIPLES OF MEDICAL SURGICAL NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "713",
+        "course_title": "MANAGEMENT OF SELECTED ACUTE/CHRONIC MEDICAL-SURGICALCONDITIONS"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "715",
+        "course_title": "CRITICAL CARE NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "717",
+        "course_title": "GERONTOLOGY NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "731",
+        "course_title": "PRINCIPLES OF HEALTH AND POLICY SYSTEM, PLANNING AND ADMINISTRATION"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "727",
+        "course_title": "ENVIRONMENTAL & OCCUPATIONAL HEALTH"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "775",
+        "course_title": "GUIDANCE & COUNSELING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "712",
+        "course_title": "PALLIATIVE CARE & REHABILITATION NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "714",
+        "course_title": "ONCOLOGY NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "734",
+        "course_title": "ADVANCED PUBLIC RELATIONS IN HEALTH PRACTICE"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "752",
+        "course_title": "ADVANCED COMMUNITY MENTAL HEALTH /PSYCHIATRIC NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "721",
+        "course_title": "THEORIES AND PRACTICE OF COMMUNITY HEALTH NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "723",
+        "course_title": "EPIDEMIOLOGY IN NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "727",
+        "course_title": "ENVIRONMENTAL & OCCUPATIONAL HEALTH"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "717",
+        "course_title": "GERONTOLOGY NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "731",
+        "course_title": "PRINCIPLES OF HEALTH AND POLICY SYSTEM, PLANNING AND ADMINISTRATION"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "775",
+        "course_title": "GUIDANCE & COUNSELING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "722",
+        "course_title": "PRINCIPLES AND PRACTICE OF PRIMARY HEALTH CARE AND FAMILY HEALTH"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "724",
+        "course_title": "PROGRAMME PLANNING & EVALUATION"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "712",
+        "course_title": "PALLIATIVE CARE & REHABILITATION NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "734",
+        "course_title": "ADVANCED PUBLIC RELATIONS IN HEALTH PRACTICE"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "752",
+        "course_title": "ADVANCED COMMUNITY MENTAL HEALTH/PSYCHIATRIC NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "731",
+        "course_title": "PRINCIPLES OF HEALTH AND POLICY SYSTEMS , PLANNING AND ADMINISTRATION"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "735",
+        "course_title": "HEALTH AND NURSING SERVICE ADMINISTRATION & MANAGEMENT"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "717",
+        "course_title": "GERONTOLOGY NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "727",
+        "course_title": "ENVIRONMENTAL & OCCUPATIONAL HEALTH"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "775",
+        "course_title": "GUIDANCE & COUNSELING IN NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "734",
+        "course_title": "ADVANCED PUBLIC RELATIONS IN HEALTH PRACTICE"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "736",
+        "course_title": "HUMAN RESOURCE PLANNING & MANAGEMENT IN NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "712",
+        "course_title": "PALLIATIVE CARE& REHABILITATION NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "752",
+        "course_title": "ADVANCED COMMUNITY MENTAL HEALTH/PSYCHIATRIC NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "741",
+        "course_title": "FAMILY THEORIES & DYNAMICS"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "743",
+        "course_title": "CONTEMPORARY ISSUES IN WOMEN\u00c2\u20ac\u2122S HEALTH, PROGRAMMES &POLICIES."
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "745",
+        "course_title": "CARE OF EXPECTANT FAMILIES THROUGH ANTENATAL, INTRA AND POST PARTUM PERIOD /MATERNAL AND INFANT NUTRITION."
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "727",
+        "course_title": "ENVIRONMENTAL & OCCUPATIONAL HEALTH"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "731",
+        "course_title": "PRINCIPLES OF HEALTH AND POLICY SYSTEMS, PLANNING AND ADMINISTRATION"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "775",
+        "course_title": "GUIDANCE & COUNSELING IN NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "742",
+        "course_title": "CONTEMPORARY ISSUES IN CHILDREN\u00c2\u20ac\u2122S & NEWBORN\u00c2\u20ac\u2122S, HEALTH, PROGRAMMES AND POLICIES."
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "744",
+        "course_title": "ISSUES IN CONTRACEPTION, INFERTILITY & SEXUALLY TRANSMITTED INFECTIONS."
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "746",
+        "course_title": "NEONATOLOGY/PAEDIATRICS"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "712",
+        "course_title": "PALLIATIVE CARE & REHABILITATION NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "734",
+        "course_title": "ADVANCED PUBLIC RELATIONS IN HEALTH PRACTICE"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "752",
+        "course_title": "ADVANCED COMMUNITY MENTAL HEALTH /PSYCHIATRIC NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "751",
+        "course_title": "LIFE CYCLE APPROACH IN MENTAL HEALTH & PSYCHIATRY"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "753",
+        "course_title": "ADVANCED CONCEPTS IN, AND APPROACHES TO MANAGEMENT OF MENTAL HEALTH/PSYCHIATRIC PROBLEMS."
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "775",
+        "course_title": "GUIDANCE AND COUNSELLING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "727",
+        "course_title": "ENVIRONMENTAL & OCCUPATIONAL HEALTH"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "731",
+        "course_title": "PRINCIPLES OF HEALTH AND POLICY SYSTEMS, PLANNING AND ADMINISTRATION"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "752",
+        "course_title": "ADVANCED COMMUNITY MENTAL HEALTH AND PSYCHIATRIC NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "754",
+        "course_title": "NURSING MANAGEMENT OF SELECTED MENTAL HEALTH/PSYCHIATRIC PROBLEMS."
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "756",
+        "course_title": "PSYCHO-PATHOLOGY OF MENTAL HEALTH/PSYCHIATRIC CONDITIONS"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "714",
+        "course_title": "PALLIATIVE CARE AND REHABILITATION NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "734",
+        "course_title": "ADVANCED PUBLIC RELATIONS IN HEALTH PRACTICE"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "771",
+        "course_title": "CURRICULUM DEVELOPMENT IN NURSING."
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "773",
+        "course_title": "MEASUREMENT AND EVALUATION IN NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "775",
+        "course_title": "GUIDANCE AND COUNSELING IN NURSING"
+    },
+    {
+        "department_prefix": "EDU",
+        "course_number": "500",
+        "course_title": "PHILOSOPHY OF EDUCATION"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "717",
+        "course_title": "GERONTOLOGY NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "727",
+        "course_title": "ENVIRONMENTAL & OCCUPATIONAL HEALTH"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "731",
+        "course_title": "PRINCIPLES OF HEALTH AND POLICY SYSTEMS, PLANNING AND ADMINISTRATION"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "772",
+        "course_title": "EDUCATIONAL PSYCHOLOGY APPLIED TO NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "724",
+        "course_title": "FUNDAMENTALS OF NURSING EDUCATIONAL ADMINISTRATION."
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "776",
+        "course_title": "TEACHING LEARNING PROCESS AND CONTINUING EDUCATION METHODS APPLIED TO NURSING."
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "712",
+        "course_title": "PALLIATIVE CARE AND REHABILITATION NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "734",
+        "course_title": "ADVANCED PUBLIC RELATIONS IN HEALTH PRACTICE"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "752",
+        "course_title": "ADVANCED COMMUNITY MENTAL HEALTH/PSYCHIATRIC NURSING"
+    },
+    {
+        "department_prefix": "PGC",
+        "course_number": "701",
+        "course_title": "SYNOPSIS AND GRANT WRITING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "901",
+        "course_title": "ADVANCED RESEARCH METHODS AND TECHNIQUES APPLIED TO NURSING"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "904",
+        "course_title": "ADVANCED NURSING INFORMATICS"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "932",
+        "course_title": "ADVANCED NURSING ENTREPRENEURSHIP"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "981",
+        "course_title": "ADVANCED STATISTICS IN HEALTH TECHNOLOGY"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "984",
+        "course_title": "DOCTORAL SEMINAR I"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "985",
+        "course_title": "DOCTORAL SEMINAR II"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "986",
+        "course_title": "DOCTORAL SEMINAR III"
+    },
+    {
+        "department_prefix": "NSC",
+        "course_number": "990",
+        "course_title": "DOCTORAL THESIS"
+    }
+]

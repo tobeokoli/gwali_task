@@ -1,0 +1,111 @@
+EGR 101	Introduction to Engineering	   2
+MTH 111	Elementary Mathematics I	  3
+MTH 121	Elementary Mathematics II	   3
+CHM 101	Basic Principles of Inorganic Chemistry	   2
+CHM 171	Basic Practical Chemistry	  2
+PHY 121	Fundamentals of Physics I	   2
+PHY 195	Practical Physics  II	   2
+GSP 101	The Use of English I	   2
+ 
+
+EGR 102	Applied Mechanics	3
+MTH 122	Elementary Mathematics III	3
+CHM 112	Basic Principles of Physical Chemistry	2
+CHM 122	Basic Principles of Organic Chemistry	2
+PHY 116	General Physics for Physical Sciences II	2
+PHY 124	Fundamentals of Physics III	3
+GSP 102	The Use of English II	2
+                                                            
+
+ 
+
+ 
+
+ 
+
+MME 201	Materials Science	2
+MME 213	Materials Science Laboratory	1
+ 
+
+MTH 207	Advanced Mathematics VI	2
+CVE  211	Strength of Materials	2
+EEE  211	Basic Electrical Engineering	3
+MEC 211	Engineering Drawing I	2
+MEC 261 Engineering Thermodynamics I 2
+CVE 212 Strength of Materials Laboratory 1
+
+
+GSP 201	Basic Concepts and theories of Peace and Conflict Resolution	2
+GSP 207	Humanities I	2
+ 
+
+MTH 206	Advanced Mathematics VII	2
+MTH 208	Advanced Mathematics VIII	2
+CVE 221	Fluid Mechanics	2
+CVE 222	Fluid Mechanics Laboratory	1
+MEC 212	Workshop Technology I	2
+EEE  251	Basic Electrical Engineering Lab/Practice	1
+ECE 271	Engineering Computer Programming	3
+ECE 281	Engineering Computer Programming Laboratory	1
+ 
+
+ 
+GSP 202	Issues in Peace and Conflict Resolution Studies	 2
+GSP 208	Humanities II	 2
+MME 301	Metallurgical Thermodynamics and Kinetics	2
+MME 331	Physical Metallurgy I	2
+MME 333	Basic Electron Theory of Materials	2
+MME 341	Mechanical Metallurgy I	2
+MME 323 Corrosion Engineering	3
+MEC 314	Mechanical Engineering Design I	3
+STA  203	Statistics for Physical Sciences and Engineering	2
+MEC 313	Workshop Practices	2
+CED 341	Introduction to Entrepreneurship	2
+MME 302	X-ray Diffraction and Electro-optical Techniques	2
+MME 322	Mineral Processing	2
+MME 332	Structure, Properties and Heat Treatment of Alloys	2
+MME 342 Metallurgical Furnaces & Principles of Foundry Engineering 3
+MME 381 Ceramic Engineering 2
+
+MME 311 Physical Metallurgy Laboratory 1
+EGR 301	Engineering Analysis	4
+MEC 344	Measurement and Instrumentation	2
+CED 342	Business Development and Management	2
+MME 411	Corrosion and Chemical Metallurgy Laboratory	1
+MME 413	Mechanical Metallurgy Laboratory	1
+MME 421	Extraction Metallurgy	2
+MME 431	Physical Metallurgy II	2
+MME 443	Production Metallurgy	3
+MME 451	Welding Engineering	2
+MME 461	Polymer Engineering	2
+ 	 	 
+ 
+
+MEC 471	Heat & Mass Transfer	3
+EGR 401	Computational Methods	3
+EGR 402	Student Industrial Work Experience Scheme (SIWES)	10
+MME 491	Technical Report Writing	3
+MEC 481	Technology Development Policy	2
+MME 531	Transport Phenomena in Materials Engineering	2
+MME 541	Theory and Design of Engineering Alloys	2
+MME 543	Iron and Steel Making	2
+MME 551	Introduction to Composites	3
+MME 581	Nano-science and Nanotechnology	2
+MME 561	Engineering Materials Selection and Economics	3
+ 
+
+MEC 581	Engineering Law	2
+MEC 583	Engineering Management	2
+MME 524	Metallurgical Plant Design	3
+MME 532	Theory of Dislocations	2
+MME 542 Mechanical Metallurgy II 2
+MME 592 Project 6
+MEC 522	Manufacturing and Tools Engineering	2
+MME 538	Advanced Phase Transformations and Heat Treatment	2
+MME 546	Powder Metallurgy	2
+MME 552	Coal and Coke Technology	2
+MME 556	Refractory Materials and Industrial Furnaces	2
+MME 574	Paper Production Technology	2
+MME 582 Solid State Materials & Electronics 2
+MME 521 Tools Steels: Metallurgy, Manufacture and Applications 2
+MME 584	Special Materials	         2

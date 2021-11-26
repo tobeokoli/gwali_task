@@ -1,0 +1,532 @@
+[
+    {
+        "department_prefix": "GLT",
+        "course_number": "201",
+        "course_title": "INSTRUMENT MAINTENANCE I"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "201",
+        "course_title": "GENERAL BIOCHEMISTRY I"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "201",
+        "course_title": "GENERAL MICROBIOLOGY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "201",
+        "course_title": "GENERAL INORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "211",
+        "course_title": "GENERAL PHYSICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "221",
+        "course_title": "GENERAL ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "BASIC CONCEPTS AND THEORY OF PEACE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "LOGIC, PHILOSOPHY AND HUMAN EXISTENCE"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "203",
+        "course_title": "STATISTICS FOR BIOLOGICAL SCIENCES I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "207",
+        "course_title": "ADVANCED MATHEMATICS VII"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "101",
+        "course_title": "PRINCIPLES OF ECONOMICS I"
+    },
+    {
+        "department_prefix": "GLT",
+        "course_number": "202",
+        "course_title": "HAZARDS AND SAFETY IN THE LABORATORY/LAB. MAINTENANCE AND FITTINGS"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "202",
+        "course_title": "GENERAL BIOCHEMISTRY II"
+    },
+    {
+        "department_prefix": "SBC",
+        "course_number": "204",
+        "course_title": "BIOLOGICAL LABORATORY TECHNIQUES I"
+    },
+    {
+        "department_prefix": "SBC",
+        "course_number": "206",
+        "course_title": "GENETICS I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "232",
+        "course_title": "ANALYTICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "102",
+        "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "ISSUES IN PEACE AND CONFLICT RESOLUTION"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "NIGERIAN PEOPLE AND CULTURE"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "242",
+        "course_title": "MATHEMATICAL METHODS"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "204",
+        "course_title": "STATISTICS FOR BIOLOGICAL SCIENCES II"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "102",
+        "course_title": "PRINCIPLES OF ECONOMICS II"
+    },
+    {
+        "department_prefix": "GLT",
+        "course_number": "201",
+        "course_title": "INSTRUMENT MAINTENANCE I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "201",
+        "course_title": "GENERAL INORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "211",
+        "course_title": "GENERAL PHYSICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "221",
+        "course_title": "GENERAL ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "SPE",
+        "course_number": "261",
+        "course_title": "ELEMENTARY MODERN PHYSICS"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "291",
+        "course_title": "PRACTICAL PHYSICS IV"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "BASIC CONCEPTS AND THEORY OF PEACE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "LOGIC, PHILOSOPHY AND HUMAN EXISTENCE"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "207",
+        "course_title": "ADVANCED MATHEMATICS VII"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "203",
+        "course_title": "STATISTICS FOR PHYSICAL SCIENCES I"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "251",
+        "course_title": "ELECTROMAGNETISM"
+    },
+    {
+        "department_prefix": "GLT",
+        "course_number": "202",
+        "course_title": "HAZARDS AND SAFETY IN THE LABORATORY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "222",
+        "course_title": "GENERAL ORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "232",
+        "course_title": "ANALYTICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "252",
+        "course_title": "CHEMICAL PROCESS PRINCIPLES"
+    },
+    {
+        "department_prefix": "SPE",
+        "course_number": "202",
+        "course_title": "BASIC ELECTRICAL CIRCUITS"
+    },
+    {
+        "department_prefix": "SPE",
+        "course_number": "210",
+        "course_title": "BASIC ELECTRONICS"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "ISSUES IN PEACE AND CONFLICT RESOLUTION STUDIES"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "NIGERIAN PEOPLE AND CULTURE"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "242",
+        "course_title": "MATHEMATICAL METHODS I"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "262",
+        "course_title": "INTRODUCTION TO ATOMIC AND NUCLEAR PHYSICS"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "206",
+        "course_title": "STATISTICS FOR PHYSICAL SCIENCES II"
+    },
+    {
+        "department_prefix": "GLT",
+        "course_number": "201",
+        "course_title": "INSTRUMENT MAINTENANCE I"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "201",
+        "course_title": "GENERAL MICROBIOLOGY I"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "201",
+        "course_title": "GENERAL BIOCHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "201",
+        "course_title": "GENERAL INORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "211",
+        "course_title": "GENERAL PHYSICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "221",
+        "course_title": "GENERAL ORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "203",
+        "course_title": "STATISTICS FOR BIOLOGICAL SCIENCES I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "BASIC CONCEPTS AND THEORY OF PEACE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "LOGIC, PHILOSOPHY AND HUMAN EXISTENCE"
+    },
+    {
+        "department_prefix": "GLT",
+        "course_number": "202",
+        "course_title": "HAZARDS AND SAFETY IN THE LABORATORY/LABORATORY MAINTENANCE AND FITTING"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "202",
+        "course_title": "GENERAL MICROBIOLOGY II"
+    },
+    {
+        "department_prefix": "SMB",
+        "course_number": "204",
+        "course_title": "MICROBIOLOGICAL TECHNIQUES"
+    },
+    {
+        "department_prefix": "SMB",
+        "course_number": "232",
+        "course_title": "MEDICAL MICROBIOLOGY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "232",
+        "course_title": "ANALYTICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "204",
+        "course_title": "STATISTICS FOR BIOLOGICAL SCIENCE II"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "102",
+        "course_title": "BASIC PRINCIPLES OF ECONOMICS II"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "ISSUES IN PEACE AND CONFLICT RESOLUTION STUDIES"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "NIGERIAN PEOPLE AND CULTURE"
+    },
+    {
+        "department_prefix": "GLT",
+        "course_number": "201",
+        "course_title": "GENERAL LABORATORY TECHNIQUES I"
+    },
+    {
+        "department_prefix": "SPE",
+        "course_number": "261",
+        "course_title": "ELEMENTARY MODERN PHYSICS"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "251",
+        "course_title": "ELECTROMAGNETISM"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "211",
+        "course_title": "STRUCTURE OF MATTER"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "291",
+        "course_title": "PRACTICAL PHYSICS IV"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "207",
+        "course_title": "ADVANCED MATHEMATICS VII"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "BASIC CONCEPT AND THEORY OF PEACE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "LOGIC, PHILOSOPHY AND HUMAN EXISTENCE"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "203",
+        "course_title": "STATISTICS FOR PHYSICAL SCIENCES AND ENGINEERING I"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "201",
+        "course_title": "COMPUTER PROGRAMMING I"
+    },
+    {
+        "department_prefix": "GLT",
+        "course_number": "202",
+        "course_title": "HAZARDS AND SAFETY IN THE LABORATORY/LABORATORY MAINTENANCE AND FITTING"
+    },
+    {
+        "department_prefix": "SPE",
+        "course_number": "232",
+        "course_title": "ELECTRICAL CIRCUITS"
+    },
+    {
+        "department_prefix": "SPE",
+        "course_number": "242",
+        "course_title": "WAVES AND OPTICS"
+    },
+    {
+        "department_prefix": "SPE",
+        "course_number": "250",
+        "course_title": "BASIC ELECTRONICS"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "242",
+        "course_title": "MATHEMATICAL METHODS I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "222",
+        "course_title": "ELEMENTARY DIFFERENTIAL EQUATIONS"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "ISSUES IN PEACE AND CONFLICT RESOLUTION"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "NIGERIAN PEOPLE AND CULTURE"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "203",
+        "course_title": "STATISTICS FOR PHYSICAL SCIENCES AND ENGINEERING II"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "202",
+        "course_title": "COMPUTER PROGRAMMING II"
+    },
+    {
+        "department_prefix": "GLT",
+        "course_number": "201",
+        "course_title": "GENERAL LABORATORY TECHNIQUES I"
+    },
+    {
+        "department_prefix": "SPP",
+        "course_number": "251",
+        "course_title": "ALIMENTARY SYSTEM"
+    },
+    {
+        "department_prefix": "SPP",
+        "course_number": "253",
+        "course_title": "BLOOD AND BODY FLUIDS"
+    },
+    {
+        "department_prefix": "SPP",
+        "course_number": "255",
+        "course_title": "CARDIOVASCULAR SYSTEM"
+    },
+    {
+        "department_prefix": "SPP",
+        "course_number": "257",
+        "course_title": "RENAL SYSTEM"
+    },
+    {
+        "department_prefix": "SPP",
+        "course_number": "261",
+        "course_title": "INTRODUCTION TO PHYSIOLOGY"
+    },
+    {
+        "department_prefix": "SPP",
+        "course_number": "263",
+        "course_title": "RESPIRATORY SYSTEM"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "221",
+        "course_title": "GENERAL ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "BASIC CONCEPTS AND THEORY OF PEACE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "LOGIC, PHILOSOPHY AND HUMAN EXISTENCE"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "201",
+        "course_title": "PRINCIPLES OF ECONOMICS I"
+    },
+    {
+        "department_prefix": "SCH",
+        "course_number": "201",
+        "course_title": "INORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "211",
+        "course_title": "GENERAL PHYSICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "GLT",
+        "course_number": "202",
+        "course_title": "HAZARDS ANDSAFETY IN LABORATORY/LABORATORY MAINTENANCE AND FITTING"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "222",
+        "course_title": "GENERAL ORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "SPP",
+        "course_number": "252",
+        "course_title": "INTRODUCTORY PHARMACOLOGY"
+    },
+    {
+        "department_prefix": "SPP",
+        "course_number": "254",
+        "course_title": "AUTONOMIC NERVOUS SYSTEM"
+    },
+    {
+        "department_prefix": "SPP",
+        "course_number": "256",
+        "course_title": "CENTRAL NERVOUS SYSTEM"
+    },
+    {
+        "department_prefix": "SPP",
+        "course_number": "264",
+        "course_title": "PRACTICAL"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "ISSUES IN PEACE AND CONFLICT RESOLUTION STUDIES"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "NIGERIAN PEOPLE AND CULTURE"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "202",
+        "course_title": "PRINCIPLES OF ECONOMICS II"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "102",
+        "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "232",
+        "course_title": "ANALYTICAL CHEMISTRY"
+    }
+]

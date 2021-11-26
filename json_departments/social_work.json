@@ -1,0 +1,832 @@
+[
+    {
+        "department_prefix": "SWK",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "111",
+        "course_title": "COMMUNICATION IN SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "121",
+        "course_title": "SOCIAL DEVIANCE AND SYSTEMS ORGANISATION"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "141",
+        "course_title": "FIELD WORK ORIENTATION"
+    },
+    {
+        "department_prefix": "ANTH",
+        "course_number": "102",
+        "course_title": "INTRODUCTION TO ANTHROPOLOGY"
+    },
+    {
+        "department_prefix": "SOC",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO SOCIOLOGY 1"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "101",
+        "course_title": "THE USE OF ENGLISH"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "105",
+        "course_title": "NATURAL SCIENCES 1"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "111",
+        "course_title": "USE OF LIBRARY AND STUDY SKILLS"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "101",
+        "course_title": "PRINCIPLES OF ECONOMICS"
+    },
+    {
+        "department_prefix": "PSC",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO POLITICAL SCIENCE"
+    },
+    {
+        "department_prefix": "PSY",
+        "course_number": "101",
+        "course_title": "PRINCIPLES OF PSYCHOLOGY"
+    },
+    {
+        "department_prefix": "RCS",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO RELIGION"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "102",
+        "course_title": "HUMAN BEHAVIOUR AND THE SOCIAL ENVIRONMENT"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "122",
+        "course_title": "PHILOSOPHY AND ETHICS OF SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "142",
+        "course_title": "INTRODUCTION TO FIELD WORK PRACTICE"
+    },
+    {
+        "department_prefix": "SOC",
+        "course_number": "102",
+        "course_title": "INTRODUCTION TO SOCIOLOGY 11"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "102",
+        "course_title": "THE USE OF ENGLISH 11"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "106",
+        "course_title": "NATURAL SCIENCE 11"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "102",
+        "course_title": "PRINCIPLES OF ECONOMICS 11"
+    },
+    {
+        "department_prefix": "PSC",
+        "course_number": "102",
+        "course_title": "INTRODUCTION TO POLITICAL SCIENCE"
+    },
+    {
+        "department_prefix": "PSY",
+        "course_number": "104",
+        "course_title": "DETERMINANTS OF BEHAVIOUR"
+    },
+    {
+        "department_prefix": "RCS",
+        "course_number": "142",
+        "course_title": "RELIGION AND HUMAN VALUES"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "201",
+        "course_title": "SOCIAL WORK THEORY"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "203",
+        "course_title": "ELEMENTS OF SCIENTIFIC THOUGHT FOR SOCIAL WORKERS"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "245",
+        "course_title": "FIELD WORK PRACTICE: SOCIAL ANALYSIS IN CASE WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "251",
+        "course_title": "COMMUNITY DEVELOPMENT"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+    },
+    {
+        "department_prefix": "FSS",
+        "course_number": "201",
+        "course_title": "INTRODUCTION TO STATISTICAL METHODS FOR SOCIAL SCIENCE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "THE SOCIAL SCIENCES"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "LOGIC, PHILOSOPHY & HUMAN EXISTENCE"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "231",
+        "course_title": "CRIME, DELINQUENCY AND THE QUALITY OF LIFE"
+    },
+    {
+        "department_prefix": "PSY",
+        "course_number": "241",
+        "course_title": "SOCIAL PSYCHOLOGY"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "243",
+        "course_title": "SOCIAL WORK PRACTICE AND GENDER"
+    },
+    {
+        "department_prefix": "PSY",
+        "course_number": "251",
+        "course_title": "DEVELOPMENTAL PSYCHOLOGY"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "224",
+        "course_title": "FUNCTIONS OF SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "242",
+        "course_title": "SOCIAL WORK INTERVENTION WITH FAMILIES"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "244",
+        "course_title": "SOCIAL WORK IN REHABILITATION"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "246",
+        "course_title": "FIELD WORK: PROBLEM SOLVING AND EVALUATION IN CASE WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "248",
+        "course_title": "SOCIAL WORK COMMUNICATION TECHNIQUES"
+    },
+    {
+        "department_prefix": "FSS",
+        "course_number": "202",
+        "course_title": "INTRODUCTION TO STATISTICAL METHODS FOR SOCIAL SCIENCES 11"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "ISSUES IN PEACE AND CONFLICT STUDIES"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "NIGERIAN, PEOPLES & CULTURES"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "214",
+        "course_title": "DEATH, LOSS AND GRIEF"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "228",
+        "course_title": "SOCIAL WORK IN HEALTH CARE SETTING"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "240",
+        "course_title": "SOCIAL WORK WITH THE YOUTH"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "301",
+        "course_title": "ORPHANS AND VULNERABLE CHILDREN SERVICES"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "303",
+        "course_title": "SOCIAL WELFARE PROGRAMME AND SERVICES"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "331",
+        "course_title": "SOCIAL WORK INTERVENTION"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "335",
+        "course_title": "COMMUNITY DEVELOPMENT THEORY"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "345",
+        "course_title": "FIELD WORK PRACTICE: SOCIAL ANALYSIS IN GROUP WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "353",
+        "course_title": "SOCIAL WORK AND MENTAL HEALTH"
+    },
+    {
+        "department_prefix": "SOC",
+        "course_number": "221",
+        "course_title": "CRIMINOLOGY AND PENOLOGY"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "341",
+        "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "305",
+        "course_title": "ELEMENTS OF PSYCHOLOGY IN SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "311",
+        "course_title": "SOCIAL POLICY AND PLANNING"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "313",
+        "course_title": "COMMUNITIES MENTAL HEALTH SERVICES"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "327",
+        "course_title": "RURAL SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "341",
+        "course_title": "SOCIAL WORK WITH GROUP"
+    },
+    {
+        "department_prefix": "PSY",
+        "course_number": "352",
+        "course_title": "COMMUNITY PSYCHOLOGY"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "320",
+        "course_title": "SOCIAL WORK AND SOCIAL PROBLEMS"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "322",
+        "course_title": "COUNSELLING AND PSYCHOTHERAPY"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "328",
+        "course_title": "DYNAMICS OF SOCIAL FUNCTIONING"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "344",
+        "course_title": "COMMUNITY EDUCATION"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "346",
+        "course_title": "FIELD WORK: PROBLEM SOLVING AND EVALUATION IN GROUP WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "362",
+        "course_title": "METHODS OF SOCIAL WORK RESEARCH"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "314",
+        "course_title": "COMPUTER APPLICATION"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "342",
+        "course_title": "BUSINESS DEVELOPMENT & MANAGEMENT"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "324",
+        "course_title": "CARE MANAGEMENT IN SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "326",
+        "course_title": "SPIRITUALITY AND SOCIAL WORK PRACTICE"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "330",
+        "course_title": "INDUSTRIAL SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "340",
+        "course_title": "SCHOOL SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "348",
+        "course_title": "SOCIAL WORK AND THE ELDERLY"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "352",
+        "course_title": "COMMUNITY NEEDS AND RESOURCE ASSESSMENT"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "421",
+        "course_title": "INTERNATIONAL SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "441",
+        "course_title": "METHODS OF SOCIAL WORK PRACTICE"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "445",
+        "course_title": "FIELD WORK: SOCIAL ANALYSIS IN COMMUNITY ORGANISATION"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "451",
+        "course_title": "COMMUNITY DEVELOPMENT PRACTICE"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "491",
+        "course_title": "PROJECTS TUTORIAL"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "413",
+        "course_title": "SOCIAL WORK AND THE LAW"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "423",
+        "course_title": "SUBSTANCE ABUSE PREVENTION AND INTERVENTION"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "431",
+        "course_title": "ETHNO-CULTURAL RELATIONS AND THE NIGERIA STATE"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "447",
+        "course_title": "SOCIAL WORK PRACTICE WITH CHILDREN"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "434",
+        "course_title": "SOCIAL WORK LEGISLATION AND POLICY"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "442",
+        "course_title": "GENERALIST APPROACH IN SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "446",
+        "course_title": "FIELD WORK: PROBLEM SOLVING AND EVALUATION IN COMMUNITY ORGANISATION"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "454",
+        "course_title": "CLINICAL SOCIAL WORK PRACTICE, PSYCHOPATHOLOGY AND TRAUMA"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "492",
+        "course_title": "PROJECT"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "406",
+        "course_title": "MODELS OF FAMILY THERAPY"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "412",
+        "course_title": "GERONTOLOGY AND GETRIATIC INTERVENTIONS IN SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "414",
+        "course_title": "ORGANISATIONAL/ADMINISTRATIVE SKILLS IN SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "444",
+        "course_title": "FORENSIC SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "121",
+        "course_title": "SOCIAL DEVIANCE AND SYSTEM ORGANISATION"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "201",
+        "course_title": "SOCIAL WORK THEORY"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "203",
+        "course_title": "ELEMENTS OF SCIENTIFIC THOUGHT FOR SOCIAL WORKERS"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+    },
+    {
+        "department_prefix": "FSS",
+        "course_number": "201",
+        "course_title": "INTRODUCTION TO STATISTICAL METHODS FOR SOCIAL SCIENCES 1"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "101",
+        "course_title": "THE USE OF ENGLISH 1"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "105",
+        "course_title": "NATURAL SCIENCE 1"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "PEACE AND CONFLICT RESOLUTION"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO ECONOMICS 1"
+    },
+    {
+        "department_prefix": "PSY",
+        "course_number": "101",
+        "course_title": "PRINCIPLES OF PSYCHOLOGY"
+    },
+    {
+        "department_prefix": "SOC",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO SOCIOLOGY 1"
+    },
+    {
+        "department_prefix": "PSC",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO POLITICAL SCIENCE1"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "231",
+        "course_title": "CRIME, DELINQUENCY AND THE QUALITY OF LIFE"
+    },
+    {
+        "department_prefix": "REL",
+        "course_number": "151",
+        "course_title": "INTRODUCTION TO AFRICAN TRADITIONAL RELIGION"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "102",
+        "course_title": "HUMAN BEHAVIOUR AND THE SOCIAL ENVIRONMENT"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "122",
+        "course_title": "PHILOSOPHY AND ETHICS OF SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "224",
+        "course_title": "FUNCTIONS OF SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "242",
+        "course_title": "SOCIAL WORK INTERVENTION WITH FAMILIES"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "244",
+        "course_title": "SOCIAL WORK IN REHABILITATION"
+    },
+    {
+        "department_prefix": "FSS",
+        "course_number": "202",
+        "course_title": "INTRODUCTION TO STATISTICAL METHODS FOR SOCIAL SERVICES"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "102",
+        "course_title": "THE USE OF ENGLISH 11"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "106",
+        "course_title": "NATURAL SCIENCE 11"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "PEACE AND CONFLICT RESOLUTION"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "102",
+        "course_title": "PRINCIPLES OF ECONOMICS 11"
+    },
+    {
+        "department_prefix": "SOC",
+        "course_number": "102",
+        "course_title": "INTRODUCTION TO SOCIOLOGY 11"
+    },
+    {
+        "department_prefix": "PSY",
+        "course_number": "104",
+        "course_title": "DETERMINANTS OF BEHAVIOUR"
+    },
+    {
+        "department_prefix": "REL",
+        "course_number": "142",
+        "course_title": "RELIGION AND HUMAN VALUES"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "214",
+        "course_title": "DEATH, LOSS AND GRIEF"
+    },
+    {
+        "department_prefix": "PSY",
+        "course_number": "252",
+        "course_title": "DEVELOPMENT PSYCHOLOGY"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "301",
+        "course_title": "ORPHANS AND VULNERABLE CHILDREN SERVICES"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "303",
+        "course_title": "SOCIAL WELFARE PROGRAMME AND SERVICES"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "331",
+        "course_title": "SOCIAL WORK INTERVENTION"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "335",
+        "course_title": "COMMUNITY DEVELOPMENT THEORY"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "345",
+        "course_title": "SOCIAL WORK FIELD PRACTICE (SOCIAL ANALYSIS IN GROUP WORK)"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "353",
+        "course_title": "SOCIAL WORK AND MENTAL HEALTH"
+    },
+    {
+        "department_prefix": "SOC",
+        "course_number": "221",
+        "course_title": "CRIMINOLOGY AND PENOLOGY"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "HUMANITIES 1"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "311",
+        "course_title": "SOCIAL POLICY AND PLANNING"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "313",
+        "course_title": "COMMUNITIES MENTAL HEALTH SERVICES"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "327",
+        "course_title": "RURAL SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "341",
+        "course_title": "SOCIAL WORK PRACTICE WITH GROUP"
+    },
+    {
+        "department_prefix": "PSY",
+        "course_number": "352",
+        "course_title": "COMMUNITY PSYCHOLOGY"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "320",
+        "course_title": "SOCIAL WORK AND SOCIAL PROBLEMS"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "322",
+        "course_title": "COUNSELLING AND PSYCHOTHERAPY"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "328",
+        "course_title": "DYNAMICS OF SOCIAL FUNCTIONING"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "344",
+        "course_title": "COMMUNITY EDUCATION"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "346",
+        "course_title": "FIELD WORK: PROBLEM SOLVING AND EVALUATION IN GROUP WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "362",
+        "course_title": "METHODS OF SOCIAL WORK RESEARCH"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "314",
+        "course_title": "COMPUTER APPLICATIONS"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "HUMANITIES 11"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "326",
+        "course_title": "SPIRITUALITY AND SOCIAL WORK PRACTICE"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "330",
+        "course_title": "INDUSTRIAL SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "340",
+        "course_title": "SCHOOL SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "348",
+        "course_title": "SOCIAL WORK AND THE ELDERLY"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "352",
+        "course_title": "COMMUNITY NEEDS AND RESOURCE ASSESSMENT"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "421",
+        "course_title": "INTERNATIONAL SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "441",
+        "course_title": "METHODS OF SOCIAL WORK PRACTICE"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "445",
+        "course_title": "FIELD WORK: SOCIAL ANALYSIS IN COMMUNITY ORGANISATION"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "451",
+        "course_title": "COMMUNITY DEVELOPMENT PRACTICE"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "491",
+        "course_title": "PROJECT TUTORIALS"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "413",
+        "course_title": "SOCIAL WORK AND THE LAW"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "423",
+        "course_title": "SUBSTANCE ABUSE, PREVENTION AND INTERVENTION"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "431",
+        "course_title": "ETHNO-CULTURAL RELATIONS AND THE NIGERIA STATE"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "447",
+        "course_title": "SOCIAL WORK PRACTICE WITH CHILDREN"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "434",
+        "course_title": "SOCIAL WORK LEGISLATION AND POLICY"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "442",
+        "course_title": "GENERALIST APPROACH IN SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "446",
+        "course_title": "FIELD WORK: PROBLEM SOLVING AND EVALUATION IN COMMUNITY ORGANISATION"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "454",
+        "course_title": "CLINICAL SOCIAL WORK PRACTICE, PSYCHOPATHOLOGY AND TRAUMA"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "492",
+        "course_title": "PROJECT"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "406",
+        "course_title": "MODELS OF FAMILY THERAPY"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "412",
+        "course_title": "GERONTOLOGY AND GERIATRIC INTERVENTIONS IN SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "414",
+        "course_title": "ORGANIZATIONAL/ADMINISTRATIVE SKILLS IN SOCIAL WORK"
+    },
+    {
+        "department_prefix": "SWK",
+        "course_number": "444",
+        "course_title": "FORENSIC SOCIAL WORK"
+    }
+]

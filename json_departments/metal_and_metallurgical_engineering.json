@@ -1,0 +1,432 @@
+[
+    {
+        "department_prefix": "EGR",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO ENGINEERING"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "111",
+        "course_title": "ELEMENTARY MATHEMATICS I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "121",
+        "course_title": "ELEMENTARY MATHEMATICS II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "101",
+        "course_title": "BASIC PRINCIPLES OF INORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "171",
+        "course_title": "BASIC PRACTICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "121",
+        "course_title": "FUNDAMENTALS OF PHYSICS I"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "195",
+        "course_title": "PRACTICAL PHYSICS II"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "101",
+        "course_title": "THE USE OF ENGLISH I"
+    },
+    {
+        "department_prefix": "EGR",
+        "course_number": "102",
+        "course_title": "APPLIED MECHANICS"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "122",
+        "course_title": "ELEMENTARY MATHEMATICS III"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "112",
+        "course_title": "BASIC PRINCIPLES OF PHYSICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "122",
+        "course_title": "BASIC PRINCIPLES OF ORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "116",
+        "course_title": "GENERAL PHYSICS FOR PHYSICAL SCIENCES II"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "124",
+        "course_title": "FUNDAMENTALS OF PHYSICS III"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "102",
+        "course_title": "THE USE OF ENGLISH II"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "201",
+        "course_title": "MATERIALS SCIENCE"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "213",
+        "course_title": "MATERIALS SCIENCE LABORATORY"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "207",
+        "course_title": "ADVANCED MATHEMATICS VI"
+    },
+    {
+        "department_prefix": "CVE",
+        "course_number": "211",
+        "course_title": "STRENGTH OF MATERIALS"
+    },
+    {
+        "department_prefix": "EEE",
+        "course_number": "211",
+        "course_title": "BASIC ELECTRICAL ENGINEERING"
+    },
+    {
+        "department_prefix": "MEC",
+        "course_number": "211",
+        "course_title": "ENGINEERING DRAWING I"
+    },
+    {
+        "department_prefix": "MEC",
+        "course_number": "261",
+        "course_title": "ENGINEERING THERMODYNAMICS I"
+    },
+    {
+        "department_prefix": "CVE",
+        "course_number": "212",
+        "course_title": "STRENGTH OF MATERIALS LABORATORY"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "BASIC CONCEPTS AND THEORIES OF PEACE AND CONFLICT RESOLUTION"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "HUMANITIES I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "206",
+        "course_title": "ADVANCED MATHEMATICS VII"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "208",
+        "course_title": "ADVANCED MATHEMATICS VIII"
+    },
+    {
+        "department_prefix": "CVE",
+        "course_number": "221",
+        "course_title": "FLUID MECHANICS"
+    },
+    {
+        "department_prefix": "CVE",
+        "course_number": "222",
+        "course_title": "FLUID MECHANICS LABORATORY"
+    },
+    {
+        "department_prefix": "MEC",
+        "course_number": "212",
+        "course_title": "WORKSHOP TECHNOLOGY I"
+    },
+    {
+        "department_prefix": "EEE",
+        "course_number": "251",
+        "course_title": "BASIC ELECTRICAL ENGINEERING LAB/PRACTICE"
+    },
+    {
+        "department_prefix": "ECE",
+        "course_number": "271",
+        "course_title": "ENGINEERING COMPUTER PROGRAMMING"
+    },
+    {
+        "department_prefix": "ECE",
+        "course_number": "281",
+        "course_title": "ENGINEERING COMPUTER PROGRAMMING LABORATORY"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "ISSUES IN PEACE AND CONFLICT RESOLUTION STUDIES"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "HUMANITIES II"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "301",
+        "course_title": "METALLURGICAL THERMODYNAMICS AND KINETICS"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "331",
+        "course_title": "PHYSICAL METALLURGY I"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "333",
+        "course_title": "BASIC ELECTRON THEORY OF MATERIALS"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "341",
+        "course_title": "MECHANICAL METALLURGY I"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "323",
+        "course_title": "CORROSION ENGINEERING"
+    },
+    {
+        "department_prefix": "MEC",
+        "course_number": "314",
+        "course_title": "MECHANICAL ENGINEERING DESIGN I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "203",
+        "course_title": "STATISTICS FOR PHYSICAL SCIENCES AND ENGINEERING"
+    },
+    {
+        "department_prefix": "MEC",
+        "course_number": "313",
+        "course_title": "WORKSHOP PRACTICES"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "341",
+        "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "302",
+        "course_title": "X-RAY DIFFRACTION AND ELECTRO-OPTICAL TECHNIQUES"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "322",
+        "course_title": "MINERAL PROCESSING"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "332",
+        "course_title": "STRUCTURE, PROPERTIES AND HEAT TREATMENT OF ALLOYS"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "342",
+        "course_title": "METALLURGICAL FURNACES & PRINCIPLES OF FOUNDRY ENGINEERING"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "381",
+        "course_title": "CERAMIC ENGINEERING"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "311",
+        "course_title": "PHYSICAL METALLURGY LABORATORY"
+    },
+    {
+        "department_prefix": "EGR",
+        "course_number": "301",
+        "course_title": "ENGINEERING ANALYSIS"
+    },
+    {
+        "department_prefix": "MEC",
+        "course_number": "344",
+        "course_title": "MEASUREMENT AND INSTRUMENTATION"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "342",
+        "course_title": "BUSINESS DEVELOPMENT AND MANAGEMENT"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "411",
+        "course_title": "CORROSION AND CHEMICAL METALLURGY LABORATORY"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "413",
+        "course_title": "MECHANICAL METALLURGY LABORATORY"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "421",
+        "course_title": "EXTRACTION METALLURGY"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "431",
+        "course_title": "PHYSICAL METALLURGY II"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "443",
+        "course_title": "PRODUCTION METALLURGY"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "451",
+        "course_title": "WELDING ENGINEERING"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "461",
+        "course_title": "POLYMER ENGINEERING"
+    },
+    {
+        "department_prefix": "MEC",
+        "course_number": "471",
+        "course_title": "HEAT & MASS TRANSFER"
+    },
+    {
+        "department_prefix": "EGR",
+        "course_number": "401",
+        "course_title": "COMPUTATIONAL METHODS"
+    },
+    {
+        "department_prefix": "EGR",
+        "course_number": "402",
+        "course_title": "STUDENT INDUSTRIAL WORK EXPERIENCE SCHEME (SIWES)"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "491",
+        "course_title": "TECHNICAL REPORT WRITING"
+    },
+    {
+        "department_prefix": "MEC",
+        "course_number": "481",
+        "course_title": "TECHNOLOGY DEVELOPMENT POLICY"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "531",
+        "course_title": "TRANSPORT PHENOMENA IN MATERIALS ENGINEERING"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "541",
+        "course_title": "THEORY AND DESIGN OF ENGINEERING ALLOYS"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "543",
+        "course_title": "IRON AND STEEL MAKING"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "551",
+        "course_title": "INTRODUCTION TO COMPOSITES"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "581",
+        "course_title": "NANO-SCIENCE AND NANOTECHNOLOGY"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "561",
+        "course_title": "ENGINEERING MATERIALS SELECTION AND ECONOMICS"
+    },
+    {
+        "department_prefix": "MEC",
+        "course_number": "581",
+        "course_title": "ENGINEERING LAW"
+    },
+    {
+        "department_prefix": "MEC",
+        "course_number": "583",
+        "course_title": "ENGINEERING MANAGEMENT"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "524",
+        "course_title": "METALLURGICAL PLANT DESIGN"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "532",
+        "course_title": "THEORY OF DISLOCATIONS"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "542",
+        "course_title": "MECHANICAL METALLURGY II"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "592",
+        "course_title": "PROJECT"
+    },
+    {
+        "department_prefix": "MEC",
+        "course_number": "522",
+        "course_title": "MANUFACTURING AND TOOLS ENGINEERING"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "538",
+        "course_title": "ADVANCED PHASE TRANSFORMATIONS AND HEAT TREATMENT"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "546",
+        "course_title": "POWDER METALLURGY"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "552",
+        "course_title": "COAL AND COKE TECHNOLOGY"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "556",
+        "course_title": "REFRACTORY MATERIALS AND INDUSTRIAL FURNACES"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "574",
+        "course_title": "PAPER PRODUCTION TECHNOLOGY"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "582",
+        "course_title": "SOLID STATE MATERIALS & ELECTRONICS"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "521",
+        "course_title": "TOOLS STEELS: METALLURGY, MANUFACTURE AND APPLICATIONS"
+    },
+    {
+        "department_prefix": "MME",
+        "course_number": "584",
+        "course_title": "SPECIAL MATERIALS"
+    }
+]

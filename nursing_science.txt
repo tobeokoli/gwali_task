@@ -1,0 +1,198 @@
+BIO 101                                  Genetics for Medical Students	2
+BIO 151                                  General Biology I	3
+CHM 101                                Basic Principles of Chemistry 1	2
+CHM 171                                Basic Practical Chemistry	2
+PHY 111                                 General Physics for life Sciences	2
+PHY 191                                 Practical Physics	2
+MAT 111                                General Mathematics	3
+ 	 
+GSP 101                                  The Use of English /Library Study Skills	2
+GSP 201                                  Peace and Conflict Resolution 1	2
+BIO 152	General Biology II	3
+BIO 154	General Biology (Practical)	2
+ZOO 122	Basic Parasitology	2
+CHM 112	Basic principles of Chemistry II	2
+CHM 122	Basic Principles of Organic Chemistry II	2
+PHY 112	General Physics for Life Sciences II	2
+PHY 114	General Physics for Life Sciences III	2
+GSP 102	The Use of English II	2
+GSP 202	Peace and Conflict Resolution II	2
+NSC 201                     Foundations of Nursing I	3
+NSC 211                     Principles of Psycho-Social Nursing in Health Related Professions (For other Depts in FHST)	2
+                                    	
+ANAT 201                  Gross Human Anatomy 1	3
+ANAT 213                  General Embryology	2
+ANAT 225                  General Histology & Cytology	2
+BIC 203                      Introduction to Human Biochemistry	3
+PYS 201                      Human Physiology/Blood	2
+PYS 203                      Gastrointestinal Tract (GIT) & Renal	2
+ 	 
+ 	 
+GSP 101                      The Use of English /Library Study Skills	2
+GSP 201                      Peace and Conflict Resolution 1 (for DE stds)	2
+GSP 207                      Humanities 1	2
+COS 111                     Computer Sciences	2
+NSC 202                     Foundations of Nursing II	3
+NSC 204                     Basic Nutrition in Nursing	2
+NSC 212                     Psychology in Nursing	2
+NSC 262                     Nursing Practicum/Clinical	3
+ANA 202                    Gross Human Anatomy II	3
+BIC 202                     Metabolism	3
+PYS 204                      Cardiovascular & Respiratory System	2
+GSP 102                      The Use of English (for Direct Entry stds only)	2
+GSP 202                      Peace and Conflict Resolution II (for DE stds only)	2
+GSP 208                      Humanities II	2
+NSC 311                     Medical-Surgical Nursing 1	2
+NSC 313                     Pharmacology for Nurses	2
+NSC 321                     Community Health Nursing 1	2
+NSC 341                     Family Health Nursing 1	2
+NSC 351                     Mental Health & Psychiatric Nursing	2
+ANAT 301                  Head & Neck	3
+ANAT 303                  Neuro-anatomy	2
+PYS 301                      Endocrinology and Reproduction	2
+COM 353                    Sociology in Health Practice	2
+LAW 151                    Medical Jurisprudence I	2
+GSP 207                      Humanities 1   (DE stds only)	2
+NSC 312                     Medical-Surgical Nursing II	4
+NSC 314                     Nutrition in Illness/Disease	2
+NSC 316                     Paediatric Nursing	2
+NSC 322                     Community Health Nursing II	3
+NSC 342                     Reproductive Health Nursing I	2
+MLS 334                     Introduction to Medical Microbiology	2
+COM 351                    Biostatistics in Health Technology	2
+LAW 152                    Medical Jurisprudence II	2
+ 	 
+GSP 208                      Humanities II  (DE students only)	2
+NSC 461                     Community Health Nursing Clinical	6
+NSC 463                     Medical-Surgical Nursing Clinical	6
+NSC 465                     Mental Health & Psychiatric Nursing Clinical	3
+NSC 467                     Maternal & Child Health Nursing Clinical	6
+CED 341                     Introduction to Entrepreneurship	2
+NSC 412                      Medical-Surgical Nursing III	4
+NSC 422                     Community Health Nursing III	3
+NSC 432                     Introduction to Nursing Education	2
+NSC 434                     Principles of Management & Administration in Nursing	2
+NSC 436                     Public Relations in Nursing	2
+NSC 442                     Reproductive Health Nursing II	2
+NSC 482                     Research Methodology	3
+CED 342                      Business Development & Management	2                    
+NSC 511                     Medical-Surgical Nursing	2
+NSC 521                     Community Health Nursing	2
+NSC 523                     Gerontology/ Geriatric Nursing	2
+NSC 533                     Health Economics	2
+NSC 535                     Guidance & Counseling in Nursing	2
+NSC 541                     Reproductive Health Nursing III	4
+NSC 571                     Nursing Seminar	3
+NSC 562                      Client teaching/Counseling Practicum	2
+NSC 564                     Nursing Administration & Management Practicum	2
+NSC 566                      Reproductive Health Nursing Practicum	6
+NSC 592                      Project	6
+PGC   601	ICT and Research Methodology	3
+NSC 701	Legal and ethical Aspects of Professional development in Nursing	2
+NSC 725	Wellness and Health Promotion	2
+NSC 733	Health Economics	2
+NSC 781	Advanced Statistics in Health Technology	2
+NSC 702	Advanced Concepts & Theoretical Foundations of Nursing	3
+NSC 704	Nursing Informatics	2
+NSC 732	Nursing Entrepreneurship	2
+NSC 761	Professional Posting in Specialty Areas	4
+NSC 783	Nursing Seminar	2
+NSC 791	Dissertation	6
+NSC 711	Concepts and Principles of Medical Surgical Nursing	2	
+NSC 713	Management of Selected Acute/Chronic Medical-SurgicalConditions	3	
+NSC 715	Critical Care Nursing	2	
+NSC    717      Gerontology Nursing	2
+NSC    731      Principles of Health and Policy System, Planning and Administration	3
+NSC    727      Environmental & Occupational Health	2
+NSC    775      Guidance & Counseling	2
+NSC 712	Palliative Care & Rehabilitation Nursing	2
+NSC 714	Oncology Nursing	2
+                       
+NSC    734	Advanced Public Relations in Health Practice	2
+NSC    752	Advanced Community Mental Health /Psychiatric Nursing	2
+ 
+NSC 721	Theories and Practice of Community Health Nursing	3
+NSC 723	Epidemiology in Nursing	2
+NSC 727	Environmental & Occupational Health	2
+NSC    717	Gerontology Nursing	2
+NSC    731	Principles of Health and Policy System, Planning and Administration	3
+NSC    775	Guidance & Counseling	2
+NSC 722	Principles and Practice of Primary Health Care and Family Health	2
+NSC 724	Programme Planning & Evaluation	3
+                          
+NSC    712	Palliative Care & Rehabilitation Nursing	2
+NSC   734	Advanced Public Relations in Health Practice	2
+NSC     752	Advanced Community Mental Health/Psychiatric Nursing	2
+ 
+
+NSC 731	Principles of Health and Policy Systems , Planning and Administration	3
+NSC 735	Health and Nursing Service Administration & Management	3
+NSC    717	Gerontology Nursing	2
+NSC    727	Environmental & Occupational Health	2
+NSC    775	Guidance & Counseling in Nursing	2
+ 
+
+NSC 734	Advanced Public Relations in Health Practice	2
+NSC 736	Human Resource Planning & Management in Nursing	3
+NSC    712	Palliative Care& Rehabilitation Nursing	2
+NSC     752	Advanced Community Mental Health/Psychiatric Nursing	2
+ 
+
+NSC 741	Family Theories & Dynamics	2
+NSC 743	Contemporary Issues in Women’s Health, Programmes &Policies.	2
+NSC 745	Care of expectant families through Antenatal, Intra and Post Partum Period /Maternal and Infant Nutrition.	3
+NSC    727  Environmental & Occupational Health                 2
+
+NSC   731   Principles of Health and policy systems, planning and Administration         3
+
+NSC   775   Guidance & Counseling in Nursing       2
+
+NSC 742	Contemporary Issues in Children’s & Newborn’s, Health, Programmes and Policies.	2
+NSC 744	Issues in contraception, infertility & sexually transmitted infections.	2
+NSC     746	Neonatology/Paediatrics	2
+
+NSC    712      Palliative Care & Rehabilitation Nursing                              3                      
+NSC 734          Advanced Public Relations in Health Practice                                   2
+
+NSC     752         Advanced Community Mental Health /Psychiatric Nursing        2
+
+ 
+
+ 
+NSC 751	Life Cycle Approach in Mental Health & Psychiatry	3
+NSC 753	Advanced Concepts in, and approaches to Management of Mental Health/Psychiatric Problems.	3
+NSC 775	Guidance and Counselling	2
+
+ 
+ 
+NSC    727	Environmental & Occupational Health	2
+NSC    731	Principles of Health and policy systems, planning and Administration	3
+ 
+NSC 752	Advanced Community Mental Health and Psychiatric Nursing	2	
+NSC 754	Nursing Management of Selected Mental Health/Psychiatric Problems.	2	
+NSC 756	Psycho-Pathology of Mental Health/Psychiatric Conditions	3	
+NSC    714	Palliative Care and Rehabilitation Nursing	2
+NSC       734	Advanced Public Relations in Health Practice	2
+NSC 771	Curriculum Development in Nursing.	   2	
+NSC 773	Measurement and Evaluation in Nursing	   2	
+NSC 775	Guidance and Counseling in Nursing	   2	
+EDU 500	Philosophy of Education	   2	
+NSC    717	Gerontology Nursing	2
+NSC    727	Environmental & Occupational Health	2
+NSC     731	Principles of Health and Policy Systems, Planning and Administration	3
+ 	 	 
+NSC 772	Educational Psychology Applied to Nursing	2	
+NSC 724	Fundamentals of Nursing Educational Administration.	2	
+NSC 776	Teaching Learning Process and Continuing Education Methods Applied to Nursing.	2	
+NSC    712           Palliative Care and Rehabilitation Nursing            2
+NSC 734           Advanced Public Relations in Health Practice	2
+NSC       752         Advanced Community Mental Health/Psychiatric Nursing	2
+PGC 701         Synopsis and Grant Writing	3
+NSC 901                     Advanced Research Methods and Techniques Applied to Nursing	3
+NSC 904                     Advanced Nursing informatics	3
+NSC 932                     Advanced Nursing Entrepreneurship	2
+NSC 981                     Advanced Statistics in Health Technology	3
+NSC 984                     Doctoral Seminar I	3
+NSC 985                     Doctoral Seminar II	3
+NSC 986                     Doctoral Seminar III	4
+NSC 990                     Doctoral Thesis	12
