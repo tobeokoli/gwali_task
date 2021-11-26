@@ -1,4 +1,5 @@
 import json
+import os
 
 final_result = []
 list_of_courses = []

@@ -1,84 +1,396 @@
-ENGR.    101	Introduction to Engineering	2
-MTH    111	Elementary Mathematics I	3
-MTH    121	Elementary Mathematics II	3
-CHM    101	Basic Principles of Chemistry I	2
-CHM    171	Basic Practical of Chemistry	2
-PHY    107	Fundamentals of Physics I	3
-PHY    192	Practical Physics II	2
-GSP    101	Study Skills & Basic Research Methods	2
-GSP    111	Use of Library & Study Skills	2
-ENGR    102	Applied Mechanics	3
-MTH    122	Elementary Mathematics III	3
-CHM    112	Basic Principles of Chemistry II	2
-
-CHM    122	Basic Principles of Chemistry III	2
-PHY    116	General Physics for Physical Science II	2
-PHY    124	Fundamentals of Physics III	3
-GSP    102	Basic Grammar & Varieties of Writing	2
-CVE    211	Strength of Materials I	2
-CVE    212	Strength of Materials Laboratory I	1
-
-ENGR    201	Material Science	2
-
-ENGR    202	Material Science Laboratory	1
-ME    211	Engineering Drawing	2
-ME    261	Thermodynamics and Heat Engines	2
-EE    211	Basic Electrical Engineering	3
-MTH    207	Advanced Mathematics VII	2
-GSP    201	Basic Concepts and Theories of Peace and Conflicts	2
-GSP    207/101	Logic, Philosophy & Human Existence 2
-CVE    221	Fluid Mechanics I	2
-CVE    222	Fluid Mechanics Laboratory	1
-ME    212	Workshop Technology	2
-ECE    271	Engineering Computer Programming	3
-ECE    281	Engineering Computer Programming 3
-EE    251	Basic Electrical Engineering Lab 3
-MTH    206	Advanced Mathematics VI	2
-MTH    208	Advanced Mathematics VIII	2
-GSP    202	Issues in Peace & Conflict Resolution Studies	2
-GSP    208/102	Nigerian Peoples & Cultures/Basic 2	
-CVE    311	Strength of Materials II	3
-CVE    321	Fluid Mechanics II	2
-CVE    322	Water Resources and Environmental Engineering Laboratory	1
-CVE    331	Civil Engineering Materials	3
-CVE    351	Engineering Survey I	3
-CVE     332	Materials Testing	2
-CVE    341	Engineering Geology	2
-CED     341	Introduction to Entrepreneurship	2
-STA    205	Statistics for Physical Sciences and Engineering	2
-CVE    312	Theory of Structures I	3
-CVE    313	Strength of Materials Laboratory I	2
-CVE    323	Hydrology	2
-CVE    352	Engineering Surveys Practice I	2
-CVE    335	Civil Engineering Drawing	2
-CVE    342	Soil Mechanics	3
-ENGR    301	Engineering Analysis	4
-CED    342	Business Development & Management	2
-ENG    401	Computational Methods	3
-CVE    411	Theory of Structures II	2
-CVE    412	Reinforced Concrete Design	2
-CVE     413	Steel and Timber Design	3
-CVE     414	Structural Design Studio I	1
-CVE     442	Soil Mechanics Laboratory	1
-CVE     451	Engineering Surveys II	3
-CVE     452	Transportation Engineering I	3
-CVE     421	Hydraulics	2
-CVE     431	Civil Engineering Practice I	3
-CVE     441	Foundation Engineering I	2
-CVE     453	Engineering Surveys Practice II	1
-ENG     402	SIWES	10
-CVE     511	Structural Analysis I	4
-CVE     512	Structural Design	4
-CVE     513	Structural Design Studio	1
-CVE     521	Water Resources and Environmental Engineering I	4
-CVE     541	Foundation Engineering II	4
-CVE     542	Foundation Design Studio	1
-CVE     531	Civil Engineering Practice II	4
-CVE     551	Transportation Engineering II	4
-CVE     561	Project	6
-CVE     514	Structural Analysis II	4
-CVE     522	Water Resources and Environmental Engineering II	4
-CVE     532	Properties and Behaviour of Concrete	4
-CVE     543	Geotechnical Engineering	4
-CVE     553	Transportation Engineering III	4
-CVE     533	Building Engineering	4
+CHM 101 Basic Principles of Inorganic Chemistry 2
+CHM 171 Basic Practical Chemistry 2
+BIO 151 General Biology I 3
+MTH 111 Elementary Mathematics I 3
+MTH 121 Elementary Mathematics II 3
+PHY 115 General Physics for Physical Sciences I 2
+PHY 191 Practical Physics I 2
+GSP 101 Communication in English I 2
+GSP 111 The use of Library and Study Skills 2
+CHM 112 Basic Principles of Physical Chemistry 2
+CHM 122 Basic Principles of Organic Chemistry2
+CHM 152 Introduction to Industrial Chemistry 2
+BIO 152 General Biology II 3
+PHY 118 General Physics for Physical Sciences III 2
+GSP 102 Communication in English II 2
+ECO 102 Basic Principles of Economics II 2
+CHM 201 General Inorganic Chemistry 2
+CHM 211 General Physical Chemistry 2
+CHM 221 General Organic Chemistry I 2
+CHM 273 Practical Organic Chemistry I 2
+MTH 207 Advanced Mathematics VII 2
+PHY 251 Electromagnetism 2
+COS 101 Introduction to Computer Science 2
+GSP 207 Logic, Philosophy and Human Existence 2
+GSP 201 Basic Concepts and theory of Peace 2
+ECO 101 Principles of Economics I 2
+GEO 103 Basic and Applied Geology for Environmental, Physical and Social Sciences 3
+BCH 201 Introductory Microbiology 3
+STA 203 Statistics for Physical Sciences and Engineering I 2
+CHM 222 General Organic Chemistry II 2
+CHM 232 Analytical Chemistry 2
+CHM 252 Chemical Process Principles 2
+CHM 272 Practical Physical Chemistry I 2
+CHM 274 Practical Inorganic Chemistry I 2
+MTH 206 Advanced Mathematics VII 2
+GSP 208 Nigerian People and Culture 2
+GSP 202 Issues in Peace and Conflict Resolution studies 2
+BCH 201 General Biochemistry 1 2
+MTH 208 Advanced Mathematics VIII 2
+PHM 241 Pharmacognosy 1 1
+PHY 262 Introduction to Atomic and Nuclear Physics 3
+PHY 292 Practical Physics 2
+STA 206 Statistics for Physical Sciences and 1 Engineering 6
+CHM 301 Inorganic Chemistry I 2
+CHM 311 Physical & Structural Chemistry I 2
+CHM 321 Organic Chemistry I 2
+CHM 351 Chemical Process Calculations 2
+CHM 373 Practical Organic Chemistry II 2
+CHM 371 Practical Inorganic Chemistry II 2
+CHM 381 Chemical Industry and Environment2
+CED 341 Introduction to Entrepreneurship 2
+COS 201 Computer Programming I 2
+CHM 383 Polymer Chemistry 2
+MCB 321 Environmental Microbiology 2
+PHY 351 Electronics 2
+PHY 361 Quantum Mechanics I 3
+BCH 311 Biological Macromolecules 2
+PHM 341 Pharmacognosy II 3
+GER 101 Elementary German I 2
+FRE 101 Elementary French I 2
+RUS 101 Elementary Russian I 2
+CHM 302 Inorganic Chemistry II 2
+CHM 312 Physical & Structural Chemistry II 2
+CHM 314 Physical & Structural Chemistry III 2
+CHM 322 Organic Chemistry II 2
+CHM 324 Organic Chemistry III 2
+CHM 352 Chemical Process Technology I 2
+CHM 372 Practical Physical Chemistry II 2
+CHM 374 Applied Spectroscopy 2
+CED 342 Business Development and Management 2
+PHY 352 Electronics 2
+PHY 362 Quantum Mechanics 3
+PHM 344 Phytoevaluation 2
+ECO 102 Principles of Economics 2
+GER 102 Elementary German II 2
+FRE 102 Elementary French II 2
+RUS 102 Elementary Russian II 2
+CHM 401 Advanced Inorganic Chemistry I 2
+CHM 411 Advanced Physical Chemistry I 2
+CHM 421 Advanced Organic Chemistry I 2
+CHM 431 Modern Analytical Techniques 2
+CHM 451 Chemical Process Technology II 2
+CHM 471 Practical Industrial Chemistry 2
+CHM 461 Seminar 2
+ME 481 Technology Development Policy 2
+CHM 483 Colour Chemistry & Technology I 2
+CHM 4854 Cement & Fertilizer Industry 2
+CHM 403 Modern Synthetic Methods in Inorganic Chemistry 2
+CHM 423 Modern Synthetic Methods in Organic Chemistry 2
+CHM 487 Pharmaceutical Industry 2
+CHM 483 Paper and Pulp Industry 2
+CHM 489 Oils, Fats Detergents & Cholo-Alkali Industries 2
+MCB 452 Industrial Microbiology 2
+PHM 441 Physiochemical analysis 2
+CHM 402 Advanced Inorganic Chemistry II 2
+CHM 412 Advanced Physical Chemistry II 2
+CHM 422 Advanced Organic Chemistry II 2
+CHM 452 Chemical Process Technology III 2
+CHM 492 Research Project 6
+CHM 424 Chemistry of Natural Products II 2
+CHM 454 Polymer Chemistry and Technology 2
+CHM 486 Chemistry of Coal and Coal Products 2
+CHM 482 Colour Chemistry & Technology II 2
+CHM 484 Extraction Metallurgy 2
+CHM 488 Sugar & Fermentation Industry 2
+CHM 201 General Inorganic Chemistry 2
+CHM 211 General Physical Chemistry 2
+CHM 221 General Organic Chemistry I 2
+CHM 273 Practical Organic Chemistry I 2
+MTH 207 Advanced Mathematics VII 2
+PHY 251 Electromagnetism 2
+COS 101 Introduction to Computer Science 2
+GSP 207 Logic, Philosophy and Human Existence 2
+GSP 201 Basic Concepts and theory of Peace 2
+ECO 101 Principles of Economics I 2
+GEO 103 Basic and Applied Geology for Environmental, Physical and Social Sciences 3
+BCH 201 Introductory Microbiology 3
+STA 203 Statistics for Physical Sciences and Engineering I 2
+CHM 222 General Organic Chemistry II 2
+CHM 232 Analytical Chemistry 2
+CHM 252 Chemical Process Principles 2
+CHM 272 Practical Physical Chemistry I 2
+CHM 274 Practical Inorganic Chemistry I 2
+MTH 206 Advanced Mathematics VII 2
+GSP 208 Nigerian People and Culture 2
+GSP 202 Issues in Peace and Conflict Resolution studies 2
+BCH 201 General Biochemistry 1 2
+MTH 208 Advanced Mathematics VIII 2
+PHM 241 Pharmacognosy 1 1
+PHY 262 Introduction to Atomic and Nuclear Physics 3
+PHY 292 Practical Physics 2
+STA 206 Statistics for Physical Sciences and 1 Engineering 2
+CHM 301 Inorganic Chemistry I 2
+CHM 311 Physical & Structural Chemistry I 2
+CHM 321 Organic Chemistry I 2
+CHM 351 Chemical Process Calculations 2
+CHM 373 Practical Organic Chemistry II 2
+CHM 371 Practical Inorganic Chemistry II 2
+CHM 381 Chemical Industry and Environment 2
+CED 341 Introduction to Entrepreneurship 2
+COS 201 Computer Programming I 2
+CHM 383 Polymer Chemistry 2
+MCB 321 Environmental Microbiology 2
+PHY 351 Electronics 2
+PHY 361 Quantum Mechanics I 3
+BCH 311 Biological Macromolecules 2
+PHM 341 Pharmacognosy II 3
+GER 101 Elementary German I 2
+FRE 101 Elementary French I 2
+RUS 101 Elementary Russian I 2
+CHM 302 Inorganic Chemistry II 2
+CHM 312 Physical & Structural Chemistry II 2
+CHM 314 Physical & Structural Chemistry III 2
+CHM 322 Organic Chemistry II 2
+CHM 324 Organic Chemistry III 2
+CHM 352 Chemical Process Technology I 2
+CHM 372 Practical Physical Chemistry II 2
+CHM 374 Applied Spectroscopy 2
+CED 342 Business Development and Management 2
+PHY 352 Electronics 2
+PHY 362 Quantum Mechanics 3
+PHM 344 Phytoevaluation 2
+ECO 102 Principles of Economics 2
+GER 102 Elementary German II 2
+FRE 102 Elementary French II 2
+RUS 102 Elementary Russian II 2
+CHM 401 Advanced Inorganic Chemistry I 2
+CHM 411 Advanced Physical Chemistry I 2
+CHM 421 Advanced Organic Chemistry I 2
+CHM 431 Modern Analytical Techniques 2
+CHM 451 Chemical Process Technology II 2
+CHM 471 Practical Industrial Chemistry 2
+CHM 461 Seminar 2
+ME 481 Technology Development Policy 2
+CHM 483 Colour Chemistry & Technology I 2
+CHM 485 Cement & Fertilizer Industry 2
+CHM 403 Modern Synthetic Methods in Inorganic Chemistry 2
+CHM 423 Modern Synthetic Methods in Organic Chemistry 2
+CHM 487 Pharmaceutical Industry 2
+CHM 483 Paper and Pulp Industry 2
+CHM 489 Oils, Fats Detergents & Cholo-Alkali Industries 2
+MCB 452 Industrial Microbiology 2
+PHM 441 Physiochemical analysis 2
+CHM 402 Advanced Inorganic Chemistry II 2
+CHM 412 Advanced Physical Chemistry II 2
+CHM 422 Advanced Organic Chemistry II 2
+CHM 452 Chemical Process Technology III 2
+CHM 492 Research Project 6
+CHM 424 Chemistry of Natural Products II 2
+CHM 454 Polymer Chemistry and Technology 2
+CHM 486 Chemistry of Coal and Coal Products 2
+CHM 482 Colour Chemistry & Technology II 2
+CHM 484 Extraction Metallurgy 2
+CHM 488 Sugar & Fermentation Industry 2
+CHM 101 Basic Principles of Inorganic Chemistry 2
+CHM 171 Basic Practical Chemistry 2
+BIO 151 General Biology I 3
+MTH 111 Elementary Mathematics I 3
+MTH 121 Elementary Mathematics II 3
+GSP 101 Communication in English I 2
+GSP 111 The use of Library and Study Skills 2
+MCB 102 Introductory Microbiology 2
+CHM 112 Basic Principles of Physical Chemistry 2
+CHM 122 Basic Principles of Organic Chemistry 2
+BIO 152 General Biology II 3
+BIO 154 General Biology Practical 2
+MTH 113 Elementary Mathematics III 3
+GSP 102 Communication in English II 2
+MCB 201 General Microbiology I 3
+CHM 201 General Inorganic Chemistry 2
+CHM 211 General Physical Chemistry 2
+CHM 221 General Organic Chemistry I 2
+PHY 111 General Physics for life sciences I 2
+PHY 191 Practical Physics 2
+COS 101 Introduction to Computer Science 2
+GSP 207 Logic, Philosophy and Human Existence 2
+GSP 201 Basic Concepts and theory of Peace 2
+MCB 202 General Microbiology II 4
+CHM 222 General Organic Chemistry II 2
+CHM 232 Analytical Chemistry 2
+CHM 272 Practical Physical Chemistry I 2
+PHY 112 General Physics for Life Sciences II 2
+PHY 114 General Physics for Life Sciences III 2
+COS 304 Computer Applications 3
+GSP 208 Nigerian People and Culture 2
+GSP 202 Issues in Peace and Conflict 2
+MCB 301 Microbial Physiology 2
+MCB 331 Pathogenic Bacteriology 4
+MCB 341 Immunology and Immunochemistry 4
+CHM 301 Inorganic Chemistry I 2
+CHM 321 Organic Chemistry I 2
+CHM 273 Practical Organic Chemistry I 2
+STA 202 Statistic For Biological Sciences I 2
+CED 341 Introduction to Entrepreneurship 2
+MCB 302 Microbial Metabolism 2
+MCB 304 Microbial Genetics and Molecular Biology 2
+MCB 332 Pathogenic Mycology 2
+CHM 302 Inorganic Chemistry II 2
+CHM 322 Organic Chemistry II 2
+CHM 324 Organic Chemistry IV 2
+CHM 372 Practical Physical Chemistry II 2
+STA 205 Statistics for Biological Sciences II 2
+CED 342 Business Development and Management 2
+MCB 431 Virology 4
+MCB 423 Industrial Biotechnology I 2
+MCB 321 Environmental Microbiology (Sewage, Water, Pollution) 2
+CHM 311 Physical and Structural Chemistry I 2
+CHM 373 Practical Organic Chemistry II 2
+CHM 374 Applied Spectroscopy 2
+CHM 431 Modern Analytical Techniques 2
+CHM 421 Advanced Organic Chemistry I 2
+MCB 322 Food Microbiology 4
+MCB 424 Industrial Biotechnology II 2
+MCB 433 Pharmaceutical Microbiology 3
+MCB 452 Analytical Microbiology and Quality Control 4
+CHM 312 Physical and structural Chemistry II 2
+CHM 422 Advanced Organic Chemistry II 2
+CHM 492 Research Project 6
+MCB 492 Research Project 4
+CHM 101 Basic Principles of Inorganic Chemistry 2
+CHM 171 Basic Practical Chemistry 2
+PHY 121 Fundamentals of Physics I 3
+PHY 195 Practical Physics II 2
+MTH 111 Elementary Mathematics I 3
+MTH 121 Elementary Mathematics II 3
+GSP 101 Communication in English I 2
+GSP 111 The use of Library and Study Skills 2
+CHM 112 Basic Principles of Physical Chemistry 2
+CHM 122 Basic Principles of Organic Chemistry 2
+PHY 122 Fundamentals of Physics II 3
+PHY 124 Fundamental of Physics III 3
+GSP 102 Communication in English II 2
+CHM 201 General Inorganic Chemistry 2
+CHM 211 General Physical Chemistry 2
+CHM 221 General Organic Chemistry I 2
+PHY 211 Structure of Matter 3
+PHY 221 Mechanics 2
+PHY 251 Electromagnetism 2
+MTH 207 Advanced Mathematics VII 2
+COS 101 Introduction to Computer Science 2
+GSP 207 Logic, Philosophy and Human Existence 2
+GSP 201 Basic Concepts and theory of Peace 2
+CHM 222 General Organic Chemistry II 2
+CHM 232 Analytical Chemistry 2
+CHM 272 Practical Physical Chemistry I 2
+CHM 274 Practical Inorganic Chemistry I 2
+PHY 241 Waves II 2
+PHY 262 Introduction to Atomic and Nuclear Physics 3
+MTH 206 Advanced Mathematics VI 2
+GSP 208 Nigerian People and Culture 2
+GSP 202 Issues in Peace and Conflict Resolution studies 2
+CHM 273 Practical Organic Chemistry I 2
+CHM 301 Inorganic Chemistry I 2
+CHM 311 Physical & Structural Chemistry I 2
+PHY 321 Relativity Physics 2
+PHY 331 Thermal Physics 3
+PHY 351 Electronics 3
+COS 201 Computer Programming I 2
+CED 341 Introduction to Entrepreneurship 2
+STA 205 Statics for Physical Sciences I 2
+CHM 302 Inorganic Chemistry II 2
+CHM 312 Physical & Structural Chemistry II 2
+CHM 314 Physical & Structural Chemistry III 2
+PHY 292 Practical Physics IV 2
+PHY 382 An Introduction to Astronomy 3
+PHY 362 Quantum Mechanics I 3
+MTH 208 Advanced Mathematics VIII 2
+MTH 241 Mathematics Methods I 3
+CED 342 Business Development and Management 2
+CHM 321 Organic Chemistry I 2
+CHM 374 Applied Spectroscopy 2
+PHY 391 Practical Physics V 2
+CHM 411 Advanced Physical Chemistry I 2
+CHM 431 Modern Analytical Techniques 2
+PHY 403 General Physics 2
+PHY 421 Analytical Mechanics 3
+PHY 451 Electromagnetic Theory 2
+PHY 461 Quantum Mechanics II 3
+CHM 322 Organic Chemistry II 2
+CHM 324 Organic Chemistry III 2
+CHM 372 Practical Physical Chemistry 2
+PHY 392 Practical Physics VI 3
+CHM 412 Advanced Physical Chemistry II 2
+PHY 438 Statistical Physics 2
+PHY 462 Nuclear Physics 3
+CHM 492 Research Project 6
+PHY 494 Research Project 4
+MTH 111 Elementary Mathematics I 3
+MTH 121 Elementary Mathematics II 3
+CHM 101 Basic Principles of Inorganic Chemistry 2
+CHM 171 Basic Practical Chemistry 2
+PHY 115 General Physics for Physical Sciences I 3
+PHY 116 General Physics for Physical Sciences II 3
+GSP 101 Communication in English I 2
+GSP 111 The use of Library and Study Skills 2
+MTH 113 Elementary Mathematics III 3
+CHM 112 Basic Principles of Physical Chemistry 2
+CHM 122 Basic Principles of Organic Chemistry 2
+PHY 118 General Physics for Physical Sciences III 3
+MTH 131 Elementary Mechanic I 3
+GSP 102 Communication in English II 2
+MTH 211 Sets, Logic and Algebra 3
+MTH 212 Linear Algebra I 2
+MTH 221 Real Analysis I 3
+CHM 201 General Inorganic Chemistry 2
+CHM 211 General Physical Chemistry 2
+CHM 221 General Organic Chemistry I 2
+CHM 273 Practical Organic Chemistry I 2
+COS 101 Introduction to Computer Science 2
+GSP 207 Logic, Philosophy and Human Existence 2
+GSP 201 Basic Concepts and theory of Peace 2
+MTH 214 Linear Algebra II 2
+MTH 222 Elementary Differential Equations I 3
+MTH 241 Mathematics Methods I 3
+CHM 222 General Organic Chemistry II 2
+CHM 232 Analytical Chemistry 2
+CHM 272 Practical Physical Chemistry I 2
+CHM 274 Practical Inorganic Chemistry I 2
+GSP 208 Nigerian People and Culture 2
+GSP 202 Issues in Peace and Conflict Resolution studies 2
+MTH 311 Abstract Algebra I 3
+MTH 323 Complex Variables I 3
+CHM 311 Physical & Structural Chemistry I 2
+COS 201 Computer Programming I 2
+CED 341 Introduction to Entrepreneurship 2
+GEOL 103 Basic and Applied Geology for Environmental and Physical Sciences 3
+GEOL 213 Optical Mineralogy 2
+STA 205 Statistics for Physical Sciences and Engineering I 2
+CHM 373 Practical Organic Chemistry II 2
+MTH 223 Introduction to Numerical Analysis 3
+MTH 326 Real Analysis II 3
+CHM 302 Inorganic Chemistry II 2
+CHM 312 Physical & Structural Chemistry II 2
+CHM 314 Physical & Structural Chemistry III 2
+PHY 262 Introduction to Atomic and Nuclear Physics 3
+CED 342 Business Development and Management 2
+COS 202 Computer Programming II 3
+GEOL 212 Crystallography and Mineralogy 2
+GEOL 141 Earth History 3
+MTH 321 Metric Space Topology 3
+MTH 322 Elementary Differential Equations II 3
+MTH 332 Optimization Theory I 2
+CHM 321 Organic Chemistry I 2
+CHM 374 Applied Spectroscopy 2
+CHM 411 Advanced Physical Chemistry I 2
+CHM 431 Modern Analytical Techniques 2
+CHM 491 Research Project 6
+MTH 451 Research Project 4
+MTH 312 Abstract Algebra II 3
+MTH 324 Vector and Tensor Analysis 3
+MTH 325 Complex Variables II 3
+CHM 322 Organic Chemistry II 2
+CHM 324 Organic Chemistry III 2
+CHM 372 Practical Physical Chemistry II 2
+CHM 402 Advanced Inorganic Chemistry II 2
+CHM 412 Advanced Physical Chemistry II 2
