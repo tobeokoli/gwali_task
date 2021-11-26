@@ -1,0 +1,188 @@
+GEO 101 Basic Elements of Landforms and the Hydrosphere 2
+GEO 103 Fundamentals of Human Geography I 2
+GEO 121 Basic Statistical Methods for Geographers I 2
+
+
+GEO 131 Geography 3
+ 
+
+GEO 161 Introduction to Environmental Science 2
+
+
+GSP     105 Natural Science I 2
+GSP    111 The Use of Library 2
+
+
+ECO   101 Principles of Economics I 2
+PSY     101 Introduction to Psychology I    2
+
+SOC     101 Introduction to Sociology I 2
+
+PSC    101 Introduction to Political Sciences I 2
+
+ANT   102 Introduction to Anthropology  2
+
+
+GEO 102 Basic Elements of the Atmosphere and Biosphere 2
+GEO 104 Fundamentals of Human Geography II 2
+
+GEO 122 Basic Statistical Methods for Geographers II 2
+
+GEO 132 Elementary Surveying    3
+GEO 184 Local Field Studies 3
+
+
+GEO 162 Basics of Environmental Change 2
+
+
+GSP     102 The Use of English II 2
+
+GSP     106 Natural Science II 2 
+
+ECO     102 Principles of Economics II 2
+
+
+SOC     102 Introduction to Sociology II 2
+
+PSC              102 Introduction to Political Science II 2
+
+GEO 201     Contemporary Philosophy and Methodology of Geography 2
+
+GEO 211  Development and Structural Basis of Geomorphology 2
+
+GEO 213 The Physical Basis of Climate 2
+
+GEO 215 Introduction to Biogeography 2
+
+
+GEO 231 Introduction to Cartography 2
+
+GEO 271 Spatial Patterns of Land use 2
+
+GSP 201 Introduction to Peace and Conflict Resolution 2
+GSP 207 Humanities I    2
+
+ECO 201                Micro Economic Theory I 2
+ANT 303               Nigerian People and Cultures  3
+
+GLG 103               Basic and Applied Geology for Environmental And Physical Sciences 3
+
+MTH   111              Elementary Mathematics I                                                           3
+
+GEO 202 Contemporary Philosophy and Methodology of Geog II 2
+GEO 212 Geomorphological Processes and Forms    2
+
+
+GEO 214 Climatic Systems and Regional Climates      2
+
+GEO 216 Principles of Biogeography 2
+
+GEO 222 Statistical Inference from Geographic Data 2
+
+
+GEO 234 Introduction to Geographic Information Systems      2
+
+
+GEO 242 Introduction to Population Geography    2
+
+GSP 208 Humanities II 2
+GSP 202 Peace and conflict Resolution 2
+
+ECO 203 Micro Economic Theory I 2
+ECO 204 Micro Economic Theory II    2
+MTH 113 Elementary Mathematics I    3
+
+GLG 141 Earth History 3
+
+PSY   242 Psychology of Ethnicity and Ethnic Groups 2
+ECO   202   Micro Economic Theory II    2
+
+GEO 321 Multivariate Statistical Analysis in Geography 2
+GEO 333 Application of Geographic Information Systems   2
+
+
+GEO 331 Thematic Cartography 2
+
+GEO 341 Principles and Methods of Population Geography 2 
+
+GEO 343 Settlement Geography 2
+
+GEO 351 Economic Geography 2
+
+GEO 373 Geographical Regions of Africa 2
+
+GEO   311 Principles of Hydrology       2
+GEO   313 Runoff Processes in Drainage Basin 2
+
+GEO   335 Environmental Remote Sensing  2
+GEO   337 Aerial Photo Interpretation       2
+GEO 353  Land Resource Evaluation       2
+GEO 363 Soil Conservation and Protection        2
+
+GEO   309	Research Design and Methodology in Geography	2
+GEO   384	Geography Field Course I	3
+GEO 386	Geography Field Course II	3
+GEO   388	Students Industrial Work Experiences (SIWES)	10
+
+GEO 431                  Advanced Cartographic Methods I    2
+GEO 461                  Environmental Protection and Management    2
+
+GEO 453                  The Developing World   2
+
+GEO 471                  Geographical Regions of Nigeria    2
+
+GEO 477                  Geography in Regional Planning 3
+
+GEO 479                  Spatial Analysis and Modeling  2
+CED 341                    Introduction to Entrepreneurship I   2
+GEO 411                 Geomorphology of the Tropics 2
+GEO 413                 Weather and Climate in the Tropics 2
+
+GEO 415                 Tropical Vegetation Resource Analysis 2
+
+GEO 417                 Urban Hydrological Problems 2
+
+GEO 465                 Geography of Water Resources    2
+GEO 441                 Urbanization and Development    2
+
+GEO 443                 Rural Environment, Development and Sustainability   2
+
+GEO 447                 Techniques and Models in Population Geography   2
+GEO 451                  Development of Transportation Systems  2
+GEO 457                  Industrial Location and Models 2
+GEO 455                 Principles of Agricultural Geography    2
+
+GEO 475                 Principles of Political Geography       2
+
+
+GEO 432         Advanced Cartographic Methods II    2
+GEO 446         Theories and Applications in Population Geography   2
+GEO 454         The Developed World 2
+
+GEO 472         Geography of Nigerian Development   2
+
+
+GEO 474     Theories and Applications in Spatial Management 2
+GEO 492	Project	6	
+CED 342	Introduction to Entrepreneurship II	2
+GEO 412              Applied Geomorphology 2
+
+GEO 414              Applied Climatology    2
+
+GEO 416              Ecosystem Management   2
+
+GEO 418              Hydrological Measurements and Network Design   2
+
+GEO 466              Water Resources Development and Management 2
+GEO 442              Internal Structure of the City 2
+
+GEO 444              Rural Development Planning 2
+
+GEO 448               Population and Resource Development   2
+GEO 452              Transportation Development Problems and Planning.  2
+GEO 458              Industrial Systems and Development 2
+
+GEO 456              Agricultural Resources of the Humid Tropics    2
+
+GEO 476              The Political Organization of Space    
+

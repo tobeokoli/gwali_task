@@ -1,0 +1,77 @@
+[
+  {
+    "department_prefix": "LIS",
+    "course_number": "102",
+    "course_title": "HISTORY OF LIBRARIES"
+  },
+  {
+    "department_prefix": "LIS",
+    "course_number": "104",
+    "course_title": "INTRO. TO LIBRARY RES. & SERVICES"
+  },
+  {
+    "department_prefix": "LIS",
+    "course_number": "212",
+    "course_title": "ORGANIZATION OF KNOWLEDGE I"
+  },
+  {
+    "department_prefix": "LIS",
+    "course_number": "232",
+    "course_title": "INTRODUCTION TO BIBLIOGRAPHY"
+  },
+  {
+    "department_prefix": "LIS",
+    "course_number": "252",
+    "course_title": "COMPUTERS AND DATA PROCESSING"
+  },
+  {
+    "department_prefix": "LIS",
+    "course_number": "234",
+    "course_title": "INFORMATION USERS"
+  },
+  {
+    "department_prefix": "LIS",
+    "course_number": "242",
+    "course_title": "LIB. WORK WITH CHILDREN & YOUTH"
+  },
+  {
+    "department_prefix": "LIS",
+    "course_number": "402",
+    "course_title": "CONTEMP. TECH. IN LIBRARIES"
+  },
+  {
+    "department_prefix": "LIS",
+    "course_number": "412",
+    "course_title": "INDEXING AND ABSTRACTING"
+  },
+  {
+    "department_prefix": "LIS",
+    "course_number": "404",
+    "course_title": "PUBLISHING & BOOK PRODUCTION"
+  },
+  {
+    "department_prefix": "LIS",
+    "course_number": "414",
+    "course_title": "PRESERVATION & CONSERVATION OF LIB. MATERIALS"
+  },
+  {
+    "department_prefix": "LIS",
+    "course_number": "422",
+    "course_title": "GOVERNMENT & SERIALS PUBLICATIONS"
+  },
+  {
+    "department_prefix": "LIS",
+    "course_number": "424",
+    "course_title": "CHILDRENS LITERATURE"
+  },
+  {
+    "department_prefix": "LIS",
+    "course_number": "444",
+    "course_title": "INTER LIBRARY COOPERATION & INFORMATION NETWORKS"
+  },
+  {
+    "department_prefix": "LIS",
+    "course_number": "448",
+    "course_title": "LIBRARY MARKETING & PUBLIC RELATIONS"
+  }
+]

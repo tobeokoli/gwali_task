@@ -1,0 +1,75 @@
+ADE 101	Introduction to Adult and Non-Formal Education	2
+ADE 111	Adult Learning and Group Behaviour	2
+ADE 121	Adult Education and Community Development	2
+ADE 131	Structures in Adult Education	2
+ADE 141	Historical Background of Adult Literacy Education	2
+ADE 151	Introduction to Distance Education	2
+ADE 161	Introduction to Labour and Cooperative Education	2	 	 
+EDU 102	History of Education	2
+GSP 101	Use of English	2
+GSP 105	Natural Sciences I	2
+ADE 122	Introduction to Community Development	2
+ADE 132	History of Adult Education in Industrialized Countries	2
+ADE 142	Special Methods of Teaching Adults	2
+ADE 152	 Foundations of Instructional Design	 2
+ADE 162	Adult Education and Labour Dev. in Nigeria	2 	 
+EDU 205	Sociology of Education	2
+GSP 102	Use of English II	2
+GSP 106 Natural Sciences II	2
+ADE 201	Philosophy of Adult Education	2
+ADE 221	Socio-Cultural Aspects of Community Dev.	2
+ADE 231	Policy and Design in Adult Education	2
+ADE 241	Indigenous Communication Strategies in Adult Edu.	2
+ADE 251	Foundations of Extension Education	2
+ADE 261	Cooperative Edu. and Adults Experiential Learning	2
+COS 101	Introduction to Computer Science	2
+EDU 211	Educational Psychology I	2
+EDU 221	Curriculum Development: Theory and Planning	3 
+GSP 201	Peace and Conflict Resolution I	2
+GSP 207 Humanities I	2
+ADE 206	Practicum in Adult Education	2
+ADE 222	Primary Health Care & Non-Formal Education	2
+ADE 232	Politics in the Administration of Adult Education	2
+ADE 242	Development of Learning Materials	2
+ADE 252	Introduction to Open Learning and Lifelong Education	2
+ADE 262	Career Motivation & Achievements in a Globalized World	2
+ADE 272	Data Processing in Adult Education	2
+EDU 224	Educational Technology	2
+GSP 202	Peace and Conflict Resolution II	2
+GSP 208 Humanities II	2
+ADE 313	Learning Teaching and Communication	2
+ADE 321	Community Development: Theory and Practice I	2
+ADE 323	Situation Analysis and Interaction in Adult Edu.	2
+ADE 325	Community Education	2
+ADE 327	Economics of Adult Edu., Community Dev. & S.W	2
+ADE 331	Financing Adult Education	2
+ADE 371	Research and Evaluation in Adult Education	2
+EDU 321	Curriculum Development and Instruction	3
+EDU 311	Educational Psychology I	2
+CED 301 Introduction to Entrepreneurship	2
+ADE 320	Adult Education and Society I	2
+ADE 322	Approaches to Rural Development	2
+ADE 324	Communication and Media Techniques in Com. Dev.	2
+ADE 326	Agencies and Institutions for Community Dev.	2
+ADE 328	Field Trips in Community Development	2
+COS 304	Computer Applications	2
+CED 342	Business Development & Management	2
+EDU 306 Teaching Practice I	3
+ADE 411	Motivation in Adult Education	2
+ADE 421	Community Development: Theory & Practice II	2
+ADE 423	Rural Sociology	2
+ADE 425	Issues in Environmental Adult Education	2
+ADE 427	Population Trends and Policies	2
+ADE 435	Adult Education and International Scene	2
+ADE 481	Seminar	2
+ADE 420	Adult Education and Society II	2
+ADE 422	Rural Development Programming	2
+ADE 424	Rural Education and National Development	2
+ADE 426	Disaster Management in Community	2
+ADE 428	Pre-Retirement Education	2
+ADE 472	Case Studies in Adult Education	2
+ADE 490	Project	4
+
+
+
+

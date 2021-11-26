@@ -1,0 +1,90 @@
+CHM   101                  Basic Principles of Chemistry I                                              2
+CHM   171                  Basic Practical Chemistry                                                       2
+PHY    101                  General Physics for Life Sciences I                                        2
+PHY    191                  Practical Physics                                                                        2
+BIO     151                  General Biology I                                                                       3
+MTH   111                  Elementary Mathematics I                                                      3
+GSP     101                  The Use of English I                                                                  2
+GSP     103                  Social Sciences I                                                                        2
+AGR   201                  Introduction to Agriculture                                                    3
+FVM   192                  Basics to Veterinary Medicine                                                2
+CHM   112                  Basic Principles of Chemistry II                                             2
+CHM   122                  Basic Principles of Chemistry III                                           2
+BIO     152                  General Biology II                                                                     3
+BIO     153                  General Biology (Practical)                                                     2
+PHY    102                  General Physics for Life Sciences II                                      2
+PHY    103                  General Physics for Life Sciences III                                     2
+GSP     102                  The Use of English II                                                               2
+GSP     104                  Social Sciences II                                                                      2
+VAN   201                  Introductory Veterinary Anatomy                                                     5
+VPP     211                  Introductory Physiology, Blood, Cardiovascular Respiratory Systems and Comparative Physiology of Gastro-intestinal tract                                                                                                           5
+VPP     213                  Introductory Veterinary Biochemistry                                              4
+GSP     101                  Use of English I (Direct Entry Students)                                           2
+GSP     207                  Humanities I                                                                                           2
+COS    101                  Introduction to Computer Science                                                      2
+VAN   202                  Basic Splanchnology                                                                          6
+VAN   204                  Veterinary Embryology                                                                     4
+VPP     214                  General Veterinary Biochemistry                                                   4
+VPP     212                  Neuromuscular Systems, Sense Organs, and Environmental Physiology                                                                                                     4
+GSP     102                  The Use of English II (Direct Entry Students)                             2
+GSP     208                  Humanities II                                                                                     2
+VAN   301                  Veterinary Histology                                                                         4
+VPP     311                  Veterinary Biochemistry of body fluid                                         4
+VPP     313                  Renal Function and Body fluid, Reproduction and Endocrinology                                                                                                                        4
+AHP    331                  General Principles of Animal Production, Genetics and Breeding                                                                                                                          3
+AGE    201                  Principles of Agricultural Economics (DE)                                 4
+BED    101                  Elements of business                                                                        2
+VPP     312                  General Veterinary Pharmacology                                                 3
+AHP    332                  Principles of Animal Nutrition in Health                                    3
+VPM   342                  General Veterinary Microbiology                                                 3
+VPE    352                  Veterinary Helminthology 1                                                           3
+VPM   344                  General Veterinary Pathology                                                       5
+VPM   346                  General Veterinary                                                                         2
+VPP     411                  Systemic Veterinary Pharmacology                                               2
+AHP   431                 Small Ruminant and Micro livestock Health & Management                                                                                                                          3
+VPM   441                  Veterinary                                                                                           2
+VPM   443                  Veterinary Mycology                                                                        2
+VPM   445                  Veterinary Virology                                                                         2
+VPE    451                  Veterinary Helminthology II                                                         4
+VPE    453                  Veterinary Entomology                                                                  2
+VPE    455                  Veterinary Protozoology                                                                2
+VPM   447                  Pathology of the Haematopoietic, Cardiovascular, Respiratory and Sensory Systems                                                                                   2
+VPE    457                  Parasitic Immunology                                                                   2
+VPP     412                  Veterinary Chemotherapy                                                                2
+VPP     414                  Veterinary Toxicology                                                                       2
+AHP   432                              Large Ruminant Health & Management                          2
+VPM   442                  Pathology of the Digestive and Urinogenital systems               2
+VPM   444                  Pathology of the Integumentary, Musculoskeletal, and
+VPM   446                  Pathology of Bacterial, Viral, and, Poultry diseases                  2
+VPM   448                  Pathology of Fungal, Protozoan, Parasitic, Nutritional,
+VMD   462                  Introduction to Medicine/Diagnostic                                        2
+VSR    482                  Introductory Veterinary Surgery                                                 3
+VSR    484                  Veterinary Anaesthesiology                                                          2
+VOR   472                  Veterinary Gynaecology                                                                 3
+VPH    521                  Zoonosis and Environmental Health                                            2
+VPH    523                  Meat, Milk and Fish Hygiene                                                         2
+VPH    525                  Epidemiology & Veterinary Economics                                      2
+VPH    527                  Biostatistics & Computer Application                                         2
+VPH    529                  Veterinary Preventive Medicine & Jurisprudence                   2
+AHP    531                  Swine & Poultry Health Managt and Monogastrics                 2
+VMD   561                  Equine Medicine                                                                             2
+VMD   563                  Porcine Medicine                                                                            2
+VOR   571                  Andrology& Artificial Insemination                                             2
+VOR   573                  Obstetrics, Udder Health Management, Mastitis &
+VSR    581                  Large Animal Surgery                                                                    2
+VMD   562                  Ruminant Medicine                                                                   3
+VMD   564                  Small Animal Medicine                                                            2
+VMD   566                  Avian Medicine                                                                          2
+VMD   568                  Aquatic, Laboratory and Wildlife Medicine                        2
+VSR    582                  Veterinary Radiology, Tomogr. & Ultrasonography          4
+VSR    584                  Small Animal Surgery                                                              3
+VSR    586                  Orthopaedics and Lameness                                                  3
+VAN   502                  Applied Anatomy                                                                      2
+VPP     611                  Veterinary Clinical Pharmacology & Toxicology                   1
+VPE    651                  Veterinary Clinical Parasitology                                               1
+FVM   691                  Clinics I                                                                                        20
+FVM   693                  Project I                                                                                        3
+VPM   641                  Veterinary Clinical Pathology (Haematology&
+VOR   671                  Theriogenology Clinics                                                              1
+FVM   692                  Clinics II                                                                                 20
+FVM   694                  Project II                                                                                 3

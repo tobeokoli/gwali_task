@@ -1,0 +1,15 @@
+LIS 102	History of Libraries	2
+LIS 104	Intro. To Library Res. & Services	3
+LIS 212	Organization of Knowledge I	3
+LIS 232	Introduction to Bibliography	2
+LIS 252	Computers and Data Processing	2
+LIS 234	Information Users	2
+LIS 242	Lib. Work with Children & Youth	2
+LIS 402	Contemp. Tech. in Libraries	2
+LIS 412	Indexing and Abstracting	2
+LIS 404	Publishing & Book Production	2
+LIS 414	Preservation & Conservation of Lib. Materials	2
+LIS 422	Government & Serials Publications	2
+LIS 424	Childrens Literature	2
+LIS 444	Inter Library cooperation & Information networks	2
+LIS 448	Library Marketing & Public Relations	2

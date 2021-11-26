@@ -1,0 +1,692 @@
+[
+    {
+        "department_prefix": "AGR",
+        "course_number": "101",
+        "course_title": "BIOMATHEMATICS"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "101",
+        "course_title": "BASIC PRINCIPLES OF CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "171",
+        "course_title": "BASIC PRACTICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "BIO",
+        "course_number": "151",
+        "course_title": "GENERAL BIOLOGY 1"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "III",
+        "course_title": "GENERAL MATHEMATICS"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "101",
+        "course_title": "COMMUNICATION IN ENGLISH I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "111",
+        "course_title": "USE OF LIBRARY & STUDY SKILLS"
+    },
+    {
+        "department_prefix": "AGR",
+        "course_number": "102",
+        "course_title": "AGRIC. PHYSICS"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "112",
+        "course_title": "BASIC PRINCIPLES OF CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "122",
+        "course_title": "BASIC PRINCIPLES OF ORGANIC CHEMISTRY III"
+    },
+    {
+        "department_prefix": "BIO",
+        "course_number": "152",
+        "course_title": "GENERAL BIOLOGY II"
+    },
+    {
+        "department_prefix": "BIO",
+        "course_number": "153",
+        "course_title": "GENERAL BIOLOGY (PRACTICAL)"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "102",
+        "course_title": "COMMUNICATION IN ENGLISH II"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "211",
+        "course_title": "PRINCIPLES OF FORESTRY"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "221",
+        "course_title": "CROP ANATOMY, TAXONOMY & PHYSIOLOGY"
+    },
+    {
+        "department_prefix": "AGR",
+        "course_number": "201",
+        "course_title": "GENERAL AGRICULTURE"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "211",
+        "course_title": "PRINCIPLES OF SOIL SCIENCE"
+    },
+    {
+        "department_prefix": "ANS",
+        "course_number": "241",
+        "course_title": "NUTRITION, ANATOMY & PHYSIOLOGY OF FARM ANIMALS"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "BASIC CONCEPTS AND THEORY OF PEACE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "HUMANITIES 1"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "222",
+        "course_title": "PRINCIPLES OF CROP PRODUCTION"
+    },
+    {
+        "department_prefix": "FST",
+        "course_number": "102",
+        "course_title": "INTRODUCTION TO FOOD SCIENCE & TECHNOLOGY"
+    },
+    {
+        "department_prefix": "AEC",
+        "course_number": "202",
+        "course_title": "PRINCIPLES OF AGRICULTURAL ECONOMICS"
+    },
+    {
+        "department_prefix": "ANS",
+        "course_number": "222",
+        "course_title": "INTRODUCTION TO AGRICULTURAL BIOCHEMISTRY"
+    },
+    {
+        "department_prefix": "ANS",
+        "course_number": "274",
+        "course_title": "PRINCIPLES OF ANIMAL PRODUCTION"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "242",
+        "course_title": "CLIMATOLOGY AND BIOGEOGRAPHY"
+    },
+    {
+        "department_prefix": "ANS",
+        "course_number": "272",
+        "course_title": "INTRODUCTION TO FISHERIES AND WILDLIFE MANAGEMENT"
+    },
+    {
+        "department_prefix": "HND",
+        "course_number": "102",
+        "course_title": "INTRODUCTION TO HOME SCIENCE, NUTRITION & DIETETICS"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "ISSUES IN PEACE & CONFLICT RESOLUTION STUDIES"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "HUMANITIES II"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "321",
+        "course_title": "ARABLE CROP PRODUCTION"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "331",
+        "course_title": "PRINCIPLES OF CROP PROTECTION"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "201",
+        "course_title": "COMPUTER PROGRAMMING I"
+    },
+    {
+        "department_prefix": "AEC",
+        "course_number": "301",
+        "course_title": "BASIC FARM MANAGEMENT & PRODUCTION ECONOMICS"
+    },
+    {
+        "department_prefix": "AEX",
+        "course_number": "311",
+        "course_title": "INTRODUCTION TO AGRIC. EXTENSION & RURAL SOCIOLOGY"
+    },
+    {
+        "department_prefix": "ANS",
+        "course_number": "371",
+        "course_title": "NON-RUMINANT ANIMAL PRODUCTION"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "341",
+        "course_title": "INTRODUCTION TO ENTREPRENEURSHIP I"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "321",
+        "course_title": "PAEDOLOGY"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "322",
+        "course_title": "CROP GENETICS AND BREEDING"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "342",
+        "course_title": "PERMANENT CROP PRODUCTION"
+    },
+    {
+        "department_prefix": "AGR",
+        "course_number": "302",
+        "course_title": "AGRICULTURAL STATISTICS AND DATA PROCESSING"
+    },
+    {
+        "department_prefix": "AEX",
+        "course_number": "312",
+        "course_title": "EXTENSION TEACHING METHODS"
+    },
+    {
+        "department_prefix": "ANS",
+        "course_number": "322",
+        "course_title": "AGRICULTURAL BIOCHEMISTRY AND METHODS"
+    },
+    {
+        "department_prefix": "ANS",
+        "course_number": "332",
+        "course_title": "ANIMAL GENETICS AND BREEDING"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "362",
+        "course_title": "SOIL CHEMISTRY AND MICROBIOLOGY"
+    },
+    {
+        "department_prefix": "ANS",
+        "course_number": "372",
+        "course_title": "RUMINANT ANIMAL PRODUCTION"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "342",
+        "course_title": "INTRODUCTION TO ENTREPRENEURSHIP II"
+    },
+    {
+        "department_prefix": "ABE",
+        "course_number": "306",
+        "course_title": "INTRODUCTION TO FARM MACHINERY"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "421",
+        "course_title": "CROP PRODUCTION TECHNIQUES"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "431",
+        "course_title": "CROP PROTECTION AND PEST CONTROL"
+    },
+    {
+        "department_prefix": "AGR",
+        "course_number": "401",
+        "course_title": "AGRICULTURAL PRODUCTS STORAGE"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "431",
+        "course_title": "FARM DESIGN, SURVEY, & LAND USE PLANNING"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "441",
+        "course_title": "AGRIC. METEOROLOGY, IRRIGATION AND DRAINAGE"
+    },
+    {
+        "department_prefix": "ANS",
+        "course_number": "471",
+        "course_title": "ANIMAL HUSBANDRY TECHNIQUES"
+    },
+    {
+        "department_prefix": "AGR",
+        "course_number": "402",
+        "course_title": "FARM WORK PROJECT AND REPORT WRITING"
+    },
+    {
+        "department_prefix": "AEX",
+        "course_number": "412",
+        "course_title": "EXTENSION PRACTICES"
+    },
+    {
+        "department_prefix": "AEC",
+        "course_number": "422",
+        "course_title": "FARM MANAGEMENT AND ACCOUNTING PRACTICE"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "462",
+        "course_title": "SOIL FERTILITY, SOIL AND WATER MANAGEMENT"
+    },
+    {
+        "department_prefix": "ABE",
+        "course_number": "412",
+        "course_title": "AGRICULTURAL ENGINEERING PRACTICAL"
+    },
+    {
+        "department_prefix": "FVM",
+        "course_number": "433",
+        "course_title": "ANIMAL HEALTH AND MANAGEMENT"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "511",
+        "course_title": "FIELD EXPERIMENTATION AND DATA ANALYSIS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "521",
+        "course_title": "FIELD CROPS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "531",
+        "course_title": "PLANT PROTECTION"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "541",
+        "course_title": "VEGETABLE CROPS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "533",
+        "course_title": "ECONOMIC ENTOMOLOGY"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "531",
+        "course_title": "SOIL SURVEY AND LAND USE PLANNING"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "541",
+        "course_title": "SOIL PHYSICS"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "561",
+        "course_title": "SOIL CHEMISTRY"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "562",
+        "course_title": "SOIL AND PLANT ANALYSIS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "512",
+        "course_title": "PLANT NUTRITION"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "522",
+        "course_title": "FORAGE AND FODDER CROPS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "524",
+        "course_title": "PLANT BREEDING AND GENETICS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "534",
+        "course_title": "WEED SCIENCE"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "542",
+        "course_title": "PLANTATION CROPS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "544",
+        "course_title": "POST HARVEST PHYSIOLOGY AND PRODUCT STORAGE"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "552",
+        "course_title": "SPECIAL PROJECT"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "542",
+        "course_title": "PRINCIPLES OF IRRIGATION AND DRAINAGE"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "563",
+        "course_title": "SOIL FERTILITY"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "511",
+        "course_title": "FIELD EXPERIMENTATION AND DATA ANALYSIS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "521",
+        "course_title": "FIELD CROPS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "531",
+        "course_title": "PLANT PROTECTION"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "533",
+        "course_title": "ECONOMIC ENTOMOLOGY"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "541",
+        "course_title": "VEGETABLE CROPS"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "531",
+        "course_title": "SOIL SURVEY AND LAND USE PLANNING"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "561",
+        "course_title": "SOIL CHEMISTRY"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "563",
+        "course_title": "SOIL AND PLANT ANALYSIS"
+    },
+    {
+        "department_prefix": "ANS",
+        "course_number": "541",
+        "course_title": "SOIL PHYSICS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "512",
+        "course_title": "PLANT NUTRITION"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "522",
+        "course_title": "FORAGE AND FODDER CROPS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "524",
+        "course_title": "PLANT BREEDING AND GENETICS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "534",
+        "course_title": "WEED SCIENCE"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "542",
+        "course_title": "PLANTATION CROPS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "544",
+        "course_title": "POST HARVEST PHYSIOLOGY AND PRODUCT STORAGE"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "592",
+        "course_title": "SPECIAL PROJECT"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "542",
+        "course_title": "PRINCIPLES OF IRRIGATION AND DRAINAGE"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "563",
+        "course_title": "SOIL FERTILITY"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "511",
+        "course_title": "FIELD EXPERIMENTATION AND DATA ANALYSIS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "531",
+        "course_title": "FIELD CROPS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "541",
+        "course_title": "VEGETABLE"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "543",
+        "course_title": "PLANT PROPAGATION"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "521",
+        "course_title": "FIELD CROPS"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "531",
+        "course_title": "SOIL SURVEY AND LAND USE PLANNING"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "561",
+        "course_title": "SOIL CHEMISTRY"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "541",
+        "course_title": "SOIL PHYSICS"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "562",
+        "course_title": "SOIL & PLANT ANALYSIS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "512",
+        "course_title": "PLANT NUTRITION"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "522",
+        "course_title": "FORAGE AND FODDER CROPS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "524",
+        "course_title": "PLANT BREEDING AND GENETICS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "534",
+        "course_title": "WEED SCIENCE"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "542",
+        "course_title": "PLANTATION CROPS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "544",
+        "course_title": "POST HARVEST PHYSIOLOGY AND PRODUCT STORAGE"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "592",
+        "course_title": "SPECIAL PROJECT"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "542",
+        "course_title": "PRINCIPLES OF IRRIGATION AND DRAINAGE"
+    },
+    {
+        "department_prefix": "SSC",
+        "course_number": "563",
+        "course_title": "SOIL FERTILITY"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "211",
+        "course_title": "PRINCIPLES OF FORESTRY"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "221",
+        "course_title": "CROP ANATOMY, TAXONOMY & PHYSIOLOGY"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "222",
+        "course_title": "PRINCIPLES OF CROP PRODUCTION"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "321",
+        "course_title": "ARABLE CROP PRODUCTION"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "331",
+        "course_title": "PRINCIPLES OF CROP PROTECTION"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "322",
+        "course_title": "CROP GENETICS AND BREEDING"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "342",
+        "course_title": "PERMANENT CROP PRODUCTION"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "421",
+        "course_title": "CROP PRODUCTION TECHNIQUES"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "431",
+        "course_title": "CROP PROTECTION AND PEST CONTROL"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "511",
+        "course_title": "FIELD EXPERIMENTATION AND DATA ANALYSIS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "521",
+        "course_title": "FIELD CROP"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "531",
+        "course_title": "PLANT PROTECTION"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "533",
+        "course_title": "ECONOMIC ENTOMOLOGY"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "551",
+        "course_title": "GENERAL PRINCIPLES OF BIOTECHNOLOGY"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "561",
+        "course_title": "SEMINAR"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "512",
+        "course_title": "PLANT NUTRITION"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "524",
+        "course_title": "PLANT BREEDING AND GENETICS (INCLUDING SEED PRODUCTION)"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "534",
+        "course_title": "WEED SCIENCE"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "541",
+        "course_title": "VEGETABLE CROPS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "543",
+        "course_title": "PLANT PROPAGATION"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "542",
+        "course_title": "PLANTATION CROPS"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "544",
+        "course_title": "POST HARVEST PHYSIOLOGY AND PRODUCT STORAGE"
+    },
+    {
+        "department_prefix": "CSC",
+        "course_number": "572",
+        "course_title": "SPECIAL PROJECT"
+    }
+]

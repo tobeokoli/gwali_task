@@ -1,0 +1,241 @@
+AGR 101                      Biomathematics                                                                                 2
+CHM 101                    Basic Principles of Chemistry                                                             2
+
+CHM 171                    Basic Practical Chemistry                                                                   2
+
+BIO 151                      General Biology 1                                                                              3
+
+MTH III                      General Mathematics                                                                          3
+
+GSP 101                     Communication in English I                                                                2
+
+GSP 111                     Use of Library & study skills                                                              2
+
+AGR 102                    Agric. Physics                                                                                      4
+CHM 112                   Basic Principles of Chemistry II                                                          2
+
+CHM 122                   Basic Principles of Organic Chemistry III                                          2
+
+BIO 152                     General Biology II                                                                               3
+
+BIO 153                      General Biology (Practical)                                                                 2
+GSP 102                      Communication in English II                                                              2
+
+
+ 
+CSC 211                     Principles of Forestry                                                                          2
+
+CSC 221                     Crop Anatomy, Taxonomy & Physiology                                           2
+
+AGR 201                    General Agriculture                                                                             3
+
+COS 101                    Introduction to Computer Science                                                      2
+
+SSC 211                     Principles of Soil Science                                                                     2
+
+ANS 241                    Nutrition, Anatomy & Physiology of Farm Animals                           2
+GSP 201             Basic Concepts and theory of Peace                                                 2
+
+GSP 207                        Humanities 1                                                                                        2
+CSC 222                     Principles of Crop Production                                                             2
+
+FST 102                      Introduction to Food Science & Technology                                      2
+
+AEC 202                    Principles of Agricultural Economics                                                  4
+
+ANS 222                    Introduction to Agricultural Biochemistry                                          2
+
+ANS 274                    Principles of Animal Production                                                          2
+
+SSC 242                     Climatology and Biogeography                                                           3
+
+ANS 272                    Introduction to Fisheries and Wildlife Management                           2
+
+HND 102                   Introduction to Home Science, Nutrition & Dietetics                         2
+GSP 202                     Issues in Peace & conflict Resolution Studies                                    2
+
+GSP 208                     Humanities II                                                                                       2
+CSC 321                     Arable Crop Production                                                                      2
+
+CSC 331                     Principles of Crop Protection                                                              2
+COS 201                    Computer Programming I                                                                    2
+
+AEC 301                    Basic Farm Management & Production Economics                            3
+
+AEX 311                    Introduction to Agric. Extension & Rural Sociology                          2
+
+ANS 371                    Non-ruminant Animal Production                                                       2
+
+CED 341                    Introduction to Entrepreneurship I                                                      2
+
+SSC 321                     Paedology                                                                                            2
+CSC 322                    Crop Genetics and Breeding                                                               2
+
+CSC 342                                                    Permanent Crop Production          2
+AGR 302                     Agricultural Statistics and Data Processing                                        2
+
+AEX 312                    Extension Teaching Methods                                                              2
+
+ANS 322                    Agricultural Biochemistry and Methods                                             2
+
+ANS 332                    Animal Genetics and Breeding                                                            2
+
+SSC  362                    Soil Chemistry and Microbiology                                                        2
+
+ANS 372                    Ruminant Animal Production                                                              2
+
+CED 342                    Introduction to Entrepreneurship II                                                    2
+
+ABE 306                    Introduction to Farm Machinery                                                         2
+
+ 
+CSC 421            Crop Production Techniques                                            4
+
+CSC 431          Crop Protection and Pest Control                                       2
+AGR 401                                               Agricultural Products Storage          2
+
+SSC 431                          Farm Design, Survey, & Land Use Planning          2
+
+SSC 441                         Agric. Meteorology, Irrigation and Drainage          2
+
+ANS 471                                              Animal Husbandry Techniques          3
+AGR 402	Farm Work Project and Report Writing	6
+AEX 412	Extension Practices	2
+AEC	422	Farm Management and Accounting Practice	2
+SSC	462	Soil Fertility, Soil and Water Management	2
+ABE	412	Agricultural Engineering Practical	2
+FVM	433	Animal Health and Management	2
+CSC 511                      Field Experimentation and Data Analysis                              2
+
+CSC 521                      Field Crops                                                                             2
+
+CSC 531                      Plant Protection                                                                                  2
+
+CSC 541                      Vegetable Crops                                                                                 2
+
+CSC 533                      Economic Entomology                                                           2
+
+SSC 531                      Soil Survey and land Use Planning                                         2
+
+SSC 541                      Soil Physics                                                                             2
+
+SSC 561                      Soil Chemistry                                                                         2
+
+SSC 562                      Soil and Plant Analysis                                                           2
+
+
+ 
+
+CSC 512                      Plant Nutrition                                                                                    1
+
+CSC 522                      Forage and Fodder Crops                                                       2
+
+CSC 524                     Plant Breeding and Genetics                                                  2
+
+CSC 534                     Weed Science                                                                                     2
+
+CSC 542                      Plantation Crops                                                                     2
+
+CSC 544                      Post harvest Physiology and Product Storage                        2
+
+CSC 552                      Special Project                                                                        4
+
+SSC 542                     Principles of Irrigation and Drainage                                      2
+
+SSC 563                     Soil fertility                                                                             1
+
+CSC 511          Field Experimentation and Data Analysis              2
+
+CSC 521                     Field Crops                                                                                          2
+
+CSC 531                     Plant Protection                                                                                   2
+
+CSC 533                     Economic Entomology                                                                        2
+
+CSC 541                     Vegetable Crops                                                                                  2
+
+SSC 531                                         Soil Survey and land Use Planning          2
+
+SSC 561                                                                         Soil Chemistry          2
+
+SSC 563                                                           Soil and Plant Analysis          2
+
+ANS 541                                                                              Soil Physics          2
+
+CSC    512	Plant Nutrition	1
+CSC    522	Forage and Fodder Crops	2
+CSC	524	Plant Breeding and Genetics	2
+CSC	534	Weed Science	2
+CSC	542	Plantation Crops	2
+CSC	544	Post Harvest Physiology and Product Storage	2
+CSC	592	Special Project	4
+SSC 542                     Principles of Irrigation and Drainage                                              2
+
+SSC 563                     Soil Fertility                                                                                         1
+CSC 511          Field Experimentation and Data Analysis                                          2
+
+CSC 531                     Field Crops                                                                                          2
+
+CSC 541                     Vegetable                                                                                            2
+
+CSC 543                     Plant Propagation                                                                                2
+
+CSC 521                     Field Crops                                                                                          2
+SSC 531                                         Soil Survey and land Use Planning          2
+
+SSC 561                                                                         Soil Chemistry          2
+
+SSC 541                                                                             Soil Physics          2
+
+SSC 562                                                              Soil & Plant Analysis          2
+
+CSC    512	Plant Nutrition	1
+CSC    522	Forage and Fodder Crops	2
+CSC	524	Plant Breeding and Genetics	2
+CSC	534	Weed Science	2
+CSC	542	Plantation Crops	2
+CSC	544	Post Harvest Physiology and Product Storage	2
+CSC	592	Special Project	4
+SSC 542                     Principles of Irrigation and Drainage                                         2
+
+SSC 563                     Soil fertility                                                                                         1
+CSC 211 Principles of Forestry 2
+
+CSC 221 Crop Anatomy, Taxonomy & Physiology                                                                                (2unit)
+CSC 222  Principles of Crop Production                                                                                                    (2units)
+CSC 321 Arable Crop Production                                                                                                                   (2units)
+CSC 331  Principles of Crop Protection                                                                                                       (2units)
+CSC 322 Crop Genetics and Breeding                                                                                                   (2units)
+
+CSC 342  Permanent Crop Production                                                                                              (2units)
+
+CSC 421 Crop Production Techniques                                                                           (4units)
+
+CSC 431 Crop Protection and Pest Control                                             (2units)
+
+CSC 511 Field Experimentation and Data Analysis                                 (2units)
+
+CSC 521 Field Crop            (2units)
+
+CSC 531 Plant Protection                                                                                       (2units)
+
+CSC 533 Economic Entomology                                                                              (2units)
+
+CSC 551 General Principles of Biotechnology                                                         (2units)
+
+CSC 561 Seminar                                                                                                          (2unit)
+
+CSC 512  Plant Nutrition                                                                                                      (2units)
+
+CSC 524  Plant Breeding and Genetics (Including Seed Production)                    (2units)
+
+CSC 534  Weed Science                                                                                                   (2units)
+
+CSC 541 Vegetable Crops                                                                                                 (2units)
+
+CSC 543  Plant Propagation                                                                                             (2units)
+CSC 542  Plantation Crops                                                                                                (2units)
+
+CSC 544  Post Harvest Physiology and Product Storage                                        (2units)
+
+CSC 572  Special Project                                                                                                       (4units)

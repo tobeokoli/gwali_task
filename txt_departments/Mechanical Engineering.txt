@@ -1,0 +1,101 @@
+ENGR 101	Introduction to Engineering	                 2
+MTH 111	General Mathematics 1	                 3
+MTH 121	General Mathematics 11	                 3
+CHM 101	Basic Principle of Chemistry 1	                 2
+CHM 171	Basic Practical chemistry	                 2
+PHY 121	Fundamentals of Physics	                 3
+PHY 195	Practical physics 11	                 2
+GSP 101	Communication in English 1	                 2
+GSP 111	The Use of Library and Study skill	                 2
+ 
+
+ENGR 102	Applied Mechanics	3
+MTH 122	Elementary Mathematics 111	3
+CHM 112	Basic Principle of Physical Chemistry	2
+CHM 122	Basic Principles of Organic Chemistry	2
+PHY 116	General physics for physical science 11	2
+PHY 124	Fundamentals of Physics 111	3
+GSP 102	Communication in English	2
+ 
+
+ 
+
+
+ENGR 201	Materials of science	2
+ENGR 202	Materials Science Laboratory	1
+MTH 207	Advanced Mathematics VII	2
+CVE 211	Strength of Materials	2
+CVE 212	Strength of Materials Laboratory	1
+EEE 211	Basic Electrical Engineering	3
+MEC 211	Engineering Drawing I	2
+MEC 261	Thermodynamic I	2
+GSP 201	Basic Concept and Theory	2
+GSP 207	Logic, Philosophy and Human Existence	2
+ 
+
+MTH 206	Advance Mathematics VI	2
+MTH 208	Advanced Mathematics VIII	2
+CVE 221	Fluid Mechanics	2
+CVE 222	Fluid Mechanics Laboratory	1
+MEC 212	Work Technology I	2
+EEE 251	Basic Electrical Engineering Lab/Practical	1
+ECE 271	Engineering Computer Programming	3
+ECE 281	Engr�g Computer programming Lab	1
+GSP 202	Issues in Peace & conflict studies	2
+GSP 208	Nigeria Peoples and Culture	2
+ 
+
+STA 205	Statistics for Physical &Engr�g I	2
+CED 341	Introduction to Entrepreneurship	2
+MEC 313	Workshop Practice	2
+MEC 314	Mechanical Engineering Design I	3
+MEC 315	Mechanical Engineering Laboratory  I	4
+MEC 341	Mechanics of machine I	2
+MEC 361	Thermodynamics II	2
+MEC 391	Metallurgy	2
+ 	 	 
+ENGR 301	Engineering Analysis	4
+EE 311	Electrical Engineering II	4
+CED 342	Introduction to Entrepreneurship	2
+MEC 316	Manufacturing Technology	2
+MEC 317	Engineering Drawing II	2
+MEC 331	Advanced Strength of Materials	3
+MEC 343	Measurement and Instrumentation	2
+MEC 351	Mechanics of Fluids I	3
+
+ENGR 401	Computational Methods	3
+MEC 418	Mechanics of Engineering Design II	3
+MEC 441	Mechanics of machines II	2
+MEC 442	Automatic Control	3
+MEC 451	Applied Fluid Mechanics	2
+MEC 461	Applied Thermodynamics	2
+MEC 471	Heat and Mass Transfer	3
+
+ENGR 402	SIWES	10
+MEC 431	Theory of Elasticity	3
+MEC 419	Mechanical Engineering Laboratory II	3
+MEC 481	Technology Development Policy	2
+
+MEC 511	Applied Design	4
+MEC 523	Engr� materials Selection and Economics	3
+MEC 551	Mechanics of Fluids II	3
+MEC 561	Thermodynamics III	3
+MEC 581	Engineering Law and Management	4
+
+MEC 521	B.Eng. project	6
+MEC 591	Engineering Metallurgy	3
+
+MEC 562	Fundamentals of Nuclear Engineering	3
+MEC 568	Power plant Engineering	3
+MEC 569	Energy Conversion Principles	3
+MEC 571	Thermal Engr�g& Advanced Heat Transfer	3
+MEC 573	Refrigeration and Air-conditioning	3
+ 
+
+MEC 512	Manufacturing and tools Engineering	3
+MEC 513	Design of welded and Cast Structures	3
+MEC 531	Theory of Elasticity II	3
+MEC 541	Mechanical Vibrations and control	3
+MEC 542	Systems Engineering	3
+MEC 543	Fluid Power Control Engineering	3
+MEC 549	Instrumentation and Control Engineering	

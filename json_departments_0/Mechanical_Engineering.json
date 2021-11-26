@@ -1,0 +1,412 @@
+[
+  {
+    "department_prefix": "ENGR",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO ENGINEERING"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "111",
+    "course_title": "GENERAL MATHEMATICS 1"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "121",
+    "course_title": "GENERAL MATHEMATICS 11"
+  },
+  {
+    "department_prefix": "CHM",
+    "course_number": "101",
+    "course_title": "BASIC PRINCIPLE OF CHEMISTRY 1"
+  },
+  {
+    "department_prefix": "CHM",
+    "course_number": "171",
+    "course_title": "BASIC PRACTICAL CHEMISTRY"
+  },
+  {
+    "department_prefix": "PHY",
+    "course_number": "121",
+    "course_title": "FUNDAMENTALS OF PHYSICS"
+  },
+  {
+    "department_prefix": "PHY",
+    "course_number": "195",
+    "course_title": "PRACTICAL PHYSICS 11"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "101",
+    "course_title": "COMMUNICATION IN ENGLISH 1"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "111",
+    "course_title": "THE USE OF LIBRARY AND STUDY SKILL"
+  },
+  {
+    "department_prefix": "ENGR",
+    "course_number": "102",
+    "course_title": "APPLIED MECHANICS"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "122",
+    "course_title": "ELEMENTARY MATHEMATICS 111"
+  },
+  {
+    "department_prefix": "CHM",
+    "course_number": "112",
+    "course_title": "BASIC PRINCIPLE OF PHYSICAL CHEMISTRY"
+  },
+  {
+    "department_prefix": "CHM",
+    "course_number": "122",
+    "course_title": "BASIC PRINCIPLES OF ORGANIC CHEMISTRY"
+  },
+  {
+    "department_prefix": "PHY",
+    "course_number": "116",
+    "course_title": "GENERAL PHYSICS FOR PHYSICAL SCIENCE 11"
+  },
+  {
+    "department_prefix": "PHY",
+    "course_number": "124",
+    "course_title": "FUNDAMENTALS OF PHYSICS 111"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "102",
+    "course_title": "COMMUNICATION IN ENGLISH"
+  },
+  {
+    "department_prefix": "ENGR",
+    "course_number": "201",
+    "course_title": "MATERIALS OF SCIENCE"
+  },
+  {
+    "department_prefix": "ENGR",
+    "course_number": "202",
+    "course_title": "MATERIALS SCIENCE LABORATORY"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "207",
+    "course_title": "ADVANCED MATHEMATICS VII"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "211",
+    "course_title": "STRENGTH OF MATERIALS"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "212",
+    "course_title": "STRENGTH OF MATERIALS LABORATORY"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "211",
+    "course_title": "BASIC ELECTRICAL ENGINEERING"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "211",
+    "course_title": "ENGINEERING DRAWING I"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "261",
+    "course_title": "THERMODYNAMIC I"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "201",
+    "course_title": "BASIC CONCEPT AND THEORY"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "207",
+    "course_title": "LOGIC, PHILOSOPHY AND HUMAN EXISTENCE"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "206",
+    "course_title": "ADVANCE MATHEMATICS VI"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "208",
+    "course_title": "ADVANCED MATHEMATICS VIII"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "221",
+    "course_title": "FLUID MECHANICS"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "222",
+    "course_title": "FLUID MECHANICS LABORATORY"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "212",
+    "course_title": "WORK TECHNOLOGY I"
+  },
+  {
+    "department_prefix": "EEE",
+    "course_number": "251",
+    "course_title": "BASIC ELECTRICAL ENGINEERING LAB/PRACTICAL"
+  },
+  {
+    "department_prefix": "ECE",
+    "course_number": "271",
+    "course_title": "ENGINEERING COMPUTER PROGRAMMING"
+  },
+  {
+    "department_prefix": "ECE",
+    "course_number": "281",
+    "course_title": "ENGR\u00cf\u00bf\u00bdG COMPUTER PROGRAMMING LAB"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "202",
+    "course_title": "ISSUES IN PEACE & CONFLICT STUDIES"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "208",
+    "course_title": "NIGERIA PEOPLES AND CULTURE"
+  },
+  {
+    "department_prefix": "STA",
+    "course_number": "205",
+    "course_title": "STATISTICS FOR PHYSICAL &ENGR\u00cf\u00bf\u00bdG I"
+  },
+  {
+    "department_prefix": "CED",
+    "course_number": "341",
+    "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "313",
+    "course_title": "WORKSHOP PRACTICE"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "314",
+    "course_title": "MECHANICAL ENGINEERING DESIGN I"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "315",
+    "course_title": "MECHANICAL ENGINEERING LABORATORY I"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "341",
+    "course_title": "MECHANICS OF MACHINE I"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "361",
+    "course_title": "THERMODYNAMICS II"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "391",
+    "course_title": "METALLURGY"
+  },
+  {
+    "department_prefix": "ENGR",
+    "course_number": "301",
+    "course_title": "ENGINEERING ANALYSIS"
+  },
+  {
+    "department_prefix": "EE",
+    "course_number": "311",
+    "course_title": "ELECTRICAL ENGINEERING II"
+  },
+  {
+    "department_prefix": "CED",
+    "course_number": "342",
+    "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "316",
+    "course_title": "MANUFACTURING TECHNOLOGY"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "317",
+    "course_title": "ENGINEERING DRAWING II"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "331",
+    "course_title": "ADVANCED STRENGTH OF MATERIALS"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "343",
+    "course_title": "MEASUREMENT AND INSTRUMENTATION"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "351",
+    "course_title": "MECHANICS OF FLUIDS I"
+  },
+  {
+    "department_prefix": "ENGR",
+    "course_number": "401",
+    "course_title": "COMPUTATIONAL METHODS"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "418",
+    "course_title": "MECHANICS OF ENGINEERING DESIGN II"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "441",
+    "course_title": "MECHANICS OF MACHINES II"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "442",
+    "course_title": "AUTOMATIC CONTROL"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "451",
+    "course_title": "APPLIED FLUID MECHANICS"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "461",
+    "course_title": "APPLIED THERMODYNAMICS"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "471",
+    "course_title": "HEAT AND MASS TRANSFER"
+  },
+  {
+    "department_prefix": "ENGR",
+    "course_number": "402",
+    "course_title": "SIWES"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "431",
+    "course_title": "THEORY OF ELASTICITY"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "419",
+    "course_title": "MECHANICAL ENGINEERING LABORATORY II"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "481",
+    "course_title": "TECHNOLOGY DEVELOPMENT POLICY"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "511",
+    "course_title": "APPLIED DESIGN"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "523",
+    "course_title": "ENGR\u00cf\u00bf\u00bd MATERIALS SELECTION AND ECONOMICS"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "551",
+    "course_title": "MECHANICS OF FLUIDS II"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "561",
+    "course_title": "THERMODYNAMICS III"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "581",
+    "course_title": "ENGINEERING LAW AND MANAGEMENT"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "521",
+    "course_title": "B.ENG. PROJECT"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "591",
+    "course_title": "ENGINEERING METALLURGY"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "562",
+    "course_title": "FUNDAMENTALS OF NUCLEAR ENGINEERING"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "568",
+    "course_title": "POWER PLANT ENGINEERING"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "569",
+    "course_title": "ENERGY CONVERSION PRINCIPLES"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "571",
+    "course_title": "THERMAL ENGR\u00cf\u00bf\u00bdG& ADVANCED HEAT TRANSFER"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "573",
+    "course_title": "REFRIGERATION AND AIR-CONDITIONING"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "512",
+    "course_title": "MANUFACTURING AND TOOLS ENGINEERING"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "513",
+    "course_title": "DESIGN OF WELDED AND CAST STRUCTURES"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "531",
+    "course_title": "THEORY OF ELASTICITY II"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "541",
+    "course_title": "MECHANICAL VIBRATIONS AND CONTROL"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "542",
+    "course_title": "SYSTEMS ENGINEERING"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "543",
+    "course_title": "FLUID POWER CONTROL ENGINEERING"
+  },
+  {
+    "department_prefix": "MEC",
+    "course_number": "549",
+    "course_title": "INSTRUMENTATION AND CONTROL"
+  }
+]

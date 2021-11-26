@@ -1,0 +1,137 @@
+[
+  {
+    "department_prefix": "ACC",
+    "course_number": "101",
+    "course_title": "ELEMENTS OF ACCOUNTING I"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "102",
+    "course_title": "ELEMENTS OF ACCOUNTING II"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "201",
+    "course_title": "INTRODUCTIONS TO FINANCIAL ACCOUNTING"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "202",
+    "course_title": "INTRODUCTION TO FINANCIAL ACCOUNTING II"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "211",
+    "course_title": "INTRODUCTION TO COST AND MANAGEMENT ACCOUNTING"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "301",
+    "course_title": "FINANCIAL ACCOUNTING I"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "302",
+    "course_title": "FINANCIAL ACCOUNTING II"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "311",
+    "course_title": "COST ACCOUNTING I"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "312",
+    "course_title": "COST ACCOUNTING II"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "331",
+    "course_title": "TAXATION I"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "351",
+    "course_title": "FUNDAMENTAL OF GOVERNMENT ACCOUNTING SYSTEMS"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "361",
+    "course_title": "QUANTITATIVE TECHNIQUES IN ACCOUNTING I"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "362",
+    "course_title": "QUANTITATIVE TECHNIQUES IN ACCOUNTING II"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "372",
+    "course_title": "RESEARCH METHODS"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "401",
+    "course_title": "ADVANCED FINANCIAL ACCOUNTING (V)"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "402",
+    "course_title": "(ADVANCED) FINANCIAL ACCOUNTING VI"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "403",
+    "course_title": "INTERNATIONAL ACCOUNTING"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "411",
+    "course_title": "MANAGEMENT ACCOUNTING I"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "412",
+    "course_title": "MANAGEMENT ACCOUNTING II"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "421",
+    "course_title": "AUDITING INVESTIGATION I"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "422",
+    "course_title": "AUDITING AND INVESTIGATION II"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "432",
+    "course_title": "TAXATION II"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "442",
+    "course_title": "MANAGEMENT INFORMATION SYSTEM (MIS)"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "451",
+    "course_title": "PUBLIC SECTOR ACCOUNTING"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "490",
+    "course_title": "PROJECT"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "331",
+    "course_title": "FINANCIAL MANAGEMENT I"
+  },
+  {
+    "department_prefix": "BAF",
+    "course_number": "332",
+    "course_title": "ADVANCED FINANCIAL MANAGEMENT II"
+  }
+]

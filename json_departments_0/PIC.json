@@ -1,0 +1,1982 @@
+[
+    {
+        "department_prefix": "CHM",
+        "course_number": "101",
+        "course_title": "BASIC PRINCIPLES OF INORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "171",
+        "course_title": "BASIC PRACTICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "BIO",
+        "course_number": "151",
+        "course_title": "GENERAL BIOLOGY I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "111",
+        "course_title": "ELEMENTARY MATHEMATICS I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "121",
+        "course_title": "ELEMENTARY MATHEMATICS II"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "115",
+        "course_title": "GENERAL PHYSICS FOR PHYSICAL SCIENCES I"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "191",
+        "course_title": "PRACTICAL PHYSICS I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "101",
+        "course_title": "COMMUNICATION IN ENGLISH I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "111",
+        "course_title": "THE USE OF LIBRARY AND STUDY SKILLS"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "112",
+        "course_title": "BASIC PRINCIPLES OF PHYSICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "122",
+        "course_title": "BASIC PRINCIPLES OF ORGANIC"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "152",
+        "course_title": "INTRODUCTION TO INDUSTRIAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "BIO",
+        "course_number": "152",
+        "course_title": "GENERAL BIOLOGY II"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "118",
+        "course_title": "GENERAL PHYSICS FOR PHYSICAL SCIENCES III"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "102",
+        "course_title": "COMMUNICATION IN ENGLISH II"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "102",
+        "course_title": "BASIC PRINCIPLES OF ECONOMICS II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "201",
+        "course_title": "GENERAL INORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "211",
+        "course_title": "GENERAL PHYSICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "221",
+        "course_title": "GENERAL ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "273",
+        "course_title": "PRACTICAL ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "207",
+        "course_title": "ADVANCED MATHEMATICS VII"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "251",
+        "course_title": "ELECTROMAGNETISM"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "LOGIC, PHILOSOPHY AND HUMAN EXISTENCE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "BASIC CONCEPTS AND THEORY OF PEACE"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "101",
+        "course_title": "PRINCIPLES OF ECONOMICS I"
+    },
+    {
+        "department_prefix": "GEO",
+        "course_number": "103",
+        "course_title": "BASIC AND APPLIED GEOLOGY FOR ENVIRONMENTAL, PHYSICAL AND SOCIAL SCIENCES"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "201",
+        "course_title": "INTRODUCTORY MICROBIOLOGY"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "203",
+        "course_title": "STATISTICS FOR PHYSICAL SCIENCES AND ENGINEERING I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "222",
+        "course_title": "GENERAL ORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "232",
+        "course_title": "ANALYTICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "252",
+        "course_title": "CHEMICAL PROCESS PRINCIPLES"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "272",
+        "course_title": "PRACTICAL PHYSICAL CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "274",
+        "course_title": "PRACTICAL INORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "206",
+        "course_title": "ADVANCED MATHEMATICS VII"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "NIGERIAN PEOPLE AND CULTURE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "ISSUES IN PEACE AND CONFLICT RESOLUTION STUDIES"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "201",
+        "course_title": "GENERAL BIOCHEMISTRY 1"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "208",
+        "course_title": "ADVANCED MATHEMATICS VIII"
+    },
+    {
+        "department_prefix": "PHM",
+        "course_number": "241",
+        "course_title": "PHARMACOGNOSY 1"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "262",
+        "course_title": "INTRODUCTION TO ATOMIC AND NUCLEAR PHYSICS"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "292",
+        "course_title": "PRACTICAL PHYSICS"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "206",
+        "course_title": "STATISTICS FOR PHYSICAL SCIENCES AND 1 ENGINEERING"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "301",
+        "course_title": "INORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "311",
+        "course_title": "PHYSICAL & STRUCTURAL CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "321",
+        "course_title": "ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "351",
+        "course_title": "CHEMICAL PROCESS CALCULATIONS"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "373",
+        "course_title": "PRACTICAL ORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "371",
+        "course_title": "PRACTICAL INORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "381",
+        "course_title": "CHEMICAL INDUSTRY AND"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "341",
+        "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "201",
+        "course_title": "COMPUTER PROGRAMMING I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "383",
+        "course_title": "POLYMER CHEMISTRY"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "321",
+        "course_title": "ENVIRONMENTAL MICROBIOLOGY"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "351",
+        "course_title": "ELECTRONICS"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "361",
+        "course_title": "QUANTUM MECHANICS I"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "311",
+        "course_title": "BIOLOGICAL MACROMOLECULES"
+    },
+    {
+        "department_prefix": "PHM",
+        "course_number": "341",
+        "course_title": "PHARMACOGNOSY II"
+    },
+    {
+        "department_prefix": "GER",
+        "course_number": "101",
+        "course_title": "ELEMENTARY GERMAN I"
+    },
+    {
+        "department_prefix": "FRE",
+        "course_number": "101",
+        "course_title": "ELEMENTARY FRENCH I"
+    },
+    {
+        "department_prefix": "RUS",
+        "course_number": "101",
+        "course_title": "ELEMENTARY RUSSIAN I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "302",
+        "course_title": "INORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "312",
+        "course_title": "PHYSICAL & STRUCTURAL CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "314",
+        "course_title": "PHYSICAL & STRUCTURAL CHEMISTRY III"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "322",
+        "course_title": "ORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "324",
+        "course_title": "ORGANIC CHEMISTRY III"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "352",
+        "course_title": "CHEMICAL PROCESS TECHNOLOGY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "372",
+        "course_title": "PRACTICAL PHYSICAL CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "374",
+        "course_title": "APPLIED SPECTROSCOPY"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "342",
+        "course_title": "BUSINESS DEVELOPMENT AND MANAGEMENT"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "352",
+        "course_title": "ELECTRONICS"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "362",
+        "course_title": "QUANTUM MECHANICS"
+    },
+    {
+        "department_prefix": "PHM",
+        "course_number": "344",
+        "course_title": "PHYTOEVALUATION"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "102",
+        "course_title": "PRINCIPLES OF ECONOMICS"
+    },
+    {
+        "department_prefix": "GER",
+        "course_number": "102",
+        "course_title": "ELEMENTARY GERMAN II"
+    },
+    {
+        "department_prefix": "FRE",
+        "course_number": "102",
+        "course_title": "ELEMENTARY FRENCH II"
+    },
+    {
+        "department_prefix": "RUS",
+        "course_number": "102",
+        "course_title": "ELEMENTARY RUSSIAN II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "401",
+        "course_title": "ADVANCED INORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "411",
+        "course_title": "ADVANCED PHYSICAL CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "421",
+        "course_title": "ADVANCED ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "431",
+        "course_title": "MODERN ANALYTICAL TECHNIQUES"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "451",
+        "course_title": "CHEMICAL PROCESS TECHNOLOGY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "471",
+        "course_title": "PRACTICAL INDUSTRIAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "461",
+        "course_title": "SEMINAR"
+    },
+    {
+        "department_prefix": "ME",
+        "course_number": "481",
+        "course_title": "TECHNOLOGY DEVELOPMENT POLICY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "483",
+        "course_title": "COLOUR CHEMISTRY & TECHNOLOGY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "4854",
+        "course_title": "CEMENT & FERTILIZER INDUSTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "403",
+        "course_title": "MODERN SYNTHETIC METHODS IN INORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "423",
+        "course_title": "MODERN SYNTHETIC METHODS IN ORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "487",
+        "course_title": "PHARMACEUTICAL INDUSTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "483",
+        "course_title": "PAPER AND PULP INDUSTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "489",
+        "course_title": "OILS, FATS DETERGENTS & CHOLO-ALKALI INDUSTRIES"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "452",
+        "course_title": "INDUSTRIAL MICROBIOLOGY"
+    },
+    {
+        "department_prefix": "PHM",
+        "course_number": "441",
+        "course_title": "PHYSIOCHEMICAL ANALYSIS"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "402",
+        "course_title": "ADVANCED INORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "412",
+        "course_title": "ADVANCED PHYSICAL CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "422",
+        "course_title": "ADVANCED ORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "452",
+        "course_title": "CHEMICAL PROCESS TECHNOLOGY III"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "492",
+        "course_title": "RESEARCH PROJECT"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "424",
+        "course_title": "CHEMISTRY OF NATURAL PRODUCTS II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "454",
+        "course_title": "POLYMER CHEMISTRY AND TECHNOLOGY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "486",
+        "course_title": "CHEMISTRY OF COAL AND COAL PRODUCTS"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "482",
+        "course_title": "COLOUR CHEMISTRY & TECHNOLOGY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "484",
+        "course_title": "EXTRACTION METALLURGY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "488",
+        "course_title": "SUGAR & FERMENTATION INDUSTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "201",
+        "course_title": "GENERAL INORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "211",
+        "course_title": "GENERAL PHYSICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "221",
+        "course_title": "GENERAL ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "273",
+        "course_title": "PRACTICAL ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "207",
+        "course_title": "ADVANCED MATHEMATICS VII"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "251",
+        "course_title": "ELECTROMAGNETISM"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "LOGIC, PHILOSOPHY AND HUMAN EXISTENCE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "BASIC CONCEPTS AND THEORY OF PEACE"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "101",
+        "course_title": "PRINCIPLES OF ECONOMICS I"
+    },
+    {
+        "department_prefix": "GEO",
+        "course_number": "103",
+        "course_title": "BASIC AND APPLIED GEOLOGY FOR ENVIRONMENTAL, PHYSICAL AND SOCIAL SCIENCES"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "201",
+        "course_title": "INTRODUCTORY MICROBIOLOGY"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "203",
+        "course_title": "STATISTICS FOR PHYSICAL SCIENCES AND ENGINEERING I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "222",
+        "course_title": "GENERAL ORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "232",
+        "course_title": "ANALYTICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "252",
+        "course_title": "CHEMICAL PROCESS PRINCIPLES"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "272",
+        "course_title": "PRACTICAL PHYSICAL CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "274",
+        "course_title": "PRACTICAL INORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "206",
+        "course_title": "ADVANCED MATHEMATICS VII"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "NIGERIAN PEOPLE AND CULTURE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "ISSUES IN PEACE AND CONFLICT RESOLUTION STUDIES"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "201",
+        "course_title": "GENERAL BIOCHEMISTRY 1"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "208",
+        "course_title": "ADVANCED MATHEMATICS VIII"
+    },
+    {
+        "department_prefix": "PHM",
+        "course_number": "241",
+        "course_title": "PHARMACOGNOSY 1"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "262",
+        "course_title": "INTRODUCTION TO ATOMIC AND NUCLEAR PHYSICS"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "292",
+        "course_title": "PRACTICAL PHYSICS"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "206",
+        "course_title": "STATISTICS FOR PHYSICAL SCIENCES AND 1 ENGINEERING"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "301",
+        "course_title": "INORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "311",
+        "course_title": "PHYSICAL & STRUCTURAL CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "321",
+        "course_title": "ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "351",
+        "course_title": "CHEMICAL PROCESS CALCULATIONS"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "373",
+        "course_title": "PRACTICAL ORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "371",
+        "course_title": "PRACTICAL INORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "381",
+        "course_title": "CHEMICAL INDUSTRY AND ENVIRONMENT"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "341",
+        "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "201",
+        "course_title": "COMPUTER PROGRAMMING I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "383",
+        "course_title": "POLYMER CHEMISTRY"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "321",
+        "course_title": "ENVIRONMENTAL MICROBIOLOGY"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "351",
+        "course_title": "ELECTRONICS"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "361",
+        "course_title": "QUANTUM MECHANICS I"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "311",
+        "course_title": "BIOLOGICAL MACROMOLECULES"
+    },
+    {
+        "department_prefix": "PHM",
+        "course_number": "341",
+        "course_title": "PHARMACOGNOSY II"
+    },
+    {
+        "department_prefix": "GER",
+        "course_number": "101",
+        "course_title": "ELEMENTARY GERMAN I"
+    },
+    {
+        "department_prefix": "FRE",
+        "course_number": "101",
+        "course_title": "ELEMENTARY FRENCH I"
+    },
+    {
+        "department_prefix": "RUS",
+        "course_number": "101",
+        "course_title": "ELEMENTARY RUSSIAN I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "302",
+        "course_title": "INORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "312",
+        "course_title": "PHYSICAL & STRUCTURAL CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "314",
+        "course_title": "PHYSICAL & STRUCTURAL CHEMISTRY III"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "322",
+        "course_title": "ORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "324",
+        "course_title": "ORGANIC CHEMISTRY III"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "352",
+        "course_title": "CHEMICAL PROCESS TECHNOLOGY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "372",
+        "course_title": "PRACTICAL PHYSICAL CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "374",
+        "course_title": "APPLIED SPECTROSCOPY"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "342",
+        "course_title": "BUSINESS DEVELOPMENT AND MANAGEMENT"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "352",
+        "course_title": "ELECTRONICS"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "362",
+        "course_title": "QUANTUM MECHANICS"
+    },
+    {
+        "department_prefix": "PHM",
+        "course_number": "344",
+        "course_title": "PHYTOEVALUATION"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "102",
+        "course_title": "PRINCIPLES OF ECONOMICS"
+    },
+    {
+        "department_prefix": "GER",
+        "course_number": "102",
+        "course_title": "ELEMENTARY GERMAN II"
+    },
+    {
+        "department_prefix": "FRE",
+        "course_number": "102",
+        "course_title": "ELEMENTARY FRENCH II"
+    },
+    {
+        "department_prefix": "RUS",
+        "course_number": "102",
+        "course_title": "ELEMENTARY RUSSIAN II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "401",
+        "course_title": "ADVANCED INORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "411",
+        "course_title": "ADVANCED PHYSICAL CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "421",
+        "course_title": "ADVANCED ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "431",
+        "course_title": "MODERN ANALYTICAL TECHNIQUES"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "451",
+        "course_title": "CHEMICAL PROCESS TECHNOLOGY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "471",
+        "course_title": "PRACTICAL INDUSTRIAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "461",
+        "course_title": "SEMINAR"
+    },
+    {
+        "department_prefix": "ME",
+        "course_number": "481",
+        "course_title": "TECHNOLOGY DEVELOPMENT POLICY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "483",
+        "course_title": "COLOUR CHEMISTRY & TECHNOLOGY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "485",
+        "course_title": "CEMENT & FERTILIZER INDUSTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "403",
+        "course_title": "MODERN SYNTHETIC METHODS IN INORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "423",
+        "course_title": "MODERN SYNTHETIC METHODS IN ORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "487",
+        "course_title": "PHARMACEUTICAL INDUSTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "483",
+        "course_title": "PAPER AND PULP INDUSTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "489",
+        "course_title": "OILS, FATS DETERGENTS & CHOLO-ALKALI INDUSTRIES"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "452",
+        "course_title": "INDUSTRIAL MICROBIOLOGY"
+    },
+    {
+        "department_prefix": "PHM",
+        "course_number": "441",
+        "course_title": "PHYSIOCHEMICAL ANALYSIS"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "402",
+        "course_title": "ADVANCED INORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "412",
+        "course_title": "ADVANCED PHYSICAL CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "422",
+        "course_title": "ADVANCED ORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "452",
+        "course_title": "CHEMICAL PROCESS TECHNOLOGY III"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "492",
+        "course_title": "RESEARCH PROJECT"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "424",
+        "course_title": "CHEMISTRY OF NATURAL PRODUCTS II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "454",
+        "course_title": "POLYMER CHEMISTRY AND TECHNOLOGY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "486",
+        "course_title": "CHEMISTRY OF COAL AND COAL PRODUCTS"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "482",
+        "course_title": "COLOUR CHEMISTRY & TECHNOLOGY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "484",
+        "course_title": "EXTRACTION METALLURGY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "488",
+        "course_title": "SUGAR & FERMENTATION INDUSTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "101",
+        "course_title": "BASIC PRINCIPLES OF INORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "171",
+        "course_title": "BASIC PRACTICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "BIO",
+        "course_number": "151",
+        "course_title": "GENERAL BIOLOGY I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "111",
+        "course_title": "ELEMENTARY MATHEMATICS I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "121",
+        "course_title": "ELEMENTARY MATHEMATICS II"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "101",
+        "course_title": "COMMUNICATION IN ENGLISH I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "111",
+        "course_title": "THE USE OF LIBRARY AND STUDY SKILLS"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "102",
+        "course_title": "INTRODUCTORY MICROBIOLOGY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "112",
+        "course_title": "BASIC PRINCIPLES OF PHYSICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "122",
+        "course_title": "BASIC PRINCIPLES OF ORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "BIO",
+        "course_number": "152",
+        "course_title": "GENERAL BIOLOGY II"
+    },
+    {
+        "department_prefix": "BIO",
+        "course_number": "154",
+        "course_title": "GENERAL BIOLOGY PRACTICAL"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "113",
+        "course_title": "ELEMENTARY MATHEMATICS III"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "102",
+        "course_title": "COMMUNICATION IN ENGLISH II"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "201",
+        "course_title": "GENERAL MICROBIOLOGY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "201",
+        "course_title": "GENERAL INORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "211",
+        "course_title": "GENERAL PHYSICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "221",
+        "course_title": "GENERAL ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "111",
+        "course_title": "GENERAL PHYSICS FOR LIFE SCIENCES I"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "191",
+        "course_title": "PRACTICAL PHYSICS"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "LOGIC, PHILOSOPHY AND HUMAN EXISTENCE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "BASIC CONCEPTS AND THEORY OF PEACE"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "202",
+        "course_title": "GENERAL MICROBIOLOGY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "222",
+        "course_title": "GENERAL ORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "232",
+        "course_title": "ANALYTICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "272",
+        "course_title": "PRACTICAL PHYSICAL CHEMISTRY I"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "112",
+        "course_title": "GENERAL PHYSICS FOR LIFE SCIENCES II"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "114",
+        "course_title": "GENERAL PHYSICS FOR LIFE SCIENCES III"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "304",
+        "course_title": "COMPUTER APPLICATIONS"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "NIGERIAN PEOPLE AND CULTURE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "ISSUES IN PEACE AND CONFLICT"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "301",
+        "course_title": "MICROBIAL PHYSIOLOGY"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "331",
+        "course_title": "PATHOGENIC BACTERIOLOGY"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "341",
+        "course_title": "IMMUNOLOGY AND IMMUNOCHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "301",
+        "course_title": "INORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "321",
+        "course_title": "ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "273",
+        "course_title": "PRACTICAL ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "202",
+        "course_title": "STATISTIC FOR BIOLOGICAL SCIENCES I"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "341",
+        "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "302",
+        "course_title": "MICROBIAL METABOLISM"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "304",
+        "course_title": "MICROBIAL GENETICS AND MOLECULAR BIOLOGY"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "332",
+        "course_title": "PATHOGENIC MYCOLOGY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "302",
+        "course_title": "INORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "322",
+        "course_title": "ORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "324",
+        "course_title": "ORGANIC CHEMISTRY IV"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "372",
+        "course_title": "PRACTICAL PHYSICAL CHEMISTRY II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "205",
+        "course_title": "STATISTICS FOR BIOLOGICAL SCIENCES II"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "342",
+        "course_title": "BUSINESS DEVELOPMENT AND MANAGEMENT"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "431",
+        "course_title": "VIROLOGY"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "423",
+        "course_title": "INDUSTRIAL BIOTECHNOLOGY I"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "321",
+        "course_title": "ENVIRONMENTAL MICROBIOLOGY (SEWAGE, WATER, POLLUTION)"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "311",
+        "course_title": "PHYSICAL AND STRUCTURAL CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "373",
+        "course_title": "PRACTICAL ORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "374",
+        "course_title": "APPLIED SPECTROSCOPY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "431",
+        "course_title": "MODERN ANALYTICAL TECHNIQUES"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "421",
+        "course_title": "ADVANCED ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "322",
+        "course_title": "FOOD MICROBIOLOGY"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "424",
+        "course_title": "INDUSTRIAL BIOTECHNOLOGY II"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "433",
+        "course_title": "PHARMACEUTICAL MICROBIOLOGY"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "452",
+        "course_title": "ANALYTICAL MICROBIOLOGY AND QUALITY CONTROL"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "312",
+        "course_title": "PHYSICAL AND STRUCTURAL CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "422",
+        "course_title": "ADVANCED ORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "492",
+        "course_title": "RESEARCH PROJECT"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "492",
+        "course_title": "RESEARCH PROJECT"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "101",
+        "course_title": "BASIC PRINCIPLES OF INORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "171",
+        "course_title": "BASIC PRACTICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "121",
+        "course_title": "FUNDAMENTALS OF PHYSICS I"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "195",
+        "course_title": "PRACTICAL PHYSICS II"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "111",
+        "course_title": "ELEMENTARY MATHEMATICS I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "121",
+        "course_title": "ELEMENTARY MATHEMATICS II"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "101",
+        "course_title": "COMMUNICATION IN ENGLISH I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "111",
+        "course_title": "THE USE OF LIBRARY AND STUDY SKILLS"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "112",
+        "course_title": "BASIC PRINCIPLES OF PHYSICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "122",
+        "course_title": "BASIC PRINCIPLES OF ORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "122",
+        "course_title": "FUNDAMENTALS OF PHYSICS II"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "124",
+        "course_title": "FUNDAMENTAL OF PHYSICS III"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "102",
+        "course_title": "COMMUNICATION IN ENGLISH II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "201",
+        "course_title": "GENERAL INORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "211",
+        "course_title": "GENERAL PHYSICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "221",
+        "course_title": "GENERAL ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "211",
+        "course_title": "STRUCTURE OF MATTER"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "221",
+        "course_title": "MECHANICS"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "251",
+        "course_title": "ELECTROMAGNETISM"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "207",
+        "course_title": "ADVANCED MATHEMATICS VII"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "LOGIC, PHILOSOPHY AND HUMAN EXISTENCE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "BASIC CONCEPTS AND THEORY OF PEACE"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "222",
+        "course_title": "GENERAL ORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "232",
+        "course_title": "ANALYTICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "272",
+        "course_title": "PRACTICAL PHYSICAL CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "274",
+        "course_title": "PRACTICAL INORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "241",
+        "course_title": "WAVES II"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "262",
+        "course_title": "INTRODUCTION TO ATOMIC AND NUCLEAR PHYSICS"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "206",
+        "course_title": "ADVANCED MATHEMATICS VI"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "NIGERIAN PEOPLE AND CULTURE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "ISSUES IN PEACE AND CONFLICT RESOLUTION STUDIES"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "273",
+        "course_title": "PRACTICAL ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "301",
+        "course_title": "INORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "311",
+        "course_title": "PHYSICAL & STRUCTURAL CHEMISTRY I"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "321",
+        "course_title": "RELATIVITY PHYSICS"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "331",
+        "course_title": "THERMAL PHYSICS"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "351",
+        "course_title": "ELECTRONICS"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "201",
+        "course_title": "COMPUTER PROGRAMMING I"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "341",
+        "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "205",
+        "course_title": "STATICS FOR PHYSICAL SCIENCES I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "302",
+        "course_title": "INORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "312",
+        "course_title": "PHYSICAL & STRUCTURAL CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "314",
+        "course_title": "PHYSICAL & STRUCTURAL CHEMISTRY III"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "292",
+        "course_title": "PRACTICAL PHYSICS IV"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "382",
+        "course_title": "AN INTRODUCTION TO ASTRONOMY"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "362",
+        "course_title": "QUANTUM MECHANICS I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "208",
+        "course_title": "ADVANCED MATHEMATICS VIII"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "241",
+        "course_title": "MATHEMATICS METHODS I"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "342",
+        "course_title": "BUSINESS DEVELOPMENT AND MANAGEMENT"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "321",
+        "course_title": "ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "374",
+        "course_title": "APPLIED SPECTROSCOPY"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "391",
+        "course_title": "PRACTICAL PHYSICS V"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "411",
+        "course_title": "ADVANCED PHYSICAL CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "431",
+        "course_title": "MODERN ANALYTICAL TECHNIQUES"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "403",
+        "course_title": "GENERAL PHYSICS"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "421",
+        "course_title": "ANALYTICAL MECHANICS"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "451",
+        "course_title": "ELECTROMAGNETIC THEORY"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "461",
+        "course_title": "QUANTUM MECHANICS II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "322",
+        "course_title": "ORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "324",
+        "course_title": "ORGANIC CHEMISTRY III"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "372",
+        "course_title": "PRACTICAL PHYSICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "392",
+        "course_title": "PRACTICAL PHYSICS VI"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "412",
+        "course_title": "ADVANCED PHYSICAL CHEMISTRY II"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "438",
+        "course_title": "STATISTICAL PHYSICS"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "462",
+        "course_title": "NUCLEAR PHYSICS"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "492",
+        "course_title": "RESEARCH PROJECT"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "494",
+        "course_title": "RESEARCH PROJECT"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "111",
+        "course_title": "ELEMENTARY MATHEMATICS I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "121",
+        "course_title": "ELEMENTARY MATHEMATICS II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "101",
+        "course_title": "BASIC PRINCIPLES OF INORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "171",
+        "course_title": "BASIC PRACTICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "115",
+        "course_title": "GENERAL PHYSICS FOR PHYSICAL SCIENCES I"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "116",
+        "course_title": "GENERAL PHYSICS FOR PHYSICAL SCIENCES II"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "101",
+        "course_title": "COMMUNICATION IN ENGLISH I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "111",
+        "course_title": "THE USE OF LIBRARY AND STUDY SKILLS"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "113",
+        "course_title": "ELEMENTARY MATHEMATICS III"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "112",
+        "course_title": "BASIC PRINCIPLES OF PHYSICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "122",
+        "course_title": "BASIC PRINCIPLES OF ORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "118",
+        "course_title": "GENERAL PHYSICS FOR PHYSICAL SCIENCES III"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "131",
+        "course_title": "ELEMENTARY MECHANIC I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "102",
+        "course_title": "COMMUNICATION IN ENGLISH II"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "211",
+        "course_title": "SETS, LOGIC AND ALGEBRA"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "212",
+        "course_title": "LINEAR ALGEBRA I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "221",
+        "course_title": "REAL ANALYSIS I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "201",
+        "course_title": "GENERAL INORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "211",
+        "course_title": "GENERAL PHYSICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "221",
+        "course_title": "GENERAL ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "273",
+        "course_title": "PRACTICAL ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "LOGIC, PHILOSOPHY AND HUMAN EXISTENCE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "BASIC CONCEPTS AND THEORY OF PEACE"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "214",
+        "course_title": "LINEAR ALGEBRA II"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "222",
+        "course_title": "ELEMENTARY DIFFERENTIAL EQUATIONS I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "241",
+        "course_title": "MATHEMATICS METHODS I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "222",
+        "course_title": "GENERAL ORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "232",
+        "course_title": "ANALYTICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "272",
+        "course_title": "PRACTICAL PHYSICAL CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "274",
+        "course_title": "PRACTICAL INORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "NIGERIAN PEOPLE AND CULTURE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "ISSUES IN PEACE AND CONFLICT RESOLUTION STUDIES"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "311",
+        "course_title": "ABSTRACT ALGEBRA I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "323",
+        "course_title": "COMPLEX VARIABLES I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "311",
+        "course_title": "PHYSICAL & STRUCTURAL CHEMISTRY I"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "201",
+        "course_title": "COMPUTER PROGRAMMING I"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "341",
+        "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+    },
+    {
+        "department_prefix": "GEOL",
+        "course_number": "103",
+        "course_title": "BASIC AND APPLIED GEOLOGY FOR ENVIRONMENTAL AND PHYSICAL SCIENCES"
+    },
+    {
+        "department_prefix": "GEOL",
+        "course_number": "213",
+        "course_title": "OPTICAL MINERALOGY"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "205",
+        "course_title": "STATISTICS FOR PHYSICAL SCIENCES AND ENGINEERING I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "373",
+        "course_title": "PRACTICAL ORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "223",
+        "course_title": "INTRODUCTION TO NUMERICAL ANALYSIS"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "326",
+        "course_title": "REAL ANALYSIS II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "302",
+        "course_title": "INORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "312",
+        "course_title": "PHYSICAL & STRUCTURAL CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "314",
+        "course_title": "PHYSICAL & STRUCTURAL CHEMISTRY III"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "262",
+        "course_title": "INTRODUCTION TO ATOMIC AND NUCLEAR PHYSICS"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "342",
+        "course_title": "BUSINESS DEVELOPMENT AND MANAGEMENT"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "202",
+        "course_title": "COMPUTER PROGRAMMING II"
+    },
+    {
+        "department_prefix": "GEOL",
+        "course_number": "212",
+        "course_title": "CRYSTALLOGRAPHY AND MINERALOGY"
+    },
+    {
+        "department_prefix": "GEOL",
+        "course_number": "141",
+        "course_title": "EARTH HISTORY"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "321",
+        "course_title": "METRIC SPACE TOPOLOGY"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "322",
+        "course_title": "ELEMENTARY DIFFERENTIAL EQUATIONS II"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "332",
+        "course_title": "OPTIMIZATION THEORY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "321",
+        "course_title": "ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "374",
+        "course_title": "APPLIED SPECTROSCOPY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "411",
+        "course_title": "ADVANCED PHYSICAL CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "431",
+        "course_title": "MODERN ANALYTICAL TECHNIQUES"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "491",
+        "course_title": "RESEARCH PROJECT"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "451",
+        "course_title": "RESEARCH PROJECT"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "312",
+        "course_title": "ABSTRACT ALGEBRA II"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "324",
+        "course_title": "VECTOR AND TENSOR ANALYSIS"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "325",
+        "course_title": "COMPLEX VARIABLES II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "322",
+        "course_title": "ORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "324",
+        "course_title": "ORGANIC CHEMISTRY III"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "372",
+        "course_title": "PRACTICAL PHYSICAL CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "402",
+        "course_title": "ADVANCED INORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "412",
+        "course_title": "ADVANCED PHYSICAL CHEMISTRY II"
+    }
+]

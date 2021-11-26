@@ -1,0 +1,1187 @@
+[
+    {
+        "department_prefix": "STA",
+        "course_number": "111",
+        "course_title": "PROBABILITY I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "131",
+        "course_title": "INFERENCE I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "111",
+        "course_title": "ELEMENTARY MATHEMATICS I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "121",
+        "course_title": "ELEMENTARY MATHEMATICS II"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO COMPUTER SCIENCE I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "101",
+        "course_title": "THE USE OF ENGLISH I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "111",
+        "course_title": "THE USE OF LIBRARY"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "123",
+        "course_title": "GENERAL PHYSICS FOR PHYSICAL SCIENCES"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "191",
+        "course_title": "PRACTICAL PHYSICS I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "101",
+        "course_title": "BASIC PRINCIPLES OF INORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "171",
+        "course_title": "BASIC PRACTICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "101",
+        "course_title": "PRINCIPLES OF ECONOMICS I"
+    },
+    {
+        "department_prefix": "BIO",
+        "course_number": "151",
+        "course_title": "GENERAL BIOLOGY"
+    },
+    {
+        "department_prefix": "AGR",
+        "course_number": "201",
+        "course_title": "INTRODUCTION TO AGRICULTURE"
+    },
+    {
+        "department_prefix": "GLG",
+        "course_number": "103",
+        "course_title": "BASIC AND APPLIED GEOLOGY FOR ENVIRONMENT PHYSICAL & SOCIAL SCIENCES"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "112",
+        "course_title": "PROBABILITY II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "132",
+        "course_title": "INFERENCE II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "172",
+        "course_title": "STATISTICAL COMPUTING I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "122",
+        "course_title": "ELEMENTARY MATHEMATICS III"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "102",
+        "course_title": "THE USE OF ENGLISH II"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "132",
+        "course_title": "ELEMENTARY MECHANICS I"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "134",
+        "course_title": "GENERAL PHYSICS FOR PHYSICAL SCIENCES II"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "154",
+        "course_title": "GENERAL PHYSICS FOR PHYSICAL SCIENCES III"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "112",
+        "course_title": "BASIC PRINCIPLES OF PHYSICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "122",
+        "course_title": "BASIC PRINCIPLES OF ORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "102",
+        "course_title": "PRINCIPLES OF ECONOMICS II"
+    },
+    {
+        "department_prefix": "BIO",
+        "course_number": "152",
+        "course_title": "GENERAL BIOLOGY"
+    },
+    {
+        "department_prefix": "GLG",
+        "course_number": "103",
+        "course_title": "EARTH HISTORY"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "211",
+        "course_title": "PROBABILITY III"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "231",
+        "course_title": "INFERENCE III"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "201",
+        "course_title": "COMPUTER PROGRAMMING I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "215",
+        "course_title": "LINEAR ALGEBRA I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "BASIC CONCEPTS & THEORY OF PEACE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "LOGIC, PHILOSOPHY AND HUMAN EXISTENCE I"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "201",
+        "course_title": "MICROECONOMIC THEORY I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "211",
+        "course_title": "SET, LOGIC AND ALGEBRA"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "221",
+        "course_title": "REAL ANALYSIS"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "281",
+        "course_title": "STRUCTURE OF NIGERIAN ECONOMY I"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "251",
+        "course_title": "ELECTROMAGNETISM I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "212",
+        "course_title": "PROBABILITY IV"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "272",
+        "course_title": "STATISTICAL COMPUTING II"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "216",
+        "course_title": "ELEMENTARY DIFFERENTIAL EQUATION I"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "202",
+        "course_title": "COMPUTER PROGRAMMING II"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "ISSUES IN PEACE & CONFLICT RESOLUTION STUDIES"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "NIGERIAN PEOPLES AND CULTURE"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "203",
+        "course_title": "MICROECONOMIC THEORY I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "224",
+        "course_title": "INTRODUCTION TO NUMERICAL ANALYSIS"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "242",
+        "course_title": "MATHEMATICAL METHODS I"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "282",
+        "course_title": "STRUCTURE OF NIGERIAN ECONOMY II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "311",
+        "course_title": "PROBABILITY V"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "341",
+        "course_title": "SAMPLING THEORY AND SURVEY METHODS I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "331",
+        "course_title": "INFERENCE IV"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "321",
+        "course_title": "DISTRIBUTION THEORY"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "361",
+        "course_title": "ALGEBRAIC BASES FOR STATISTICS"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "371",
+        "course_title": "STATISTICAL COMPUTING III"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "341",
+        "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "325",
+        "course_title": "BIOMETRICS I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "323",
+        "course_title": "ANALYSIS OF VARIANCE"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "345",
+        "course_title": "STATISTICAL QUALITY CONTROL"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "351",
+        "course_title": "DEMOGRAPHY"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "357",
+        "course_title": "ACTUARIAL STATISTICS I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "363",
+        "course_title": "OPERATIONS RESEARCH I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "365",
+        "course_title": "LABORATORY FOR OPERATIONS RESEARCH I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "353",
+        "course_title": "LABORATORY FOR FIELD WORK FOR DEMOGRAPHY"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "347",
+        "course_title": "LABORATORY FOR FIELD WORK FOR QUALITY CONTROL"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "343",
+        "course_title": "LAB AND FIELD WORK FOR SAMPLING THEORY & SURVEY METHODS"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "334",
+        "course_title": "SYSTEM ANALYSIS AND DESIGN"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "382",
+        "course_title": "PRACTICAL"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "384",
+        "course_title": "REPORT"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "413",
+        "course_title": "STOCHASTIC PROCESSES I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "415",
+        "course_title": "TIME SERIES ANALYSIS I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "421",
+        "course_title": "DESIGN AND ANALYSIS OF EXPERIMENT I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "423",
+        "course_title": "REGRESSION ANALYSIS"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "411",
+        "course_title": "PROBABILITY VI"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "425",
+        "course_title": "BIOMETRICS II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "431",
+        "course_title": "BAYESIAN INFERENCE I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "435",
+        "course_title": "NON-PARAMETRIC METHODS I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "433",
+        "course_title": "MULTIVARIATE ANALYSIS I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "437",
+        "course_title": "PSYCHOMETRICS I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "441",
+        "course_title": "SAMPLING THEORY AND SURVEY METHODS II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "451",
+        "course_title": "ACTUARIAL STATISTICS II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "461",
+        "course_title": "OPERATIONS RESEARCH II"
+    },
+    {
+        "department_prefix": "STA463",
+        "course_number": "Decision",
+        "course_title": "THEORY"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "453",
+        "course_title": "HEALTH STATISTICS"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "455",
+        "course_title": "ENVIRONMENTAL STATISTICS"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "457",
+        "course_title": "EDUCATIONAL STATISTICS"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "441",
+        "course_title": "MATHEMATICAL METHODS II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "414",
+        "course_title": "STOCHASTIC PROCESSES II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "422",
+        "course_title": "DESIGN AND ANALYSIS OF EXPERIMENTS II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "416",
+        "course_title": "TIME SERIES ANALYSIS II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "492",
+        "course_title": "PROJECT"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "342",
+        "course_title": "BUSINESS DEVELOPMENT & MANAGEMENT"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "462",
+        "course_title": "OPERATIONS RESEARCH III"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "436",
+        "course_title": "NON PARAMETRIC METHODS II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "426",
+        "course_title": "BIOMETRICS III"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "432",
+        "course_title": "BAYESIAN INFERENCE II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "434",
+        "course_title": "MULTIVARIATE ANALYSIS II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "438",
+        "course_title": "PSYCHOMETRICS II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "466",
+        "course_title": "LABORATORY FOR OPERATIONS RESEARCH II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "452",
+        "course_title": "MEDICAL STATISTICS"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "454",
+        "course_title": "ENERGY STATISTICS"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "322",
+        "course_title": "ELEMENTS OF DIFFERENTIAL EQUATIONS II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "111",
+        "course_title": "PROBABILITY I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "131",
+        "course_title": "INFERENCE I"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "101",
+        "course_title": "PRINCIPLES OF ECONOMICS I"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "171",
+        "course_title": "INTRODUCTION TO BUSINESS MANAGEMENT I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "111",
+        "course_title": "ELEMENTARY MATHEMATICS I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "121",
+        "course_title": "ELEMENTARY MATHEMATICS II"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO COMPUTER SCIENCE I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "101",
+        "course_title": "THE USE OF ENGLISH I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "111",
+        "course_title": "THE USE OF LIBRARY AND STUDY SKILLS"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "131",
+        "course_title": "INTRODUCTION TO ECONOMICS STATISTICS I"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "123",
+        "course_title": "GENERAL PHYSICS FOR PHYSICAL SCIENCES"
+    },
+    {
+        "department_prefix": "AGR",
+        "course_number": "201",
+        "course_title": "INTRODUCTION TO AGRICULTURE"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "112",
+        "course_title": "PROBABILITY II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "132",
+        "course_title": "INFERENCE II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "172",
+        "course_title": "STATISTICAL COMPUTING I"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "102",
+        "course_title": "PRINCIPLES OF ECONOMICS II"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "172",
+        "course_title": "INTRODUCTION TO BUSINESS MANAGEMENT II"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "122",
+        "course_title": "ELEMENTARY MATHEMATICS III"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "102",
+        "course_title": "THE USE OF ENGLISH II"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "132",
+        "course_title": "ELEMENTARY MECHANICS I"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "134",
+        "course_title": "GENERAL PHYSICS FOR PHYSICAL SCIENCES II"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "154",
+        "course_title": "GENERAL PHYSICS FOR PHYSICAL SCIENCES III"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "132",
+        "course_title": "INTRODUCTION TO ECONOMICS STATISTICS II"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "122",
+        "course_title": "INTRODUCTION TO BUSINESS ACCOUNTING"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "211",
+        "course_title": "PROBABILITY III"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "231",
+        "course_title": "INFERENCE III"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "201",
+        "course_title": "MICROECONOMIC THEORY I"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "203",
+        "course_title": "MACROECONOMIC THEORY I"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "281",
+        "course_title": "STRUCTURE OF NIGERIAN ECONOMY I"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "201",
+        "course_title": "COMPUTER PROGRAMMING I"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "215",
+        "course_title": "LINEAR ALGEBRA I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "BASIC CONCEPTS & THEORY OF PEACE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "LOGIC, PHILOSOPHY AND HUMAN EXISTENCE"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "212",
+        "course_title": "PROBABILITY IV"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "272",
+        "course_title": "STATISTICAL COMPUTING II"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "202",
+        "course_title": "MICROECONOMIC THEORY I"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "204",
+        "course_title": "MACROECONOMIC THEORY II"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "282",
+        "course_title": "STRUCTURE OF NIGERIAN ECONOMY II"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "222",
+        "course_title": "ELEMENTARY DIFFERENTIAL EQUATION I"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "202",
+        "course_title": "COMPUTER PROGRAMMING II"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "ISSUES IN PEACE & CONFLICT RESOLUTION STUDIES"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "NIGERIAN PEOPLES AND CULTURE"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "331",
+        "course_title": "INFERENCE IV"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "341",
+        "course_title": "SAMPLING THEORY AND SURVEY METHODS"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "363",
+        "course_title": "OPERATIONS RESEARCH I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "371",
+        "course_title": "STATISTICAL COMPUTING III"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "301",
+        "course_title": "INTERMEDIATE MICROECONOMIC THEORY I"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "361",
+        "course_title": "DEVELOPMENT ECONOMICS"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "391",
+        "course_title": "RESEARCH METHODS IN ECONOMICS I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "321",
+        "course_title": "DISTRIBUTION THEORY"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "341",
+        "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "382",
+        "course_title": "PRACTICAL"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "384",
+        "course_title": "REPORT"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "415",
+        "course_title": "TIME SERIES ANALYSIS I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "423",
+        "course_title": "REGRESSION ANALYSIS"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "433",
+        "course_title": "MULTIVARIATE ANALYSIS I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "461",
+        "course_title": "OPERATIONS RESEARCH II"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "401",
+        "course_title": "ADVANCE MICROECONOMIC THEORY AND POLICY I"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "403",
+        "course_title": "ADVANCE MACROECONOMIC THEORY AND POLICY I"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "461",
+        "course_title": "PROBLEMS AND POLICIES OF DEVELOPMENT"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "465",
+        "course_title": "ECONOMIC PLANNING I"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "475",
+        "course_title": "PROJECT EVALUATION I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "416",
+        "course_title": "TIME SERIES ANALYSIS II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "434",
+        "course_title": "MULTIVARIATE ANALYSIS II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "462",
+        "course_title": "OPERATIONS RESEARCH III"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "402",
+        "course_title": "ADVANCE MICROECONOMIC THEORY AND POLICY II"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "404",
+        "course_title": "ADVANCE MACROECONOMIC THEORY AND POLICY II"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "466",
+        "course_title": "ECONOMIC PLANNING II"
+    },
+    {
+        "department_prefix": "ECO",
+        "course_number": "476",
+        "course_title": "PROJECT EVALUATION II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "492",
+        "course_title": "PROJECT"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "342",
+        "course_title": "BUSINESS DEVELOPMENT AND MANAGEMENT"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "111",
+        "course_title": "PROBABILITY I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "112",
+        "course_title": "PROBABILITY II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "131",
+        "course_title": "INFERENCE I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "132",
+        "course_title": "INFERENCE II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "172",
+        "course_title": "STATISTICAL COMPUTING I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "201",
+        "course_title": "STATISTICS FOR SOCIAL SCIENCES II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "202",
+        "course_title": "STATISTICS FOR SOCIAL SCIENCES II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "203",
+        "course_title": "STATISTICS FOR AGRICULTURAL AND BIOLOGICAL SCIENCES I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "204",
+        "course_title": "STATISTICS FOR AGRICULTURAL AND BIOLOGICAL SCIENCES I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "205",
+        "course_title": "STATISTICS FOR PHYSICAL SCIENCES & ENGINEERING I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "206",
+        "course_title": "STATISTICS FOR PHYSICAL SCIENCES & ENGINEERING II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "211",
+        "course_title": "PROBABILITY III"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "212",
+        "course_title": "PROBABILITY IV"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "231",
+        "course_title": "STATISTICAL INFERENCE III"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "272",
+        "course_title": "STATISTICAL COMPUTING II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "311",
+        "course_title": "PROBABILITY V"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "321",
+        "course_title": "DISTRIBUTION THEORY"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "323",
+        "course_title": "ANALYSIS OF VARIANCE"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "325",
+        "course_title": "BIOMETRICS I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "331",
+        "course_title": "INFERENCE IV"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "341",
+        "course_title": "SAMPLING THEORY & SURVEY METHODS I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "343",
+        "course_title": "LAB. FOR SAMPLING & SURVEY METHODS"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "345",
+        "course_title": "STATISTICAL QUALITY CONTROL"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "347",
+        "course_title": "LAB & FIELD WORK FOR QUALITY CONTROL I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "351",
+        "course_title": "DEMOGRAPHY"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "353",
+        "course_title": "LABORATORY & FILED WORK FOR DEMOGRAPHY"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "357",
+        "course_title": "ACTUARIAL STATISTICS I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "361",
+        "course_title": "ALGEBRAIC BASIS FOR STATISTICS"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "363",
+        "course_title": "OPERATIONS RESEARCH I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "365",
+        "course_title": "LABORATORY FOR OPERATIONS RESEARCH I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "371",
+        "course_title": "STATISTICAL COMPUTING III"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "382",
+        "course_title": "PRACTICAL ON INDUSTRIAL TRAINING"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "384",
+        "course_title": "REPORT ON INDUSTRIAL TRAINING"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "411",
+        "course_title": "PROBABILITY VII"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "413",
+        "course_title": "STOCHASTIC PROCESSES I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "414",
+        "course_title": "STOCHASTIC PROCESSES II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "415",
+        "course_title": "TIME SERIES I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "416",
+        "course_title": "TIME SERIES II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "421",
+        "course_title": "DESIGN & ANALYSIS OF EXPERIMENT I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "422",
+        "course_title": "DESIGN AND ANALYSIS OF EXPERIMENT II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "423",
+        "course_title": "REGRESSION ANALYSIS"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "425",
+        "course_title": "BIOMETRICS II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "426",
+        "course_title": "BIOMETRICS III"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "426",
+        "course_title": "BAYESIAN INFERENCE I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "432",
+        "course_title": "BAYESIAN INFERENCE II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "433",
+        "course_title": "MULTIVARIATE ANALYSIS I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "434",
+        "course_title": "MULTIVARIATE ANALYSIS II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "435",
+        "course_title": "NON-PARAMETRIC METHOD I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "436",
+        "course_title": "NON-PARAMETRIC METHODS II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "437",
+        "course_title": "PSYCHOMETRICS I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "438",
+        "course_title": "PSYCHOMETRICS II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "441",
+        "course_title": "SAMPLING THEORY & SURVEY METHODS II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "451",
+        "course_title": "ACTUARIAL STATISTICS I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "452",
+        "course_title": "MEDICAL STATISTICS"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "453",
+        "course_title": "HEALTH STATISTICS"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "454",
+        "course_title": "ENERGY STATISTICS"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "455",
+        "course_title": "ENVIRONMENTAL STATISTICS"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "457",
+        "course_title": "EDUCATIONAL STATISTICS"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "461",
+        "course_title": "OPERATIONS RESEARCH II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "462",
+        "course_title": "OPERATION RESEARCH III"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "463",
+        "course_title": "DECISION THEORY I"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "464",
+        "course_title": "DECISION THEORY II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "466",
+        "course_title": "LABORATORY FOR OPERATIONS RESEARCH II"
+    },
+    {
+        "department_prefix": "STA",
+        "course_number": "492",
+        "course_title": "PROJECT"
+    }
+]

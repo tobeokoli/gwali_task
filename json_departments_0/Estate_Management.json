@@ -1,0 +1,402 @@
+[
+  {
+    "department_prefix": "ESM",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO ESTATE MANAGEMENT"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "111",
+    "course_title": "PRINCIPLES OF LAND ECONOMY"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "111",
+    "course_title": "ELEMENTARY MATHEMATICS I"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "141",
+    "course_title": "ELEMENTS OF BUSINESS ECONOMICS I"
+  },
+  {
+    "department_prefix": "ARC",
+    "course_number": "121",
+    "course_title": "ARCHITECTURAL GRAPHICS I"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "101",
+    "course_title": "PRINCIPLES OF ACCOUNTS I"
+  },
+  {
+    "department_prefix": "URP",
+    "course_number": "110",
+    "course_title": "BASIC ELEMENTS OF PLANNING"
+  },
+  {
+    "department_prefix": "GST",
+    "course_number": "101",
+    "course_title": "USE OF ENGLISH I"
+  },
+  {
+    "department_prefix": "GST",
+    "course_number": "105",
+    "course_title": "NATURAL SCIENCE"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "102",
+    "course_title": "INTRODUCTION TO ESTATE MANAGEMENT II"
+  },
+  {
+    "department_prefix": "AG",
+    "course_number": "204",
+    "course_title": "PRINCIPLES OF AGRICULTURAL PRODUCTION"
+  },
+  {
+    "department_prefix": "ARC",
+    "course_number": "122",
+    "course_title": "ARCHITECTURAL GRAPHICS II"
+  },
+  {
+    "department_prefix": "ACC",
+    "course_number": "102",
+    "course_title": "PRINCIPLES OF ACCOUNTS II"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "142",
+    "course_title": "ELEMENTS OF BUSINESS ECONOMICS II"
+  },
+  {
+    "department_prefix": "URP",
+    "course_number": "111",
+    "course_title": "NATURE OF ENVIRONMENTAL SCIENCES"
+  },
+  {
+    "department_prefix": "GST",
+    "course_number": "102",
+    "course_title": "USE OF ENGLISH II"
+  },
+  {
+    "department_prefix": "GST",
+    "course_number": "106",
+    "course_title": "NATURAL SCIENCES II"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "211",
+    "course_title": "LAND ECONOMICS I"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "261",
+    "course_title": "INTRODUCTION TO VALUATION I"
+  },
+  {
+    "department_prefix": "SVY",
+    "course_number": "201",
+    "course_title": "BASIC LAND SURVEY I"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "112",
+    "course_title": "ELEMENTARY MATHEMATICS II"
+  },
+  {
+    "department_prefix": "AG",
+    "course_number": "301",
+    "course_title": "ECONOMICS OF AGRICULTURE I"
+  },
+  {
+    "department_prefix": "ARC",
+    "course_number": "261",
+    "course_title": "BUILDING COMPONENTS & METHODS I"
+  },
+  {
+    "department_prefix": "LAW",
+    "course_number": "243",
+    "course_title": "PRINCIPLES OF LAW OF CONTRACT & TORT"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "231",
+    "course_title": "BUSINESS STATISTICS I"
+  },
+  {
+    "department_prefix": "GST",
+    "course_number": "207",
+    "course_title": "HUMANITIES I"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "212",
+    "course_title": "LAND ECONOMICS II"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "262",
+    "course_title": "INTRODUCTION TO VALUATION II"
+  },
+  {
+    "department_prefix": "SVY",
+    "course_number": "202",
+    "course_title": "BASIC LAND SURVEY II"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "232",
+    "course_title": "BUSINESS STATISTICS II"
+  },
+  {
+    "department_prefix": "AG",
+    "course_number": "302",
+    "course_title": "ECONOMICS OF AGRICULTURE II"
+  },
+  {
+    "department_prefix": "ARC",
+    "course_number": "262",
+    "course_title": "BUILDING COMPONENTS & METHODS"
+  },
+  {
+    "department_prefix": "LAW",
+    "course_number": "244",
+    "course_title": "PRINCIPLES OF LAW OF CONTRACT & TORT"
+  },
+  {
+    "department_prefix": "GST",
+    "course_number": "208",
+    "course_title": "HUMANITIES II"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "321",
+    "course_title": "PRINCIPLES OF TOWN & COUNTRY PLANNING I"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "331",
+    "course_title": "NATIONAL & RATING TAXATION I"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "361",
+    "course_title": "PRINCIPLES OF VALUATION I"
+  },
+  {
+    "department_prefix": "LAW",
+    "course_number": "335",
+    "course_title": "PRINCIPLES OF LAND LAW I"
+  },
+  {
+    "department_prefix": "CS",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+  },
+  {
+    "department_prefix": "ARC",
+    "course_number": "342",
+    "course_title": "BUILDING SERVICES I"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "241",
+    "course_title": "BUSINESS MICRO ECONOMIC THEORY"
+  },
+  {
+    "department_prefix": "ARC",
+    "course_number": "517",
+    "course_title": "BUILDING MAINTENANCE & MANAGEMENT"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "323",
+    "course_title": "ECONOMICS OF PLANNING DEVELOPMENT I"
+  },
+  {
+    "department_prefix": "ARC",
+    "course_number": "514",
+    "course_title": "DESIGN ECONOMICS & COST PLANNING"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "362",
+    "course_title": "PRINCIPLES OF VALUATION II"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "322",
+    "course_title": "PRINCIPLES OF TOWN & COUNTRY PLANNING II"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "332",
+    "course_title": "NATIONAL RATING & TAXATION II"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "341",
+    "course_title": "ARBITRATION & AWARDS"
+  },
+  {
+    "department_prefix": "LAW",
+    "course_number": "336",
+    "course_title": "PRINCIPLES OF NIGERIAN LAND LAW II"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "352",
+    "course_title": "COMPUTER APPLICATION IN ESTATE MANAGEMENT"
+  },
+  {
+    "department_prefix": "MAN",
+    "course_number": "242",
+    "course_title": "BUSINESS MACRO ECONOMICS THEORY"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "324",
+    "course_title": "ECONOMICS OF PLANNED DEVELOPMENT II"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "351",
+    "course_title": "ADMINISTRATION OF PUBLIC PROPERTY"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "363",
+    "course_title": "MINERAL VALUATION"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "451",
+    "course_title": "PRINCIPLES OF PROPERTY MANAGEMENT"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "471",
+    "course_title": "ESTATE AND DEVELOPMENT FINANCE"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "411",
+    "course_title": "COMPARATIVE LAND POLITICS"
+  },
+  {
+    "department_prefix": "ESMA",
+    "course_number": "491",
+    "course_title": "RESEARCH METHODOLOGY"
+  },
+  {
+    "department_prefix": "ARC",
+    "course_number": "513",
+    "course_title": "PROJECT PLANNING & CONTROL"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "412",
+    "course_title": "URBAN LAND ECONOMICS"
+  },
+  {
+    "department_prefix": "LAW",
+    "course_number": "570",
+    "course_title": "ADMINISTRATIVE LAW"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "461",
+    "course_title": "VALUATION OF PLANT & MACHINERY"
+  },
+  {
+    "department_prefix": "URP",
+    "course_number": "371",
+    "course_title": "NATURAL RESOURCES & ENVIRONMENTAL PLANNING"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "511",
+    "course_title": "LAND USE & RESOURCES I"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "551",
+    "course_title": "APPLIED PROPERTY MANAGEMENT I"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "561",
+    "course_title": "ADVANCED VALUATION I"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "581",
+    "course_title": "FEASIBILITY & VIABILITY APPRAISALS I"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "591",
+    "course_title": "PROJECT DISSERTATION I"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "521",
+    "course_title": "APPLIED TOWN PLANNING I"
+  },
+  {
+    "department_prefix": "CE",
+    "course_number": "422",
+    "course_title": "ENVIRONMENTAL HEALTH ENGINEERING"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "553",
+    "course_title": "PORTFOLIO MANAGEMENT"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "512",
+    "course_title": "LAND USE & RESOURCES II"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "552",
+    "course_title": "APPLIED PROPERTY MANAGEMENT II"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "562",
+    "course_title": "ADVANCED VALUATION II"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "571",
+    "course_title": "PROFESSIONAL PRACTICES"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "582",
+    "course_title": "FEASIBILITY & VIABILITY APPRAISALS II"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "592",
+    "course_title": "PROJECT DISSERTATION II"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "522",
+    "course_title": "APPLIED TOWN PLANNING II"
+  },
+  {
+    "department_prefix": "URP",
+    "course_number": "531",
+    "course_title": "ENVIRONMENTAL IMPACT ASSESSMENT"
+  },
+  {
+    "department_prefix": "ESM",
+    "course_number": "554",
+    "course_title": "PROJECT MANAGEMENT"
+  }
+]

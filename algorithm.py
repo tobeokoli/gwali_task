@@ -3,7 +3,7 @@ import os
 
 final_result = []
 list_of_courses = []
-course_name = 'social_work'
+course_name = ''
 with open(f'{course_name}.txt') as f:
     lines = f.readlines()
 f.close()

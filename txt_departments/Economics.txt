@@ -1,0 +1,70 @@
+ECO 101 Principles of Economics I                                   2Units
+ECO 102 Principles of Economics II                                  2Units
+ECO 121 Introduction to Accounting                                 2Units
+ECO 122 Introduction to Business Management                         2Units
+ECO 124 Introduction to Business Finance                             2Units
+ECO 131 Introduction to Economic Statistics I                          2Units
+ECO 132 Introduction to Economic Statistics II          2Units
+ECO 201 Microeconomic Theory 1                                           2Units
+ECO 202 Microeconomic Theory II                                   2Units
+ECO 203 Macroeconomic Theory I                                      2Units
+ECO 204 Macroeconomic Theory II                                       2Units
+ECO 221 Monetary Economics and Finance                            2Units
+ECO 223 Intermediate Business Accounting                                   2Units
+ECO 231 Intermediate Economic Statistics I                                   2Units
+ECO 232 Intermediate Economic Statistics II                                 2Units
+ECO 233 Intermediate Mathematics for Economists I                      2Units
+ECO 234 Intermediate Mathematics for Economists II                    2Unit
+ECO 236 Computing Applications for Economists                             2Units
+ECO 262 Urban and Regional Economics                                          2Units
+ECO 264 Introduction to Environmental Economics               2Units
+ECO 266 Introduction to Health Economics                                 2Units
+ECO 271 Theories of Human Resources                                              2Units
+ECO 273 Labour Economics                                                                  2Units
+ECO 281 History and Structure of the Nigerian Economy I                 2Units
+ECO 282 History and Structure of the Nigerian Economy II              2Units
+ECO 301 Intermediate Microeconomic Theory I                                      2Units
+ECO 302 Intermediate Microeconomic Theory II                                         2Units
+ECO 303 Intermediate Macroeconomic Theory 1                                     2Units
+ECO 304 Intermediate Macroeconomic Theory I1                           2Units
+ECO 311   History of Economic Thought   I                                    2Units
+ECO 312 The History of Economic Thought II                                  2Units
+ECO 322 Management Accounting                                       2Units
+ECO 324 Financial Markets and Institutions                                2Units
+ECO 325 Public Sector Economics I                                                   2Units
+ECO 326 Public Sector Economics II                                                  2Units
+ECO 328 Applied Monetary Economics                                 2Units
+ECO 331     Introduction to Econometrics I                                    2Units
+ECO 332   Introduction to Econometrics II                                              2Units
+ECO 333 Operations Research                                                       2Units
+ECO 334 Mathematical Economics                                                    2Units
+ECO 341       International Economics I                                             2Units
+ECO 342     International Economics II                                              2Units
+ECO 351 Demography and Population Economics                             2Units
+ECO 361   Development Economics I                                             2Units
+ECO 362 Development Economics II                                                 2Units
+ECO 363 Political Economy                                                          2Units
+ECO 391 Research Methods in Economics I                             2Units
+ECO 392 Research Methods in Economics II                             2Units
+ECO 401 Advanced Microeconomic Theory and Policy I            2Units
+ECO 402 Advanced Microeconomic Theory and Policy II             2Units
+ECO 403 Advanced Macroeconomic Theory and Policy I             2Units              
+ECO 404 Advanced Macroeconomic Theory and Policy II             2Units
+ECO 421 Advanced Public Sector Economics                              2Units
+ECO 423 Public Policy                                                                 2Units
+ECO 428 Advanced Monetary Economics                                2Units
+ECO 431       Applied Statistics and Econometrics I         2Units
+ECO 432 Applied Statistics and Econometrics II                           2Units
+ECO 433   Advanced Mathematical Economics                       2Units
+ECO 451 Energy Economics                                                       2Units
+ECO 452 Economics of Production                                        2Units
+ECO 453 Advanced Demography and Population Economics   2Units
+ECO 461 Advanced Development Economics                               2Units
+ECO 462 Economics of Planning                                                     2Unit
+ECO 463 Comparative Economic Systems                                 2Units
+ECO 464 Health Economics and Health Policy   Units
+ECO 466 Climate and Environmental Economics                           2Units
+ECO 471 Industrial Relations and Personnel Management         2Units
+ECO 475       Project Appraisal I                                                       2Units
+ECO 476     Project Appraisal II                                                      2Units
+ECO 478 Project Report                                                     6Units

@@ -1,0 +1,309 @@
+MUS  101	Music as an Art and Science	2
+MUS 111	Rudiments of Music	1
+MUS 121	Foundations of Musicianship I	1
+MUS 123	Tonal Harmony I	1
+MUS 141	African Music: Music and Society I	2
+MUS 143	Introduction to Popular Music	1
+MUS 161	Primary Instrument/Voice I	1
+MUS 163	Performance Workshop  Western Ensembles I	1
+MUS 165	Performance Workshop  African Ensembles I	1
+MUS 167	Secondary Instrument I	1
+GS 101	Use of English I	2
+GS 103	Social Science I	2
+ENGL 111	Introduction to Oral Literature	3
+IGBO 101	Elementary Igbo I	2
+YORU 101	Elementary Yoruba I	2
+HAUS 101	Elementary Hausa I	2
+LING 141	Introduction to Linguistics I	3
+PHIL 101	Introduction to Philosophy I	2
+MC 102	History of the Nigerian Mass Media	2
+MUS 122	Foundations of Musicianship II	1
+MUS 124	Tonal Harmony II	1
+MUS 132	Survey of History of Western Music I	2
+MUS 144	Popular Music in Nigeria	1
+MUS 152	Basic Keyboard Studies	1
+MUS 162	Primary Instrument II	1
+MUS 164	Performance Workshop – Western Ensembles II	2
+MUS 166	Performance Workshop – African Ensembles II	2
+MUS 168	Secondary Instrument II	1
+GS  102	Use of English II	2
+GS  104	Social Science II	2
+PHIL 102	Introduction to Philosophies	2
+LING 142	Introduction to Linguistics II	3
+IGBO 102	Elementary Igbo II	2
+YORU 102	Elementary Yoruba II	2
+HAUS 102	Elementary Hausa II	2
+PHIL 102	Introduction to Philosophy	2
+MUS 201	Music Business and Media Practices	1
+MUS 221	Foundations of Musicianship III	1
+MUS 223	Tonal Harmony III	2
+MUS  241	African Music: Theoretical Studies I	2
+MUS 243	African Music: Music and Society II	2
+MUS 251	Basic Keyboard Studies II	1
+MUS 261	Primary Instrument/Voice III	1
+MUS 263	Performance Workshop – Western Ensembles III	2
+MUS 265	Performance Workshop–African Ensembles III	2
+MUS 267	Secondary Instrument III	1
+GS 105	Natural Science I	2
+GSP 201	Peace and Conflict Resolution	1
+CEDR 341	Entrepreneurship	2
+IGBO 201	Intermediate Igbo I	2
+YORU 201	Intermediate Yoruba I	2
+HAUS 201	Intermediate Hausa I	2
+DRA 102	Introduction to Drama and Theatre	3
+MC 261	Introduction to Film	3
+PHIL 131	Introduction to Logic and Clear Thought I	3
+MUS 202	Computer Music Application	1
+MUS 222	Foundations of Musicianship IV	1
+MUS 224	Tonal Harmony IV	1
+MUS 232	Western Music before 1750	2
+MUS 242	African Music: Theoretical Studies II	2
+MUS 252	Basic Keyboard Studies III	1
+MUS 262	Primary Instrument/Voice IV	1
+MUS 264	Performance Workshop – Western Ensembles IV	2
+MUS 266	Performance Workshop–African Ensembles IV	2
+MUS 268	Secondary Instrument IV	1
+GS 106	Natural Science II	2
+GSP 202	Peace and Conflict Resolution II	2
+CEDR 342	Entrepreneurial II	2
+PHIL 132	Introduction to Logic and Clear Thought II	2
+IGBO 202	Intermediate Igbo II	2
+YORU 202	Intermediate Yoruba Igbo II	2
+HAUS 202	Intermediate Hausa II	2
+DRA 130	Basic Acting Skills	3
+MUS 331	Western Music after 1750	2
+MUS 341	African Music: Theoretical Studies III	2
+MUS 343	Afro-American Music	2
+MUS 351	Elementary Keyboard Harmony	1
+MUS 361	Primary Instrument/Voice V	2
+MUS 363	Performance Workshop – Western Ensembles	2
+MUS 365	Performance Workshop – African Ensembles V	2
+MUS 367	Secondary Instrument/Voice I	1
+MUS 381	Teaching Methods in Music	2
+CS 101	Introduction to Computer Science	2
+MUS 302	Introduction to Musical Instrument Technology	2
+MUS 322	Composition	2
+MUS 324	Conducting and Performance Management	2
+MUS 326	Orchestration	1
+MUS 342	Music of Other Cultures of the World	1
+MUS 362	Primary Instrument/Voice VI	1
+MUS 364	Performance Workshop – Western Ensembles IV	2
+MUS 366	Performance Workshop – African Ensembles IV	2
+MUS 368	Secondary Instrument/Voice II	1
+MUS  392	Research Method and Preparatory Studies in Music	2
+CS 304	Computer Applications	3
+MUS 401	Acoustics of Music	2
+MUS 421	Fugue	2
+MUS 425	Analysis of Tonal Music	2
+MUS 427	Analysis and Analytical Method for 20th C. Music	2
+MUS 451	Keyboard Harmony and Accompaniment	2
+MUS 461	Primary Instrument/Voice VII	2
+MUS 463	Performance Workshop – Western Ensembles VII	1
+MUS 465	Performance Workshop – African Ensembles VII	1
+MUS 467	Secondary Instrument/Voice III	1
+MUS 471	Criticism and Musical Scholarship	3
+MUS 402	Music Technology	2
+MUS 422	Modern Compositional Techniques	2
+MUS 442	African Music: Historiography, Theoretical Issues and Contemporary Development	3
+MUS 462	Primary Instrument/Voice VIII	2
+MUS 464	Performance Workshop – Western Ensembles VIII	2
+MUS 466	Performance Workshop – African Ensembles VIII	2
+MUS 468	Secondary Instrument/Voice IV	1
+MUS 490	Project	4
+MUS      101         MUSIC AS AN ART AND SCIENCE 1
+MUS      111         RUDIMENTS OF MUSIC (1unit)
+
+MUS      121         FOUNDATIONS OF MUSICIANISHIP I 1
+
+MUS      122         FOUNDATIONS OF MUSICIANSHIP II                                                                                                                                     (1unit)
+
+MUS   123      TONAL HARMONY I 1
+MUS   124      TONAL HARMONY II 1
+MUS   131      SURVEY OF HISTORY OF WESTERN MUSIC 1
+
+MUS   141      AFRICAN MUSIC: MUSIC AND SOCIETY I 2
+MUS   143      INTRODUCTION TO POPULAR MUSIC 1
+MUS   144      POPULAR MUSIC IN NIGERIA 1
+
+MUS   151      BASIC KEYBOARD STUDIES I 1
+MUS   161      PRIMARY INSTRUMENT/VOICE I 1
+MUS   162      PRIMARY INSTRUMENT/VOICE II 1
+MUS   163      PERFORMANCE WORKSHOP – WESTERN ENSEMBLES I 1
+MUS   164      PERFORMANCE WORKSHOP – WESTERN ENSEMBLES II 1
+MUS   165      PERFORMANCE WORKSHOP – AFRICAN ENSEMBLES I 1
+MUS   166      PERFORMANCE WORKSHOP – AFRICAN ENSEMBLES II 2
+MUS   201      MUSIC BUSINESS AND MEDIA PRACTICES 1
+MUS   202      COMPUTER MUSIC APPLICATION 1
+
+MUS   221      FOUNDATIONS OF MUSICIANSHIP III 1
+
+MUS   222      FOUNDATIONS OF MUSICIANSHIP IV 1
+MUS   223      TONAL HARMONY III 1
+
+MUS   224      TONAL HARMONY IV 1
+MUS   231      WESTERN MUSIC BEFORE 1750 2
+MUS   241      AFRICAN MUSIC: TEHORETICAL STUDIES I 2
+MUS   242      AFRICAN MUSIC: THEORETICAL STUDIES II 2
+MUS   243      AFRICAN MUSIC: MUSIC AND SOCIETY II 2
+MUS   251      BASIC KEYBOARD STUDIES II 1
+MUS   252      BASIC KEYBOARD STUDIES III 1
+MUS   261      PRIMARY INSTRUMENT/VOICE III 1
+
+MUS   262      PRIMARY INSTRUMENT/VOICE IV 1
+MUS   263      PERFORMANCE WORKSHOP – WESTERN ENSEMBLES III 2
+MUS   264      PERFORMANCE WORKSHOP – WESTERN ENSEMBLES IV 2
+MUS   265      PERFORMANCE WORKSHOP – AFRICAN ENSEMBLES III 2
+MUS   266      PERFORMANCE WORKSHOP – AFRICAN ENSEMBLES IV 2
+MUS   301      INTRODUCTION TO MUSIC INSTRUMENT TECHNOLOGY 2
+MUS   321      TONAL COUNTERPOINT 2
+MUS   322      STRICT COUNTERPOINT 1
+
+MUS   323      COMPOSITION 2
+MUS   324      CONDUCTING AND PERFORMANCE MANAGEMENT 1
+MUS   325      ORCHESTRATION 1
+MUS   331      WESTERN MUSIC AFTER 1750 2
+MUS   341      AFRICAN MUSIC: THEORTICAL STUDIES III 2
+MUS   342      AFRO-AMERICAN MUSIC 2
+MUS   343      MUSIC OF OTHER CULTURES OF THE WORLD 2
+MUS 351        ELEMENTARY KEYBOARD HARMONY 1
+
+MUS 361        PRIMARY INSTRUMENT/ VOICE V (2units)
+
+MUS 362        PRIMARY INSTRUMENT/ VOICE VI 2
+
+MUS 363        PERFORMANCE WORKSHOP – WESTERN ENSEMBLES V 2
+MUS 364        PERFORMANCE WORKSHOP – WESTERN ENSEMBLES VI 2
+MUS 365        PERFORMANCE WORKSHOP – AFRICAN ENSEMBLES V 2
+
+MUS 366        PERFORMANCE WORKSHOP – AFRICAN ENSEMBLES VI 2
+MUS 367        SECONDARY INSTRUMENT/ VOICE I 2
+MUS 368        SECONDARY INSTRUMENT/ VOICE II 1
+MUS 392        RESEARCH METHOD AND PREPARATORY STUDIES 1
+MUS   401      ACOUSTICS OF MUSIC 2
+MUS   402      MUSIC TECHONOLOGY II 2
+MUS   421      FUGUE 2
+MUS   422      MODERN COMPOSITIONAL TECHNIQUES 2
+MUS   425      ANALYSIS OF TONAL MUSIC 2
+MUS   427      ANALYSIS AND ANALYTIC METHOD FOR 20TH CENTURY MUSIC 2
+MUS   441      AFRICAN MUSIC: HISTORIGRAPHY, THEORETICAL ISSUES AND CONTEMPORARY DEVELOPMENTS 3
+MUS   451      KEYBOARD HARMONYAND ACCOMPANIMENT 2
+MUS   461      PRIMARY INSTRUMENT/VOICE VII 2
+
+MUS   462      PRIMARY INSTRUMENT/VOICE VIII 2
+
+MUS   463      PERFORMANCE WORKSHOP – WESTERN ENSEMBLES VII 2
+MUS   464      PERFORMANCE WORKSHOP – WESTERN ENSEMBLES VIII 2
+MUS   465      PERFORMANCE WORKSHOP – AFRICAN ENSEMBLES VII 2
+
+MUS   466      PERFORMANCE WORKSHOP – AFRICAN ENSEMBLES VIII 2
+MUS   467      SECONDARY INSTRUMENT/VOICE III 1
+MUS   468      SECONDARY INSTRUMENT/VOICE IV 1
+MUS   471      CRITICISM AND MUSICAL SCHOLARSHIP 3
+MUS   490      PROJECT 2
+MUS 0111	Rudiments of Music I	2
+MUS 0121	Introduction to Ear Training	2
+MUS 0141	African Music: Music and Society I	1
+MUS 0143	Introduction to Popular Music	1
+MUS 0161	Principal Instrument Study I (Western)	2
+MUS 0163	Performance Workshop-Western Ensemble I	2
+MUS 0165	Performance Workshop-African Ensemble I	2
+MUS 0167	Minor Instrument Study I (African)	2
+GSP  0101	Use of English	2
+MUS 0112	Rudiments of Music II	2
+MUS 0122	Aural Training I	2
+MUS 0142	African Music: Music and Society II	1
+MUS 0144	Introduction to Popular Music	1
+MUS 0162	Principal Instrument Study II	2
+MUS 0164	Performance Workshop –Western Ensembles II	2
+MUS 0166	Performance Workshop – African Ensembles II	2
+MUS 0168	Minor Instrument Study II	2
+GS  102	Use of English II	2
+ED  102	History of Education	2
+MUS 0201	Introduction to Music Notation Software	1
+MUS 0221	Theory of Music I	2
+MUS 0223	Aural Training II	2
+MUS 0231	Outline History of Western Music I (Baroque)	2
+MUS 0261	Principal Instrument Study III	2
+MUS 0263	Performance Workshop-Western Ensembles III	2
+MUS 0265	Performance Workshop – African Ensembles III	2
+MUS 0267	Minor Instrument Study III	2
+MUS 0233	Elementary Composition I	1
+ED 0211	Education Psychology I	2
+GSP 0201	Peace and Conflict Resolution	2
+MUS 0202	Application of Music Notation Software	1
+MUS 0222	Theory of Music II	2
+MUS 0224	Aural Training III	2
+MUS 0232	Outline History of Western Music II (Classical and Romantic)	2
+MUS 0262	Principal Instrument Study IV	2
+MUS 0264	Performance Workshop – Western Ensemble IV	2
+MUS 0266	Performance Workshop – African Ensemble IV	2
+MUS 0268	Minor Instrument Study IV	1
+MUS 0234	Elementary Composition II	1
+MUS 0202	Peace and Conflict Resolution	2
+ED 0311	Educational Psychology II	3
+MUS 0321	Theory of Music III	2
+MUS 0323	Composition	1
+MUS 0341	African Music: Music and Society III	2
+MUS 0343	African Music: Theoretical Study I	2
+MUS 0361	Principal Instrument Study V	2
+MUS 0363	Performance Workshop – Western Ensembles V	2
+MUS 0365	Performance Workshop – African Ensembles V	2
+MUS  0367	Minor Instrument Study V	1
+MUS 0381	School Music Methods	2
+ED 0221	Curriculum Theory and Planning	3
+MUS 0322	Theory of Music IV	2
+MUS 0342	African Music: Music and Society IV	2
+MUS 0344	African Music: Theoretical Studies II	2
+MUS 0362	Principal Instrument Study VI	2
+MUS 0364	Performance Workshop –Western Ensembles VI	2
+MUS 0366	Performance Workshop – African Ensemble VI	1
+MUS 0368	Minor Instrument Study VI	2
+MUS 0382	Applied School Music Methods	2
+ED 0321	Curriculum Implementation and Instrument	3
+MUS   0111          RUDIMENTS OF MUSIC I 2
+MUS   0112          RUDIMENTS OF MUSIC II 2
+MUS   0121          INTRODUCTION TO EAR TRAINING 2
+MUS 0122            AURAL TRAINING I 2
+MUS   0143    INTRODUCTION TO POPULAR MUSIC 1
+MUS   0144    POPULAR MUSIC IN NIGERIA 1
+MUS   0161          PRINCIPAL INSTRUEMENT STUDY (WESTERN) I 2
+MUS   0162          PRINCIPAL INSTRUMENT STUDY (WESTERN) II 3
+
+MUS   0163          PERFORMANCE WORKSHOP – WESTERN ENSEMBLES I 2
+MUS   0164          PERFORMANCE WORKSHOP – WESTERN ENSEMBLES II 2
+
+MUS   0165          PERFORMANCE WORKSHOP –AFRICAN ENSEMBLE I 2
+MUS   0166          PERFORMANCE WORKSHOP – AFRICAN ENSEMBLES II 2
+MUS   0167          PRINCIPAL INSTRUMENT STUDY (AFRICAN)I 2
+
+MUS   0168          PRINCIPAL INSTRUMENT STUDY (AFRICAN) II 3
+
+MUS   0201          INTRODUCTION TO COMPUTER MUSIC 1
+MUS   0202          COMPUTER MUSIC APPLICATION 1
+MUS   0221          THEORY OF MUSIC I 2
+MUS   0222          THEORY OF MUSIC II 2
+MUS   0223          AURAL TRAINING II 2
+MUS   0224          AURAL TRAINING III 2
+MUS   0231          OUTLINE HISTORY OR WESTERN MUSIC I (BAROQUE) 2
+MUS      0232       OUTLINE HISTORY OF WESTERN MUSIC II (CLASSICAL AND ROMANTIC) 2
+MUS      0261       PRINCIPAL INSTRUMENT OF STUDY (WESTERN) IV 2
+MUS      0262       PRINCIPAL INSTRUMENT OF STUDY (WESTERN) IV 2
+MUS      0263       PERFROMANCE WORKSHOP – WESTERN ENSEMBLE III 2
+MUS      0264       PERFORMANCE WORKSHOP – WESTERN ENSEMBLE IV 2
+MUS      0265       PERFORMANCE WORKSHOP – AFRICAN ENSEMBLE III 2
+MUS      0266       PERFORMANCE WORKSHOP – AFRICAN ENSEMBLES IV 2
+MUS      0267       PRINCIPAL INTRUMENT OF STUDY (AFRICAN) III (2Units)
+MUS      0268       PRINCIPAL INSTRUMENT OF STUDY (AFRICAN) 2
+MUS      0321       THEORY OF MUSIC III 2
+MUS      0322       THEORY OF MUSIC IV 2
+MUS      0323       COMPOSITION 1
+MUS      0341       AFRICAN MUSIC: MUSIC AND SOCIETY I 2
+MUS      0342       AFRICAN MUSIC: MUSIC AND SOCIETY II 2
+MUS      0343       AFRICAN MUSIC: THEORETICAL STUDIES I 2
+MUS      0344       AFRICAN MUSIC: THEORETICAL STUDIES II 2
+MUS      0361       PRINCIPAL INSTRUMENT STUDY (WESTERN) V 2
+MUS      0362       PRINCIPAL INSTRUMENT STUDY (WESTERN) VI 2
+MUS      0363       PERFORAMNCE WORKSHOP – WESTERN ENSEMBLE V 2
+MUS      0364       PERFORMANCE WORKSHOP – WESTERN ENSEMBLE VI 2
+MUS      0365       PERFORMANCE WORKSHOP – AFRICAN ENSEMBLE V 2
+MUS      0366       PERFORMANCE WORKSHOP – AFRICAN ENSEMBLES VI 2

@@ -1,0 +1,43 @@
+EEE 211 ELECTRICAL ENGINEERING I                                                     3
+EEE 251 BASIC ELECTRICAL ENGINEERING LABORATORY            1
+EEE 313  CIRCUIT THEORY I                                                          3
+EEE 314 CIRCUIT THEORY I                �                                          
+EEE 322 APPLIED ELECTRONIC SYSTEMS                        �                        
+EEE 332 ELECTRIC POWER SYSTEMS PRINCIPLES       its
+EEE 351 ELECTRICAL MACHINES LABORATORY                          1
+EEE 352 ELECTRIC POWER SYSTEMS LABORATORY   1
+EEE 354 MEASUREMENT AND PHYSICAL ELECTRONICS LABORATORY 1
+EEE 356 ELECTRICAL DRIVES LABORATORY                                        1 
+EEE 361 ELECTRICAL MACHINES I                          1
+EEE 362 ELECTRICAL MACHINES II                                                                      2
+EEE 371 MEASUREMENT AND INSTRUMENTATION                             3 
+EEE 381 ELECTROMAGNETIC FIELDS AND WAVES I                         2
+EEE 382 ELECTROMAGNETIC FIELDS AND WAVES II                         2
+EEE 421 POWER SEMICONDUCTOR DEVICES AND CIRCUITS I         2 
+EEE 441 COMMUNICATION PRINCIPLES                �                                   
+EEE 451 COMMUNICATION AND FIELDS LAB                  �
+EEE 453 CONTROL AND LOGIC SYSTEMS LABORATORY       �  
+EEE 461 ELECTRICAL MACHINES III                       �
+EEE 471 DIGITAL SIGNAL PROCESSING                 �    
+EEE 473 CONTROL LOGIC CIRCUIT DESIGN        �                                  
+EEE 475 CONTROL SYSTEMS ENGINEERING I     �                                   
+EEE 492 SEMINARS AND INDUSTRIAL VISITS      �                                   
+EEE 494 MINI PROJECT                                                             �                                   
+EEE 521 POWER SEMICONDUCTOR DEVICES AND CIRCUITS II       �
+EEE 531 ELECTRIC POWER SYSTEM ANALYSIS, PLANNING AND PROTECTION 2
+EE 533 SWITCHGEAR AND HIGH VOLTAGE ENGINEERING   �
+EEE 541 POWER SYSTEMS COMMUNICATION AND CONTROL          2 
+EEE 561 ELECTRICAL MACHINE DESIGN                          �                       
+EEE 581 ELECTROMAGNETIC FIELDS AND WAVES III            �                       
+EEE 573 COMPUTER SOFTWARE AND APPLICATIONS                         �          
+EEE 535 POWER SYSTEM DISTRIBUTION                                      �     
+EEE 537 POWER SYSTEMS OPTIMISATION                                                � 
+EEE 571 COMPUTER ORGANISATION                                  �                   
+EEE 512 RENEWABLE AND NEW ENERGY SYSTEMS                �          
+EEE 522 APPLICATION OF SEMICONDUCTOR DEVICES IN POWER SYSTEMS 2
+EEE 532 ELECTRIC SERVICES DESIGN, RELIABILITY AND MAINTENABILITY 2
+EEE 572 CONTROL SYSTEMS ENGINEERING II 2
+EEE 592 PROJECT                                                                        �                       
+EEE 562 ELECTRIC MOTOR DRIVES                                    �                                  
+EEE 574 DIGITAL/DISCRETE CONTROL SYSTEMS         �                       
+EEE 576 INTRODUCTION TO OPTIMAL CONTROL          �                       

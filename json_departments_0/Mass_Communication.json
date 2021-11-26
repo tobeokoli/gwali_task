@@ -1,0 +1,497 @@
+[
+  {
+    "department_prefix": "MAC",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO MASS COMMUNICATION"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "103",
+    "course_title": "HISTORY OF THE NIGERIAN MASS MEDIA"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "111",
+    "course_title": "ELEMENTS OF JOURNALISTIC STYLE"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "101",
+    "course_title": "COMMUNICATION IN ENGLISH I"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "111",
+    "course_title": "THE USE OF LIBRARY & STUDY SKILLS"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "207",
+    "course_title": "LOGIC PHILOSOPHY & HUMAN EXISTENCE"
+  },
+  {
+    "department_prefix": "PHI",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO PHILOSOPHY I"
+  },
+  {
+    "department_prefix": "POL",
+    "course_number": "114",
+    "course_title": "NIGERIAN LEGAL SYSTEM I"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "104",
+    "course_title": "INTRODUCTION TO NIGERIAN LITERATURE I"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "141",
+    "course_title": "INTRODUCTION TO FICTION"
+  },
+  {
+    "department_prefix": "FRE",
+    "course_number": "101",
+    "course_title": "ELEMENTARY FRENCH I"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "103",
+    "course_title": "MAJOR WORLD CIVILIZATIONS"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "111",
+    "course_title": "NIGERIA FROM 1500 TO 1800"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "121",
+    "course_title": "HISTORY OF AFRICA FROM 1500 \u00cf\u00bf\u00bd 1800 A.D."
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "102",
+    "course_title": "AFRICAN COMMUNICATION SYSTEMS"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "112",
+    "course_title": "WRITING FOR THE MASS MEDIA"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "132",
+    "course_title": "TYPESETTING"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "102",
+    "course_title": "COMMUNICATION IN ENGLISH II"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "208",
+    "course_title": "NIGERIAN PEOPLES &"
+  },
+  {
+    "department_prefix": "PHI",
+    "course_number": "102",
+    "course_title": "INTRODUCTION TO PHILOSOPHY II"
+  },
+  {
+    "department_prefix": "POL",
+    "course_number": "115",
+    "course_title": "NIGERIAN LEGAL SYSTEM II"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "105",
+    "course_title": "INTRODUCTION TO NIGERIAN LITERATURE II"
+  },
+  {
+    "department_prefix": "ELS",
+    "course_number": "121",
+    "course_title": "BASIC ENGLISH GRAMMAR AND COMPOSITION"
+  },
+  {
+    "department_prefix": "FRE",
+    "course_number": "102",
+    "course_title": "ELEMENTARY FRENCH II"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "122",
+    "course_title": "HISTORY OF WEST AFRICA FROM 1500 A.D. TO THE PRESENT"
+  },
+  {
+    "department_prefix": "HIS",
+    "course_number": "131",
+    "course_title": "EUROPE TO THE AGE OF REVOLUTIONS"
+  },
+  {
+    "department_prefix": "THA",
+    "course_number": "132",
+    "course_title": "BASIC COMMUNICATION THEORY"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "201",
+    "course_title": "THEORIES OF MASS COMMUNICATION"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "203",
+    "course_title": "REPORTING"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "205",
+    "course_title": "GRAPHICS OF MASS COMMUNICATION"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "211",
+    "course_title": "CRITICAL AND REVIEW WRITING"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "221",
+    "course_title": "ANNOUNCING AND PERFORMANCE"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "241",
+    "course_title": "PRINCIPLES OF PUBLIC RELATIONS"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "261",
+    "course_title": "INTRODUCTION TO FILM"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "105",
+    "course_title": "NATURAL SCIENCE I"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "201",
+    "course_title": "PEACE AND CONFLICT RESOLUTION I"
+  },
+  {
+    "department_prefix": "COS",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "243",
+    "course_title": "MARKETING FOUNDATIONS FOR ADVERTISING AND PUBLIC RELATIONS"
+  },
+  {
+    "department_prefix": "POL",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO POLITICAL SCIENCE I"
+  },
+  {
+    "department_prefix": "POL",
+    "course_number": "211",
+    "course_title": "NIGERIAN POLITICS AND GOVERNMENT I"
+  },
+  {
+    "department_prefix": "SOC",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO SOCIOLOGY I"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "202",
+    "course_title": "MEDIA AND SOCIETY"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "204",
+    "course_title": "INFORMATION AND COMMUNICATION TECHNOLOGIES"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "212",
+    "course_title": "NEWS WRITING"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "222",
+    "course_title": "PRINCIPLES OF BROADCASTING"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "242",
+    "course_title": "PRINCIPLES OF ADVERTISING"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "252",
+    "course_title": "MEDIA ATTACHMENT"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "106",
+    "course_title": "NATURAL SCIENCE II"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "202",
+    "course_title": "PEACE AND CONFLICT RESOLUTION II"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "244",
+    "course_title": "FUNDAMENTALS OF MEDIA RELATIONS"
+  },
+  {
+    "department_prefix": "POL",
+    "course_number": "102",
+    "course_title": "INTRODUCTION TO POLITICAL SCIENCE II"
+  },
+  {
+    "department_prefix": "POL",
+    "course_number": "212",
+    "course_title": "NIGERIAN POLITICS AND GOVERNMENT II"
+  },
+  {
+    "department_prefix": "PSY",
+    "course_number": "103",
+    "course_title": "DETERMINANTS OF BEHAVIOUR"
+  },
+  {
+    "department_prefix": "SOC",
+    "course_number": "102",
+    "course_title": "INTRODUCTION TO SOCIOLOGY II"
+  },
+  {
+    "department_prefix": "SOC",
+    "course_number": "251",
+    "course_title": "SOCIAL CHANGES AND SOCIAL PROBLEMS"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "301",
+    "course_title": "DEVELOPMENT JOURNALISM"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "311",
+    "course_title": "FEATURE AND INTERPRETATIVE WRITING"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "313",
+    "course_title": "MAGAZINE ARTICLE WRITING"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "321",
+    "course_title": "RADIO/TV PROGRAMME WRITING AND PRODUCTION"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "331",
+    "course_title": "NEWS EDITING"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "333",
+    "course_title": "FUNDAMENTALS OF BOOK PUBLISHING"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "361",
+    "course_title": "PHOTOJOURNALISM"
+  },
+  {
+    "department_prefix": "CED",
+    "course_number": "341",
+    "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "323",
+    "course_title": "PUBLIC AFFAIRS BROADCASTING"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "341",
+    "course_title": "FINANCIAL RELATIONS"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "343",
+    "course_title": "ADVERTISING CREATIVE STRATEGIES AND TACTICS"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "345",
+    "course_title": "CONSUMER AFFAIRS"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "302",
+    "course_title": "SPECIALISED REPORTING"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "312",
+    "course_title": "EDITORIAL WRITING"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "322",
+    "course_title": "BROADCAST PROGRAMMING"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "332",
+    "course_title": "NEWSPAPER PRODUCTION"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "334",
+    "course_title": "MAGAZINE PRODUCTION"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "352",
+    "course_title": "MEDIA ATTACHMENT"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "382",
+    "course_title": "INTRODUCTION TO MASS COMMUNICATION RESEARCH"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "384",
+    "course_title": "ADVERTISING AND PUBLIC RELATIONS RESEARCH"
+  },
+  {
+    "department_prefix": "COS",
+    "course_number": "304",
+    "course_title": "COMPUTER APPLICATIONS"
+  },
+  {
+    "department_prefix": "CED",
+    "course_number": "342",
+    "course_title": "BUSINESS DEVELOPMENT AND MANAGEMENT"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "314",
+    "course_title": "BROADCAST COMMENTARY AND CRITICAL WRITING"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "342",
+    "course_title": "COMMUNITY RELATIONS"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "401",
+    "course_title": "MASS COMMUNICATION LAW AND ETHICS"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "403",
+    "course_title": "INTERNATIONAL COMMUNICATION"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "421",
+    "course_title": "ADVANCED RADIO/TV PRODUCTION"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "431",
+    "course_title": "ADVANCED NEWSPAPER PRODUCTION"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "433",
+    "course_title": "ADVANCED MAGAZINE PRODUCTION"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "435",
+    "course_title": "PRINT SEMINAR"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "441",
+    "course_title": "ADVANCED PUBLIC RELATIONS"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "423",
+    "course_title": "STATION MANAGEMENT AND OPERATIONS"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "425",
+    "course_title": "INTERNATIONAL BROADCASTING"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "443",
+    "course_title": "INTERNATIONAL PUBLIC RELATIONS"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "445",
+    "course_title": "ORGANISATION AND MANAGEMENT OF ADVERTISING AND PUBLIC RELATIONS AGENCIES"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "402",
+    "course_title": "MEDIA MANAGEMENT"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "422",
+    "course_title": "BROADCAST SEMINAR"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "442",
+    "course_title": "ADVANCED ADVERTISING"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "462",
+    "course_title": "DOCUMENTARY FILM PRODUCTION"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "490",
+    "course_title": "PROJECT"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "412",
+    "course_title": "FILM CRITICISM"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "424",
+    "course_title": "EDUCATIONAL BROADCASTING"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "444",
+    "course_title": "SPECIAL TOPICS IN ADVERTISING & PUBLIC RELATIONS"
+  },
+  {
+    "department_prefix": "MAC",
+    "course_number": "446",
+    "course_title": "MULTINATIONAL ADVERTISING"
+  }
+]

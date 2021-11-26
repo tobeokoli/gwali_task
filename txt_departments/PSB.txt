@@ -1,0 +1,272 @@
+BIO 151                                  General Biology I                                                       3
+
+PSB 101                                  General Plant Science                                                 2
+
+CHM 101                                Basic Principles of Chemistry I                                  2
+
+CHM 171                                Basic Practical Chemistry                                           2
+
+COS 101                                 Introduction to Computer Science                             2
+
+GSP 101                                  Use of English I                                                          2
+
+GSP 111                                  Use of Library and Study Skills                                 2
+
+PHY 111                                 General Physics for Life Sciences I                            2
+
+PHY 191                                 Practical Physics                                                         2
+
+MTH 111                                General Mathematics 1                                               3
+                                                                                                        
+BIO 152                                  General Biology II                                                      3
+
+BIO 154                                  General Biology Practical                                           2
+
+PSB 102                                  General Plant Biotechnology                                      2
+
+CHM 112                                Basic Principles of Chemistry II                                 2
+
+CHM 122                                Basic Principles of Chemistry   III                             2
+
+PHY 112                                 General Physics for Life Sciences II                          2
+
+PHY 114                                 General Physics for Life Sciences III                         2
+
+ 
+
+
+GSP 102                                  Use of English II                                                        2
+
+MCB 102                                 Introductory Microbiology                                         2
+
+PSB 162                                   Climate Change and Plant Life I                                1
+ 
+BCH 201                                 General Biochemistry I                                               3
+
+PSB 211                                  Phycology and Bryology                                            2
+
+PSB 221                                  General Plant Anatomy                                              2
+
+PSB 241                                  General Mycology                                                      2
+
+PSB 261                                   Climate Change and Plant Life II                              1
+
+BIO 351                                   General Genetics                                                         2
+
+CED 341                                 Introduction to Entrepreneurship                               2
+
+CHM 221                                General Organic Chemistry I                                      2
+
+CHM 273                                Practical Organic Chemistry I                                     2
+
+GSP 207                                  Logic, Philosophy and Human Existence                   2
+
+GSP 201                                  Basic Concepts and Theory of Peace                         2
+
+BCH 202                                 General Biochemistry II                                             3
+
+BIO 352                                  Cytogenetics                                                               2
+
+PSB 246                                  General Plant Pathology                                             2
+
+PSB 272                                  Mushroom Technology                                               2
+CED 342                                 Business Development & Management                      2
+
+CHM 222                                General Organic Chemistry    II                                2
+
+CHM 274                                Practical Inorganic Chemistry I                                  2
+
+COS 304                                 Computer Applications                                               2
+
+GSP 208                                  Nigerian Peoples and Culture                                     2
+
+GSP 202                                  Issues in Peace and Conflict Resolution Studies        2
+PSB 313                                  Morphology &Phytosystematics of Higher Plants     2
+
+PSB 331                                  General Plant Physiology                                            2
+
+PSB 355                                  General Plant Molecular Biology                                2
+
+PSB 391                                  Research Methods and Plant Breeding                      2
+BCH 301                                 Enzymology                                                                2
+
+BCH 351                                 Primary Metabolic Pathways  I                                   2
+
+BCH 352                                 Primary Metabolic Pathways  II                                 2
+
+BCH 353                                 Primary Metabolic Pathways  III                                2
+
+BCH 354                                 Primary Metabolic Pathways  IV                                2
+
+CHM 211                                General Physical Chemistry I                                     2
+PSB 392                                  Students Industrial Work Experience (SIWES) Field work                                                                   6
+
+PSB 394                                  SIWES Report                                                                        6
+
+PSB 396                                  SIWES Seminar                                                          3
+PSB 303                                  Ethnomedicinal Plants                                                2
+
+PSB 431                                  Advances in Plant Physiology                                    2
+
+PSB 441                                  Advances in Plant Pathology                                      2
+
+PSB 463                                  Economic and Industrial Botany                                2
+
+PSB 481                                  Seminar                                                                       2
+
+PSB 491                                  Principles of Scientific Writing                                   1
+
+BCH 401                                 Advanced Enzymology                                              2
+
+BCH 411                                 Biosynthesis of Macromolecules                                2
+
+BCH 431                                 Bioinorganic Chemistry                                              2
+
+BCH 481                                 Biochemical Reasoning                                               1
+
+PSB 411                                  Dendrology                                                                 2
+
+PSB 413                                  Herbarium and Phytosystematics                               2
+
+PSB 415                                  Introductory Palynology                                             2
+
+PSB 417                                  Freshwater Phycology                                                2
+
+PSB 433                                  Plant Embryology &Morphogenesis                           2
+
+PSB 443                                  Fungus Physiology                                                      2
+
+PSB 445                                  Plant Virology and Diagnostics                                 2
+
+PSB 451                                  Cytology                                                                     2
+
+PSB 453                                  Genetics and Plant Breeding                                      2
+
+PSB 457                                  Phytoinformatics                                                         1
+
+PSB 461                                  Aquatic and Pollution Biology                                   2
+
+PSB 465                                  Phyto-Environmental Impact Assessment                  2
+
+PSB 471                                  Tissue Culture and Micropropagation             2
+
+PSB 473                                  Phytobiofuels                                                              1
+
+PSB 475                                  Plant Biophysics                                 2
+
+PSB 477                                  Applications of Plant Biotechnology                          2
+
+
+BCH 452                                 Metabolic Regulations                                                2
+
+BCH 462                                 Plant Biochemistry                                                      2
+
+PSB 422                                  Plant anatomy                                                             2
+
+PSB 462                                  Plant Ecology                                                              2
+
+PSB 466                                  Phyto-industrial Relations                                          1
+
+PSB 468                                  Phytoremediation & Erosion Management                 2
+
+PSB 474                                  Phytobiotechnology Ethics                                         1
+
+PSB 492                                  Project                                                                         6
+
+
+BIO 362                                  Basic Principles of Ecology                                        2
+PSB 101          GENERAL PLANT SCIENCE                                                                 2 units
+PSB 102          GENERAL PLANT BIOTECHNOLOGY                                                           2 units
+
+PSB 162   CLIMATE CHANGE AND PLANT LIFE I                                                 1 unit
+PSB 211          PHYCOLOGY AND BRYOLOGY                                                           2units
+
+PSB 213   MORPHOLOGY AND PHYTOSYSTEMATICS OF LOWER PLANTS 2 units
+
+
+ 
+
+PSB 221          GENERAL PLANT ANATOMY                                                              2units
+
+ 
+
+ 
+
+ 
+
+PSB 241          GENERAL MYCOLOGY                                                                          2 units
+
+
+ 
+
+PSB 246          GENERAL PLANT PATHOLOGY                                                         2 units
+
+PSB 261          CLIMATE CHANGE AND PLANT LIFE II                                          1 unit
+PSB 272          MUSHROOM TECHNOLOGY                                                                 2 units
+
+PSB 274          PLANT MACROPROPAGATION AND FLORICULTURE               1 unit
+PSB 301          PHYTOTECHNIQUES                                                                               1 unit
+
+
+ 
+
+PSB 303          ETHNOMEDICINAL PLANTS                                                                2 units
+
+PSB 313 MORPHOLOGY AND PHYTOSYSTEMATICS OF HIGHERPLANTS    2 units
+PSB 315          PALAEOBOTANY                                                                                      2 units
+
+PSB 331          GENERAL PLANT PHYSIOLOGY                                                        2 units
+PSB 355          GENERAL PLANT MOLECULAR BIOLOGY                                    2 units
+PSB 363          FOREST RESOURCES CONSERVATION                                            2 units
+
+PSB 365     VULNERABILITY AND ADAPTATION OF PLANTS TO CLIMATECHANGE                                                                                                1 unit
+PSB 367      CLIMATE CHANGE AND GLOBAL MITIGATION STRATEGIES              1 unit
+
+PSB 371          PRINCIPLES OF PLANT BIOTECHNOLOGY                                                2 units
+PSB 391          RESEARCH METHODS AND PLANT BREEDING                            2 units
+PSB 392          STUDENTS INDUSTRIAL WORK EXPERIENCE (SIWES) FIELD WORK                                                                                                                     6 units
+PSB 394          SIWES REPORT                                                                                         6 units
+
+PSB 396          SIWES SEMINAR                                                                                       3 units
+
+PSB 411          DENDROLOGY                                                                                          2 units
+PSB 413          HERBARIUM AND PHYTOSYSTEMATICS                                        2 units
+PSB 415          INTRODUCTORY PALYNOLOGY                                                        2 units
+PSB 417          FRESHWATER PHYCOLOGY                                                                2 units
+PSB 422          PLANT ANATOMY                                                                                                2units
+PSB 424          TIMBER PRODUCTS TECHNOLOGY                                                  2 units
+PSB 431          ADVANCES IN PLANT PHYSIOLOGY                                                2 units
+PSB 433          PLANT EMBRYOLOGY AND MORPHOGENESIS                            2 units
+PSB 441          ADVANCES IN PLANT PATHOLOGY                                                 2 units
+
+PSB 443          FUNGUS PHYSIOLOGY                                                                           2 units
+PSB 445          PLANT VIROLOGY AND DIAGNOSTICS                                           2 units
+
+PSB 451          CYTOLOGY                                                                                                2 units
+PSB 453          GENETICS AND PLANT BREEDING                                                   2 units
+PSB 455          ADVANCES IN PLANT MOLECULAR BIOLOGY                            2 units
+PSB 457          PHYTOBIOINFORMATICS                                                                     1 unit
+PSB 461          AQUATIC AND POLLUTION BIOLOGY                                             2 units
+PSB 462          PLANT ECOLOGY                                                                                    2 units
+PSB 463          ECONOMIC AND INDUSTRIAL BOTANY                                          2 units
+PSB 464          PHYTOREMEDIATION AND EROSION MANAGEMENT              2 units
+PSB 465          PHYTO-ENVIRONMENTAL IMPACT ASSESSMENT                                  1 unit
+PSB 466          PHYTOINDUSTRIAL RELATIONS                                                       1 unit
+PSB 467          PHYTOGEOGRAPHY                                                                               1 unit
+PSB 469          PLANTS PRODUCTIVITY AND APICULTURE                                 1 unit
+
+PSB 471          PLANT TISSUE CULTURE AND MICROPROPAGATION              2 units
+PSB 473          PHYTO-BIOFUELS                                                                                                1 unit
+
+ 
+
+ 
+
+PSB 474          PHYTOBIOTECHNOLOGY ETHICS                                                     1 unit
+PSB 475     PLANT BIOPHYSICS                                                                                     2 units
+
+PSB 477          APPLICATIONS OF PLANT BIOTECHNOLOGY                              2 units
+PSB 481          SEMINAR                                                                                                     2 units
+
+PSB   491        PRINCIPLES OF SCIENTIFIC WRITING                                            1 unit
+PSB  492         PROJECT                                                                                                     6 units

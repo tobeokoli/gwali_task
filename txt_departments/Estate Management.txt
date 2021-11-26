@@ -1,0 +1,159 @@
+ESM 101 Introduction to Estate Management 2
+ESM 111 Principles of Land Economy 2
+MTH 111 Elementary Mathematics I 3
+MAN 141 Elements of Business Economics I 3
+
+ARC 121 Architectural Graphics I 2
+
+ACC 101 Principles of Accounts I 3
+
+URP 110 Basic Elements of Planning 2
+
+
+GST 101 use of English I 2
+
+GST 105 Natural Science 2
+
+ESM 102 Introduction to Estate Management II 2
+
+
+AG 204 Principles Of Agricultural Production 2
+
+ARC 122 Architectural Graphics II 2
+
+ACC 102 Principles of Accounts II 2
+
+MAN 142 Elements of Business Economics II 3
+
+URP 111 Nature of Environmental Sciences 2
+
+
+GST 102 Use of English II 2
+
+GST 106 Natural Sciences II 2
+
+ESM 211 Land Economics I 2
+
+ESM 261 Introduction to Valuation I 2
+
+SVY 201 Basic Land Survey I 2
+
+MTH 112 Elementary Mathematics II 3
+
+AG 301 Economics of Agriculture I 2
+
+ARC 261 Building Components & Methods I 2
+
+LAW 243 Principles of Law of Contract & Tort 2
+
+MAN 231 Business Statistics I 2
+
+
+GST 207 Humanities I 2
+
+
+ESM 212 Land Economics II 2
+
+ESM 262 Introduction to Valuation II 2
+
+
+SVY 202 Basic Land Survey II 2
+
+MAN 232 Business Statistics II 2
+
+AG 302 Economics of Agriculture II 2
+
+ARC 262 Building Components & Methods 2
+
+LAW 244 Principles of Law of Contract & Tort II
+
+GST 208 Humanities II 2
+
+ESM 321 Principles of Town & Country Planning I 2
+
+ESM 331 National & Rating Taxation I 2
+
+ESM 361 Principles of Valuation I 2
+
+LAW 335 Principles of Land law I 2
+
+CS 101 Introduction to Computer Science 2
+
+ARC 342 Building Services I 2
+
+MAN 241 Business Micro Economic Theory 3
+
+ARC 517 Building Maintenance & Management 2
+
+ESM 323 Economics of Planning Development I 2
+
+ARC 514 Design Economics & Cost Planning 2
+ESM 362 Principles of Valuation II 2
+
+ESM 322 Principles of Town & Country Planning II 2
+
+ESM 332 National Rating & Taxation II 2
+
+ESM 341 Arbitration & Awards 2
+LAW 336 Principles of Nigerian Land law II 2
+
+ESM 352 Computer Application in Estate Management 2
+
+MAN 242 Business Macro Economics Theory 3
+
+ESM 324 Economics of Planned Development II 2
+
+ESM 351 Administration of Public Property 2
+
+ESM 363 Mineral Valuation 2
+
+
+ESM 451 Principles of Property Management 3
+
+ESM 471 Estate and Development Finance 4
+
+ESM 411 Comparative Land Politics 2
+
+ESMA 491 Research Methodology 3
+
+ARC 513 Project Planning & Control 3
+ESM 412 Urban Land Economics 2
+
+LAW 570 Administrative Law 2
+
+ESM 461 Valuation of Plant & Machinery 2
+
+URP 371 Natural Resources & Environmental Planning 2
+
+ESM 511 Land Use & Resources I 2
+
+ESM 551 Applied Property Management I 2
+
+ESM 561 Advanced Valuation I 4
+
+ESM 581 Feasibility & Viability Appraisals I 3
+
+ESM 591 Project Dissertation I 3
+ESM 521 Applied Town Planning I 2
+
+CE 422 Environmental Health Engineering 2
+
+ESM 553 Portfolio Management 2
+ESM 512 Land Use & Resources II 2
+
+ESM 552 Applied Property Management II 2
+
+ESM 562 Advanced Valuation II 3
+
+ESM 571 Professional Practices 2
+
+ESM 582 Feasibility & Viability Appraisals II 3
+
+ESM 592 Project Dissertation II 3
+
+ESM 522 Applied Town Planning II 2
+
+URP 531 Environmental Impact Assessment 2
+
+ESM 554 Project Management 2
+

@@ -1,0 +1,12 @@
+SSL	101	Introduction to Land and Soil Resources	2
+CAB	161	Introduction to Agro-Biotechnology 	2
+AEX	101	Philosophy and Principles of Agricultural Extension 	2
+AFC	101	Introduction to Agricultural Economics I 	2
+ANS	101	Introduction to Animal Science and Animal Genetics 	2
+AGR	101	Biomathematics	2
+CHEM	101	Basic Principles of Chemistry I	2
+CHEM	171	Basic Practical Chemistry	2
+BIO	151	General Biology I	3
+MTH	111	El ementary Mathematics I	3
+GSP	101	Use of English I	2
+GSP	201	Social Sciences	2

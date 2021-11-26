@@ -1,0 +1,352 @@
+[
+  {
+    "department_prefix": "ECO",
+    "course_number": "101",
+    "course_title": "PRINCIPLES OF ECONOMICS I"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "102",
+    "course_title": "PRINCIPLES OF ECONOMICS II"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "121",
+    "course_title": "INTRODUCTION TO ACCOUNTING"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "122",
+    "course_title": "INTRODUCTION TO BUSINESS MANAGEMENT"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "124",
+    "course_title": "INTRODUCTION TO BUSINESS FINANCE"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "131",
+    "course_title": "INTRODUCTION TO ECONOMIC STATISTICS I"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "132",
+    "course_title": "INTRODUCTION TO ECONOMIC STATISTICS II"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "201",
+    "course_title": "MICROECONOMIC THEORY 1"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "202",
+    "course_title": "MICROECONOMIC THEORY II"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "203",
+    "course_title": "MACROECONOMIC THEORY I"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "204",
+    "course_title": "MACROECONOMIC THEORY II"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "221",
+    "course_title": "MONETARY ECONOMICS AND FINANCE"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "223",
+    "course_title": "INTERMEDIATE BUSINESS ACCOUNTING"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "231",
+    "course_title": "INTERMEDIATE ECONOMIC STATISTICS I"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "232",
+    "course_title": "INTERMEDIATE ECONOMIC STATISTICS II"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "233",
+    "course_title": "INTERMEDIATE MATHEMATICS FOR ECONOMISTS I"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "234",
+    "course_title": "INTERMEDIATE MATHEMATICS FOR ECONOMISTS II"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "236",
+    "course_title": "COMPUTING APPLICATIONS FOR ECONOMISTS"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "262",
+    "course_title": "URBAN AND REGIONAL ECONOMICS"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "264",
+    "course_title": "INTRODUCTION TO ENVIRONMENTAL ECONOMICS"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "266",
+    "course_title": "INTRODUCTION TO HEALTH ECONOMICS"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "271",
+    "course_title": "THEORIES OF HUMAN RESOURCES"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "273",
+    "course_title": "LABOUR ECONOMICS"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "281",
+    "course_title": "HISTORY AND STRUCTURE OF THE NIGERIAN ECONOMY I"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "282",
+    "course_title": "HISTORY AND STRUCTURE OF THE NIGERIAN ECONOMY II"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "301",
+    "course_title": "INTERMEDIATE MICROECONOMIC THEORY I"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "302",
+    "course_title": "INTERMEDIATE MICROECONOMIC THEORY II"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "303",
+    "course_title": "INTERMEDIATE MACROECONOMIC THEORY 1"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "304",
+    "course_title": "INTERMEDIATE MACROECONOMIC THEORY I1"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "311",
+    "course_title": "HISTORY OF ECONOMIC THOUGHT I"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "312",
+    "course_title": "THE HISTORY OF ECONOMIC THOUGHT II"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "322",
+    "course_title": "MANAGEMENT ACCOUNTING"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "324",
+    "course_title": "FINANCIAL MARKETS AND INSTITUTIONS"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "325",
+    "course_title": "PUBLIC SECTOR ECONOMICS I"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "326",
+    "course_title": "PUBLIC SECTOR ECONOMICS II"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "328",
+    "course_title": "APPLIED MONETARY ECONOMICS"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "331",
+    "course_title": "INTRODUCTION TO ECONOMETRICS I"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "332",
+    "course_title": "INTRODUCTION TO ECONOMETRICS II"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "333",
+    "course_title": "OPERATIONS RESEARCH"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "334",
+    "course_title": "MATHEMATICAL ECONOMICS"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "341",
+    "course_title": "INTERNATIONAL ECONOMICS I"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "342",
+    "course_title": "INTERNATIONAL ECONOMICS II"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "351",
+    "course_title": "DEMOGRAPHY AND POPULATION ECONOMICS"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "361",
+    "course_title": "DEVELOPMENT ECONOMICS I"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "362",
+    "course_title": "DEVELOPMENT ECONOMICS II"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "363",
+    "course_title": "POLITICAL ECONOMY"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "391",
+    "course_title": "RESEARCH METHODS IN ECONOMICS I"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "392",
+    "course_title": "RESEARCH METHODS IN ECONOMICS II"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "401",
+    "course_title": "ADVANCED MICROECONOMIC THEORY AND POLICY I"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "402",
+    "course_title": "ADVANCED MICROECONOMIC THEORY AND POLICY II"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "403",
+    "course_title": "ADVANCED MACROECONOMIC THEORY AND POLICY I"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "404",
+    "course_title": "ADVANCED MACROECONOMIC THEORY AND POLICY II"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "421",
+    "course_title": "ADVANCED PUBLIC SECTOR ECONOMICS"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "423",
+    "course_title": "PUBLIC POLICY"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "428",
+    "course_title": "ADVANCED MONETARY ECONOMICS"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "431",
+    "course_title": "APPLIED STATISTICS AND ECONOMETRICS I"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "432",
+    "course_title": "APPLIED STATISTICS AND ECONOMETRICS II"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "433",
+    "course_title": "ADVANCED MATHEMATICAL ECONOMICS"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "451",
+    "course_title": "ENERGY ECONOMICS"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "452",
+    "course_title": "ECONOMICS OF PRODUCTION"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "453",
+    "course_title": "ADVANCED DEMOGRAPHY AND POPULATION ECONOMICS"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "461",
+    "course_title": "ADVANCED DEVELOPMENT ECONOMICS"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "462",
+    "course_title": "ECONOMICS OF PLANNING"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "463",
+    "course_title": "COMPARATIVE ECONOMIC SYSTEMS"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "464",
+    "course_title": "HEALTH ECONOMICS AND HEALTH POLICY"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "466",
+    "course_title": "CLIMATE AND ENVIRONMENTAL ECONOMICS"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "471",
+    "course_title": "INDUSTRIAL RELATIONS AND PERSONNEL MANAGEMENT"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "475",
+    "course_title": "PROJECT APPRAISAL I"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "476",
+    "course_title": "PROJECT APPRAISAL II"
+  },
+  {
+    "department_prefix": "ECO",
+    "course_number": "478",
+    "course_title": "PROJECT REPORT"
+  }
+]

@@ -1,0 +1,70 @@
+ECE 311	Circuit Theory I	3	
+ECE 321	Physical Electronics	3
+ECE 331	Electromagnetic Field and Waves	2	
+ECE 371	System Programming	2	
+ECE 361	Measurement and Instrumentation	3	
+ECE 421	Applied Electronics II	2	
+ECE 441	Communication Principles	3	
+ECE 443	Data Communication and Networking	2	
+ECE 451	Control Theory	3
+ECE 471	Digital Electronics	2
+ECE 473	Digital Logic Theory	3	
+ECE 511	Digital Systems Design	3
+ECE 521	Industrial Electronic Design	2
+ECE 541	Communication Systems	3
+ECE 551	Control Engineering	3
+ECE 571	Microprocessor Systems	3
+ECE 573	Software Engineering	2	
+ENG 101	Introduction to Engineering	2
+ECE 272	Engineering Computer Programming	3
+ECE 312	Circuit Theory II	3
+ECE 322	Physical Electronics II	3
+ECE 332	Electromagnetic Fields and Waves	3
+ECE 482	Seminars	2
+ECE 494	Technical Writing	3	
+ECE 512	System Engineering	2
+ECE 524	Solid State Electronics	3
+ECE 526	Optoelectronics	3
+ECE 544	Process Control	3
+ECE 546	Communication Networks	3
+ECE 542	Telecommunication Engineering	2
+ECE 572 Computer Systems Design	3
+ECE 574	Digital Signal Processing	2
+ECE 576 	Microprocessor Systems Design	3
+ECE 578	Artificial Intelligence and Robotics	3
+ECE 540	Introduction to Radar and Navigation System	3
+ECE 592	Project	4
+ECE 600	Dissertation	3
+ECE 601	Seminars	3
+PGC 601	Research Methodology and ICT Engineering	3
+ECE 610	Communication Theory	3
+ECE 611	Communication Network & Protocols	3
+ECE 613	Network Traffic Control	3
+ECE 615	Mobile Communication	3	
+ECE 620	Digital Systems Design	3
+ECE 621	Computer System Architecture I	3
+ECE 623	Computer System Architecture II	3
+ECE 625	Digital Integrated Electronics	3
+ECE 633	Linear System	3	
+ECE 631	Optimal Control	3
+ECE 635	System Modeling and Simulation	3
+ECE 700	Thesis	6	
+ECE 701	Seminars I	3
+PGC 701	Synopsis and Research Grant Writing	3
+ECE 710	Network Management and Reliability	3	
+ECE 713	Advanced Security Engineering	3
+ECE 600	Dissertation	3
+ECE 612	Communication Modeling and Simulation	3
+ECE 614	Microwave & Satellite Communication	3	Ahaneku/Oyeka
+ECE 622	Software Engineering Development	3	David/Nnolim
+ECE 624	Software Engineering & Project Management	3	Chijindu/Ezika
+ECE 626	Digital Signal Processing	3	Iloanusi/Nnolim
+ECE 628	Biometrics and Image Processing	3	Iloanusi/Ezika
+ECE 630	Stochastic Control	3	Eneh
+ECE 636	Control Strategies	3	Udeze
+ECE 638	System Control	3	Udeze
+ECE 700	Thesis	6	All Staff
+ECE 702	Seminars II	3	All Staff
+ECE 712	Modeling and Simulation Practice	3	Ani
+ECE 714	Long Distance Networks	3	Ahaneku
+ECE 716	Advanced Signal Processing	3	Iloanusi/Nnolim

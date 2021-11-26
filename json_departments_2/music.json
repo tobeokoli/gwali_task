@@ -1,0 +1,1442 @@
+[
+    {
+        "department_prefix": "MUS",
+        "course_number": "101",
+        "course_title": "MUSIC AS AN ART AND SCIENCE"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "111",
+        "course_title": "RUDIMENTS OF MUSIC"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "121",
+        "course_title": "FOUNDATIONS OF MUSICIANSHIP I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "123",
+        "course_title": "TONAL HARMONY I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "141",
+        "course_title": "AFRICAN MUSIC: MUSIC AND SOCIETY I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "143",
+        "course_title": "INTRODUCTION TO POPULAR MUSIC"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "161",
+        "course_title": "PRIMARY INSTRUMENT/VOICE I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "163",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLES I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "165",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLES I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "167",
+        "course_title": "SECONDARY INSTRUMENT I"
+    },
+    {
+        "department_prefix": "GS",
+        "course_number": "101",
+        "course_title": "USE OF ENGLISH I"
+    },
+    {
+        "department_prefix": "GS",
+        "course_number": "103",
+        "course_title": "SOCIAL SCIENCE I"
+    },
+    {
+        "department_prefix": "ENGL",
+        "course_number": "111",
+        "course_title": "INTRODUCTION TO ORAL LITERATURE"
+    },
+    {
+        "department_prefix": "IGBO",
+        "course_number": "101",
+        "course_title": "ELEMENTARY IGBO I"
+    },
+    {
+        "department_prefix": "YORU",
+        "course_number": "101",
+        "course_title": "ELEMENTARY YORUBA I"
+    },
+    {
+        "department_prefix": "HAUS",
+        "course_number": "101",
+        "course_title": "ELEMENTARY HAUSA I"
+    },
+    {
+        "department_prefix": "LING",
+        "course_number": "141",
+        "course_title": "INTRODUCTION TO LINGUISTICS I"
+    },
+    {
+        "department_prefix": "PHIL",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO PHILOSOPHY I"
+    },
+    {
+        "department_prefix": "MC",
+        "course_number": "102",
+        "course_title": "HISTORY OF THE NIGERIAN MASS MEDIA"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "122",
+        "course_title": "FOUNDATIONS OF MUSICIANSHIP II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "124",
+        "course_title": "TONAL HARMONY II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "132",
+        "course_title": "SURVEY OF HISTORY OF WESTERN MUSIC I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "144",
+        "course_title": "POPULAR MUSIC IN NIGERIA"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "152",
+        "course_title": "BASIC KEYBOARD STUDIES"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "162",
+        "course_title": "PRIMARY INSTRUMENT II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "164",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLES II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "166",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLES II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "168",
+        "course_title": "SECONDARY INSTRUMENT II"
+    },
+    {
+        "department_prefix": "GS",
+        "course_number": "102",
+        "course_title": "USE OF ENGLISH II"
+    },
+    {
+        "department_prefix": "GS",
+        "course_number": "104",
+        "course_title": "SOCIAL SCIENCE II"
+    },
+    {
+        "department_prefix": "PHIL",
+        "course_number": "102",
+        "course_title": "INTRODUCTION TO PHILOSOPHIES"
+    },
+    {
+        "department_prefix": "LING",
+        "course_number": "142",
+        "course_title": "INTRODUCTION TO LINGUISTICS II"
+    },
+    {
+        "department_prefix": "IGBO",
+        "course_number": "102",
+        "course_title": "ELEMENTARY IGBO II"
+    },
+    {
+        "department_prefix": "YORU",
+        "course_number": "102",
+        "course_title": "ELEMENTARY YORUBA II"
+    },
+    {
+        "department_prefix": "HAUS",
+        "course_number": "102",
+        "course_title": "ELEMENTARY HAUSA II"
+    },
+    {
+        "department_prefix": "PHIL",
+        "course_number": "102",
+        "course_title": "INTRODUCTION TO PHILOSOPHY"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "201",
+        "course_title": "MUSIC BUSINESS AND MEDIA PRACTICES"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "221",
+        "course_title": "FOUNDATIONS OF MUSICIANSHIP III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "223",
+        "course_title": "TONAL HARMONY III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "241",
+        "course_title": "AFRICAN MUSIC: THEORETICAL STUDIES I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "243",
+        "course_title": "AFRICAN MUSIC: MUSIC AND SOCIETY II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "251",
+        "course_title": "BASIC KEYBOARD STUDIES II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "261",
+        "course_title": "PRIMARY INSTRUMENT/VOICE III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "263",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLES III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "265",
+        "course_title": "PERFORMANCE WORKSHOAFRICAN ENSEMBLES III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "267",
+        "course_title": "SECONDARY INSTRUMENT III"
+    },
+    {
+        "department_prefix": "GS",
+        "course_number": "105",
+        "course_title": "NATURAL SCIENCE I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "PEACE AND CONFLICT RESOLUTION"
+    },
+    {
+        "department_prefix": "CEDR",
+        "course_number": "341",
+        "course_title": "ENTREPRENEURSHIP"
+    },
+    {
+        "department_prefix": "IGBO",
+        "course_number": "201",
+        "course_title": "INTERMEDIATE IGBO I"
+    },
+    {
+        "department_prefix": "YORU",
+        "course_number": "201",
+        "course_title": "INTERMEDIATE YORUBA I"
+    },
+    {
+        "department_prefix": "HAUS",
+        "course_number": "201",
+        "course_title": "INTERMEDIATE HAUSA I"
+    },
+    {
+        "department_prefix": "DRA",
+        "course_number": "102",
+        "course_title": "INTRODUCTION TO DRAMA AND THEATRE"
+    },
+    {
+        "department_prefix": "MC",
+        "course_number": "261",
+        "course_title": "INTRODUCTION TO FILM"
+    },
+    {
+        "department_prefix": "PHIL",
+        "course_number": "131",
+        "course_title": "INTRODUCTION TO LOGIC AND CLEAR THOUGHT I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "202",
+        "course_title": "COMPUTER MUSIC APPLICATION"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "222",
+        "course_title": "FOUNDATIONS OF MUSICIANSHIP IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "224",
+        "course_title": "TONAL HARMONY IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "232",
+        "course_title": "WESTERN MUSIC BEFORE 1750"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "242",
+        "course_title": "AFRICAN MUSIC: THEORETICAL STUDIES II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "252",
+        "course_title": "BASIC KEYBOARD STUDIES III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "262",
+        "course_title": "PRIMARY INSTRUMENT/VOICE IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "264",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLES IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "266",
+        "course_title": "PERFORMANCE WORKSHOAFRICAN ENSEMBLES IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "268",
+        "course_title": "SECONDARY INSTRUMENT IV"
+    },
+    {
+        "department_prefix": "GS",
+        "course_number": "106",
+        "course_title": "NATURAL SCIENCE II"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "PEACE AND CONFLICT RESOLUTION II"
+    },
+    {
+        "department_prefix": "CEDR",
+        "course_number": "342",
+        "course_title": "ENTREPRENEURIAL II"
+    },
+    {
+        "department_prefix": "PHIL",
+        "course_number": "132",
+        "course_title": "INTRODUCTION TO LOGIC AND CLEAR THOUGHT II"
+    },
+    {
+        "department_prefix": "IGBO",
+        "course_number": "202",
+        "course_title": "INTERMEDIATE IGBO II"
+    },
+    {
+        "department_prefix": "YORU",
+        "course_number": "202",
+        "course_title": "INTERMEDIATE YORUBA IGBO II"
+    },
+    {
+        "department_prefix": "HAUS",
+        "course_number": "202",
+        "course_title": "INTERMEDIATE HAUSA II"
+    },
+    {
+        "department_prefix": "DRA",
+        "course_number": "130",
+        "course_title": "BASIC ACTING SKILLS"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "331",
+        "course_title": "WESTERN MUSIC AFTER 1750"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "341",
+        "course_title": "AFRICAN MUSIC: THEORETICAL STUDIES III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "343",
+        "course_title": "AFRO-AMERICAN MUSIC"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "351",
+        "course_title": "ELEMENTARY KEYBOARD HARMONY"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "361",
+        "course_title": "PRIMARY INSTRUMENT/VOICE V"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "363",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLES"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "365",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLES V"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "367",
+        "course_title": "SECONDARY INSTRUMENT/VOICE I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "381",
+        "course_title": "TEACHING METHODS IN MUSIC"
+    },
+    {
+        "department_prefix": "CS",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "302",
+        "course_title": "INTRODUCTION TO MUSICAL INSTRUMENT TECHNOLOGY"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "322",
+        "course_title": "COMPOSITION"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "324",
+        "course_title": "CONDUCTING AND PERFORMANCE MANAGEMENT"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "326",
+        "course_title": "ORCHESTRATION"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "342",
+        "course_title": "MUSIC OF OTHER CULTURES OF THE WORLD"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "362",
+        "course_title": "PRIMARY INSTRUMENT/VOICE VI"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "364",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLES IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "366",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLES IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "368",
+        "course_title": "SECONDARY INSTRUMENT/VOICE II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "392",
+        "course_title": "RESEARCH METHOD AND PREPARATORY STUDIES IN MUSIC"
+    },
+    {
+        "department_prefix": "CS",
+        "course_number": "304",
+        "course_title": "COMPUTER APPLICATIONS"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "401",
+        "course_title": "ACOUSTICS OF MUSIC"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "421",
+        "course_title": "FUGUE"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "425",
+        "course_title": "ANALYSIS OF TONAL MUSIC"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "427",
+        "course_title": "ANALYSIS AND ANALYTICAL METHOD FOR 20TH C. MUSIC"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "451",
+        "course_title": "KEYBOARD HARMONY AND ACCOMPANIMENT"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "461",
+        "course_title": "PRIMARY INSTRUMENT/VOICE VII"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "463",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLES VII"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "465",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLES VII"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "467",
+        "course_title": "SECONDARY INSTRUMENT/VOICE III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "471",
+        "course_title": "CRITICISM AND MUSICAL SCHOLARSHIP"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "402",
+        "course_title": "MUSIC TECHNOLOGY"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "422",
+        "course_title": "MODERN COMPOSITIONAL TECHNIQUES"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "442",
+        "course_title": "AFRICAN MUSIC: HISTORIOGRAPHY, THEORETICAL ISSUES AND CONTEMPORARY DEVELOPMENT"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "462",
+        "course_title": "PRIMARY INSTRUMENT/VOICE VIII"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "464",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLES VIII"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "466",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLES VIII"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "468",
+        "course_title": "SECONDARY INSTRUMENT/VOICE IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "490",
+        "course_title": "PROJECT"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "101",
+        "course_title": "MUSIC AS AN ART AND SCIENCE"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "111",
+        "course_title": "RUDIMENTS OF MUSIC"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "121",
+        "course_title": "FOUNDATIONS OF MUSICIANISHIP I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "122",
+        "course_title": "FOUNDATIONS OF MUSICIANSHIP II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "123",
+        "course_title": "TONAL HARMONY I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "124",
+        "course_title": "TONAL HARMONY II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "131",
+        "course_title": "SURVEY OF HISTORY OF WESTERN MUSIC"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "141",
+        "course_title": "AFRICAN MUSIC: MUSIC AND SOCIETY I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "143",
+        "course_title": "INTRODUCTION TO POPULAR MUSIC"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "144",
+        "course_title": "POPULAR MUSIC IN NIGERIA"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "151",
+        "course_title": "BASIC KEYBOARD STUDIES I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "161",
+        "course_title": "PRIMARY INSTRUMENT/VOICE I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "162",
+        "course_title": "PRIMARY INSTRUMENT/VOICE II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "163",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLES I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "164",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLES II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "165",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLES I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "166",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLES II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "201",
+        "course_title": "MUSIC BUSINESS AND MEDIA PRACTICES"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "202",
+        "course_title": "COMPUTER MUSIC APPLICATION"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "221",
+        "course_title": "FOUNDATIONS OF MUSICIANSHIP III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "222",
+        "course_title": "FOUNDATIONS OF MUSICIANSHIP IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "223",
+        "course_title": "TONAL HARMONY III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "224",
+        "course_title": "TONAL HARMONY IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "231",
+        "course_title": "WESTERN MUSIC BEFORE 1750"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "241",
+        "course_title": "AFRICAN MUSIC: TEHORETICAL STUDIES I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "242",
+        "course_title": "AFRICAN MUSIC: THEORETICAL STUDIES II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "243",
+        "course_title": "AFRICAN MUSIC: MUSIC AND SOCIETY II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "251",
+        "course_title": "BASIC KEYBOARD STUDIES II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "252",
+        "course_title": "BASIC KEYBOARD STUDIES III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "261",
+        "course_title": "PRIMARY INSTRUMENT/VOICE III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "262",
+        "course_title": "PRIMARY INSTRUMENT/VOICE IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "263",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLES III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "264",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLES IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "265",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLES III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "266",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLES IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "301",
+        "course_title": "INTRODUCTION TO MUSIC INSTRUMENT TECHNOLOGY"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "321",
+        "course_title": "TONAL COUNTERPOINT"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "322",
+        "course_title": "STRICT COUNTERPOINT"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "323",
+        "course_title": "COMPOSITION"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "324",
+        "course_title": "CONDUCTING AND PERFORMANCE MANAGEMENT"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "325",
+        "course_title": "ORCHESTRATION"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "331",
+        "course_title": "WESTERN MUSIC AFTER 1750"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "341",
+        "course_title": "AFRICAN MUSIC: THEORTICAL STUDIES III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "342",
+        "course_title": "AFRO-AMERICAN MUSIC"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "343",
+        "course_title": "MUSIC OF OTHER CULTURES OF THE WORLD"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "351",
+        "course_title": "ELEMENTARY KEYBOARD HARMONY"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "361",
+        "course_title": "PRIMARY INSTRUMENT/ VOICE V"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "362",
+        "course_title": "PRIMARY INSTRUMENT/ VOICE VI"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "363",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLES V"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "364",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLES VI"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "365",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLES V"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "366",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLES VI"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "367",
+        "course_title": "SECONDARY INSTRUMENT/ VOICE I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "368",
+        "course_title": "SECONDARY INSTRUMENT/ VOICE II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "392",
+        "course_title": "RESEARCH METHOD AND PREPARATORY STUDIES"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "401",
+        "course_title": "ACOUSTICS OF MUSIC"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "402",
+        "course_title": "MUSIC TECHONOLOGY II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "421",
+        "course_title": "FUGUE"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "422",
+        "course_title": "MODERN COMPOSITIONAL TECHNIQUES"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "425",
+        "course_title": "ANALYSIS OF TONAL MUSIC"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "427",
+        "course_title": "ANALYSIS AND ANALYTIC METHOD FOR 20TH CENTURY MUSIC"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "441",
+        "course_title": "AFRICAN MUSIC: HISTORIGRAPHY, THEORETICAL ISSUES AND CONTEMPORARY DEVELOPMENTS"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "451",
+        "course_title": "KEYBOARD HARMONYAND ACCOMPANIMENT"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "461",
+        "course_title": "PRIMARY INSTRUMENT/VOICE VII"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "462",
+        "course_title": "PRIMARY INSTRUMENT/VOICE VIII"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "463",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLES VII"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "464",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLES VIII"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "465",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLES VII"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "466",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLES VIII"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "467",
+        "course_title": "SECONDARY INSTRUMENT/VOICE III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "468",
+        "course_title": "SECONDARY INSTRUMENT/VOICE IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "471",
+        "course_title": "CRITICISM AND MUSICAL SCHOLARSHIP"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "490",
+        "course_title": "PROJECT"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0111",
+        "course_title": "RUDIMENTS OF MUSIC I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0121",
+        "course_title": "INTRODUCTION TO EAR TRAINING"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0141",
+        "course_title": "AFRICAN MUSIC: MUSIC AND SOCIETY I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0143",
+        "course_title": "INTRODUCTION TO POPULAR MUSIC"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0161",
+        "course_title": "PRINCIPAL INSTRUMENT STUDY I (WESTERN)"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0163",
+        "course_title": "PERFORMANCE WORKSHOP-WESTERN ENSEMBLE I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0165",
+        "course_title": "PERFORMANCE WORKSHOP-AFRICAN ENSEMBLE I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0167",
+        "course_title": "MINOR INSTRUMENT STUDY I (AFRICAN)"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "0101",
+        "course_title": "USE OF ENGLISH"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0112",
+        "course_title": "RUDIMENTS OF MUSIC II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0122",
+        "course_title": "AURAL TRAINING I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0142",
+        "course_title": "AFRICAN MUSIC: MUSIC AND SOCIETY II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0144",
+        "course_title": "INTRODUCTION TO POPULAR MUSIC"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0162",
+        "course_title": "PRINCIPAL INSTRUMENT STUDY II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0164",
+        "course_title": "PERFORMANCE WORKSHOPWESTERN ENSEMBLES II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0166",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLES II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0168",
+        "course_title": "MINOR INSTRUMENT STUDY II"
+    },
+    {
+        "department_prefix": "GS",
+        "course_number": "102",
+        "course_title": "USE OF ENGLISH II"
+    },
+    {
+        "department_prefix": "ED",
+        "course_number": "102",
+        "course_title": "HISTORY OF EDUCATION"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0201",
+        "course_title": "INTRODUCTION TO MUSIC NOTATION SOFTWARE"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0221",
+        "course_title": "THEORY OF MUSIC I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0223",
+        "course_title": "AURAL TRAINING II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0231",
+        "course_title": "OUTLINE HISTORY OF WESTERN MUSIC I (BAROQUE)"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0261",
+        "course_title": "PRINCIPAL INSTRUMENT STUDY III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0263",
+        "course_title": "PERFORMANCE WORKSHOP-WESTERN ENSEMBLES III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0265",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLES III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0267",
+        "course_title": "MINOR INSTRUMENT STUDY III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0233",
+        "course_title": "ELEMENTARY COMPOSITION I"
+    },
+    {
+        "department_prefix": "ED",
+        "course_number": "0211",
+        "course_title": "EDUCATION PSYCHOLOGY I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "0201",
+        "course_title": "PEACE AND CONFLICT RESOLUTION"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0202",
+        "course_title": "APPLICATION OF MUSIC NOTATION SOFTWARE"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0222",
+        "course_title": "THEORY OF MUSIC II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0224",
+        "course_title": "AURAL TRAINING III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0232",
+        "course_title": "OUTLINE HISTORY OF WESTERN MUSIC II (CLASSICAL AND ROMANTIC)"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0262",
+        "course_title": "PRINCIPAL INSTRUMENT STUDY IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0264",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLE IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0266",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLE IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0268",
+        "course_title": "MINOR INSTRUMENT STUDY IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0234",
+        "course_title": "ELEMENTARY COMPOSITION II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0202",
+        "course_title": "PEACE AND CONFLICT RESOLUTION"
+    },
+    {
+        "department_prefix": "ED",
+        "course_number": "0311",
+        "course_title": "EDUCATIONAL PSYCHOLOGY II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0321",
+        "course_title": "THEORY OF MUSIC III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0323",
+        "course_title": "COMPOSITION"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0341",
+        "course_title": "AFRICAN MUSIC: MUSIC AND SOCIETY III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0343",
+        "course_title": "AFRICAN MUSIC: THEORETICAL STUDY I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0361",
+        "course_title": "PRINCIPAL INSTRUMENT STUDY V"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0363",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLES V"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0365",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLES V"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0367",
+        "course_title": "MINOR INSTRUMENT STUDY V"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0381",
+        "course_title": "SCHOOL MUSIC METHODS"
+    },
+    {
+        "department_prefix": "ED",
+        "course_number": "0221",
+        "course_title": "CURRICULUM THEORY AND PLANNING"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0322",
+        "course_title": "THEORY OF MUSIC IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0342",
+        "course_title": "AFRICAN MUSIC: MUSIC AND SOCIETY IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0344",
+        "course_title": "AFRICAN MUSIC: THEORETICAL STUDIES II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0362",
+        "course_title": "PRINCIPAL INSTRUMENT STUDY VI"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0364",
+        "course_title": "PERFORMANCE WORKSHOPWESTERN ENSEMBLES VI"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0366",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLE VI"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0368",
+        "course_title": "MINOR INSTRUMENT STUDY VI"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0382",
+        "course_title": "APPLIED SCHOOL MUSIC METHODS"
+    },
+    {
+        "department_prefix": "ED",
+        "course_number": "0321",
+        "course_title": "CURRICULUM IMPLEMENTATION AND INSTRUMENT"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0111",
+        "course_title": "RUDIMENTS OF MUSIC I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0112",
+        "course_title": "RUDIMENTS OF MUSIC II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0121",
+        "course_title": "INTRODUCTION TO EAR TRAINING"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0122",
+        "course_title": "AURAL TRAINING I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0143",
+        "course_title": "INTRODUCTION TO POPULAR MUSIC"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0144",
+        "course_title": "POPULAR MUSIC IN NIGERIA"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0161",
+        "course_title": "PRINCIPAL INSTRUEMENT STUDY (WESTERN) I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0162",
+        "course_title": "PRINCIPAL INSTRUMENT STUDY (WESTERN) II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0163",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLES I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0164",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLES II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0165",
+        "course_title": "PERFORMANCE WORKSHOPAFRICAN ENSEMBLE I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0166",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLES II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0167",
+        "course_title": "PRINCIPAL INSTRUMENT STUDY (AFRICAN)I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0168",
+        "course_title": "PRINCIPAL INSTRUMENT STUDY (AFRICAN) II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0201",
+        "course_title": "INTRODUCTION TO COMPUTER MUSIC"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0202",
+        "course_title": "COMPUTER MUSIC APPLICATION"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0221",
+        "course_title": "THEORY OF MUSIC I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0222",
+        "course_title": "THEORY OF MUSIC II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0223",
+        "course_title": "AURAL TRAINING II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0224",
+        "course_title": "AURAL TRAINING III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0231",
+        "course_title": "OUTLINE HISTORY OR WESTERN MUSIC I (BAROQUE)"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0232",
+        "course_title": "OUTLINE HISTORY OF WESTERN MUSIC II (CLASSICAL AND ROMANTIC)"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0261",
+        "course_title": "PRINCIPAL INSTRUMENT OF STUDY (WESTERN) IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0262",
+        "course_title": "PRINCIPAL INSTRUMENT OF STUDY (WESTERN) IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0263",
+        "course_title": "PERFROMANCE WORKSHOP WESTERN ENSEMBLE III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0264",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLE IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0265",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLE III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0266",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLES IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0267",
+        "course_title": "PRINCIPAL INTRUMENT OF STUDY (AFRICAN) III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0268",
+        "course_title": "PRINCIPAL INSTRUMENT OF STUDY (AFRICAN)"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0321",
+        "course_title": "THEORY OF MUSIC III"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0322",
+        "course_title": "THEORY OF MUSIC IV"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0323",
+        "course_title": "COMPOSITION"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0341",
+        "course_title": "AFRICAN MUSIC: MUSIC AND SOCIETY I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0342",
+        "course_title": "AFRICAN MUSIC: MUSIC AND SOCIETY II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0343",
+        "course_title": "AFRICAN MUSIC: THEORETICAL STUDIES I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0344",
+        "course_title": "AFRICAN MUSIC: THEORETICAL STUDIES II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0361",
+        "course_title": "PRINCIPAL INSTRUMENT STUDY (WESTERN) V"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0362",
+        "course_title": "PRINCIPAL INSTRUMENT STUDY (WESTERN) VI"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0363",
+        "course_title": "PERFORAMNCE WORKSHOP WESTERN ENSEMBLE V"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0364",
+        "course_title": "PERFORMANCE WORKSHOP WESTERN ENSEMBLE VI"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0365",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLE V"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "0366",
+        "course_title": "PERFORMANCE WORKSHOP AFRICAN ENSEMBLES VI"
+    }
+]

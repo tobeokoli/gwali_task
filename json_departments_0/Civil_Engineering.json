@@ -1,0 +1,407 @@
+[
+  {
+    "department_prefix": "ENGR.",
+    "course_number": "101",
+    "course_title": "INTRODUCTION TO ENGINEERING"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "111",
+    "course_title": "ELEMENTARY MATHEMATICS I"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "121",
+    "course_title": "ELEMENTARY MATHEMATICS II"
+  },
+  {
+    "department_prefix": "CHM",
+    "course_number": "101",
+    "course_title": "BASIC PRINCIPLES OF CHEMISTRY I"
+  },
+  {
+    "department_prefix": "CHM",
+    "course_number": "171",
+    "course_title": "BASIC PRACTICAL OF CHEMISTRY"
+  },
+  {
+    "department_prefix": "PHY",
+    "course_number": "107",
+    "course_title": "FUNDAMENTALS OF PHYSICS I"
+  },
+  {
+    "department_prefix": "PHY",
+    "course_number": "192",
+    "course_title": "PRACTICAL PHYSICS II"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "101",
+    "course_title": "STUDY SKILLS & BASIC RESEARCH METHODS"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "111",
+    "course_title": "USE OF LIBRARY & STUDY SKILLS"
+  },
+  {
+    "department_prefix": "ENGR",
+    "course_number": "102",
+    "course_title": "APPLIED MECHANICS"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "122",
+    "course_title": "ELEMENTARY MATHEMATICS III"
+  },
+  {
+    "department_prefix": "CHM",
+    "course_number": "112",
+    "course_title": "BASIC PRINCIPLES OF CHEMISTRY II"
+  },
+  {
+    "department_prefix": "CHM",
+    "course_number": "122",
+    "course_title": "BASIC PRINCIPLES OF CHEMISTRY III"
+  },
+  {
+    "department_prefix": "PHY",
+    "course_number": "116",
+    "course_title": "GENERAL PHYSICS FOR PHYSICAL SCIENCE II"
+  },
+  {
+    "department_prefix": "PHY",
+    "course_number": "124",
+    "course_title": "FUNDAMENTALS OF PHYSICS III"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "102",
+    "course_title": "BASIC GRAMMAR & VARIETIES OF WRITING"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "211",
+    "course_title": "STRENGTH OF MATERIALS I"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "212",
+    "course_title": "STRENGTH OF MATERIALS LABORATORY I"
+  },
+  {
+    "department_prefix": "ENGR",
+    "course_number": "201",
+    "course_title": "MATERIAL SCIENCE"
+  },
+  {
+    "department_prefix": "ENGR",
+    "course_number": "202",
+    "course_title": "MATERIAL SCIENCE LABORATORY"
+  },
+  {
+    "department_prefix": "ME",
+    "course_number": "211",
+    "course_title": "ENGINEERING DRAWING"
+  },
+  {
+    "department_prefix": "ME",
+    "course_number": "261",
+    "course_title": "THERMODYNAMICS AND HEAT ENGINES"
+  },
+  {
+    "department_prefix": "EE",
+    "course_number": "211",
+    "course_title": "BASIC ELECTRICAL ENGINEERING"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "207",
+    "course_title": "ADVANCED MATHEMATICS VII"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "201",
+    "course_title": "BASIC CONCEPTS AND THEORIES OF PEACE AND CONFLICTS"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "207/101",
+    "course_title": "LOGIC, PHILOSOPHY & HUMAN EXISTENCE"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "221",
+    "course_title": "FLUID MECHANICS I"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "222",
+    "course_title": "FLUID MECHANICS LABORATORY"
+  },
+  {
+    "department_prefix": "ME",
+    "course_number": "212",
+    "course_title": "WORKSHOP TECHNOLOGY"
+  },
+  {
+    "department_prefix": "ECE",
+    "course_number": "271",
+    "course_title": "ENGINEERING COMPUTER PROGRAMMING"
+  },
+  {
+    "department_prefix": "ECE",
+    "course_number": "281",
+    "course_title": "ENGINEERING COMPUTER PROGRAMMING"
+  },
+  {
+    "department_prefix": "EE",
+    "course_number": "251",
+    "course_title": "BASIC ELECTRICAL ENGINEERING LAB"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "206",
+    "course_title": "ADVANCED MATHEMATICS VI"
+  },
+  {
+    "department_prefix": "MTH",
+    "course_number": "208",
+    "course_title": "ADVANCED MATHEMATICS VIII"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "202",
+    "course_title": "ISSUES IN PEACE & CONFLICT RESOLUTION STUDIES"
+  },
+  {
+    "department_prefix": "GSP",
+    "course_number": "208/102",
+    "course_title": "NIGERIAN PEOPLES & CULTURES/BASIC"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "311",
+    "course_title": "STRENGTH OF MATERIALS II"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "321",
+    "course_title": "FLUID MECHANICS II"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "322",
+    "course_title": "WATER RESOURCES AND ENVIRONMENTAL ENGINEERING LABORATORY"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "331",
+    "course_title": "CIVIL ENGINEERING MATERIALS"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "351",
+    "course_title": "ENGINEERING SURVEY I"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "332",
+    "course_title": "MATERIALS TESTING"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "341",
+    "course_title": "ENGINEERING GEOLOGY"
+  },
+  {
+    "department_prefix": "CED",
+    "course_number": "341",
+    "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+  },
+  {
+    "department_prefix": "STA",
+    "course_number": "205",
+    "course_title": "STATISTICS FOR PHYSICAL SCIENCES AND ENGINEERING"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "312",
+    "course_title": "THEORY OF STRUCTURES I"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "313",
+    "course_title": "STRENGTH OF MATERIALS LABORATORY I"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "323",
+    "course_title": "HYDROLOGY"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "352",
+    "course_title": "ENGINEERING SURVEYS PRACTICE I"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "335",
+    "course_title": "CIVIL ENGINEERING DRAWING"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "342",
+    "course_title": "SOIL MECHANICS"
+  },
+  {
+    "department_prefix": "ENGR",
+    "course_number": "301",
+    "course_title": "ENGINEERING ANALYSIS"
+  },
+  {
+    "department_prefix": "CED",
+    "course_number": "342",
+    "course_title": "BUSINESS DEVELOPMENT & MANAGEMENT"
+  },
+  {
+    "department_prefix": "ENG",
+    "course_number": "401",
+    "course_title": "COMPUTATIONAL METHODS"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "411",
+    "course_title": "THEORY OF STRUCTURES II"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "412",
+    "course_title": "REINFORCED CONCRETE DESIGN"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "413",
+    "course_title": "STEEL AND TIMBER DESIGN"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "414",
+    "course_title": "STRUCTURAL DESIGN STUDIO I"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "442",
+    "course_title": "SOIL MECHANICS LABORATORY"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "451",
+    "course_title": "ENGINEERING SURVEYS II"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "452",
+    "course_title": "TRANSPORTATION ENGINEERING I"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "421",
+    "course_title": "HYDRAULICS"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "431",
+    "course_title": "CIVIL ENGINEERING PRACTICE I"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "441",
+    "course_title": "FOUNDATION ENGINEERING I"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "453",
+    "course_title": "ENGINEERING SURVEYS PRACTICE II"
+  },
+  {
+    "department_prefix": "ENG",
+    "course_number": "402",
+    "course_title": "SIWES"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "511",
+    "course_title": "STRUCTURAL ANALYSIS I"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "512",
+    "course_title": "STRUCTURAL DESIGN"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "513",
+    "course_title": "STRUCTURAL DESIGN STUDIO"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "521",
+    "course_title": "WATER RESOURCES AND ENVIRONMENTAL ENGINEERING I"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "541",
+    "course_title": "FOUNDATION ENGINEERING II"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "542",
+    "course_title": "FOUNDATION DESIGN STUDIO"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "531",
+    "course_title": "CIVIL ENGINEERING PRACTICE II"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "551",
+    "course_title": "TRANSPORTATION ENGINEERING II"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "561",
+    "course_title": "PROJECT"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "514",
+    "course_title": "STRUCTURAL ANALYSIS II"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "522",
+    "course_title": "WATER RESOURCES AND ENVIRONMENTAL ENGINEERING II"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "532",
+    "course_title": "PROPERTIES AND BEHAVIOUR OF CONCRETE"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "543",
+    "course_title": "GEOTECHNICAL ENGINEERING"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "553",
+    "course_title": "TRANSPORTATION ENGINEERING III"
+  },
+  {
+    "department_prefix": "CVE",
+    "course_number": "533",
+    "course_title": "BUILDING ENGINEERING"
+  }
+]

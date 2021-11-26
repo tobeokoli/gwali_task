@@ -1,0 +1,727 @@
+[
+    {
+        "department_prefix": "BIO",
+        "course_number": "151",
+        "course_title": "GENERAL BIOLOGY I"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "101",
+        "course_title": "GENERAL PLANT SCIENCE"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "101",
+        "course_title": "BASIC PRINCIPLES OF CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "171",
+        "course_title": "BASIC PRACTICAL CHEMISTRY"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO COMPUTER SCIENCE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "101",
+        "course_title": "USE OF ENGLISH I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "111",
+        "course_title": "USE OF LIBRARY AND STUDY SKILLS"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "111",
+        "course_title": "GENERAL PHYSICS FOR LIFE SCIENCES I"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "191",
+        "course_title": "PRACTICAL PHYSICS"
+    },
+    {
+        "department_prefix": "MTH",
+        "course_number": "111",
+        "course_title": "GENERAL MATHEMATICS 1"
+    },
+    {
+        "department_prefix": "BIO",
+        "course_number": "152",
+        "course_title": "GENERAL BIOLOGY II"
+    },
+    {
+        "department_prefix": "BIO",
+        "course_number": "154",
+        "course_title": "GENERAL BIOLOGY PRACTICAL"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "102",
+        "course_title": "GENERAL PLANT BIOTECHNOLOGY"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "112",
+        "course_title": "BASIC PRINCIPLES OF CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "122",
+        "course_title": "BASIC PRINCIPLES OF CHEMISTRY III"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "112",
+        "course_title": "GENERAL PHYSICS FOR LIFE SCIENCES II"
+    },
+    {
+        "department_prefix": "PHY",
+        "course_number": "114",
+        "course_title": "GENERAL PHYSICS FOR LIFE SCIENCES III"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "102",
+        "course_title": "USE OF ENGLISH II"
+    },
+    {
+        "department_prefix": "MCB",
+        "course_number": "102",
+        "course_title": "INTRODUCTORY MICROBIOLOGY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "162",
+        "course_title": "CLIMATE CHANGE AND PLANT LIFE I"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "201",
+        "course_title": "GENERAL BIOCHEMISTRY I"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "211",
+        "course_title": "PHYCOLOGY AND BRYOLOGY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "221",
+        "course_title": "GENERAL PLANT ANATOMY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "241",
+        "course_title": "GENERAL MYCOLOGY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "261",
+        "course_title": "CLIMATE CHANGE AND PLANT LIFE II"
+    },
+    {
+        "department_prefix": "BIO",
+        "course_number": "351",
+        "course_title": "GENERAL GENETICS"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "341",
+        "course_title": "INTRODUCTION TO ENTREPRENEURSHIP"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "221",
+        "course_title": "GENERAL ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "273",
+        "course_title": "PRACTICAL ORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "207",
+        "course_title": "LOGIC, PHILOSOPHY AND HUMAN EXISTENCE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "BASIC CONCEPTS AND THEORY OF PEACE"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "202",
+        "course_title": "GENERAL BIOCHEMISTRY II"
+    },
+    {
+        "department_prefix": "BIO",
+        "course_number": "352",
+        "course_title": "CYTOGENETICS"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "246",
+        "course_title": "GENERAL PLANT PATHOLOGY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "272",
+        "course_title": "MUSHROOM TECHNOLOGY"
+    },
+    {
+        "department_prefix": "CED",
+        "course_number": "342",
+        "course_title": "BUSINESS DEVELOPMENT & MANAGEMENT"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "222",
+        "course_title": "GENERAL ORGANIC CHEMISTRY II"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "274",
+        "course_title": "PRACTICAL INORGANIC CHEMISTRY I"
+    },
+    {
+        "department_prefix": "COS",
+        "course_number": "304",
+        "course_title": "COMPUTER APPLICATIONS"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "208",
+        "course_title": "NIGERIAN PEOPLES AND CULTURE"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "ISSUES IN PEACE AND CONFLICT RESOLUTION STUDIES"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "313",
+        "course_title": "MORPHOLOGY &PHYTOSYSTEMATICS OF HIGHER PLANTS"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "331",
+        "course_title": "GENERAL PLANT PHYSIOLOGY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "355",
+        "course_title": "GENERAL PLANT MOLECULAR BIOLOGY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "391",
+        "course_title": "RESEARCH METHODS AND PLANT BREEDING"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "301",
+        "course_title": "ENZYMOLOGY"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "351",
+        "course_title": "PRIMARY METABOLIC PATHWAYS I"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "352",
+        "course_title": "PRIMARY METABOLIC PATHWAYS II"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "353",
+        "course_title": "PRIMARY METABOLIC PATHWAYS III"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "354",
+        "course_title": "PRIMARY METABOLIC PATHWAYS IV"
+    },
+    {
+        "department_prefix": "CHM",
+        "course_number": "211",
+        "course_title": "GENERAL PHYSICAL CHEMISTRY I"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "392",
+        "course_title": "STUDENTS INDUSTRIAL WORK EXPERIENCE (SIWES) FIELD WORK"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "394",
+        "course_title": "SIWES REPORT"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "396",
+        "course_title": "SIWES SEMINAR"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "303",
+        "course_title": "ETHNOMEDICINAL PLANTS"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "431",
+        "course_title": "ADVANCES IN PLANT PHYSIOLOGY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "441",
+        "course_title": "ADVANCES IN PLANT PATHOLOGY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "463",
+        "course_title": "ECONOMIC AND INDUSTRIAL BOTANY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "481",
+        "course_title": "SEMINAR"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "491",
+        "course_title": "PRINCIPLES OF SCIENTIFIC WRITING"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "401",
+        "course_title": "ADVANCED ENZYMOLOGY"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "411",
+        "course_title": "BIOSYNTHESIS OF MACROMOLECULES"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "431",
+        "course_title": "BIOINORGANIC CHEMISTRY"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "481",
+        "course_title": "BIOCHEMICAL REASONING"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "411",
+        "course_title": "DENDROLOGY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "413",
+        "course_title": "HERBARIUM AND PHYTOSYSTEMATICS"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "415",
+        "course_title": "INTRODUCTORY PALYNOLOGY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "417",
+        "course_title": "FRESHWATER PHYCOLOGY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "433",
+        "course_title": "PLANT EMBRYOLOGY &MORPHOGENESIS"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "443",
+        "course_title": "FUNGUS PHYSIOLOGY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "445",
+        "course_title": "PLANT VIROLOGY AND DIAGNOSTICS"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "451",
+        "course_title": "CYTOLOGY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "453",
+        "course_title": "GENETICS AND PLANT BREEDING"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "457",
+        "course_title": "PHYTOINFORMATICS"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "461",
+        "course_title": "AQUATIC AND POLLUTION BIOLOGY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "465",
+        "course_title": "PHYTO-ENVIRONMENTAL IMPACT ASSESSMENT"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "471",
+        "course_title": "TISSUE CULTURE AND MICROPROPAGATION"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "473",
+        "course_title": "PHYTOBIOFUELS"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "475",
+        "course_title": "PLANT BIOPHYSICS"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "477",
+        "course_title": "APPLICATIONS OF PLANT BIOTECHNOLOGY"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "452",
+        "course_title": "METABOLIC REGULATIONS"
+    },
+    {
+        "department_prefix": "BCH",
+        "course_number": "462",
+        "course_title": "PLANT BIOCHEMISTRY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "422",
+        "course_title": "PLANT ANATOMY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "462",
+        "course_title": "PLANT ECOLOGY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "466",
+        "course_title": "PHYTO-INDUSTRIAL RELATIONS"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "468",
+        "course_title": "PHYTOREMEDIATION & EROSION MANAGEMENT"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "474",
+        "course_title": "PHYTOBIOTECHNOLOGY ETHICS"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "492",
+        "course_title": "PROJECT"
+    },
+    {
+        "department_prefix": "BIO",
+        "course_number": "362",
+        "course_title": "BASIC PRINCIPLES OF ECOLOGY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "101",
+        "course_title": "GENERAL PLANT SCIENCE 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "102",
+        "course_title": "GENERAL PLANT BIOTECHNOLOGY 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "162",
+        "course_title": "CLIMATE CHANGE AND PLANT LIFE I 1"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "211",
+        "course_title": "PHYCOLOGY AND BRYOLOGY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "213",
+        "course_title": "MORPHOLOGY AND PHYTOSYSTEMATICS OF LOWER PLANTS 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "221",
+        "course_title": "GENERAL PLANT ANATOMY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "241",
+        "course_title": "GENERAL MYCOLOGY 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "246",
+        "course_title": "GENERAL PLANT PATHOLOGY 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "261",
+        "course_title": "CLIMATE CHANGE AND PLANT LIFE II 1"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "272",
+        "course_title": "MUSHROOM TECHNOLOGY 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "274",
+        "course_title": "PLANT MACROPROPAGATION AND FLORICULTURE 1"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "301",
+        "course_title": "PHYTOTECHNIQUES 1"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "303",
+        "course_title": "ETHNOMEDICINAL PLANTS 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "313",
+        "course_title": "MORPHOLOGY AND PHYTOSYSTEMATICS OF HIGHERPLANTS 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "315",
+        "course_title": "PALAEOBOTANY 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "331",
+        "course_title": "GENERAL PLANT PHYSIOLOGY 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "355",
+        "course_title": "GENERAL PLANT MOLECULAR BIOLOGY 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "363",
+        "course_title": "FOREST RESOURCES CONSERVATION 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "365",
+        "course_title": "VULNERABILITY AND ADAPTATION OF PLANTS TO CLIMATECHANGE 1"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "367",
+        "course_title": "CLIMATE CHANGE AND GLOBAL MITIGATION STRATEGIES 1"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "371",
+        "course_title": "PRINCIPLES OF PLANT BIOTECHNOLOGY 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "391",
+        "course_title": "RESEARCH METHODS AND PLANT BREEDING 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "392",
+        "course_title": "STUDENTS INDUSTRIAL WORK EXPERIENCE (SIWES) FIELD WORK 6"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "394",
+        "course_title": "SIWES REPORT 6"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "396",
+        "course_title": "SIWES SEMINAR 3"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "411",
+        "course_title": "DENDROLOGY 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "413",
+        "course_title": "HERBARIUM AND PHYTOSYSTEMATICS 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "415",
+        "course_title": "INTRODUCTORY PALYNOLOGY 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "417",
+        "course_title": "FRESHWATER PHYCOLOGY 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "422",
+        "course_title": "PLANT ANATOMY"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "424",
+        "course_title": "TIMBER PRODUCTS TECHNOLOGY 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "431",
+        "course_title": "ADVANCES IN PLANT PHYSIOLOGY 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "433",
+        "course_title": "PLANT EMBRYOLOGY AND MORPHOGENESIS 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "441",
+        "course_title": "ADVANCES IN PLANT PATHOLOGY 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "443",
+        "course_title": "FUNGUS PHYSIOLOGY 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "445",
+        "course_title": "PLANT VIROLOGY AND DIAGNOSTICS 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "451",
+        "course_title": "CYTOLOGY 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "453",
+        "course_title": "GENETICS AND PLANT BREEDING 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "455",
+        "course_title": "ADVANCES IN PLANT MOLECULAR BIOLOGY 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "457",
+        "course_title": "PHYTOBIOINFORMATICS 1"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "461",
+        "course_title": "AQUATIC AND POLLUTION BIOLOGY 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "462",
+        "course_title": "PLANT ECOLOGY 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "463",
+        "course_title": "ECONOMIC AND INDUSTRIAL BOTANY 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "464",
+        "course_title": "PHYTOREMEDIATION AND EROSION MANAGEMENT 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "465",
+        "course_title": "PHYTO-ENVIRONMENTAL IMPACT ASSESSMENT 1"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "466",
+        "course_title": "PHYTOINDUSTRIAL RELATIONS 1"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "467",
+        "course_title": "PHYTOGEOGRAPHY 1"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "469",
+        "course_title": "PLANTS PRODUCTIVITY AND APICULTURE 1"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "471",
+        "course_title": "PLANT TISSUE CULTURE AND MICROPROPAGATION 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "473",
+        "course_title": "PHYTO-BIOFUELS 1"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "474",
+        "course_title": "PHYTOBIOTECHNOLOGY ETHICS 1"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "475",
+        "course_title": "PLANT BIOPHYSICS 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "477",
+        "course_title": "APPLICATIONS OF PLANT BIOTECHNOLOGY 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "481",
+        "course_title": "SEMINAR 2"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "491",
+        "course_title": "PRINCIPLES OF SCIENTIFIC WRITING 1"
+    },
+    {
+        "department_prefix": "PSB",
+        "course_number": "492",
+        "course_title": "PROJECT 6"
+    }
+]
