@@ -3,7 +3,7 @@ import os
 
 final_result = []
 list_of_courses = []
-course_name = ''
+course_name = 'art_ed'
 with open(f'{course_name}.txt') as f:
     lines = f.readlines()
 f.close()

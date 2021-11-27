@@ -1,0 +1,372 @@
+[
+    {
+        "department_prefix": "GSP",
+        "course_number": "101",
+        "course_title": "THE USE OF ENGLISH I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "201",
+        "course_title": "THE SOCIAL SCIENCES"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "105",
+        "course_title": "NATURAL SCIENCES I"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "106",
+        "course_title": "NATURAL SCIENCES II"
+    },
+    {
+        "department_prefix": "GSP",
+        "course_number": "202",
+        "course_title": "ISSUES IN PEACE AND CONFLICT RESOLUTION STUDIES"
+    },
+    {
+        "department_prefix": "ED",
+        "course_number": "102",
+        "course_title": "HISTORY OF EDUCATION"
+    },
+    {
+        "department_prefix": "ED",
+        "course_number": "211",
+        "course_title": "EDUCATIONAL PSYCHOLOGY I"
+    },
+    {
+        "department_prefix": "ED",
+        "course_number": "201",
+        "course_title": "PHILOSOPHY OF EDUCATION"
+    },
+    {
+        "department_prefix": "ED",
+        "course_number": "205",
+        "course_title": "SOCIOLOGY OF EDUCATION"
+    },
+    {
+        "department_prefix": "ED",
+        "course_number": "221",
+        "course_title": "CURRICULUM THEORY AND PLANNING"
+    },
+    {
+        "department_prefix": "ED",
+        "course_number": "222",
+        "course_title": "SPECIAL METHODS"
+    },
+    {
+        "department_prefix": "ED",
+        "course_number": "224",
+        "course_title": "EDUCATIONAL TECHNOLOGY"
+    },
+    {
+        "department_prefix": "ED",
+        "course_number": "311",
+        "course_title": "EDUCATIONAL PSYCHOLOGY II"
+    },
+    {
+        "department_prefix": "ED",
+        "course_number": "325",
+        "course_title": "TEACHING PRACTICE I"
+    },
+    {
+        "department_prefix": "ED",
+        "course_number": "321",
+        "course_title": "CURRICULUM IMPLEMENTATION & INSTRUCTION"
+    },
+    {
+        "department_prefix": "ED",
+        "course_number": "341",
+        "course_title": "RESEARCH METHOD & STATISTICS"
+    },
+    {
+        "department_prefix": "ED",
+        "course_number": "411",
+        "course_title": "EDUCATIONAL PSYCHOLOGY III"
+    },
+    {
+        "department_prefix": "ED",
+        "course_number": "433",
+        "course_title": "CLASSROOM ORGANIZATION AND MANAGEMENT"
+    },
+    {
+        "department_prefix": "ED",
+        "course_number": "425",
+        "course_title": "TEACHING PRACTICE II"
+    },
+    {
+        "department_prefix": "ED",
+        "course_number": "441",
+        "course_title": "MEASUREMENT AND EVALUATION"
+    },
+    {
+        "department_prefix": "ED",
+        "course_number": "451",
+        "course_title": "PROJECT"
+    },
+    {
+        "department_prefix": "EDA",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO CREATIVE ARTS EDUCATION"
+    },
+    {
+        "department_prefix": "EDA",
+        "course_number": "103",
+        "course_title": "INTRODUCTION TO CREATIVE DESIGNS I"
+    },
+    {
+        "department_prefix": "TFS",
+        "course_number": "101",
+        "course_title": "INTRODUCTION TO DRAMA AND THEATRE"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "141",
+        "course_title": "AFRICAN MUSIC AND SOCIETY I"
+    },
+    {
+        "department_prefix": "ELS",
+        "course_number": "131",
+        "course_title": "INTRODUCTION TO ORAL LITERATURE"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "161",
+        "course_title": "PRIMARY INSTRUMENT STUDY I"
+    },
+    {
+        "department_prefix": "ELS",
+        "course_number": "121",
+        "course_title": "BASIC ENGLISH GRAMMAR AND COMPOSITION"
+    },
+    {
+        "department_prefix": "EDA",
+        "course_number": "104",
+        "course_title": "INTRODUCTION TO CREATIVE DESIGNS II"
+    },
+    {
+        "department_prefix": "EDA",
+        "course_number": "146",
+        "course_title": "THREE DIMENSIONAL DESIGNS IN EDUCATION"
+    },
+    {
+        "department_prefix": "TFS",
+        "course_number": "102",
+        "course_title": "PRACTICE PARTICIPATION ORIENTATION"
+    },
+    {
+        "department_prefix": "TFS",
+        "course_number": "130",
+        "course_title": "BASIC ACTING SKILLS"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "164",
+        "course_title": "PERFORMANCE WORKSHOP II"
+    },
+    {
+        "department_prefix": "EDA",
+        "course_number": "211",
+        "course_title": "FESTIVALS IN DIFFERENT CULTURES"
+    },
+    {
+        "department_prefix": "EDA",
+        "course_number": "231",
+        "course_title": "MUSIC IN CEREMONIES"
+    },
+    {
+        "department_prefix": "TFS",
+        "course_number": "221",
+        "course_title": "BASIC COSTUME & MAKE-UP DESIGN"
+    },
+    {
+        "department_prefix": "TFS",
+        "course_number": "231",
+        "course_title": "BASIC-VERBAL COMMUNICATION"
+    },
+    {
+        "department_prefix": "FAA",
+        "course_number": "201",
+        "course_title": "STILL-LIFE DRAWING"
+    },
+    {
+        "department_prefix": "FAA",
+        "course_number": "231",
+        "course_title": "PAINTING COMPOSITION"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "243",
+        "course_title": "AFRICAN MUSIC AND SOCIETY II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "261",
+        "course_title": "PRIMARY INSTRUMENT STUDY II"
+    },
+    {
+        "department_prefix": "EDA",
+        "course_number": "232",
+        "course_title": "COMPOSITION OF CHOREOGRAPHIC DANCES AND OCCUPATIONAL RHYTHMS"
+    },
+    {
+        "department_prefix": "EDA",
+        "course_number": "242",
+        "course_title": "THREE DIMENSIONAL REPRESENTATIONS OF HISTORICAL OBJECTS"
+    },
+    {
+        "department_prefix": "EDA",
+        "course_number": "272",
+        "course_title": "LOCAL RESOURCES IN CRAFT PRODUCTION"
+    },
+    {
+        "department_prefix": "TFS",
+        "course_number": "250",
+        "course_title": "FUNDAMENTALS OF PLAYWRITING"
+    },
+    {
+        "department_prefix": "TFS",
+        "course_number": "260",
+        "course_title": "CHILDREN\u00c2\u20ac\u2122S THEATRE"
+    },
+    {
+        "department_prefix": "FAA",
+        "course_number": "202",
+        "course_title": "FIGURE DRAWING"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "264",
+        "course_title": "PERFORMANCE WORKSHOP IV"
+    },
+    {
+        "department_prefix": "EDA",
+        "course_number": "341",
+        "course_title": "NIGERIAN FOLK ARTS AND CRAFTS"
+    },
+    {
+        "department_prefix": "EDA",
+        "course_number": "361",
+        "course_title": "DRAMATIC REPRESENTATIONS IN FESTIVAL EVENTS"
+    },
+    {
+        "department_prefix": "TFS",
+        "course_number": "341",
+        "course_title": "INTRODUCTION TO DIRECTING"
+    },
+    {
+        "department_prefix": "FAA",
+        "course_number": "301",
+        "course_title": "DRAUGHTSMANSHIP I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "323",
+        "course_title": "COMPOSITION"
+    },
+    {
+        "department_prefix": "TFS",
+        "course_number": "301",
+        "course_title": "MODERN AFRICAN DRAMA AND THEATRE"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "361",
+        "course_title": "PRIMARY INSTRUMENT STUDY III"
+    },
+    {
+        "department_prefix": "EDA",
+        "course_number": "332",
+        "course_title": "MUSIC IN OCCUPATIONS"
+    },
+    {
+        "department_prefix": "EDA",
+        "course_number": "342",
+        "course_title": "NIGERIAN INDIGENOUS ARTS"
+    },
+    {
+        "department_prefix": "EDA",
+        "course_number": "372",
+        "course_title": "CRAFTS AND ENTREPRENEURSHIP"
+    },
+    {
+        "department_prefix": "TFS",
+        "course_number": "304",
+        "course_title": "BASIC CHOREOGRAPHY AND KINAESTHETICS"
+    },
+    {
+        "department_prefix": "FAA",
+        "course_number": "302",
+        "course_title": "DRAUGHTSMANSHIP II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "324",
+        "course_title": "CONDUCTIONS AND PERFORMANCE MANAGEMENT"
+    },
+    {
+        "department_prefix": "EDA",
+        "course_number": "364",
+        "course_title": "PERFORMANCE WORKSHOP VI"
+    },
+    {
+        "department_prefix": "EDA",
+        "course_number": "447",
+        "course_title": "MORAL EDUCATION"
+    },
+    {
+        "department_prefix": "EDA",
+        "course_number": "441",
+        "course_title": "NIGERIAN MASKS"
+    },
+    {
+        "department_prefix": "TFS",
+        "course_number": "411",
+        "course_title": "THEORIES OF DRAMATIC CRITICISM"
+    },
+    {
+        "department_prefix": "FAA",
+        "course_number": "401",
+        "course_title": "ADVANCED DRAWING I"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "461",
+        "course_title": "PRIMARY INSTRUMENT STUDY IV"
+    },
+    {
+        "department_prefix": "EDA",
+        "course_number": "424",
+        "course_title": "THEORIES OF LANGUAGE"
+    },
+    {
+        "department_prefix": "EDA",
+        "course_number": "442",
+        "course_title": "NIGERIAN"
+    },
+    {
+        "department_prefix": "EDA",
+        "course_number": "452",
+        "course_title": "TEACHING CHILDREN\u00c2\u20ac\u2122S"
+    },
+    {
+        "department_prefix": "EDA",
+        "course_number": "490",
+        "course_title": ""
+    },
+    {
+        "department_prefix": "THA",
+        "course_number": "412",
+        "course_title": "STUDIES IN DRAMATIC"
+    },
+    {
+        "department_prefix": "FAA",
+        "course_number": "402",
+        "course_title": "ADVANCED DRAWING II"
+    },
+    {
+        "department_prefix": "MUS",
+        "course_number": "464",
+        "course_title": "PERFORMANCE WORKSHOPVIII"
+    }
+]
